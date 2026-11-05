@@ -1,0 +1,41 @@
+name: 抓取州官方结果页
+
+# 一次性任务：在 CI（美国出口 IP）里批量抓各州官方结果页/接口原文，
+# 产出 fetch_out/ artifact，供本地离线分析页面结构与接口参数。
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 准备 Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: 批量抓取
+        env:
+          CHROME_BIN: /usr/bin/google-chrome-stable
+          CHROME_NO_SANDBOX: '1'
+          CI: 'true'
+        run: |
+          set -o pipefail
+          python3 scripts/fetch_urls.py 2>&1 | tee fetch.log
+
+      - name: 上传抓取结果
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-out
+          path: |
+            fetch_out/
+            fetch.log
+          retention-days: 7
+          if-no-files-found: ignore

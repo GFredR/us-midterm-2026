@@ -91,7 +91,24 @@ const evalJs = async (expression) => {
 
 await browser.send('Page.navigate', { url }, sessionId);
 
-if (mode === 'enr') {
+if (mode === 'raw') {
+  // 抓任意 URL 的纯文本内容（用于直接取官方 JSON / txt 接口的原文）
+  const outFile = arg4;
+  const waitMs = Number(arg5 || 6000);
+  const deadline = Date.now() + waitMs;
+  while (Date.now() < deadline) {
+    await new Promise((r) => setTimeout(r, 1000));
+    const probe = await evalJs('document.body ? document.body.innerText.length : 0');
+    if (Number(probe) > 0) break;
+  }
+  const text = await evalJs(`(() => {
+    const t = document.body ? document.body.innerText : '';
+    const pre = document.querySelector('pre');
+    return (pre ? pre.innerText : t) || '';
+  })()`);
+  fs.writeFileSync(outFile, text || '');
+  console.error(`raw 已写入 ${outFile}（${(text || '').length} 字节）`);
+} else if (mode === 'enr') {
   const outFile = arg4;
   const deadline = Date.now() + 40000;
   let target = null;
