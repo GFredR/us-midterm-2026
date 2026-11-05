@@ -2,11 +2,11 @@
  "meta": {
   "election": "2026 United States General Election",
   "election_date": "2026-11-03",
-  "generated_at": "2026-11-05T01:58:24.247987+00:00",
+  "generated_at": "2026-11-05T02:05:33.464462+00:00",
   "generator": "scripts/collect.py",
   "source_policy": "数据仅来自各州州务卿 / 选举委员会官方结果系统；FEC 在认证后汇编发布。",
-  "races_count": 1102,
-  "states_ok": 6,
+  "races_count": 1201,
+  "states_ok": 7,
   "states_total": 51,
   "baseline": {
    "house": {
@@ -35757,6 +35757,4495 @@
    "source_url": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
    "source_agency": "华盛顿州州务卿",
    "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-fbf5-08df11bc03ba",
+   "chamber": "house",
+   "office": "U.S. Representative in Congress - District No. 1",
+   "candidates": [
+    {
+     "name": "Amish Shah",
+     "party": "D",
+     "votes": 167807,
+     "pct": 52.45,
+     "winner": false
+    },
+    {
+     "name": "Thomas \"Jay\" Feely IV",
+     "party": "R",
+     "votes": 145313,
+     "pct": 45.42,
+     "winner": false
+    },
+    {
+     "name": "Monica Alponte",
+     "party": "O",
+     "votes": 6578,
+     "pct": 2.06,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 152,
+     "pct": 0.05,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 65,
+     "pct": 0.02,
+     "winner": false
+    },
+    {
+     "name": "Dev Gupta",
+     "party": "O",
+     "votes": 8,
+     "pct": 0.0,
+     "winner": false
+    },
+    {
+     "name": "Gage Dylan Thunder",
+     "party": "O",
+     "votes": 6,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 319929,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-0306-08df11bc03cf",
+   "chamber": "house",
+   "office": "U.S. Representative in Congress - District No. 2",
+   "candidates": [
+    {
+     "name": "Eli Crane",
+     "party": "R",
+     "votes": 143106,
+     "pct": 49.49,
+     "winner": false
+    },
+    {
+     "name": "Jonathan Nez",
+     "party": "D",
+     "votes": 140871,
+     "pct": 48.71,
+     "winner": false
+    },
+    {
+     "name": "Curtis Goodwin",
+     "party": "O",
+     "votes": 5042,
+     "pct": 1.74,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 118,
+     "pct": 0.04,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 49,
+     "pct": 0.02,
+     "winner": false
+    }
+   ],
+   "total_votes": 289186,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-1287-08df11bc03cf",
+   "chamber": "house",
+   "office": "U.S. Representative in Congress - District No. 3",
+   "candidates": [
+    {
+     "name": "Yassamin Ansari",
+     "party": "D",
+     "votes": 107146,
+     "pct": 86.33,
+     "winner": false
+    },
+    {
+     "name": "Alan Aversa",
+     "party": "O",
+     "votes": 7552,
+     "pct": 6.09,
+     "winner": false
+    },
+    {
+     "name": "David Redkey",
+     "party": "O",
+     "votes": 6648,
+     "pct": 5.36,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1462,
+     "pct": 1.18,
+     "winner": false
+    },
+    {
+     "name": "Jacob Parkman",
+     "party": "R",
+     "votes": 1297,
+     "pct": 1.05,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 124105,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-19ef-08df11bc03cf",
+   "chamber": "house",
+   "office": "U.S. Representative in Congress - District No. 4",
+   "candidates": [
+    {
+     "name": "Greg Stanton",
+     "party": "D",
+     "votes": 140015,
+     "pct": 62.21,
+     "winner": false
+    },
+    {
+     "name": "Zuhdi Jasser",
+     "party": "R",
+     "votes": 79649,
+     "pct": 35.39,
+     "winner": false
+    },
+    {
+     "name": "Tisha Benoit",
+     "party": "O",
+     "votes": 4961,
+     "pct": 2.2,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 424,
+     "pct": 0.19,
+     "winner": false
+    },
+    {
+     "name": "Steven Sanders",
+     "party": "O",
+     "votes": 37,
+     "pct": 0.02,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 225086,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-2065-08df11bc03cf",
+   "chamber": "house",
+   "office": "U.S. Representative in Congress - District No. 5",
+   "candidates": [
+    {
+     "name": "Mark Lamb",
+     "party": "R",
+     "votes": 141352,
+     "pct": 51.08,
+     "winner": false
+    },
+    {
+     "name": "Elizabeth Lee",
+     "party": "D",
+     "votes": 134940,
+     "pct": 48.76,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 454,
+     "pct": 0.16,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 276746,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-2536-08df11bc03cf",
+   "chamber": "house",
+   "office": "U.S. Representative in Congress - District No. 6",
+   "candidates": [
+    {
+     "name": "JoAnna Mendoza",
+     "party": "D",
+     "votes": 163197,
+     "pct": 52.96,
+     "winner": false
+    },
+    {
+     "name": "Juan Ciscomani",
+     "party": "R",
+     "votes": 138235,
+     "pct": 44.86,
+     "winner": false
+    },
+    {
+     "name": "Jereme Lance Peters",
+     "party": "O",
+     "votes": 3753,
+     "pct": 1.22,
+     "winner": false
+    },
+    {
+     "name": "Gary Swing",
+     "party": "O",
+     "votes": 2636,
+     "pct": 0.86,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 167,
+     "pct": 0.05,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 127,
+     "pct": 0.04,
+     "winner": false
+    },
+    {
+     "name": "Michael Dorland",
+     "party": "O",
+     "votes": 32,
+     "pct": 0.01,
+     "winner": false
+    }
+   ],
+   "total_votes": 308147,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-2dec-08df11bc03cf",
+   "chamber": "house",
+   "office": "U.S. Representative in Congress - District No. 7",
+   "candidates": [
+    {
+     "name": "Adelita Grijalva",
+     "party": "D",
+     "votes": 115759,
+     "pct": 71.51,
+     "winner": false
+    },
+    {
+     "name": "Daniel Francis Butierez Sr.",
+     "party": "R",
+     "votes": 45828,
+     "pct": 28.31,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 239,
+     "pct": 0.15,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 47,
+     "pct": 0.03,
+     "winner": false
+    }
+   ],
+   "total_votes": 161873,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-325f-08df11bc03cf",
+   "chamber": "house",
+   "office": "U.S. Representative in Congress - District No. 8",
+   "candidates": [
+    {
+     "name": "Abraham \"Abe\" Hamadeh",
+     "party": "R",
+     "votes": 132555,
+     "pct": 51.29,
+     "winner": false
+    },
+    {
+     "name": "Bernadette Greene-Placentia",
+     "party": "D",
+     "votes": 125405,
+     "pct": 48.52,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 502,
+     "pct": 0.19,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 258462,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-36a6-08df11bc03cf",
+   "chamber": "house",
+   "office": "U.S. Representative in Congress - District No. 9",
+   "candidates": [
+    {
+     "name": "Paul Gosar",
+     "party": "R",
+     "votes": 140892,
+     "pct": 57.61,
+     "winner": false
+    },
+    {
+     "name": "Danielle \"Dani\" Sterbinsky",
+     "party": "D",
+     "votes": 103352,
+     "pct": 42.26,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 263,
+     "pct": 0.11,
+     "winner": false
+    },
+    {
+     "name": "William Perry",
+     "party": "O",
+     "votes": 25,
+     "pct": 0.01,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 24,
+     "pct": 0.01,
+     "winner": false
+    },
+    {
+     "name": "G. Seville Hatch",
+     "party": "O",
+     "votes": 11,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 244567,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-3acd-08df11bc03cf",
+   "chamber": "other",
+   "office": "Governor and Lieutenant Governor",
+   "candidates": [
+    {
+     "name": "Katie Hobbs (DEM) / John Giles (PND)",
+     "party": "D",
+     "votes": 1235630,
+     "pct": 55.54,
+     "winner": false
+    },
+    {
+     "name": "Andy Biggs (REP) / Sine Kerr (REP)",
+     "party": "R",
+     "votes": 949421,
+     "pct": 42.67,
+     "winner": false
+    },
+    {
+     "name": "Risa Lombardo (GRN) / Lisa Castillo (GRN)",
+     "party": "O",
+     "votes": 19875,
+     "pct": 0.89,
+     "winner": false
+    },
+    {
+     "name": "Teri Ann Hourihan (NOL) / Angela Harrolle Mohan (PND)",
+     "party": "O",
+     "votes": 18465,
+     "pct": 0.83,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1265,
+     "pct": 0.06,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 173,
+     "pct": 0.01,
+     "winner": false
+    },
+    {
+     "name": "Alice Novoa",
+     "party": "R",
+     "votes": 6,
+     "pct": 0.0,
+     "winner": false
+    },
+    {
+     "name": "Gertritrude Gonzalez",
+     "party": "R",
+     "votes": 3,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 2224838,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-6c95-08df11bc03d0",
+   "chamber": "other",
+   "office": "Secretary of State",
+   "candidates": [
+    {
+     "name": "Adrian Fontes",
+     "party": "D",
+     "votes": 1208480,
+     "pct": 54.77,
+     "winner": false
+    },
+    {
+     "name": "Alexander Kolodin",
+     "party": "R",
+     "votes": 965760,
+     "pct": 43.77,
+     "winner": false
+    },
+    {
+     "name": "Duwayne Collier",
+     "party": "O",
+     "votes": 31143,
+     "pct": 1.41,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 699,
+     "pct": 0.03,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 355,
+     "pct": 0.02,
+     "winner": false
+    }
+   ],
+   "total_votes": 2206437,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-71c9-08df11bc03d0",
+   "chamber": "other",
+   "office": "Attorney General",
+   "candidates": [
+    {
+     "name": "Kris Mayes",
+     "party": "D",
+     "votes": 1217638,
+     "pct": 55.32,
+     "winner": false
+    },
+    {
+     "name": "Warren Petersen",
+     "party": "R",
+     "votes": 981686,
+     "pct": 44.6,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1059,
+     "pct": 0.05,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 519,
+     "pct": 0.02,
+     "winner": false
+    }
+   ],
+   "total_votes": 2200902,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-75f7-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Treasurer",
+   "candidates": [
+    {
+     "name": "Nick Mansour",
+     "party": "D",
+     "votes": 1170020,
+     "pct": 53.64,
+     "winner": false
+    },
+    {
+     "name": "Elijah Norton",
+     "party": "R",
+     "votes": 1009322,
+     "pct": 46.27,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1228,
+     "pct": 0.06,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 611,
+     "pct": 0.03,
+     "winner": false
+    }
+   ],
+   "total_votes": 2181181,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-7a58-08df11bc03d0",
+   "chamber": "other",
+   "office": "Superintendent of Public Instruction",
+   "candidates": [
+    {
+     "name": "Teresa Leyba Ruiz",
+     "party": "D",
+     "votes": 1157353,
+     "pct": 52.98,
+     "winner": false
+    },
+    {
+     "name": "Kimberly Yee",
+     "party": "R",
+     "votes": 1024577,
+     "pct": 46.9,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1750,
+     "pct": 0.08,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 318,
+     "pct": 0.01,
+     "winner": false
+    },
+    {
+     "name": "Stephen Neal Jr.",
+     "party": "O",
+     "votes": 312,
+     "pct": 0.01,
+     "winner": false
+    },
+    {
+     "name": "Gerard Davis",
+     "party": "O",
+     "votes": 64,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 2184374,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-7e87-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Mine Inspector",
+   "candidates": [
+    {
+     "name": "Brian Matlock",
+     "party": "D",
+     "votes": 1132752,
+     "pct": 52.57,
+     "winner": false
+    },
+    {
+     "name": "Walter \"Les\" Presmyk",
+     "party": "R",
+     "votes": 1019880,
+     "pct": 47.33,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1520,
+     "pct": 0.07,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 672,
+     "pct": 0.03,
+     "winner": false
+    }
+   ],
+   "total_votes": 2154824,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-82ca-08df11bc03d0",
+   "chamber": "other",
+   "office": "Corporation Commissioner",
+   "candidates": [
+    {
+     "name": "Clara Pratte",
+     "party": "D",
+     "votes": 1098301,
+     "pct": 27.11,
+     "winner": false
+    },
+    {
+     "name": "Jonathon Hill",
+     "party": "D",
+     "votes": 1056564,
+     "pct": 26.08,
+     "winner": false
+    },
+    {
+     "name": "Kevin Thompson",
+     "party": "R",
+     "votes": 948015,
+     "pct": 23.4,
+     "winner": false
+    },
+    {
+     "name": "Ralph Heap",
+     "party": "R",
+     "votes": 887856,
+     "pct": 21.92,
+     "winner": false
+    },
+    {
+     "name": "Mike Cease",
+     "party": "O",
+     "votes": 58745,
+     "pct": 1.45,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1215,
+     "pct": 0.03,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 665,
+     "pct": 0.02,
+     "winner": false
+    }
+   ],
+   "total_votes": 4051361,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-420e-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 1",
+   "candidates": [
+    {
+     "name": "Mark Finchem",
+     "party": "R",
+     "votes": 67885,
+     "pct": 61.61,
+     "winner": false
+    },
+    {
+     "name": "Christine Ellen Dargon",
+     "party": "D",
+     "votes": 42184,
+     "pct": 38.29,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 106,
+     "pct": 0.1,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 2,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 110177,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-4679-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 2",
+   "candidates": [
+    {
+     "name": "Amelia Gallitano",
+     "party": "D",
+     "votes": 38434,
+     "pct": 55.87,
+     "winner": false
+    },
+    {
+     "name": "Shawnna Bolick",
+     "party": "R",
+     "votes": 30294,
+     "pct": 44.04,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 65,
+     "pct": 0.09,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 68793,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-4ad0-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 3",
+   "candidates": [
+    {
+     "name": "John Kavanagh",
+     "party": "R",
+     "votes": 72531,
+     "pct": 60.41,
+     "winner": false
+    },
+    {
+     "name": "Jeffrey Fortney",
+     "party": "D",
+     "votes": 47443,
+     "pct": 39.52,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 54,
+     "pct": 0.04,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 28,
+     "pct": 0.02,
+     "winner": false
+    },
+    {
+     "name": "Frank Bertone",
+     "party": "R",
+     "votes": 1,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 120057,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-4f68-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 4",
+   "candidates": [
+    {
+     "name": "Aaron Lieberman",
+     "party": "D",
+     "votes": 56270,
+     "pct": 52.89,
+     "winner": false
+    },
+    {
+     "name": "Carine Werner",
+     "party": "R",
+     "votes": 50044,
+     "pct": 47.03,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 86,
+     "pct": 0.08,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 106400,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-5477-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 5",
+   "candidates": [
+    {
+     "name": "Christine Marsh",
+     "party": "D",
+     "votes": 54224,
+     "pct": 84.3,
+     "winner": false
+    },
+    {
+     "name": "Jason LaForest",
+     "party": "O",
+     "votes": 9679,
+     "pct": 15.05,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 416,
+     "pct": 0.65,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 64319,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-5896-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 6",
+   "candidates": [
+    {
+     "name": "Jamescita Peshlakai",
+     "party": "D",
+     "votes": 50413,
+     "pct": 73.28,
+     "winner": false
+    },
+    {
+     "name": "Lloyd Johnson",
+     "party": "R",
+     "votes": 18235,
+     "pct": 26.51,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 83,
+     "pct": 0.12,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 66,
+     "pct": 0.1,
+     "winner": false
+    }
+   ],
+   "total_votes": 68797,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-5c92-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 7",
+   "candidates": [
+    {
+     "name": "Wendy Rogers",
+     "party": "R",
+     "votes": 50227,
+     "pct": 59.86,
+     "winner": false
+    },
+    {
+     "name": "Michiel \"Mike\" Montiel",
+     "party": "D",
+     "votes": 33587,
+     "pct": 40.03,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 51,
+     "pct": 0.06,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 40,
+     "pct": 0.05,
+     "winner": false
+    }
+   ],
+   "total_votes": 83905,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-60d7-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 8",
+   "candidates": [
+    {
+     "name": "Lauren Kuby",
+     "party": "D",
+     "votes": 38594,
+     "pct": 69.76,
+     "winner": false
+    },
+    {
+     "name": "Bill Loughrige",
+     "party": "R",
+     "votes": 16673,
+     "pct": 30.14,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 56,
+     "pct": 0.1,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 55323,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-6552-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 9",
+   "candidates": [
+    {
+     "name": "Kiana Maria Sears",
+     "party": "D",
+     "votes": 30730,
+     "pct": 60.28,
+     "winner": false
+    },
+    {
+     "name": "Bridget Fitzgibbons",
+     "party": "R",
+     "votes": 20207,
+     "pct": 39.64,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 45,
+     "pct": 0.09,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 50982,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-6957-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 10",
+   "candidates": [
+    {
+     "name": "David Christian Farnsworth",
+     "party": "R",
+     "votes": 40964,
+     "pct": 52.7,
+     "winner": false
+    },
+    {
+     "name": "Blair Moses",
+     "party": "D",
+     "votes": 33919,
+     "pct": 43.64,
+     "winner": false
+    },
+    {
+     "name": "Nick Fierro",
+     "party": "O",
+     "votes": 2811,
+     "pct": 3.62,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 31,
+     "pct": 0.04,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 77725,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-6ea5-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 11",
+   "candidates": [
+    {
+     "name": "Catherine Miranda",
+     "party": "D",
+     "votes": 37981,
+     "pct": 80.64,
+     "winner": false
+    },
+    {
+     "name": "Joshua Ayala",
+     "party": "R",
+     "votes": 9068,
+     "pct": 19.25,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 48,
+     "pct": 0.1,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 47097,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-73d4-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 12",
+   "candidates": [
+    {
+     "name": "Patricia \"Patty\" Contreras",
+     "party": "D",
+     "votes": 56900,
+     "pct": 69.92,
+     "winner": false
+    },
+    {
+     "name": "Anthony Jason Ramirez",
+     "party": "O",
+     "votes": 23865,
+     "pct": 29.33,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 444,
+     "pct": 0.55,
+     "winner": false
+    },
+    {
+     "name": "Gary Hatch",
+     "party": "R",
+     "votes": 170,
+     "pct": 0.21,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 81379,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-7844-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 13",
+   "candidates": [
+    {
+     "name": "Kristie O'Brien",
+     "party": "D",
+     "votes": 44715,
+     "pct": 55.01,
+     "winner": false
+    },
+    {
+     "name": "Julie Willoughby",
+     "party": "R",
+     "votes": 36514,
+     "pct": 44.92,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 50,
+     "pct": 0.06,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 81279,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-7cc9-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 14",
+   "candidates": [
+    {
+     "name": "Stephanie Walsh",
+     "party": "D",
+     "votes": 40880,
+     "pct": 51.56,
+     "winner": false
+    },
+    {
+     "name": "Mylie Biggs",
+     "party": "R",
+     "votes": 38336,
+     "pct": 48.35,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 75,
+     "pct": 0.09,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 79291,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-80ef-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 15",
+   "candidates": [
+    {
+     "name": "Jake Hoffman",
+     "party": "R",
+     "votes": 49183,
+     "pct": 57.23,
+     "winner": false
+    },
+    {
+     "name": "Jayme Accalia",
+     "party": "D",
+     "votes": 36666,
+     "pct": 42.66,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 91,
+     "pct": 0.11,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 85940,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-84d9-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 16",
+   "candidates": [
+    {
+     "name": "Elaine Aldrete",
+     "party": "D",
+     "votes": 34931,
+     "pct": 50.96,
+     "winner": false
+    },
+    {
+     "name": "Thomas \"T.J.\" Shope",
+     "party": "R",
+     "votes": 33513,
+     "pct": 48.89,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 84,
+     "pct": 0.12,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 13,
+     "pct": 0.02,
+     "winner": false
+    }
+   ],
+   "total_votes": 68541,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-88d3-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 17",
+   "candidates": [
+    {
+     "name": "Edgar Soto",
+     "party": "D",
+     "votes": 60142,
+     "pct": 54.53,
+     "winner": false
+    },
+    {
+     "name": "Christopher King",
+     "party": "R",
+     "votes": 50033,
+     "pct": 45.37,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 109,
+     "pct": 0.1,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 110285,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-8cc1-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 18",
+   "candidates": [
+    {
+     "name": "Priya Sundareshan",
+     "party": "D",
+     "votes": 59199,
+     "pct": 66.2,
+     "winner": false
+    },
+    {
+     "name": "Douglas Everett",
+     "party": "R",
+     "votes": 30127,
+     "pct": 33.69,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 100,
+     "pct": 0.11,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 89426,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-90f5-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 19",
+   "candidates": [
+    {
+     "name": "Gail Griffin",
+     "party": "R",
+     "votes": 47439,
+     "pct": 57.47,
+     "winner": false
+    },
+    {
+     "name": "Bob Karp",
+     "party": "D",
+     "votes": 34997,
+     "pct": 42.4,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 62,
+     "pct": 0.08,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 47,
+     "pct": 0.06,
+     "winner": false
+    }
+   ],
+   "total_votes": 82545,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-94d4-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 20",
+   "candidates": [
+    {
+     "name": "Alma Hernandez",
+     "party": "D",
+     "votes": 38588,
+     "pct": 95.58,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 1785,
+     "pct": 4.42,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 40373,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-97f8-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 21",
+   "candidates": [
+    {
+     "name": "Rosanna Gabaldón",
+     "party": "D",
+     "votes": 37581,
+     "pct": 68.82,
+     "winner": false
+    },
+    {
+     "name": "Esteban Flores",
+     "party": "R",
+     "votes": 16939,
+     "pct": 31.02,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 82,
+     "pct": 0.15,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 3,
+     "pct": 0.01,
+     "winner": false
+    }
+   ],
+   "total_votes": 54605,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-9bd8-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 22",
+   "candidates": [
+    {
+     "name": "Eva Diaz",
+     "party": "D",
+     "votes": 32890,
+     "pct": 96.9,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1052,
+     "pct": 3.1,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 33942,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-9ea7-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 23",
+   "candidates": [
+    {
+     "name": "Brian Fernandez",
+     "party": "D",
+     "votes": 27766,
+     "pct": 62.03,
+     "winner": false
+    },
+    {
+     "name": "Michelle Altherr",
+     "party": "R",
+     "votes": 16951,
+     "pct": 37.87,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 23,
+     "pct": 0.05,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 20,
+     "pct": 0.04,
+     "winner": false
+    }
+   ],
+   "total_votes": 44760,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-a29a-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 24",
+   "candidates": [
+    {
+     "name": "Analise Ortiz",
+     "party": "D",
+     "votes": 23850,
+     "pct": 73.86,
+     "winner": false
+    },
+    {
+     "name": "Frank Steele",
+     "party": "R",
+     "votes": 8405,
+     "pct": 26.03,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 37,
+     "pct": 0.11,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 32292,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-a6a4-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 25",
+   "candidates": [
+    {
+     "name": "Timothy \"Tim\" Dunn",
+     "party": "R",
+     "votes": 40031,
+     "pct": 55.45,
+     "winner": false
+    },
+    {
+     "name": "Laura Huber",
+     "party": "D",
+     "votes": 32116,
+     "pct": 44.48,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 40,
+     "pct": 0.06,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 11,
+     "pct": 0.02,
+     "winner": false
+    }
+   ],
+   "total_votes": 72198,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-aa9e-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 26",
+   "candidates": [
+    {
+     "name": "Flavio Bravo",
+     "party": "D",
+     "votes": 23557,
+     "pct": 76.72,
+     "winner": false
+    },
+    {
+     "name": "Jim Bishop",
+     "party": "R",
+     "votes": 7108,
+     "pct": 23.15,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 40,
+     "pct": 0.13,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 30705,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-ae98-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 27",
+   "candidates": [
+    {
+     "name": "Kyle Clayton",
+     "party": "D",
+     "votes": 34743,
+     "pct": 52.67,
+     "winner": false
+    },
+    {
+     "name": "Kevin Payne",
+     "party": "R",
+     "votes": 31158,
+     "pct": 47.23,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 65,
+     "pct": 0.1,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 65966,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-b285-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 28",
+   "candidates": [
+    {
+     "name": "Frank Carroll",
+     "party": "R",
+     "votes": 60423,
+     "pct": 57.63,
+     "winner": false
+    },
+    {
+     "name": "Michael Braun",
+     "party": "D",
+     "votes": 44345,
+     "pct": 42.3,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 74,
+     "pct": 0.07,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 104842,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-b695-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 29",
+   "candidates": [
+    {
+     "name": "Janae Shamp",
+     "party": "R",
+     "votes": 40789,
+     "pct": 51.49,
+     "winner": false
+    },
+    {
+     "name": "Eric Stafford",
+     "party": "D",
+     "votes": 38364,
+     "pct": 48.43,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 68,
+     "pct": 0.09,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 79221,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-ba9a-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Senator - District No. 30",
+   "candidates": [
+    {
+     "name": "Leo Biasiucci",
+     "party": "R",
+     "votes": 61599,
+     "pct": 98.1,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 1117,
+     "pct": 1.78,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 77,
+     "pct": 0.12,
+     "winner": false
+    }
+   ],
+   "total_votes": 62793,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-bd73-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 1",
+   "candidates": [
+    {
+     "name": "Selina Bliss",
+     "party": "R",
+     "votes": 63787,
+     "pct": 38.64,
+     "winner": false
+    },
+    {
+     "name": "Quang Huu Nguyen",
+     "party": "R",
+     "votes": 60834,
+     "pct": 36.86,
+     "winner": false
+    },
+    {
+     "name": "Sandy Zalecki",
+     "party": "D",
+     "votes": 40025,
+     "pct": 24.25,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 359,
+     "pct": 0.22,
+     "winner": false
+    },
+    {
+     "name": "Charles \"Charlie\" Eakins",
+     "party": "O",
+     "votes": 55,
+     "pct": 0.03,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 165060,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-c288-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 2",
+   "candidates": [
+    {
+     "name": "Stephanie Simacek",
+     "party": "D",
+     "votes": 38859,
+     "pct": 41.26,
+     "winner": false
+    },
+    {
+     "name": "Justin Wilmeth",
+     "party": "R",
+     "votes": 28597,
+     "pct": 30.36,
+     "winner": false
+    },
+    {
+     "name": "Paul Carver",
+     "party": "R",
+     "votes": 26404,
+     "pct": 28.03,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 326,
+     "pct": 0.35,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 94186,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-c7b6-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 3",
+   "candidates": [
+    {
+     "name": "Cody Reim",
+     "party": "R",
+     "votes": 66504,
+     "pct": 29.6,
+     "winner": false
+    },
+    {
+     "name": "George Khalaf",
+     "party": "R",
+     "votes": 64772,
+     "pct": 28.83,
+     "winner": false
+    },
+    {
+     "name": "Julie Gable",
+     "party": "D",
+     "votes": 48124,
+     "pct": 21.42,
+     "winner": false
+    },
+    {
+     "name": "Richard \"Rick\" Robert Spargo",
+     "party": "D",
+     "votes": 43635,
+     "pct": 19.42,
+     "winner": false
+    },
+    {
+     "name": "John Skirbst",
+     "party": "O",
+     "votes": 1540,
+     "pct": 0.69,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 79,
+     "pct": 0.04,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 224654,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-d003-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 4",
+   "candidates": [
+    {
+     "name": "Tammy Caputi",
+     "party": "D",
+     "votes": 53402,
+     "pct": 26.6,
+     "winner": false
+    },
+    {
+     "name": "Karen Gresham",
+     "party": "D",
+     "votes": 53135,
+     "pct": 26.47,
+     "winner": false
+    },
+    {
+     "name": "Matt Gress",
+     "party": "R",
+     "votes": 48975,
+     "pct": 24.39,
+     "winner": false
+    },
+    {
+     "name": "Pamela Carter",
+     "party": "R",
+     "votes": 45165,
+     "pct": 22.5,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 83,
+     "pct": 0.04,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 200760,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-d720-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 5",
+   "candidates": [
+    {
+     "name": "Sarah Liguori",
+     "party": "D",
+     "votes": 48380,
+     "pct": 50.48,
+     "winner": false
+    },
+    {
+     "name": "Aaron Márquez",
+     "party": "D",
+     "votes": 45933,
+     "pct": 47.92,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1535,
+     "pct": 1.6,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 95848,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-db61-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 6",
+   "candidates": [
+    {
+     "name": "Mae Peshlakai",
+     "party": "D",
+     "votes": 42182,
+     "pct": 46.29,
+     "winner": false
+    },
+    {
+     "name": "Ian Teller",
+     "party": "D",
+     "votes": 38914,
+     "pct": 42.7,
+     "winner": false
+    },
+    {
+     "name": "Brendan Trachsel",
+     "party": "O",
+     "votes": 8547,
+     "pct": 9.38,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 799,
+     "pct": 0.88,
+     "winner": false
+    },
+    {
+     "name": "Royce \"Rj\" Mark Jenkins",
+     "party": "R",
+     "votes": 443,
+     "pct": 0.49,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 245,
+     "pct": 0.27,
+     "winner": false
+    }
+   ],
+   "total_votes": 91130,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-e123-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 7",
+   "candidates": [
+    {
+     "name": "Walter \"Walt\" Blackman",
+     "party": "R",
+     "votes": 47132,
+     "pct": 34.53,
+     "winner": false
+    },
+    {
+     "name": "David Cook Sr.",
+     "party": "R",
+     "votes": 45322,
+     "pct": 33.2,
+     "winner": false
+    },
+    {
+     "name": "Samuel \"Sam\" Martin",
+     "party": "D",
+     "votes": 32498,
+     "pct": 23.81,
+     "winner": false
+    },
+    {
+     "name": "Richard Grayson",
+     "party": "O",
+     "votes": 11440,
+     "pct": 8.38,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 82,
+     "pct": 0.06,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 40,
+     "pct": 0.03,
+     "winner": false
+    }
+   ],
+   "total_votes": 136514,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-e7c1-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 8",
+   "candidates": [
+    {
+     "name": "Janeen Connolly",
+     "party": "D",
+     "votes": 35105,
+     "pct": 40.55,
+     "winner": false
+    },
+    {
+     "name": "Brian Garcia",
+     "party": "D",
+     "votes": 34600,
+     "pct": 39.97,
+     "winner": false
+    },
+    {
+     "name": "Donald Hawker",
+     "party": "R",
+     "votes": 16631,
+     "pct": 19.21,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 237,
+     "pct": 0.27,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 86573,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-ed26-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 9",
+   "candidates": [
+    {
+     "name": "Lorena Austin",
+     "party": "D",
+     "votes": 28500,
+     "pct": 36.81,
+     "winner": false
+    },
+    {
+     "name": "Jacob D. Martinez",
+     "party": "D",
+     "votes": 28422,
+     "pct": 36.71,
+     "winner": false
+    },
+    {
+     "name": "Bradley D. Bettencourt",
+     "party": "R",
+     "votes": 20178,
+     "pct": 26.06,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 327,
+     "pct": 0.42,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 77427,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-f2a9-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 10",
+   "candidates": [
+    {
+     "name": "Justin Olson",
+     "party": "R",
+     "votes": 39390,
+     "pct": 27.14,
+     "winner": false
+    },
+    {
+     "name": "James Rogers",
+     "party": "R",
+     "votes": 38533,
+     "pct": 26.55,
+     "winner": false
+    },
+    {
+     "name": "Helen Hunter",
+     "party": "D",
+     "votes": 33226,
+     "pct": 22.89,
+     "winner": false
+    },
+    {
+     "name": "Brian Calaway",
+     "party": "D",
+     "votes": 31442,
+     "pct": 21.66,
+     "winner": false
+    },
+    {
+     "name": "David Scott",
+     "party": "O",
+     "votes": 2501,
+     "pct": 1.72,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 46,
+     "pct": 0.03,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 145138,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-fa57-08df11bc03cf",
+   "chamber": "other",
+   "office": "State Representative - District No. 11",
+   "candidates": [
+    {
+     "name": "Oscar De Los Santos",
+     "party": "D",
+     "votes": 34957,
+     "pct": 41.11,
+     "winner": false
+    },
+    {
+     "name": "Junelle Cavero",
+     "party": "D",
+     "votes": 33676,
+     "pct": 39.6,
+     "winner": false
+    },
+    {
+     "name": "Joseph Charles Dailey",
+     "party": "R",
+     "votes": 8253,
+     "pct": 9.71,
+     "winner": false
+    },
+    {
+     "name": "Cesar Aleman",
+     "party": "R",
+     "votes": 8085,
+     "pct": 9.51,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 59,
+     "pct": 0.07,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 85030,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-0111-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 12",
+   "candidates": [
+    {
+     "name": "Stacey Travers",
+     "party": "D",
+     "votes": 52530,
+     "pct": 38.38,
+     "winner": false
+    },
+    {
+     "name": "Armando Montero",
+     "party": "D",
+     "votes": 51480,
+     "pct": 37.61,
+     "winner": false
+    },
+    {
+     "name": "David Richardson",
+     "party": "R",
+     "votes": 32497,
+     "pct": 23.74,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 368,
+     "pct": 0.27,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 136875,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-0668-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 13",
+   "candidates": [
+    {
+     "name": "Racquel \"Rockee\" Armstrong",
+     "party": "D",
+     "votes": 41697,
+     "pct": 27.33,
+     "winner": false
+    },
+    {
+     "name": "Jacob Weinberg",
+     "party": "D",
+     "votes": 41291,
+     "pct": 27.06,
+     "winner": false
+    },
+    {
+     "name": "Kevin Hartke",
+     "party": "R",
+     "votes": 36061,
+     "pct": 23.63,
+     "winner": false
+    },
+    {
+     "name": "Janet Weninger",
+     "party": "R",
+     "votes": 33468,
+     "pct": 21.93,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 70,
+     "pct": 0.05,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 152587,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-0d11-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 14",
+   "candidates": [
+    {
+     "name": "Mary Rose",
+     "party": "D",
+     "votes": 39620,
+     "pct": 34.86,
+     "winner": false
+    },
+    {
+     "name": "Tyler Andrew Farnsworth",
+     "party": "R",
+     "votes": 37449,
+     "pct": 32.95,
+     "winner": false
+    },
+    {
+     "name": "Laurin Hendrix",
+     "party": "R",
+     "votes": 36187,
+     "pct": 31.84,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 393,
+     "pct": 0.35,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 113649,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-125a-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 15",
+   "candidates": [
+    {
+     "name": "Neal Carter",
+     "party": "R",
+     "votes": 48394,
+     "pct": 49.9,
+     "winner": false
+    },
+    {
+     "name": "Michael Way",
+     "party": "R",
+     "votes": 45980,
+     "pct": 47.41,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 2607,
+     "pct": 2.69,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 96981,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-16af-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 16",
+   "candidates": [
+    {
+     "name": "Julia Romero Gusse",
+     "party": "D",
+     "votes": 36071,
+     "pct": 36.8,
+     "winner": false
+    },
+    {
+     "name": "Teresa Martinez",
+     "party": "R",
+     "votes": 31568,
+     "pct": 32.21,
+     "winner": false
+    },
+    {
+     "name": "Chris Lopez",
+     "party": "R",
+     "votes": 29917,
+     "pct": 30.52,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 381,
+     "pct": 0.39,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 75,
+     "pct": 0.08,
+     "winner": false
+    }
+   ],
+   "total_votes": 98012,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-1bfe-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 17",
+   "candidates": [
+    {
+     "name": "Kevin Volk",
+     "party": "D",
+     "votes": 56228,
+     "pct": 27.27,
+     "winner": false
+    },
+    {
+     "name": "Hollace \"Holly\" Lyon",
+     "party": "D",
+     "votes": 55992,
+     "pct": 27.15,
+     "winner": false
+    },
+    {
+     "name": "John Winchester",
+     "party": "R",
+     "votes": 48001,
+     "pct": 23.28,
+     "winner": false
+    },
+    {
+     "name": "Rachel \"Jones\" Keshel",
+     "party": "R",
+     "votes": 45879,
+     "pct": 22.25,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 117,
+     "pct": 0.06,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 206218,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-2268-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 18",
+   "candidates": [
+    {
+     "name": "Nancy Gutierrez",
+     "party": "D",
+     "votes": 56190,
+     "pct": 40.37,
+     "winner": false
+    },
+    {
+     "name": "Chris Mathis",
+     "party": "D",
+     "votes": 52750,
+     "pct": 37.9,
+     "winner": false
+    },
+    {
+     "name": "Bob Dohse",
+     "party": "R",
+     "votes": 29820,
+     "pct": 21.42,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 424,
+     "pct": 0.3,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 139184,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-27d9-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 19",
+   "candidates": [
+    {
+     "name": "David Gowan",
+     "party": "R",
+     "votes": 44187,
+     "pct": 29.72,
+     "winner": false
+    },
+    {
+     "name": "Lupe Diaz",
+     "party": "R",
+     "votes": 40603,
+     "pct": 27.31,
+     "winner": false
+    },
+    {
+     "name": "Jackie O'Donnell Anderson",
+     "party": "D",
+     "votes": 32727,
+     "pct": 22.01,
+     "winner": false
+    },
+    {
+     "name": "Aiden Nicholette Swallow",
+     "party": "D",
+     "votes": 31009,
+     "pct": 20.86,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 85,
+     "pct": 0.06,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 50,
+     "pct": 0.03,
+     "winner": false
+    }
+   ],
+   "total_votes": 148661,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-2efe-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 20",
+   "candidates": [
+    {
+     "name": "Sally Ann Gonzales",
+     "party": "D",
+     "votes": 34433,
+     "pct": 49.44,
+     "winner": false
+    },
+    {
+     "name": "Betty Villegas",
+     "party": "D",
+     "votes": 33814,
+     "pct": 48.55,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 1405,
+     "pct": 2.02,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 69652,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-3354-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 21",
+   "candidates": [
+    {
+     "name": "Miranda Lopez",
+     "party": "D",
+     "votes": 32781,
+     "pct": 40.06,
+     "winner": false
+    },
+    {
+     "name": "Consuelo Hernandez",
+     "party": "D",
+     "votes": 31542,
+     "pct": 38.55,
+     "winner": false
+    },
+    {
+     "name": "Christopher Kibbey",
+     "party": "R",
+     "votes": 17129,
+     "pct": 20.93,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 362,
+     "pct": 0.44,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 7,
+     "pct": 0.01,
+     "winner": false
+    }
+   ],
+   "total_votes": 81821,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-38a2-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 22",
+   "candidates": [
+    {
+     "name": "Betsy Munoz",
+     "party": "D",
+     "votes": 26996,
+     "pct": 49.16,
+     "winner": false
+    },
+    {
+     "name": "Elda Luna-Nájera",
+     "party": "D",
+     "votes": 26432,
+     "pct": 48.14,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 1484,
+     "pct": 2.7,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 54912,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-3cdd-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 23",
+   "candidates": [
+    {
+     "name": "Mariana Sandoval",
+     "party": "D",
+     "votes": 24915,
+     "pct": 31.28,
+     "winner": false
+    },
+    {
+     "name": "Emilia Cortez",
+     "party": "D",
+     "votes": 24863,
+     "pct": 31.21,
+     "winner": false
+    },
+    {
+     "name": "Michele Peña",
+     "party": "R",
+     "votes": 15641,
+     "pct": 19.64,
+     "winner": false
+    },
+    {
+     "name": "Gary Garcia Snyder",
+     "party": "R",
+     "votes": 14168,
+     "pct": 17.79,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 33,
+     "pct": 0.04,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 31,
+     "pct": 0.04,
+     "winner": false
+    }
+   ],
+   "total_votes": 79651,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-4383-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 24",
+   "candidates": [
+    {
+     "name": "Alberto Flores",
+     "party": "D",
+     "votes": 21240,
+     "pct": 42.12,
+     "winner": false
+    },
+    {
+     "name": "Lisbeth Arescurenaga",
+     "party": "D",
+     "votes": 20443,
+     "pct": 40.54,
+     "winner": false
+    },
+    {
+     "name": "Delores McLaughlin",
+     "party": "R",
+     "votes": 8607,
+     "pct": 17.07,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 134,
+     "pct": 0.27,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 50424,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-48dc-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 25",
+   "candidates": [
+    {
+     "name": "Michael Carbone",
+     "party": "R",
+     "votes": 36190,
+     "pct": 35.22,
+     "winner": false
+    },
+    {
+     "name": "Nickolas \"Nick\" Kupper",
+     "party": "R",
+     "votes": 33815,
+     "pct": 32.91,
+     "winner": false
+    },
+    {
+     "name": "Tiffany Byrne",
+     "party": "D",
+     "votes": 32426,
+     "pct": 31.55,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 272,
+     "pct": 0.26,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 62,
+     "pct": 0.06,
+     "winner": false
+    }
+   ],
+   "total_votes": 102765,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-4e34-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 26",
+   "candidates": [
+    {
+     "name": "Cesar Aguilar",
+     "party": "D",
+     "votes": 22204,
+     "pct": 39.47,
+     "winner": false
+    },
+    {
+     "name": "Quantá Crews",
+     "party": "D",
+     "votes": 20232,
+     "pct": 35.96,
+     "winner": false
+    },
+    {
+     "name": "Frank Roberts",
+     "party": "R",
+     "votes": 6530,
+     "pct": 11.61,
+     "winner": false
+    },
+    {
+     "name": "Jonathan McKenna",
+     "party": "R",
+     "votes": 6190,
+     "pct": 11.0,
+     "winner": false
+    },
+    {
+     "name": "Hector Gomez",
+     "party": "O",
+     "votes": 1073,
+     "pct": 1.91,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 31,
+     "pct": 0.06,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 56260,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-55d7-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 27",
+   "candidates": [
+    {
+     "name": "Deborah Howard",
+     "party": "D",
+     "votes": 34878,
+     "pct": 36.94,
+     "winner": false
+    },
+    {
+     "name": "Lisa Fink",
+     "party": "R",
+     "votes": 29755,
+     "pct": 31.52,
+     "winner": false
+    },
+    {
+     "name": "Tony Rivero",
+     "party": "R",
+     "votes": 29450,
+     "pct": 31.19,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 325,
+     "pct": 0.34,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 94408,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-5b33-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 28",
+   "candidates": [
+    {
+     "name": "David Livingston",
+     "party": "R",
+     "votes": 56930,
+     "pct": 28.84,
+     "winner": false
+    },
+    {
+     "name": "Beverly Pingerelli",
+     "party": "R",
+     "votes": 56517,
+     "pct": 28.63,
+     "winner": false
+    },
+    {
+     "name": "Barbara Fike",
+     "party": "D",
+     "votes": 42685,
+     "pct": 21.63,
+     "winner": false
+    },
+    {
+     "name": "Marc Graham",
+     "party": "D",
+     "votes": 41167,
+     "pct": 20.86,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 88,
+     "pct": 0.04,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 197387,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-61b9-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 29",
+   "candidates": [
+    {
+     "name": "Christine Marie Scianna",
+     "party": "D",
+     "votes": 38297,
+     "pct": 33.85,
+     "winner": false
+    },
+    {
+     "name": "Steve Montenegro",
+     "party": "R",
+     "votes": 37792,
+     "pct": 33.41,
+     "winner": false
+    },
+    {
+     "name": "James Taylor",
+     "party": "R",
+     "votes": 36631,
+     "pct": 32.38,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 404,
+     "pct": 0.36,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 0,
+     "pct": 0.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 113124,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-671e-08df11bc03d0",
+   "chamber": "other",
+   "office": "State Representative - District No. 30",
+   "candidates": [
+    {
+     "name": "Mike Gannuscio",
+     "party": "R",
+     "votes": 48948,
+     "pct": 41.8,
+     "winner": false
+    },
+    {
+     "name": "David Rose",
+     "party": "R",
+     "votes": 47006,
+     "pct": 40.14,
+     "winner": false
+    },
+    {
+     "name": "Brian McMahan",
+     "party": "D",
+     "votes": 20909,
+     "pct": 17.85,
+     "winner": false
+    },
+    {
+     "name": "Unassigned Write-in",
+     "party": "",
+     "votes": 230,
+     "pct": 0.2,
+     "winner": false
+    },
+    {
+     "name": "Unofficial Write-in",
+     "party": "",
+     "votes": 15,
+     "pct": 0.01,
+     "winner": false
+    }
+   ],
+   "total_votes": 117108,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-8a96-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Justice John Lopez IV, Justice of the Supreme Court be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 1033813,
+     "pct": 60.03,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 688365,
+     "pct": 39.97,
+     "winner": false
+    }
+   ],
+   "total_votes": 1722178,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-8ea3-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Michael Catlett, Judge of the Court of Appeals Division I, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 562146,
+     "pct": 62.71,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 334330,
+     "pct": 37.29,
+     "winner": false
+    }
+   ],
+   "total_votes": 896476,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-92cb-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Anni Hill Foster, Judge of the Court of Appeals Division I, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 467336,
+     "pct": 50.56,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 457002,
+     "pct": 49.44,
+     "winner": false
+    }
+   ],
+   "total_votes": 924338,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-972d-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Randall Howe, Judge of the Court of Appeals Division I, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 611348,
+     "pct": 69.93,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 262927,
+     "pct": 30.07,
+     "winner": false
+    }
+   ],
+   "total_votes": 874275,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-9b2a-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Andrew Jacobs, Judge of the Court of Appeals Division I, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 567766,
+     "pct": 62.91,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 334723,
+     "pct": 37.09,
+     "winner": false
+    }
+   ],
+   "total_votes": 902489,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-9f27-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Daniel Kiley , Judge of the Court of Appeals Division I, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 558943,
+     "pct": 63.93,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 315389,
+     "pct": 36.07,
+     "winner": false
+    }
+   ],
+   "total_votes": 874332,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-a340-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge James Morse Jr., Judge of the Court of Appeals Division I, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 537219,
+     "pct": 60.35,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 353007,
+     "pct": 39.65,
+     "winner": false
+    }
+   ],
+   "total_votes": 890226,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-a742-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Jennifer Perkins, Judge of the Court of Appeals Division I, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 514637,
+     "pct": 55.69,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 409421,
+     "pct": 44.31,
+     "winner": false
+    }
+   ],
+   "total_votes": 924058,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-ab26-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge David Weinzweig, Judge of the Court of Appeals Division I, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 493191,
+     "pct": 53.71,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 425119,
+     "pct": 46.29,
+     "winner": false
+    }
+   ],
+   "total_votes": 918310,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-af3e-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Sean Brearcliffe, Judge of the Court of Appeals Division II, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 154413,
+     "pct": 56.15,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 120590,
+     "pct": 43.85,
+     "winner": false
+    }
+   ],
+   "total_votes": 275003,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-b348-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Karl Eppich, Judge of the Court of Appeals Division II, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 132932,
+     "pct": 73.38,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 48232,
+     "pct": 26.62,
+     "winner": false
+    }
+   ],
+   "total_votes": 181164,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-b736-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Lacey Stover Gard, Judge of the Court of Appeals Division II, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 133282,
+     "pct": 73.84,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 47222,
+     "pct": 26.16,
+     "winner": false
+    }
+   ],
+   "total_votes": 180504,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-bb1b-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Michael Kelly, Judge of the Court of Appeals Division II, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 177315,
+     "pct": 66.28,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 90222,
+     "pct": 33.72,
+     "winner": false
+    }
+   ],
+   "total_votes": 267537,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-bf14-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Christopher O’Neil, Judge of the Court of Appeals Division II, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 135790,
+     "pct": 75.42,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 44245,
+     "pct": 24.58,
+     "winner": false
+    }
+   ],
+   "total_votes": 180035,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-c393-08df11bc03d0",
+   "chamber": "other",
+   "office": "Shall Judge Jeffrey Sklar, Judge of the Court of Appeals Division II, be retained in office?",
+   "candidates": [
+    {
+     "name": "Be retained YES",
+     "party": "",
+     "votes": 176438,
+     "pct": 65.86,
+     "winner": false
+    },
+    {
+     "name": "Be retained NO",
+     "party": "",
+     "votes": 91479,
+     "pct": 34.14,
+     "winner": false
+    }
+   ],
+   "total_votes": 267917,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-c77a-08df11bc03d0",
+   "chamber": "other",
+   "office": "PROPOSITION 141",
+   "candidates": [
+    {
+     "name": "YES",
+     "party": "",
+     "votes": 1069992,
+     "pct": 50.78,
+     "winner": false
+    },
+    {
+     "name": "NO",
+     "party": "",
+     "votes": 1037008,
+     "pct": 49.22,
+     "winner": false
+    }
+   ],
+   "total_votes": 2107000,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-cba8-08df11bc03d0",
+   "chamber": "other",
+   "office": "PROPOSITION 142",
+   "candidates": [
+    {
+     "name": "NO",
+     "party": "",
+     "votes": 1268033,
+     "pct": 59.9,
+     "winner": false
+    },
+    {
+     "name": "YES",
+     "party": "",
+     "votes": 848899,
+     "pct": 40.1,
+     "winner": false
+    }
+   ],
+   "total_votes": 2116932,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-cf93-08df11bc03d0",
+   "chamber": "other",
+   "office": "PROPOSITION 144",
+   "candidates": [
+    {
+     "name": "NO",
+     "party": "",
+     "votes": 1142391,
+     "pct": 53.2,
+     "winner": false
+    },
+    {
+     "name": "YES",
+     "party": "",
+     "votes": 1004979,
+     "pct": 46.8,
+     "winner": false
+    }
+   ],
+   "total_votes": 2147370,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-d38f-08df11bc03d0",
+   "chamber": "other",
+   "office": "PROPOSITION 316",
+   "candidates": [
+    {
+     "name": "YES",
+     "party": "",
+     "votes": 1311183,
+     "pct": 61.51,
+     "winner": false
+    },
+    {
+     "name": "NO",
+     "party": "",
+     "votes": 820362,
+     "pct": 38.49,
+     "winner": false
+    }
+   ],
+   "total_votes": 2131545,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-d77d-08df11bc03d0",
+   "chamber": "other",
+   "office": "PROPOSITION 317",
+   "candidates": [
+    {
+     "name": "YES",
+     "party": "",
+     "votes": 1218349,
+     "pct": 56.97,
+     "winner": false
+    },
+    {
+     "name": "NO",
+     "party": "",
+     "votes": 920147,
+     "pct": 43.03,
+     "winner": false
+    }
+   ],
+   "total_votes": 2138496,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-db59-08df11bc03d0",
+   "chamber": "other",
+   "office": "PROPOSITION 318",
+   "candidates": [
+    {
+     "name": "YES",
+     "party": "",
+     "votes": 1262235,
+     "pct": 58.87,
+     "winner": false
+    },
+    {
+     "name": "NO",
+     "party": "",
+     "votes": 882018,
+     "pct": 41.13,
+     "winner": false
+    }
+   ],
+   "total_votes": 2144253,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-df39-08df11bc03d0",
+   "chamber": "other",
+   "office": "PROPOSITION 319",
+   "candidates": [
+    {
+     "name": "YES",
+     "party": "",
+     "votes": 1307408,
+     "pct": 61.31,
+     "winner": false
+    },
+    {
+     "name": "NO",
+     "party": "",
+     "votes": 825114,
+     "pct": 38.69,
+     "winner": false
+    }
+   ],
+   "total_votes": 2132522,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
+  },
+  {
+   "id": "248c0000-c0a3-7204-e33e-08df11bc03d0",
+   "chamber": "other",
+   "office": "PROPOSITION 320",
+   "candidates": [
+    {
+     "name": "NO",
+     "party": "",
+     "votes": 1079772,
+     "pct": 51.46,
+     "winner": false
+    },
+    {
+     "name": "YES",
+     "party": "",
+     "votes": 1018439,
+     "pct": 48.54,
+     "winner": false
+    }
+   ],
+   "total_votes": 2098211,
+   "reporting": 100.0,
+   "called": false,
+   "state": "AZ",
+   "state_zh": "亚利桑那州",
+   "source_id": "AZ",
+   "source_url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "source_agency": "亚利桑那州州务卿",
+   "source_channel": "direct"
   }
  ],
  "states": [
@@ -35801,12 +40290,11 @@
    "senate_seats_up": 0,
    "gov_up": true,
    "agency": "亚利桑那州州务卿",
-   "url": "https://azsos.gov/elections/results-data",
-   "status": "pending",
-   "updated_at": null,
-   "races": 0,
-   "note": "尚未接入该辖区官方结果系统",
-   "stale": true
+   "url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "status": "ok",
+   "updated_at": "2026-11-05T02:05:33.015093+00:00",
+   "races": 99,
+   "note": "99 场竞选"
   },
   {
    "id": "AR",
@@ -35853,7 +40341,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T01:50:07.011971+00:00",
    "races": 285,
-   "note": "285 场竞选"
+   "note": "285 场竞选",
+   "stale": true
   },
   {
    "id": "CT",
@@ -35884,7 +40373,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T01:50:32.642915+00:00",
    "races": 43,
-   "note": "43 场竞选"
+   "note": "43 场竞选",
+   "stale": true
   },
   {
    "id": "DC",
@@ -36011,7 +40501,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T01:52:06.357227+00:00",
    "races": 274,
-   "note": "274 场竞选"
+   "note": "274 场竞选",
+   "stale": true
   },
   {
    "id": "KS",
@@ -36458,7 +40949,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T01:57:26.704008+00:00",
    "races": 295,
-   "note": "295 场竞选"
+   "note": "295 场竞选",
+   "stale": true
   },
   {
    "id": "UT",
@@ -36505,7 +40997,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T01:57:50.900026+00:00",
    "races": 32,
-   "note": "32 场竞选"
+   "note": "32 场竞选",
+   "stale": true
   },
   {
    "id": "WA",
@@ -36520,7 +41013,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T01:57:51.444947+00:00",
    "races": 173,
-   "note": "173 场竞选"
+   "note": "173 场竞选",
+   "stale": true
   },
   {
    "id": "WI",
