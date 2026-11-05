@@ -25,7 +25,8 @@ jobs:
       - name: 准备 Node（浏览器通道要跑 scripts/browser.mjs）
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          # 必须 >= 22：Node 22 之前没有默认启用的全局 WebSocket，browser.mjs 连不上 CDP
+          node-version: '24'
 
       - name: 确认 Chrome
         run: |

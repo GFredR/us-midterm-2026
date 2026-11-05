@@ -11,8 +11,12 @@
    ========================================================================== */
 'use strict';
 
-const DATA_URL = 'data/election-2026.json';
-const AUTO_REFRESH_MS = 60 * 1000;
+const CFG = window.SITE_CONFIG || {};
+const DATA_URL = CFG.local || 'data/election-2026.json';
+const REMOTE_DATA_URL = CFG.remote || '';
+const AUTO_REFRESH_MS = CFG.autoRefreshMs || 5 * 60 * 1000;
+const SERVER_STATUS_URL = CFG.serverStatusUrl || '/api/status';
+const SERVER_REFRESH_URL = CFG.serverRefreshUrl || '/api/refresh';
 
 const PARTY = {
   R: { label: '共和党', cls: 'R', color: '#e0484b' },
@@ -36,6 +40,8 @@ const state = {
   serverMode: false,       // 服务端部署（可真的重抓）
   serverChecked: false,
   serverStatus: null,
+  dataSource: 'local',     // 当前展示的数据来自 'remote'(CI 快照) 还是 'local'(同源快照)
+  remoteFailed: false,
   sortBattle: { key: 'marginPct', dir: 'asc' },
   sortRace: { key: null, dir: 'asc' },
   filters: { q: '', party: '', chamber: '' },
@@ -495,7 +501,7 @@ function renderSources() {
  */
 async function detectServer() {
   try {
-    const res = await fetch('/api/status', { cache: 'no-store' });
+    const res = await fetch(SERVER_STATUS_URL, { cache: 'no-store' });
     if (!res.ok) return null;
     const st = await res.json();
     state.serverMode = true;
@@ -512,7 +518,7 @@ async function triggerServerRefresh() {
   if (!state.serverMode) return false;
   setRefreshBtn('采集中');
   try {
-    await fetch('/api/refresh', { cache: 'no-store' });
+    await fetch(SERVER_REFRESH_URL, { cache: 'no-store' });
   } catch (e) {
     setRefreshBtn('');
     return false;
@@ -523,7 +529,7 @@ async function triggerServerRefresh() {
     await new Promise((r) => setTimeout(r, 5000));
     let st = null;
     try {
-      const res = await fetch('/api/status', { cache: 'no-store' });
+      const res = await fetch(SERVER_STATUS_URL, { cache: 'no-store' });
       if (res.ok) st = await res.json();
     } catch (e) { /* 忽略单次失败，继续轮询 */ }
     if (!st) continue;
@@ -551,24 +557,24 @@ async function loadData(manual) {
     state.serverChecked = true;
     await detectServer();
   }
+
+  // 服务端模式：手动刷新时，先让服务端真的去重抓一轮官方结果，再拉最新快照。
+  if (manual && state.serverMode) {
+    const ok = await triggerServerRefresh();
+    if (!ok) {
+      const st = state.serverStatus || {};
+      if (st.last_error) {
+        $('#statusNote').innerHTML =
+          `本轮服务端采集失败，已回退到上一份完好快照：<span style="color:var(--rep)">${esc(String(st.last_error).slice(0, 160))}</span>`;
+      }
+    }
+  }
+
   btn.classList.add('loading');
   try {
-    const res = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: 'no-store' });
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    const data = await res.json();
-    state.raw = data;
-    state.races = data.races || [];
-    state.states = data.states || [];
-    state.baseline = data.meta?.baseline || {};
-    state.seats = computeSeats(state.states, state.races, state.baseline);
-    $('#updatedAt').textContent = fmtTime(data.meta?.generated_at);
-    $('#updatedAt').title = data.meta?.generated_at || '';
-    renderAll();
-    const nOk = state.states.filter((s) => s.status === 'ok').length;
-    const badge = $('#statusBadge');
-    badge.className = 'badge badge-live';
-    badge.textContent = '官方数据已加载';
-    $('#statusNote').innerHTML = statusNoteHtml(nOk, data);
+    const best = await loadLatest(manual);
+    state.dataSource = best.src;
+    applyData(best.d);
   } catch (err) {
     const badge = $('#statusBadge');
     badge.className = 'badge badge-err';
@@ -577,30 +583,79 @@ async function loadData(manual) {
   } finally {
     btn.classList.remove('loading');
   }
-
-  // 手动刷新：先让服务端真的去重抓一轮官方结果，再把新快照拉下来
-  if (manual && state.serverMode) {
-    const ok = await triggerServerRefresh();
-    if (ok) await loadData(false);
-    else {
-      const st = state.serverStatus || {};
-      if (st.last_error) {
-        $('#statusNote').innerHTML =
-          `本轮服务端采集失败，已回退到上一份完好快照：<span style="color:var(--rep)">${esc(String(st.last_error).slice(0, 160))}</span>`;
-      }
-    }
-  }
 }
 
-/** 状态条文案：区分「服务端实时」与「静态快照」两种部署形态 */
+/** 拉一份 JSON；bust=true 时加时间戳绕过 CDN / 代理缓存 */
+async function fetchJson(url, bust) {
+  const u = bust ? `${url}${url.includes('?') ? '&' : '?'}t=${Date.now()}` : url;
+  const res = await fetch(u, { cache: bust ? 'no-store' : 'default' });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  return res.json();
+}
+
+const genTs = (d) => Date.parse((d && d.meta && d.meta.generated_at) || '') || 0;
+
+/**
+ * 远程（GitHub Actions 采集产物）与本地快照各拉一份，取 generated_at 较新的一份。
+ * 远程是静态部署下唯一能持续更新的来源；本地是离线兜底。
+ */
+async function loadLatest(manual) {
+  const jobs = [];
+  if (REMOTE_DATA_URL) {
+    jobs.push(
+      fetchJson(REMOTE_DATA_URL, true)
+        .then((d) => ({ src: 'remote', d }))
+        .catch((e) => ({ src: 'remote', err: e }))
+    );
+  }
+  jobs.push(
+    fetchJson(DATA_URL, manual)
+      .then((d) => ({ src: 'local', d }))
+      .catch((e) => ({ src: 'local', err: e }))
+  );
+  const res = await Promise.all(jobs);
+  state.remoteFailed = res.some((r) => r.src === 'remote' && r.err);
+  const ok = res.filter((r) => r.d);
+  if (!ok.length) {
+    const firstErr = res.find((r) => r.err);
+    throw (firstErr && firstErr.err) || new Error('无可用数据');
+  }
+  ok.sort((a, b) => genTs(b.d) - genTs(a.d));
+  return ok[0];
+}
+
+/** 把一份快照灌进页面 */
+function applyData(data) {
+  state.raw = data;
+  state.races = data.races || [];
+  state.states = data.states || [];
+  state.baseline = data.meta?.baseline || {};
+  state.seats = computeSeats(state.states, state.races, state.baseline);
+  $('#updatedAt').textContent = fmtTime(data.meta?.generated_at);
+  $('#updatedAt').title = data.meta?.generated_at || '';
+  renderAll();
+  const nOk = state.states.filter((s) => s.status === 'ok').length;
+  const badge = $('#statusBadge');
+  badge.className = 'badge badge-live';
+  badge.textContent = '官方数据已加载';
+  $('#statusNote').innerHTML = statusNoteHtml(nOk, data);
+}
+
+/** 状态条文案：区分「服务端实时」「CI 远程快照」「本地静态快照」三种部署形态 */
 function statusNoteHtml(nOk, data) {
   const base = `已接入 ${nOk}/${state.states.length} 个辖区官方结果系统 · ${state.races.length} 场竞选 · ${relTime(data.meta?.generated_at)}更新 · 认证前均为非官方结果`;
+  const src = state.dataSource === 'remote'
+    ? '当前展示 <b>CI 远程快照</b>'
+    : '当前展示 <b>同源本地快照</b>';
   if (state.serverMode) {
     const st = state.serverStatus || {};
     const every = Math.round((st.interval_sec || 1800) / 60);
-    return `${base} · 服务端每 <b>${every}</b> 分钟自动重抓一次，点「刷新」可立即触发`;
+    return `${base} · 服务端每 <b>${every}</b> 分钟自动重抓一次，点「刷新」可立即触发 · ${src}`;
   }
-  return `${base} · <b>当前为静态快照</b>，点「刷新」只重新读取同一份数据；如需实时更新请用 <code>python3 scripts/collect.py</code> 重新生成后重新部署`;
+  if (state.remoteFailed) {
+    return `${base} · <b>远程快照暂时取不到</b>，${src}（可能是网络原因）；可用 <code>python3 scripts/collect.py</code> 本地重抓后重新部署`;
+  }
+  return `${base} · ${src} · GitHub Actions 每 <b>30</b> 分钟在美国 IP 重抓一轮，点「刷新」立即取最新`;
 }
 
 function escapeHTML(s) {

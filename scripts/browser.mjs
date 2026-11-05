@@ -20,7 +20,22 @@ const mode = process.argv[2];
 const url = process.argv[3];
 const arg4 = process.argv[4];
 const arg5 = process.argv[5];
-const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36';
+
+// Node 22+ 默认提供全局 WebSocket；Node 20 需要 --experimental-websocket。
+// 这里提前给出明确报错，否则会抛一个看不出原因的 "WebSocket is not defined"。
+if (typeof WebSocket === 'undefined') {
+  console.error(
+    '当前 Node 缺少全局 WebSocket。请使用 Node 22 及以上版本，' +
+    '或用 node --experimental-websocket 运行。当前版本：' + process.version
+  );
+  process.exit(4);
+}
+
+const IS_MAC = process.platform === 'darwin';
+const UA = IS_MAC
+  ? 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36'
+  : 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36';
+const UA_PLATFORM = IS_MAC ? 'MacIntel' : 'Linux x86_64';
 const CHALLENGE = /just a moment|performing security verification|attention required|checking your browser|one more step|ddos protection|request unsuccessful|incapsula incident|access denied|enable javascript and cookies/i;
 
 class CDP {
@@ -59,8 +74,8 @@ const { sessionId } = await browser.send('Target.attachToTarget', { targetId, fl
 await browser.send('Page.enable', {}, sessionId);
 await browser.send('Runtime.enable', {}, sessionId);
 await browser.send('Network.enable', {}, sessionId);
-await browser.send('Network.setUserAgentOverride', { userAgent: UA, acceptLanguage: 'en-US,en;q=0.9', platform: 'MacIntel' }, sessionId);
-await browser.send('Emulation.setUserAgentOverride', { userAgent: UA, acceptLanguage: 'en-US,en;q=0.9', platform: 'MacIntel' }, sessionId);
+await browser.send('Network.setUserAgentOverride', { userAgent: UA, acceptLanguage: 'en-US,en;q=0.9', platform: UA_PLATFORM }, sessionId);
+await browser.send('Emulation.setUserAgentOverride', { userAgent: UA, acceptLanguage: 'en-US,en;q=0.9', platform: UA_PLATFORM }, sessionId);
 
 const seen = new Map();
 browser.listeners.push((m) => {
