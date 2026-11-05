@@ -1,0 +1,77 @@
+name: 采集官方计票
+
+# 每 30 分钟跑一次全量采集；也可以在 Actions 页面手动触发。
+# Runner 在美国机房，出口 IP 不被各州官方站的国家级封禁拦截，
+# 因此这里能拿到比本地（中国出口 + 代理）更多州的官方结果。
+on:
+  schedule:
+    - cron: '13,43 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-election
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 准备 Node（浏览器通道要跑 scripts/browser.mjs）
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 确认 Chrome
+        run: |
+          set -e
+          if ! command -v google-chrome-stable >/dev/null 2>&1; then
+            google-chrome --version || {
+              echo "::error::runner 上找不到 Chrome"
+              exit 1
+            }
+          fi
+          google-chrome --version
+
+      - name: 采集各州官方结果
+        env:
+          CHROME_BIN: /usr/bin/google-chrome-stable
+          CHROME_NO_SANDBOX: '1'
+          CI: 'true'
+        run: |
+          set -o pipefail
+          python3 scripts/collect.py 2>&1 | tee collect.log
+
+      - name: 提交新快照
+        run: |
+          set -e
+          git config user.name  'GFredR'
+          git config user.email '31023863+GFredR@users.noreply.github.com'
+          git add data/election-2026.json
+          if git diff --staged --quiet; then
+            echo "官方数据无变化，跳过提交"
+            exit 0
+          fi
+          NEW=$(python3 - <<'PY'
+          import json
+          d = json.load(open('data/election-2026.json'))
+          m = d.get('meta', {})
+          print(f"{m.get('states_ok')}/{m.get('states_total')} 辖区 · {m.get('races_count')} 场竞选 · {m.get('generated_at')}")
+          PY
+          )
+          git commit -m "data: 官方计票快照 ${NEW}"
+          git push
+          echo "已提交: ${NEW}"
+
+      - name: 上传采集日志
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: collect-log
+          path: collect.log
+          retention-days: 7

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2026 美国中期选举实时计票追踪器 · 官方数据</title>
+<meta name="description" content="基于美国各州州务卿 / 选举委员会官方结果系统的 2026 年中期选举红蓝票数与席位追踪器。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b0e14'/%3E%3Crect x='6' y='7' width='8' height='18' rx='2' fill='%232E7BD6'/%3E%3Crect x='18' y='7' width='8' height='18' rx='2' fill='%23D64545'/%3E%3C/svg%3E">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"><i class="d"></i><i class="r"></i></span>
+      <div>
+        <h1>2026 美国中期选举 · 官方计票追踪器</h1>
+        <p class="sub">数据源：50 州州务卿 / 选举委员会官方结果系统（FEC 不提供实时结果，认证后方由其汇编）</p>
+      </div>
+    </div>
+    <div class="topbar-right">
+      <div class="stamp">
+        <span class="stamp-label">数据更新于</span>
+        <span class="stamp-time" id="updatedAt">—</span>
+      </div>
+      <button id="refreshBtn" class="btn" type="button" aria-label="刷新数据">
+        <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36M21 4v5h-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>刷新</span>
+      </button>
+    </div>
+  </div>
+  <div class="wrap">
+    <div class="statusbar" id="statusBar">
+      <span class="badge badge-live" id="statusBadge">加载中</span>
+      <span class="status-note" id="statusNote">正在读取官方结果快照…</span>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ============ 席位总览 ============ -->
+  <section class="panel" id="seatOverview">
+    <div class="panel-head">
+      <h2>两院控制权与州长席位</h2>
+      <p class="panel-sub">按各州官方结果中领先方统计；认证前均为<b>非官方实时结果</b>，虚线为过半门槛</p>
+    </div>
+    <div class="kpi-grid" id="kpiGrid"></div>
+  </section>
+
+  <!-- ============ 票数总览 + 席位格图 ============ -->
+  <section class="grid-2">
+    <div class="panel">
+      <div class="panel-head">
+        <h2>红蓝总票数</h2>
+        <p class="panel-sub">已接入官方结果的联邦与州级竞选合计（<span id="coverageNote">—</span>）</p>
+      </div>
+      <div id="voteChart" class="chart chart-tall"></div>
+      <div class="legend-row" id="voteLegend"></div>
+      <p class="fineprint">口径说明：该数字为<b>已接入州</b>的官方票数累加，不等于全国普选总票数；仅作趋势参考，不可与全国普选票直接比较。</p>
+    </div>
+
+    <div class="panel">
+      <div class="panel-head">
+        <h2>众议院席位分布</h2>
+        <p class="panel-sub" id="houseSub">—</p>
+      </div>
+      <div id="houseGrid" class="house-grid"></div>
+      <div class="legend-row" id="houseLegend"></div>
+      <p class="panel-note" id="houseNote"></p>
+    </div>
+  </section>
+
+  <!-- ============ 关键战场 ============ -->
+  <section class="panel">
+    <div class="panel-head">
+      <h2>关键战场州</h2>
+      <p class="panel-sub">参议院席位 / 州长 / 摇摆众院选区，按票差升序（最胶着在前）</p>
+    </div>
+    <div class="table-wrap">
+      <table class="data-table" id="battleTable">
+        <thead>
+          <tr>
+            <th data-sort="state">州</th>
+            <th data-sort="office">职位</th>
+            <th>红方</th>
+            <th>蓝方</th>
+            <th data-sort="margin" class="num">票差</th>
+            <th data-sort="marginPct" class="num">差距%</th>
+            <th data-sort="reporting" class="num">已报告</th>
+            <th>来源</th>
+          </tr>
+        </thead>
+        <tbody id="battleBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============ 各州明细 ============ -->
+  <section class="panel">
+    <div class="panel-head panel-head-row">
+      <div>
+        <h2>各州官方计票明细</h2>
+        <p class="panel-sub">点击州名展开该州全部已接入竞选</p>
+      </div>
+      <div class="filters">
+        <input type="search" id="stateSearch" class="input" placeholder="筛选州名 / 职位 / 候选人" autocomplete="off">
+        <select id="partyFilter" class="input">
+          <option value="">全部党派</option>
+          <option value="R">共和党</option>
+          <option value="D">民主党</option>
+          <option value="O">其他 / 独立</option>
+        </select>
+        <select id="chamberFilter" class="input">
+          <option value="">全部层级</option>
+          <option value="senate">参议院</option>
+          <option value="house">众议院</option>
+          <option value="governor">州长</option>
+          <option value="other">其他州级职位</option>
+        </select>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table class="data-table" id="raceTable">
+        <thead>
+          <tr>
+            <th data-sort="state">州</th>
+            <th data-sort="office">职位</th>
+            <th>候选人</th>
+            <th>党派</th>
+            <th data-sort="votes" class="num">得票</th>
+            <th data-sort="pct" class="num">得票率</th>
+            <th>状态</th>
+          </tr>
+        </thead>
+        <tbody id="raceBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============ 数据来源 ============ -->
+  <section class="panel">
+    <div class="panel-head">
+      <h2>官方数据源清单</h2>
+      <p class="panel-sub">全部 50 州 + 华盛顿特区官方选举结果页面；状态标明本次快照是否成功接入</p>
+    </div>
+    <div class="table-wrap">
+      <table class="data-table" id="sourceTable">
+        <thead>
+          <tr>
+            <th>州</th>
+            <th>官方机构</th>
+            <th>结果页面</th>
+            <th>接入状态</th>
+            <th class="num">更新于</th>
+          </tr>
+        </thead>
+        <tbody id="sourceBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ============ 方法与免责 ============ -->
+  <section class="panel">
+    <div class="panel-head"><h2>方法论与免责声明</h2></div>
+    <div class="method">
+      <ol>
+        <li><b>数据来源</b>：唯一权威来源为各州州务卿（Secretary of State）或州选举委员会发布的官方选举结果。联邦选举委员会（FEC）明确声明实时结果由各州负责、认证后由 FEC 汇编发布，因此本站直接接入各州官方结果系统。</li>
+        <li><b>红蓝定义</b>：红色 = 共和党（Republican）、蓝色 = 民主党（Democratic）、灰色 = 其他党派、独立人士或无党派候选人；党派未标注的候选人不计入红蓝票数。</li>
+        <li><b>席位模型</b>：每个层级拆成四个数字——<b>本轮改选席位数</b>（众院 435、参院 35、州长 36 州）、<b>未改选且仍由原持有人占有的席位</b>（参院 R31/D34、州长 R9/D5）、<b>已有官方结果且可判定领先方的席位</b>、<b>尚无官方结果的待定席位</b>。席位颜色表示"当前领先"而非"最终归属"，灰白格表示暂无官方数据。众院的 435 席为投票席位、全部由 50 州占据（各州席数 = 该州选举人票 − 2），哥伦比亚特区另有 1 名无表决权众议院代表，不计入席位与过半门槛。</li>
+        <li><b>过半所需</b>：卡片中给出的是"在本轮改选席中至少需要拿下多少席才能过半"，而不是简单比较当前席位数——因为未出结果的席位仍会改变归属。</li>
+        <li><b>非官方结果</b>：认证日之前，各州公布的均为 <i>Unofficial / Election Night</i> 结果，票数会随清点回补而变动。各州认证时间不同，多数在 2026 年 11 月中下旬。</li>
+        <li><b>覆盖范围</b>：本站从中国大陆网络环境采集，部分州务卿网站对境外访问做了 IP 封锁或人机验证，未能接入的州在下方清单中标注为"未接入 / 访问受限"，并提供官方页面直达链接供核对。所有州合计 435 众院席、35 参院席、36 州长席位。</li>
+      </ol>
+      <p class="disclaimer">本站为技术演示性质的公开信息聚合工具，不构成任何政治立场或投资建议。请以各州选举办公室公布的最终认证结果为准。</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p>数据获取方式：服务端抓取各州官方结果系统 → 归一化为统一 JSON → 前端渲染。任何数字均可在"官方数据源清单"中找到原始出处链接。</p>
+  </div>
+</footer>
+
+<script src="assets/echarts.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

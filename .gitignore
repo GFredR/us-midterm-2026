@@ -1,0 +1,10 @@
+# 原始官方页面存档（7MB，可由 collect.py 重新生成，不入库）
+data/raw/
+# 采集失败回滚用的临时备份
+data/*.bak
+data/server-state.json
+# Python
+__pycache__/
+*.pyc
+# 系统
+.DS_Store
