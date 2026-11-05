@@ -312,6 +312,30 @@ STATE_LEVEL_GUARD = re.compile(
     re.I)
 
 
+def dedupe_races(races):
+    """
+    按「层级 + 职位标题 + 候选人名单及票数」去重。
+
+    为什么要去重：browser.mjs 会把主框架和 iframe 里的内容都拼进存档文件，
+    而有些州的官方结果表在 iframe 里又完整出现了一遍（DE 就是），
+    直接解析会把每个竞选算两次 —— 席位多算、票数翻倍。
+    """
+    seen = set()
+    out = []
+    for r in races:
+        cands = r.get("candidates") or []
+        key = (
+            r.get("chamber", ""),
+            clean(r.get("office") or "").lower(),
+            tuple(sorted((c.get("name", ""), c.get("votes")) for c in cands)),
+        )
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(r)
+    return out
+
+
 def classify_office(title):
     t = clean(title)
     tl = t.lower()
@@ -708,6 +732,8 @@ def collect_state(cfg, chrome):
         rec["status"] = "error"
         rec["note"] = f"parse error: {type(e).__name__}: {str(e)[:140]}"
         return rec, []
+
+    races = dedupe_races(races)
 
     if not races:
         rec["status"] = "pending"

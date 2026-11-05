@@ -2,10 +2,10 @@
  "meta": {
   "election": "2026 United States General Election",
   "election_date": "2026-11-03",
-  "generated_at": "2026-11-05T02:16:22.973223+00:00",
+  "generated_at": "2026-11-05T02:30:24.464062+00:00",
   "generator": "scripts/collect.py",
   "source_policy": "数据仅来自各州州务卿 / 选举委员会官方结果系统；FEC 在认证后汇编发布。",
-  "races_count": 1244,
+  "races_count": 1201,
   "states_ok": 7,
   "states_total": 51,
   "baseline": {
@@ -13517,2642 +13517,6 @@
    "source_url": "https://results.enr.clarityelections.com/CO/127407/",
    "source_agency": "科罗拉多州州务卿",
    "source_channel": "direct"
-  },
-  {
-   "id": "DE-T0",
-   "chamber": "senate",
-   "office": "U.S. Senator",
-   "candidates": [
-    {
-     "name": "CHRIS COONS",
-     "party": "D",
-     "votes": 240347,
-     "pct": 63.57,
-     "winner": false
-    },
-    {
-     "name": "MICHAEL \"DR. MIKE\" KATZ",
-     "party": "R",
-     "votes": 137764,
-     "pct": 36.43,
-     "winner": false
-    }
-   ],
-   "total_votes": 378111,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T1",
-   "chamber": "house",
-   "office": "Representative In Congress",
-   "candidates": [
-    {
-     "name": "SARAH MCBRIDE",
-     "party": "D",
-     "votes": 243467,
-     "pct": 64.34,
-     "winner": false
-    },
-    {
-     "name": "JOSEPH \"DR. JOE\" ARMINIO",
-     "party": "R",
-     "votes": 134966,
-     "pct": 35.66,
-     "winner": false
-    }
-   ],
-   "total_votes": 378433,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T2",
-   "chamber": "other",
-   "office": "Attorney General",
-   "candidates": [
-    {
-     "name": "KATHY JENNINGS",
-     "party": "D",
-     "votes": 240429,
-     "pct": 63.62,
-     "winner": false
-    },
-    {
-     "name": "DAVID C. \"DAVE\" GRAHAM",
-     "party": "R",
-     "votes": 137464,
-     "pct": 36.38,
-     "winner": false
-    }
-   ],
-   "total_votes": 377893,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T3",
-   "chamber": "other",
-   "office": "Auditor of Accounts",
-   "candidates": [
-    {
-     "name": "LYDIA YORK",
-     "party": "D",
-     "votes": 227502,
-     "pct": 60.39,
-     "winner": false
-    },
-    {
-     "name": "APRIL CALLAWAY",
-     "party": "R",
-     "votes": 130879,
-     "pct": 34.74,
-     "winner": false
-    },
-    {
-     "name": "AUSTIN CASSIDY",
-     "party": "O",
-     "votes": 18365,
-     "pct": 4.87,
-     "winner": false
-    }
-   ],
-   "total_votes": 376746,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T4",
-   "chamber": "other",
-   "office": "State Treasurer",
-   "candidates": [
-    {
-     "name": "TED LAUZEN",
-     "party": "D",
-     "votes": 235597,
-     "pct": 62.43,
-     "winner": false
-    },
-    {
-     "name": "MICHAEL RAMONE",
-     "party": "R",
-     "votes": 141755,
-     "pct": 37.57,
-     "winner": false
-    }
-   ],
-   "total_votes": 377352,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T5",
-   "chamber": "other",
-   "office": "State Senator District 1",
-   "candidates": [
-    {
-     "name": "DAN CRUCE",
-     "party": "D",
-     "votes": 14558,
-     "pct": 76.28,
-     "winner": false
-    },
-    {
-     "name": "HILDI BACHTLE",
-     "party": "R",
-     "votes": 3558,
-     "pct": 18.64,
-     "winner": false
-    },
-    {
-     "name": "STEVEN WASHINGTON",
-     "party": "O",
-     "votes": 968,
-     "pct": 5.07,
-     "winner": false
-    }
-   ],
-   "total_votes": 19084,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T6",
-   "chamber": "other",
-   "office": "State Senator District 5",
-   "candidates": [
-    {
-     "name": "SHAY FRISBY",
-     "party": "D",
-     "votes": 12275,
-     "pct": 68.61,
-     "winner": false
-    },
-    {
-     "name": "BRENT BURDGE",
-     "party": "R",
-     "votes": 4823,
-     "pct": 26.96,
-     "winner": false
-    },
-    {
-     "name": "CAROLYN FRANK",
-     "party": "O",
-     "votes": 792,
-     "pct": 4.43,
-     "winner": false
-    }
-   ],
-   "total_votes": 17890,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T7",
-   "chamber": "other",
-   "office": "State Senator District 7",
-   "candidates": [
-    {
-     "name": "SPIROS MANTZAVINOS",
-     "party": "D",
-     "votes": 10136,
-     "pct": 67.28,
-     "winner": false
-    },
-    {
-     "name": "CHRIS ROWE",
-     "party": "R",
-     "votes": 4929,
-     "pct": 32.72,
-     "winner": false
-    }
-   ],
-   "total_votes": 15065,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T8",
-   "chamber": "other",
-   "office": "State Senator District 8",
-   "candidates": [
-    {
-     "name": "MARA GORMAN",
-     "party": "D",
-     "votes": 9538,
-     "pct": 66.38,
-     "winner": false
-    },
-    {
-     "name": "SHANE CAVANAUGH",
-     "party": "R",
-     "votes": 4830,
-     "pct": 33.62,
-     "winner": false
-    }
-   ],
-   "total_votes": 14368,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T9",
-   "chamber": "other",
-   "office": "State Senator District 12",
-   "candidates": [
-    {
-     "name": "NICOLE POORE",
-     "party": "D",
-     "votes": 14503,
-     "pct": 72.47,
-     "winner": false
-    },
-    {
-     "name": "MARK ESPOSITO",
-     "party": "R",
-     "votes": 5510,
-     "pct": 27.53,
-     "winner": false
-    }
-   ],
-   "total_votes": 20013,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T10",
-   "chamber": "other",
-   "office": "State Senator District 14",
-   "candidates": [
-    {
-     "name": "KYRA L. HOFFNER",
-     "party": "D",
-     "votes": 12243,
-     "pct": 62.17,
-     "winner": false
-    },
-    {
-     "name": "MARK PUGH",
-     "party": "R",
-     "votes": 7451,
-     "pct": 37.83,
-     "winner": false
-    }
-   ],
-   "total_votes": 19694,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T11",
-   "chamber": "other",
-   "office": "State Senator District 15",
-   "candidates": [
-    {
-     "name": "NISHA LODHAVIA",
-     "party": "D",
-     "votes": 7823,
-     "pct": 43.21,
-     "winner": false
-    },
-    {
-     "name": "EMILY A. THOMPSON",
-     "party": "R",
-     "votes": 10281,
-     "pct": 56.79,
-     "winner": false
-    }
-   ],
-   "total_votes": 18104,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T12",
-   "chamber": "other",
-   "office": "State Senator District 20",
-   "candidates": [
-    {
-     "name": "HARRY S. GOLD",
-     "party": "D",
-     "votes": 12858,
-     "pct": 43.52,
-     "winner": false
-    },
-    {
-     "name": "GERALD W. HOCKER",
-     "party": "R",
-     "votes": 16687,
-     "pct": 56.48,
-     "winner": false
-    }
-   ],
-   "total_votes": 29545,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T13",
-   "chamber": "other",
-   "office": "State Representative District 1",
-   "candidates": [
-    {
-     "name": "NNAMDI O. CHUKWUOCHA",
-     "party": "D",
-     "votes": 7145,
-     "pct": 91.26,
-     "winner": false
-    },
-    {
-     "name": "LISA MCINNIS",
-     "party": "R",
-     "votes": 684,
-     "pct": 8.74,
-     "winner": false
-    }
-   ],
-   "total_votes": 7829,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T14",
-   "chamber": "other",
-   "office": "State Representative District 3",
-   "candidates": [
-    {
-     "name": "BRANDEN FLETCHER-DOMINGUEZ",
-     "party": "D",
-     "votes": 4360,
-     "pct": 82.14,
-     "winner": false
-    },
-    {
-     "name": "SHAWN L. DOTTERY",
-     "party": "R",
-     "votes": 543,
-     "pct": 10.23,
-     "winner": false
-    },
-    {
-     "name": "DEXTER \"DIZZY\" BLAND",
-     "party": "O",
-     "votes": 405,
-     "pct": 7.63,
-     "winner": false
-    }
-   ],
-   "total_votes": 5308,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T15",
-   "chamber": "other",
-   "office": "State Representative District 4",
-   "candidates": [
-    {
-     "name": "GREGG LINDNER",
-     "party": "D",
-     "votes": 8039,
-     "pct": 51.21,
-     "winner": false
-    },
-    {
-     "name": "DAN ZITOFSKY",
-     "party": "R",
-     "votes": 7658,
-     "pct": 48.79,
-     "winner": false
-    }
-   ],
-   "total_votes": 15697,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T16",
-   "chamber": "other",
-   "office": "State Representative District 6",
-   "candidates": [
-    {
-     "name": "RACHEL \"RAE\" KRANTZ",
-     "party": "D",
-     "votes": 7455,
-     "pct": 73.05,
-     "winner": false
-    },
-    {
-     "name": "TANYA HETTLER",
-     "party": "R",
-     "votes": 2750,
-     "pct": 26.95,
-     "winner": false
-    }
-   ],
-   "total_votes": 10205,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T17",
-   "chamber": "other",
-   "office": "State Representative District 7",
-   "candidates": [
-    {
-     "name": "LARRY LAMBERT",
-     "party": "D",
-     "votes": 5948,
-     "pct": 77.97,
-     "winner": false
-    },
-    {
-     "name": "SHANE STONEMAN",
-     "party": "R",
-     "votes": 1681,
-     "pct": 22.03,
-     "winner": false
-    }
-   ],
-   "total_votes": 7629,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T18",
-   "chamber": "other",
-   "office": "State Representative District 8",
-   "candidates": [
-    {
-     "name": "SHERAE'A \"RAE\" MOORE",
-     "party": "D",
-     "votes": 6761,
-     "pct": 66.12,
-     "winner": false
-    },
-    {
-     "name": "GARY TAYLOR",
-     "party": "R",
-     "votes": 3465,
-     "pct": 33.88,
-     "winner": false
-    }
-   ],
-   "total_votes": 10226,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T19",
-   "chamber": "other",
-   "office": "State Representative District 9",
-   "candidates": [
-    {
-     "name": "AYANNA KHAN-FLOWERS",
-     "party": "D",
-     "votes": 8451,
-     "pct": 64.0,
-     "winner": false
-    },
-    {
-     "name": "JAMAR MONEY",
-     "party": "R",
-     "votes": 4753,
-     "pct": 36.0,
-     "winner": false
-    }
-   ],
-   "total_votes": 13204,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T20",
-   "chamber": "other",
-   "office": "State Representative District 10",
-   "candidates": [
-    {
-     "name": "MELANIE ROSS LEVIN",
-     "party": "D",
-     "votes": 6824,
-     "pct": 69.1,
-     "winner": false
-    },
-    {
-     "name": "DOLORES DUNLEAVY",
-     "party": "R",
-     "votes": 3052,
-     "pct": 30.9,
-     "winner": false
-    }
-   ],
-   "total_votes": 9876,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T21",
-   "chamber": "other",
-   "office": "State Representative District 11",
-   "candidates": [
-    {
-     "name": "TORI PARKER",
-     "party": "D",
-     "votes": 3447,
-     "pct": 38.69,
-     "winner": false
-    },
-    {
-     "name": "JEFFREY N. SPIEGELMAN",
-     "party": "R",
-     "votes": 5463,
-     "pct": 61.31,
-     "winner": false
-    }
-   ],
-   "total_votes": 8910,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T22",
-   "chamber": "other",
-   "office": "State Representative District 12",
-   "candidates": [
-    {
-     "name": "KRISTA GRIFFITH",
-     "party": "D",
-     "votes": 8921,
-     "pct": 69.35,
-     "winner": false
-    },
-    {
-     "name": "STEVE PICKERING",
-     "party": "R",
-     "votes": 3943,
-     "pct": 30.65,
-     "winner": false
-    }
-   ],
-   "total_votes": 12864,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T23",
-   "chamber": "other",
-   "office": "State Representative District 14",
-   "candidates": [
-    {
-     "name": "CLAIRE SNYDER-HALL",
-     "party": "D",
-     "votes": 9564,
-     "pct": 64.43,
-     "winner": false
-    },
-    {
-     "name": "MIKE SIMPLER",
-     "party": "R",
-     "votes": 5280,
-     "pct": 35.57,
-     "winner": false
-    }
-   ],
-   "total_votes": 14844,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T24",
-   "chamber": "other",
-   "office": "State Representative District 16",
-   "candidates": [
-    {
-     "name": "PAMELA SALAAM",
-     "party": "D",
-     "votes": 6018,
-     "pct": 84.87,
-     "winner": false
-    },
-    {
-     "name": "ENALA A. MWASHITETE",
-     "party": "R",
-     "votes": 1073,
-     "pct": 15.13,
-     "winner": false
-    }
-   ],
-   "total_votes": 7091,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T25",
-   "chamber": "other",
-   "office": "State Representative District 19",
-   "candidates": [
-    {
-     "name": "KIM WILLIAMS",
-     "party": "D",
-     "votes": 5437,
-     "pct": 68.55,
-     "winner": false
-    },
-    {
-     "name": "JANYCE COLMERY",
-     "party": "R",
-     "votes": 2495,
-     "pct": 31.45,
-     "winner": false
-    }
-   ],
-   "total_votes": 7932,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T26",
-   "chamber": "other",
-   "office": "State Representative District 20",
-   "candidates": [
-    {
-     "name": "ALONNA BERRY",
-     "party": "D",
-     "votes": 8397,
-     "pct": 56.07,
-     "winner": false
-    },
-    {
-     "name": "GENE DVORNICK",
-     "party": "R",
-     "votes": 6579,
-     "pct": 43.93,
-     "winner": false
-    }
-   ],
-   "total_votes": 14976,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T27",
-   "chamber": "other",
-   "office": "State Representative District 22",
-   "candidates": [
-    {
-     "name": "ALEX GREEN",
-     "party": "D",
-     "votes": 5494,
-     "pct": 46.19,
-     "winner": false
-    },
-    {
-     "name": "MIKE SMITH",
-     "party": "R",
-     "votes": 6400,
-     "pct": 53.81,
-     "winner": false
-    }
-   ],
-   "total_votes": 11894,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T28",
-   "chamber": "other",
-   "office": "State Representative District 24",
-   "candidates": [
-    {
-     "name": "ED OSIENSKI",
-     "party": "D",
-     "votes": 5047,
-     "pct": 75.54,
-     "winner": false
-    },
-    {
-     "name": "STEPHEN P. ONDICH",
-     "party": "R",
-     "votes": 1634,
-     "pct": 24.46,
-     "winner": false
-    }
-   ],
-   "total_votes": 6681,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T29",
-   "chamber": "other",
-   "office": "State Representative District 27",
-   "candidates": [
-    {
-     "name": "ERIC MORRISON",
-     "party": "D",
-     "votes": 6387,
-     "pct": 61.81,
-     "winner": false
-    },
-    {
-     "name": "MARY \"PENNY\" KUBIN",
-     "party": "R",
-     "votes": 3947,
-     "pct": 38.19,
-     "winner": false
-    }
-   ],
-   "total_votes": 10334,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T30",
-   "chamber": "other",
-   "office": "State Representative District 31",
-   "candidates": [
-    {
-     "name": "SEAN M. LYNN",
-     "party": "D",
-     "votes": 5148,
-     "pct": 76.86,
-     "winner": false
-    },
-    {
-     "name": "ANTON BROGDEN",
-     "party": "R",
-     "votes": 1550,
-     "pct": 23.14,
-     "winner": false
-    }
-   ],
-   "total_votes": 6698,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T31",
-   "chamber": "other",
-   "office": "State Representative District 33",
-   "candidates": [
-    {
-     "name": "JOSHUA PENNINGTON",
-     "party": "D",
-     "votes": 4121,
-     "pct": 45.48,
-     "winner": false
-    },
-    {
-     "name": "MORGAN HUDSON",
-     "party": "R",
-     "votes": 4941,
-     "pct": 54.52,
-     "winner": false
-    }
-   ],
-   "total_votes": 9062,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T32",
-   "chamber": "other",
-   "office": "State Representative District 34",
-   "candidates": [
-    {
-     "name": "ANNIE NORMAN",
-     "party": "D",
-     "votes": 4905,
-     "pct": 50.78,
-     "winner": false
-    },
-    {
-     "name": "LYNDON D. YEARICK",
-     "party": "R",
-     "votes": 4755,
-     "pct": 49.22,
-     "winner": false
-    }
-   ],
-   "total_votes": 9660,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T33",
-   "chamber": "other",
-   "office": "State Representative District 36",
-   "candidates": [
-    {
-     "name": "ANDREW \"ANDY\" GORLICH",
-     "party": "D",
-     "votes": 4466,
-     "pct": 46.11,
-     "winner": false
-    },
-    {
-     "name": "BRYAN WILLIAM SHUPE",
-     "party": "R",
-     "votes": 5220,
-     "pct": 53.89,
-     "winner": false
-    }
-   ],
-   "total_votes": 9686,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T34",
-   "chamber": "other",
-   "office": "State Representative District 38",
-   "candidates": [
-    {
-     "name": "MAUREEN MADDEN",
-     "party": "D",
-     "votes": 8065,
-     "pct": 45.14,
-     "winner": false
-    },
-    {
-     "name": "CARLIE CAREY",
-     "party": "R",
-     "votes": 9803,
-     "pct": 54.86,
-     "winner": false
-    }
-   ],
-   "total_votes": 17868,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T35",
-   "chamber": "other",
-   "office": "State Representative District 41",
-   "candidates": [
-    {
-     "name": "RYAN STUCKEY",
-     "party": "D",
-     "votes": 5441,
-     "pct": 46.85,
-     "winner": false
-    },
-    {
-     "name": "JOHN ATKINS",
-     "party": "R",
-     "votes": 6173,
-     "pct": 53.15,
-     "winner": false
-    }
-   ],
-   "total_votes": 11614,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T36",
-   "chamber": "other",
-   "office": "New Castle County Council District 2",
-   "candidates": [
-    {
-     "name": "DEE DURHAM",
-     "party": "D",
-     "votes": 14222,
-     "pct": 66.98,
-     "winner": false
-    },
-    {
-     "name": "JAMIE COLLINS",
-     "party": "R",
-     "votes": 7012,
-     "pct": 33.02,
-     "winner": false
-    }
-   ],
-   "total_votes": 21234,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T37",
-   "chamber": "other",
-   "office": "New Castle County Council District 3",
-   "candidates": [
-    {
-     "name": "KIRA ALEJANDRO",
-     "party": "D",
-     "votes": 13116,
-     "pct": 63.35,
-     "winner": false
-    },
-    {
-     "name": "MELISSA S. BRAYMAN",
-     "party": "R",
-     "votes": 7587,
-     "pct": 36.65,
-     "winner": false
-    }
-   ],
-   "total_votes": 20703,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T38",
-   "chamber": "other",
-   "office": "New Castle County Council District 6",
-   "candidates": [
-    {
-     "name": "DAVID CARTER",
-     "party": "D",
-     "votes": 13017,
-     "pct": 64.21,
-     "winner": false
-    },
-    {
-     "name": "ALISON T. GIBBS",
-     "party": "R",
-     "votes": 7254,
-     "pct": 35.79,
-     "winner": false
-    }
-   ],
-   "total_votes": 20271,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T39",
-   "chamber": "other",
-   "office": "Kent County Recorder of Deeds",
-   "candidates": [
-    {
-     "name": "RAMONA BRACY",
-     "party": "D",
-     "votes": 36232,
-     "pct": 57.39,
-     "winner": false
-    },
-    {
-     "name": "EUGENIA THORNTON",
-     "party": "R",
-     "votes": 26904,
-     "pct": 42.61,
-     "winner": false
-    }
-   ],
-   "total_votes": 63136,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T40",
-   "chamber": "other",
-   "office": "Kent County Levy Court At-Large",
-   "candidates": [
-    {
-     "name": "TERRY L. PEPPER",
-     "party": "D",
-     "votes": 38856,
-     "pct": 61.38,
-     "winner": false
-    },
-    {
-     "name": "FRANK E. COLEMAN",
-     "party": "R",
-     "votes": 24445,
-     "pct": 38.62,
-     "winner": false
-    }
-   ],
-   "total_votes": 63301,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T41",
-   "chamber": "other",
-   "office": "Sussex County Council District 4",
-   "candidates": [
-    {
-     "name": "JUSTINE CUCCIA",
-     "party": "D",
-     "votes": 12988,
-     "pct": 44.49,
-     "winner": false
-    },
-    {
-     "name": "DOUGLAS B. HUDSON",
-     "party": "R",
-     "votes": 16202,
-     "pct": 55.51,
-     "winner": false
-    }
-   ],
-   "total_votes": 29190,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T42",
-   "chamber": "other",
-   "office": "Sussex County Council District 5",
-   "candidates": [
-    {
-     "name": "JILL HICKS",
-     "party": "D",
-     "votes": 11251,
-     "pct": 51.36,
-     "winner": false
-    },
-    {
-     "name": "JOHN L. RIELEY",
-     "party": "R",
-     "votes": 10657,
-     "pct": 48.64,
-     "winner": false
-    }
-   ],
-   "total_votes": 21908,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T43",
-   "chamber": "senate",
-   "office": "U.S. Senator",
-   "candidates": [
-    {
-     "name": "CHRIS COONS",
-     "party": "D",
-     "votes": 240347,
-     "pct": 63.57,
-     "winner": false
-    },
-    {
-     "name": "MICHAEL \"DR. MIKE\" KATZ",
-     "party": "R",
-     "votes": 137764,
-     "pct": 36.43,
-     "winner": false
-    }
-   ],
-   "total_votes": 378111,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T44",
-   "chamber": "house",
-   "office": "Representative In Congress",
-   "candidates": [
-    {
-     "name": "SARAH MCBRIDE",
-     "party": "D",
-     "votes": 243467,
-     "pct": 64.34,
-     "winner": false
-    },
-    {
-     "name": "JOSEPH \"DR. JOE\" ARMINIO",
-     "party": "R",
-     "votes": 134966,
-     "pct": 35.66,
-     "winner": false
-    }
-   ],
-   "total_votes": 378433,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T45",
-   "chamber": "other",
-   "office": "Attorney General",
-   "candidates": [
-    {
-     "name": "KATHY JENNINGS",
-     "party": "D",
-     "votes": 240429,
-     "pct": 63.62,
-     "winner": false
-    },
-    {
-     "name": "DAVID C. \"DAVE\" GRAHAM",
-     "party": "R",
-     "votes": 137464,
-     "pct": 36.38,
-     "winner": false
-    }
-   ],
-   "total_votes": 377893,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T46",
-   "chamber": "other",
-   "office": "Auditor of Accounts",
-   "candidates": [
-    {
-     "name": "LYDIA YORK",
-     "party": "D",
-     "votes": 227502,
-     "pct": 60.39,
-     "winner": false
-    },
-    {
-     "name": "APRIL CALLAWAY",
-     "party": "R",
-     "votes": 130879,
-     "pct": 34.74,
-     "winner": false
-    },
-    {
-     "name": "AUSTIN CASSIDY",
-     "party": "O",
-     "votes": 18365,
-     "pct": 4.87,
-     "winner": false
-    }
-   ],
-   "total_votes": 376746,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T47",
-   "chamber": "other",
-   "office": "State Treasurer",
-   "candidates": [
-    {
-     "name": "TED LAUZEN",
-     "party": "D",
-     "votes": 235597,
-     "pct": 62.43,
-     "winner": false
-    },
-    {
-     "name": "MICHAEL RAMONE",
-     "party": "R",
-     "votes": 141755,
-     "pct": 37.57,
-     "winner": false
-    }
-   ],
-   "total_votes": 377352,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T48",
-   "chamber": "other",
-   "office": "State Senator District 1",
-   "candidates": [
-    {
-     "name": "DAN CRUCE",
-     "party": "D",
-     "votes": 14558,
-     "pct": 76.28,
-     "winner": false
-    },
-    {
-     "name": "HILDI BACHTLE",
-     "party": "R",
-     "votes": 3558,
-     "pct": 18.64,
-     "winner": false
-    },
-    {
-     "name": "STEVEN WASHINGTON",
-     "party": "O",
-     "votes": 968,
-     "pct": 5.07,
-     "winner": false
-    }
-   ],
-   "total_votes": 19084,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T49",
-   "chamber": "other",
-   "office": "State Senator District 5",
-   "candidates": [
-    {
-     "name": "SHAY FRISBY",
-     "party": "D",
-     "votes": 12275,
-     "pct": 68.61,
-     "winner": false
-    },
-    {
-     "name": "BRENT BURDGE",
-     "party": "R",
-     "votes": 4823,
-     "pct": 26.96,
-     "winner": false
-    },
-    {
-     "name": "CAROLYN FRANK",
-     "party": "O",
-     "votes": 792,
-     "pct": 4.43,
-     "winner": false
-    }
-   ],
-   "total_votes": 17890,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T50",
-   "chamber": "other",
-   "office": "State Senator District 7",
-   "candidates": [
-    {
-     "name": "SPIROS MANTZAVINOS",
-     "party": "D",
-     "votes": 10136,
-     "pct": 67.28,
-     "winner": false
-    },
-    {
-     "name": "CHRIS ROWE",
-     "party": "R",
-     "votes": 4929,
-     "pct": 32.72,
-     "winner": false
-    }
-   ],
-   "total_votes": 15065,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T51",
-   "chamber": "other",
-   "office": "State Senator District 8",
-   "candidates": [
-    {
-     "name": "MARA GORMAN",
-     "party": "D",
-     "votes": 9538,
-     "pct": 66.38,
-     "winner": false
-    },
-    {
-     "name": "SHANE CAVANAUGH",
-     "party": "R",
-     "votes": 4830,
-     "pct": 33.62,
-     "winner": false
-    }
-   ],
-   "total_votes": 14368,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T52",
-   "chamber": "other",
-   "office": "State Senator District 12",
-   "candidates": [
-    {
-     "name": "NICOLE POORE",
-     "party": "D",
-     "votes": 14503,
-     "pct": 72.47,
-     "winner": false
-    },
-    {
-     "name": "MARK ESPOSITO",
-     "party": "R",
-     "votes": 5510,
-     "pct": 27.53,
-     "winner": false
-    }
-   ],
-   "total_votes": 20013,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T53",
-   "chamber": "other",
-   "office": "State Senator District 14",
-   "candidates": [
-    {
-     "name": "KYRA L. HOFFNER",
-     "party": "D",
-     "votes": 12243,
-     "pct": 62.17,
-     "winner": false
-    },
-    {
-     "name": "MARK PUGH",
-     "party": "R",
-     "votes": 7451,
-     "pct": 37.83,
-     "winner": false
-    }
-   ],
-   "total_votes": 19694,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T54",
-   "chamber": "other",
-   "office": "State Senator District 15",
-   "candidates": [
-    {
-     "name": "NISHA LODHAVIA",
-     "party": "D",
-     "votes": 7823,
-     "pct": 43.21,
-     "winner": false
-    },
-    {
-     "name": "EMILY A. THOMPSON",
-     "party": "R",
-     "votes": 10281,
-     "pct": 56.79,
-     "winner": false
-    }
-   ],
-   "total_votes": 18104,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T55",
-   "chamber": "other",
-   "office": "State Senator District 20",
-   "candidates": [
-    {
-     "name": "HARRY S. GOLD",
-     "party": "D",
-     "votes": 12858,
-     "pct": 43.52,
-     "winner": false
-    },
-    {
-     "name": "GERALD W. HOCKER",
-     "party": "R",
-     "votes": 16687,
-     "pct": 56.48,
-     "winner": false
-    }
-   ],
-   "total_votes": 29545,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T56",
-   "chamber": "other",
-   "office": "State Representative District 1",
-   "candidates": [
-    {
-     "name": "NNAMDI O. CHUKWUOCHA",
-     "party": "D",
-     "votes": 7145,
-     "pct": 91.26,
-     "winner": false
-    },
-    {
-     "name": "LISA MCINNIS",
-     "party": "R",
-     "votes": 684,
-     "pct": 8.74,
-     "winner": false
-    }
-   ],
-   "total_votes": 7829,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T57",
-   "chamber": "other",
-   "office": "State Representative District 3",
-   "candidates": [
-    {
-     "name": "BRANDEN FLETCHER-DOMINGUEZ",
-     "party": "D",
-     "votes": 4360,
-     "pct": 82.14,
-     "winner": false
-    },
-    {
-     "name": "SHAWN L. DOTTERY",
-     "party": "R",
-     "votes": 543,
-     "pct": 10.23,
-     "winner": false
-    },
-    {
-     "name": "DEXTER \"DIZZY\" BLAND",
-     "party": "O",
-     "votes": 405,
-     "pct": 7.63,
-     "winner": false
-    }
-   ],
-   "total_votes": 5308,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T58",
-   "chamber": "other",
-   "office": "State Representative District 4",
-   "candidates": [
-    {
-     "name": "GREGG LINDNER",
-     "party": "D",
-     "votes": 8039,
-     "pct": 51.21,
-     "winner": false
-    },
-    {
-     "name": "DAN ZITOFSKY",
-     "party": "R",
-     "votes": 7658,
-     "pct": 48.79,
-     "winner": false
-    }
-   ],
-   "total_votes": 15697,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T59",
-   "chamber": "other",
-   "office": "State Representative District 6",
-   "candidates": [
-    {
-     "name": "RACHEL \"RAE\" KRANTZ",
-     "party": "D",
-     "votes": 7455,
-     "pct": 73.05,
-     "winner": false
-    },
-    {
-     "name": "TANYA HETTLER",
-     "party": "R",
-     "votes": 2750,
-     "pct": 26.95,
-     "winner": false
-    }
-   ],
-   "total_votes": 10205,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T60",
-   "chamber": "other",
-   "office": "State Representative District 7",
-   "candidates": [
-    {
-     "name": "LARRY LAMBERT",
-     "party": "D",
-     "votes": 5948,
-     "pct": 77.97,
-     "winner": false
-    },
-    {
-     "name": "SHANE STONEMAN",
-     "party": "R",
-     "votes": 1681,
-     "pct": 22.03,
-     "winner": false
-    }
-   ],
-   "total_votes": 7629,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T61",
-   "chamber": "other",
-   "office": "State Representative District 8",
-   "candidates": [
-    {
-     "name": "SHERAE'A \"RAE\" MOORE",
-     "party": "D",
-     "votes": 6761,
-     "pct": 66.12,
-     "winner": false
-    },
-    {
-     "name": "GARY TAYLOR",
-     "party": "R",
-     "votes": 3465,
-     "pct": 33.88,
-     "winner": false
-    }
-   ],
-   "total_votes": 10226,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T62",
-   "chamber": "other",
-   "office": "State Representative District 9",
-   "candidates": [
-    {
-     "name": "AYANNA KHAN-FLOWERS",
-     "party": "D",
-     "votes": 8451,
-     "pct": 64.0,
-     "winner": false
-    },
-    {
-     "name": "JAMAR MONEY",
-     "party": "R",
-     "votes": 4753,
-     "pct": 36.0,
-     "winner": false
-    }
-   ],
-   "total_votes": 13204,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T63",
-   "chamber": "other",
-   "office": "State Representative District 10",
-   "candidates": [
-    {
-     "name": "MELANIE ROSS LEVIN",
-     "party": "D",
-     "votes": 6824,
-     "pct": 69.1,
-     "winner": false
-    },
-    {
-     "name": "DOLORES DUNLEAVY",
-     "party": "R",
-     "votes": 3052,
-     "pct": 30.9,
-     "winner": false
-    }
-   ],
-   "total_votes": 9876,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T64",
-   "chamber": "other",
-   "office": "State Representative District 11",
-   "candidates": [
-    {
-     "name": "TORI PARKER",
-     "party": "D",
-     "votes": 3447,
-     "pct": 38.69,
-     "winner": false
-    },
-    {
-     "name": "JEFFREY N. SPIEGELMAN",
-     "party": "R",
-     "votes": 5463,
-     "pct": 61.31,
-     "winner": false
-    }
-   ],
-   "total_votes": 8910,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T65",
-   "chamber": "other",
-   "office": "State Representative District 12",
-   "candidates": [
-    {
-     "name": "KRISTA GRIFFITH",
-     "party": "D",
-     "votes": 8921,
-     "pct": 69.35,
-     "winner": false
-    },
-    {
-     "name": "STEVE PICKERING",
-     "party": "R",
-     "votes": 3943,
-     "pct": 30.65,
-     "winner": false
-    }
-   ],
-   "total_votes": 12864,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T66",
-   "chamber": "other",
-   "office": "State Representative District 14",
-   "candidates": [
-    {
-     "name": "CLAIRE SNYDER-HALL",
-     "party": "D",
-     "votes": 9564,
-     "pct": 64.43,
-     "winner": false
-    },
-    {
-     "name": "MIKE SIMPLER",
-     "party": "R",
-     "votes": 5280,
-     "pct": 35.57,
-     "winner": false
-    }
-   ],
-   "total_votes": 14844,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T67",
-   "chamber": "other",
-   "office": "State Representative District 16",
-   "candidates": [
-    {
-     "name": "PAMELA SALAAM",
-     "party": "D",
-     "votes": 6018,
-     "pct": 84.87,
-     "winner": false
-    },
-    {
-     "name": "ENALA A. MWASHITETE",
-     "party": "R",
-     "votes": 1073,
-     "pct": 15.13,
-     "winner": false
-    }
-   ],
-   "total_votes": 7091,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T68",
-   "chamber": "other",
-   "office": "State Representative District 19",
-   "candidates": [
-    {
-     "name": "KIM WILLIAMS",
-     "party": "D",
-     "votes": 5437,
-     "pct": 68.55,
-     "winner": false
-    },
-    {
-     "name": "JANYCE COLMERY",
-     "party": "R",
-     "votes": 2495,
-     "pct": 31.45,
-     "winner": false
-    }
-   ],
-   "total_votes": 7932,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T69",
-   "chamber": "other",
-   "office": "State Representative District 20",
-   "candidates": [
-    {
-     "name": "ALONNA BERRY",
-     "party": "D",
-     "votes": 8397,
-     "pct": 56.07,
-     "winner": false
-    },
-    {
-     "name": "GENE DVORNICK",
-     "party": "R",
-     "votes": 6579,
-     "pct": 43.93,
-     "winner": false
-    }
-   ],
-   "total_votes": 14976,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T70",
-   "chamber": "other",
-   "office": "State Representative District 22",
-   "candidates": [
-    {
-     "name": "ALEX GREEN",
-     "party": "D",
-     "votes": 5494,
-     "pct": 46.19,
-     "winner": false
-    },
-    {
-     "name": "MIKE SMITH",
-     "party": "R",
-     "votes": 6400,
-     "pct": 53.81,
-     "winner": false
-    }
-   ],
-   "total_votes": 11894,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T71",
-   "chamber": "other",
-   "office": "State Representative District 24",
-   "candidates": [
-    {
-     "name": "ED OSIENSKI",
-     "party": "D",
-     "votes": 5047,
-     "pct": 75.54,
-     "winner": false
-    },
-    {
-     "name": "STEPHEN P. ONDICH",
-     "party": "R",
-     "votes": 1634,
-     "pct": 24.46,
-     "winner": false
-    }
-   ],
-   "total_votes": 6681,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T72",
-   "chamber": "other",
-   "office": "State Representative District 27",
-   "candidates": [
-    {
-     "name": "ERIC MORRISON",
-     "party": "D",
-     "votes": 6387,
-     "pct": 61.81,
-     "winner": false
-    },
-    {
-     "name": "MARY \"PENNY\" KUBIN",
-     "party": "R",
-     "votes": 3947,
-     "pct": 38.19,
-     "winner": false
-    }
-   ],
-   "total_votes": 10334,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T73",
-   "chamber": "other",
-   "office": "State Representative District 31",
-   "candidates": [
-    {
-     "name": "SEAN M. LYNN",
-     "party": "D",
-     "votes": 5148,
-     "pct": 76.86,
-     "winner": false
-    },
-    {
-     "name": "ANTON BROGDEN",
-     "party": "R",
-     "votes": 1550,
-     "pct": 23.14,
-     "winner": false
-    }
-   ],
-   "total_votes": 6698,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T74",
-   "chamber": "other",
-   "office": "State Representative District 33",
-   "candidates": [
-    {
-     "name": "JOSHUA PENNINGTON",
-     "party": "D",
-     "votes": 4121,
-     "pct": 45.48,
-     "winner": false
-    },
-    {
-     "name": "MORGAN HUDSON",
-     "party": "R",
-     "votes": 4941,
-     "pct": 54.52,
-     "winner": false
-    }
-   ],
-   "total_votes": 9062,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T75",
-   "chamber": "other",
-   "office": "State Representative District 34",
-   "candidates": [
-    {
-     "name": "ANNIE NORMAN",
-     "party": "D",
-     "votes": 4905,
-     "pct": 50.78,
-     "winner": false
-    },
-    {
-     "name": "LYNDON D. YEARICK",
-     "party": "R",
-     "votes": 4755,
-     "pct": 49.22,
-     "winner": false
-    }
-   ],
-   "total_votes": 9660,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T76",
-   "chamber": "other",
-   "office": "State Representative District 36",
-   "candidates": [
-    {
-     "name": "ANDREW \"ANDY\" GORLICH",
-     "party": "D",
-     "votes": 4466,
-     "pct": 46.11,
-     "winner": false
-    },
-    {
-     "name": "BRYAN WILLIAM SHUPE",
-     "party": "R",
-     "votes": 5220,
-     "pct": 53.89,
-     "winner": false
-    }
-   ],
-   "total_votes": 9686,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T77",
-   "chamber": "other",
-   "office": "State Representative District 38",
-   "candidates": [
-    {
-     "name": "MAUREEN MADDEN",
-     "party": "D",
-     "votes": 8065,
-     "pct": 45.14,
-     "winner": false
-    },
-    {
-     "name": "CARLIE CAREY",
-     "party": "R",
-     "votes": 9803,
-     "pct": 54.86,
-     "winner": false
-    }
-   ],
-   "total_votes": 17868,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T78",
-   "chamber": "other",
-   "office": "State Representative District 41",
-   "candidates": [
-    {
-     "name": "RYAN STUCKEY",
-     "party": "D",
-     "votes": 5441,
-     "pct": 46.85,
-     "winner": false
-    },
-    {
-     "name": "JOHN ATKINS",
-     "party": "R",
-     "votes": 6173,
-     "pct": 53.15,
-     "winner": false
-    }
-   ],
-   "total_votes": 11614,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T79",
-   "chamber": "other",
-   "office": "New Castle County Council District 2",
-   "candidates": [
-    {
-     "name": "DEE DURHAM",
-     "party": "D",
-     "votes": 14222,
-     "pct": 66.98,
-     "winner": false
-    },
-    {
-     "name": "JAMIE COLLINS",
-     "party": "R",
-     "votes": 7012,
-     "pct": 33.02,
-     "winner": false
-    }
-   ],
-   "total_votes": 21234,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T80",
-   "chamber": "other",
-   "office": "New Castle County Council District 3",
-   "candidates": [
-    {
-     "name": "KIRA ALEJANDRO",
-     "party": "D",
-     "votes": 13116,
-     "pct": 63.35,
-     "winner": false
-    },
-    {
-     "name": "MELISSA S. BRAYMAN",
-     "party": "R",
-     "votes": 7587,
-     "pct": 36.65,
-     "winner": false
-    }
-   ],
-   "total_votes": 20703,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T81",
-   "chamber": "other",
-   "office": "New Castle County Council District 6",
-   "candidates": [
-    {
-     "name": "DAVID CARTER",
-     "party": "D",
-     "votes": 13017,
-     "pct": 64.21,
-     "winner": false
-    },
-    {
-     "name": "ALISON T. GIBBS",
-     "party": "R",
-     "votes": 7254,
-     "pct": 35.79,
-     "winner": false
-    }
-   ],
-   "total_votes": 20271,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T82",
-   "chamber": "other",
-   "office": "Kent County Recorder of Deeds",
-   "candidates": [
-    {
-     "name": "RAMONA BRACY",
-     "party": "D",
-     "votes": 36232,
-     "pct": 57.39,
-     "winner": false
-    },
-    {
-     "name": "EUGENIA THORNTON",
-     "party": "R",
-     "votes": 26904,
-     "pct": 42.61,
-     "winner": false
-    }
-   ],
-   "total_votes": 63136,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T83",
-   "chamber": "other",
-   "office": "Kent County Levy Court At-Large",
-   "candidates": [
-    {
-     "name": "TERRY L. PEPPER",
-     "party": "D",
-     "votes": 38856,
-     "pct": 61.38,
-     "winner": false
-    },
-    {
-     "name": "FRANK E. COLEMAN",
-     "party": "R",
-     "votes": 24445,
-     "pct": 38.62,
-     "winner": false
-    }
-   ],
-   "total_votes": 63301,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T84",
-   "chamber": "other",
-   "office": "Sussex County Council District 4",
-   "candidates": [
-    {
-     "name": "JUSTINE CUCCIA",
-     "party": "D",
-     "votes": 12988,
-     "pct": 44.49,
-     "winner": false
-    },
-    {
-     "name": "DOUGLAS B. HUDSON",
-     "party": "R",
-     "votes": 16202,
-     "pct": 55.51,
-     "winner": false
-    }
-   ],
-   "total_votes": 29190,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
-  },
-  {
-   "id": "DE-T85",
-   "chamber": "other",
-   "office": "Sussex County Council District 5",
-   "candidates": [
-    {
-     "name": "JILL HICKS",
-     "party": "D",
-     "votes": 11251,
-     "pct": 51.36,
-     "winner": false
-    },
-    {
-     "name": "JOHN L. RIELEY",
-     "party": "R",
-     "votes": 10657,
-     "pct": 48.64,
-     "winner": false
-    }
-   ],
-   "total_votes": 21908,
-   "reporting": null,
-   "called": false,
-   "state": "DE",
-   "state_zh": "特拉华州",
-   "source_id": "DE",
-   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
-   "source_agency": "特拉华州选举委员会",
-   "source_channel": "browser"
   },
   {
    "id": "IA-1000",
@@ -41564,6 +38928,1324 @@
    "source_url": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
    "source_agency": "华盛顿州州务卿",
    "source_channel": "direct"
+  },
+  {
+   "id": "DE-T0",
+   "chamber": "senate",
+   "office": "U.S. Senator",
+   "candidates": [
+    {
+     "name": "CHRIS COONS",
+     "party": "D",
+     "votes": 240347,
+     "pct": 63.57,
+     "winner": false
+    },
+    {
+     "name": "MICHAEL \"DR. MIKE\" KATZ",
+     "party": "R",
+     "votes": 137764,
+     "pct": 36.43,
+     "winner": false
+    }
+   ],
+   "total_votes": 378111,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T1",
+   "chamber": "house",
+   "office": "Representative In Congress",
+   "candidates": [
+    {
+     "name": "SARAH MCBRIDE",
+     "party": "D",
+     "votes": 243467,
+     "pct": 64.34,
+     "winner": false
+    },
+    {
+     "name": "JOSEPH \"DR. JOE\" ARMINIO",
+     "party": "R",
+     "votes": 134966,
+     "pct": 35.66,
+     "winner": false
+    }
+   ],
+   "total_votes": 378433,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T2",
+   "chamber": "other",
+   "office": "Attorney General",
+   "candidates": [
+    {
+     "name": "KATHY JENNINGS",
+     "party": "D",
+     "votes": 240429,
+     "pct": 63.62,
+     "winner": false
+    },
+    {
+     "name": "DAVID C. \"DAVE\" GRAHAM",
+     "party": "R",
+     "votes": 137464,
+     "pct": 36.38,
+     "winner": false
+    }
+   ],
+   "total_votes": 377893,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T3",
+   "chamber": "other",
+   "office": "Auditor of Accounts",
+   "candidates": [
+    {
+     "name": "LYDIA YORK",
+     "party": "D",
+     "votes": 227502,
+     "pct": 60.39,
+     "winner": false
+    },
+    {
+     "name": "APRIL CALLAWAY",
+     "party": "R",
+     "votes": 130879,
+     "pct": 34.74,
+     "winner": false
+    },
+    {
+     "name": "AUSTIN CASSIDY",
+     "party": "O",
+     "votes": 18365,
+     "pct": 4.87,
+     "winner": false
+    }
+   ],
+   "total_votes": 376746,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T4",
+   "chamber": "other",
+   "office": "State Treasurer",
+   "candidates": [
+    {
+     "name": "TED LAUZEN",
+     "party": "D",
+     "votes": 235597,
+     "pct": 62.43,
+     "winner": false
+    },
+    {
+     "name": "MICHAEL RAMONE",
+     "party": "R",
+     "votes": 141755,
+     "pct": 37.57,
+     "winner": false
+    }
+   ],
+   "total_votes": 377352,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T5",
+   "chamber": "other",
+   "office": "State Senator District 1",
+   "candidates": [
+    {
+     "name": "DAN CRUCE",
+     "party": "D",
+     "votes": 14558,
+     "pct": 76.28,
+     "winner": false
+    },
+    {
+     "name": "HILDI BACHTLE",
+     "party": "R",
+     "votes": 3558,
+     "pct": 18.64,
+     "winner": false
+    },
+    {
+     "name": "STEVEN WASHINGTON",
+     "party": "O",
+     "votes": 968,
+     "pct": 5.07,
+     "winner": false
+    }
+   ],
+   "total_votes": 19084,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T6",
+   "chamber": "other",
+   "office": "State Senator District 5",
+   "candidates": [
+    {
+     "name": "SHAY FRISBY",
+     "party": "D",
+     "votes": 12275,
+     "pct": 68.61,
+     "winner": false
+    },
+    {
+     "name": "BRENT BURDGE",
+     "party": "R",
+     "votes": 4823,
+     "pct": 26.96,
+     "winner": false
+    },
+    {
+     "name": "CAROLYN FRANK",
+     "party": "O",
+     "votes": 792,
+     "pct": 4.43,
+     "winner": false
+    }
+   ],
+   "total_votes": 17890,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T7",
+   "chamber": "other",
+   "office": "State Senator District 7",
+   "candidates": [
+    {
+     "name": "SPIROS MANTZAVINOS",
+     "party": "D",
+     "votes": 10136,
+     "pct": 67.28,
+     "winner": false
+    },
+    {
+     "name": "CHRIS ROWE",
+     "party": "R",
+     "votes": 4929,
+     "pct": 32.72,
+     "winner": false
+    }
+   ],
+   "total_votes": 15065,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T8",
+   "chamber": "other",
+   "office": "State Senator District 8",
+   "candidates": [
+    {
+     "name": "MARA GORMAN",
+     "party": "D",
+     "votes": 9538,
+     "pct": 66.38,
+     "winner": false
+    },
+    {
+     "name": "SHANE CAVANAUGH",
+     "party": "R",
+     "votes": 4830,
+     "pct": 33.62,
+     "winner": false
+    }
+   ],
+   "total_votes": 14368,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T9",
+   "chamber": "other",
+   "office": "State Senator District 12",
+   "candidates": [
+    {
+     "name": "NICOLE POORE",
+     "party": "D",
+     "votes": 14503,
+     "pct": 72.47,
+     "winner": false
+    },
+    {
+     "name": "MARK ESPOSITO",
+     "party": "R",
+     "votes": 5510,
+     "pct": 27.53,
+     "winner": false
+    }
+   ],
+   "total_votes": 20013,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T10",
+   "chamber": "other",
+   "office": "State Senator District 14",
+   "candidates": [
+    {
+     "name": "KYRA L. HOFFNER",
+     "party": "D",
+     "votes": 12243,
+     "pct": 62.17,
+     "winner": false
+    },
+    {
+     "name": "MARK PUGH",
+     "party": "R",
+     "votes": 7451,
+     "pct": 37.83,
+     "winner": false
+    }
+   ],
+   "total_votes": 19694,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T11",
+   "chamber": "other",
+   "office": "State Senator District 15",
+   "candidates": [
+    {
+     "name": "NISHA LODHAVIA",
+     "party": "D",
+     "votes": 7823,
+     "pct": 43.21,
+     "winner": false
+    },
+    {
+     "name": "EMILY A. THOMPSON",
+     "party": "R",
+     "votes": 10281,
+     "pct": 56.79,
+     "winner": false
+    }
+   ],
+   "total_votes": 18104,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T12",
+   "chamber": "other",
+   "office": "State Senator District 20",
+   "candidates": [
+    {
+     "name": "HARRY S. GOLD",
+     "party": "D",
+     "votes": 12858,
+     "pct": 43.52,
+     "winner": false
+    },
+    {
+     "name": "GERALD W. HOCKER",
+     "party": "R",
+     "votes": 16687,
+     "pct": 56.48,
+     "winner": false
+    }
+   ],
+   "total_votes": 29545,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T13",
+   "chamber": "other",
+   "office": "State Representative District 1",
+   "candidates": [
+    {
+     "name": "NNAMDI O. CHUKWUOCHA",
+     "party": "D",
+     "votes": 7145,
+     "pct": 91.26,
+     "winner": false
+    },
+    {
+     "name": "LISA MCINNIS",
+     "party": "R",
+     "votes": 684,
+     "pct": 8.74,
+     "winner": false
+    }
+   ],
+   "total_votes": 7829,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T14",
+   "chamber": "other",
+   "office": "State Representative District 3",
+   "candidates": [
+    {
+     "name": "BRANDEN FLETCHER-DOMINGUEZ",
+     "party": "D",
+     "votes": 4360,
+     "pct": 82.14,
+     "winner": false
+    },
+    {
+     "name": "SHAWN L. DOTTERY",
+     "party": "R",
+     "votes": 543,
+     "pct": 10.23,
+     "winner": false
+    },
+    {
+     "name": "DEXTER \"DIZZY\" BLAND",
+     "party": "O",
+     "votes": 405,
+     "pct": 7.63,
+     "winner": false
+    }
+   ],
+   "total_votes": 5308,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T15",
+   "chamber": "other",
+   "office": "State Representative District 4",
+   "candidates": [
+    {
+     "name": "GREGG LINDNER",
+     "party": "D",
+     "votes": 8039,
+     "pct": 51.21,
+     "winner": false
+    },
+    {
+     "name": "DAN ZITOFSKY",
+     "party": "R",
+     "votes": 7658,
+     "pct": 48.79,
+     "winner": false
+    }
+   ],
+   "total_votes": 15697,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T16",
+   "chamber": "other",
+   "office": "State Representative District 6",
+   "candidates": [
+    {
+     "name": "RACHEL \"RAE\" KRANTZ",
+     "party": "D",
+     "votes": 7455,
+     "pct": 73.05,
+     "winner": false
+    },
+    {
+     "name": "TANYA HETTLER",
+     "party": "R",
+     "votes": 2750,
+     "pct": 26.95,
+     "winner": false
+    }
+   ],
+   "total_votes": 10205,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T17",
+   "chamber": "other",
+   "office": "State Representative District 7",
+   "candidates": [
+    {
+     "name": "LARRY LAMBERT",
+     "party": "D",
+     "votes": 5948,
+     "pct": 77.97,
+     "winner": false
+    },
+    {
+     "name": "SHANE STONEMAN",
+     "party": "R",
+     "votes": 1681,
+     "pct": 22.03,
+     "winner": false
+    }
+   ],
+   "total_votes": 7629,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T18",
+   "chamber": "other",
+   "office": "State Representative District 8",
+   "candidates": [
+    {
+     "name": "SHERAE'A \"RAE\" MOORE",
+     "party": "D",
+     "votes": 6761,
+     "pct": 66.12,
+     "winner": false
+    },
+    {
+     "name": "GARY TAYLOR",
+     "party": "R",
+     "votes": 3465,
+     "pct": 33.88,
+     "winner": false
+    }
+   ],
+   "total_votes": 10226,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T19",
+   "chamber": "other",
+   "office": "State Representative District 9",
+   "candidates": [
+    {
+     "name": "AYANNA KHAN-FLOWERS",
+     "party": "D",
+     "votes": 8451,
+     "pct": 64.0,
+     "winner": false
+    },
+    {
+     "name": "JAMAR MONEY",
+     "party": "R",
+     "votes": 4753,
+     "pct": 36.0,
+     "winner": false
+    }
+   ],
+   "total_votes": 13204,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T20",
+   "chamber": "other",
+   "office": "State Representative District 10",
+   "candidates": [
+    {
+     "name": "MELANIE ROSS LEVIN",
+     "party": "D",
+     "votes": 6824,
+     "pct": 69.1,
+     "winner": false
+    },
+    {
+     "name": "DOLORES DUNLEAVY",
+     "party": "R",
+     "votes": 3052,
+     "pct": 30.9,
+     "winner": false
+    }
+   ],
+   "total_votes": 9876,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T21",
+   "chamber": "other",
+   "office": "State Representative District 11",
+   "candidates": [
+    {
+     "name": "TORI PARKER",
+     "party": "D",
+     "votes": 3447,
+     "pct": 38.69,
+     "winner": false
+    },
+    {
+     "name": "JEFFREY N. SPIEGELMAN",
+     "party": "R",
+     "votes": 5463,
+     "pct": 61.31,
+     "winner": false
+    }
+   ],
+   "total_votes": 8910,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T22",
+   "chamber": "other",
+   "office": "State Representative District 12",
+   "candidates": [
+    {
+     "name": "KRISTA GRIFFITH",
+     "party": "D",
+     "votes": 8921,
+     "pct": 69.35,
+     "winner": false
+    },
+    {
+     "name": "STEVE PICKERING",
+     "party": "R",
+     "votes": 3943,
+     "pct": 30.65,
+     "winner": false
+    }
+   ],
+   "total_votes": 12864,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T23",
+   "chamber": "other",
+   "office": "State Representative District 14",
+   "candidates": [
+    {
+     "name": "CLAIRE SNYDER-HALL",
+     "party": "D",
+     "votes": 9564,
+     "pct": 64.43,
+     "winner": false
+    },
+    {
+     "name": "MIKE SIMPLER",
+     "party": "R",
+     "votes": 5280,
+     "pct": 35.57,
+     "winner": false
+    }
+   ],
+   "total_votes": 14844,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T24",
+   "chamber": "other",
+   "office": "State Representative District 16",
+   "candidates": [
+    {
+     "name": "PAMELA SALAAM",
+     "party": "D",
+     "votes": 6018,
+     "pct": 84.87,
+     "winner": false
+    },
+    {
+     "name": "ENALA A. MWASHITETE",
+     "party": "R",
+     "votes": 1073,
+     "pct": 15.13,
+     "winner": false
+    }
+   ],
+   "total_votes": 7091,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T25",
+   "chamber": "other",
+   "office": "State Representative District 19",
+   "candidates": [
+    {
+     "name": "KIM WILLIAMS",
+     "party": "D",
+     "votes": 5437,
+     "pct": 68.55,
+     "winner": false
+    },
+    {
+     "name": "JANYCE COLMERY",
+     "party": "R",
+     "votes": 2495,
+     "pct": 31.45,
+     "winner": false
+    }
+   ],
+   "total_votes": 7932,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T26",
+   "chamber": "other",
+   "office": "State Representative District 20",
+   "candidates": [
+    {
+     "name": "ALONNA BERRY",
+     "party": "D",
+     "votes": 8397,
+     "pct": 56.07,
+     "winner": false
+    },
+    {
+     "name": "GENE DVORNICK",
+     "party": "R",
+     "votes": 6579,
+     "pct": 43.93,
+     "winner": false
+    }
+   ],
+   "total_votes": 14976,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T27",
+   "chamber": "other",
+   "office": "State Representative District 22",
+   "candidates": [
+    {
+     "name": "ALEX GREEN",
+     "party": "D",
+     "votes": 5494,
+     "pct": 46.19,
+     "winner": false
+    },
+    {
+     "name": "MIKE SMITH",
+     "party": "R",
+     "votes": 6400,
+     "pct": 53.81,
+     "winner": false
+    }
+   ],
+   "total_votes": 11894,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T28",
+   "chamber": "other",
+   "office": "State Representative District 24",
+   "candidates": [
+    {
+     "name": "ED OSIENSKI",
+     "party": "D",
+     "votes": 5047,
+     "pct": 75.54,
+     "winner": false
+    },
+    {
+     "name": "STEPHEN P. ONDICH",
+     "party": "R",
+     "votes": 1634,
+     "pct": 24.46,
+     "winner": false
+    }
+   ],
+   "total_votes": 6681,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T29",
+   "chamber": "other",
+   "office": "State Representative District 27",
+   "candidates": [
+    {
+     "name": "ERIC MORRISON",
+     "party": "D",
+     "votes": 6387,
+     "pct": 61.81,
+     "winner": false
+    },
+    {
+     "name": "MARY \"PENNY\" KUBIN",
+     "party": "R",
+     "votes": 3947,
+     "pct": 38.19,
+     "winner": false
+    }
+   ],
+   "total_votes": 10334,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T30",
+   "chamber": "other",
+   "office": "State Representative District 31",
+   "candidates": [
+    {
+     "name": "SEAN M. LYNN",
+     "party": "D",
+     "votes": 5148,
+     "pct": 76.86,
+     "winner": false
+    },
+    {
+     "name": "ANTON BROGDEN",
+     "party": "R",
+     "votes": 1550,
+     "pct": 23.14,
+     "winner": false
+    }
+   ],
+   "total_votes": 6698,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T31",
+   "chamber": "other",
+   "office": "State Representative District 33",
+   "candidates": [
+    {
+     "name": "JOSHUA PENNINGTON",
+     "party": "D",
+     "votes": 4121,
+     "pct": 45.48,
+     "winner": false
+    },
+    {
+     "name": "MORGAN HUDSON",
+     "party": "R",
+     "votes": 4941,
+     "pct": 54.52,
+     "winner": false
+    }
+   ],
+   "total_votes": 9062,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T32",
+   "chamber": "other",
+   "office": "State Representative District 34",
+   "candidates": [
+    {
+     "name": "ANNIE NORMAN",
+     "party": "D",
+     "votes": 4905,
+     "pct": 50.78,
+     "winner": false
+    },
+    {
+     "name": "LYNDON D. YEARICK",
+     "party": "R",
+     "votes": 4755,
+     "pct": 49.22,
+     "winner": false
+    }
+   ],
+   "total_votes": 9660,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T33",
+   "chamber": "other",
+   "office": "State Representative District 36",
+   "candidates": [
+    {
+     "name": "ANDREW \"ANDY\" GORLICH",
+     "party": "D",
+     "votes": 4466,
+     "pct": 46.11,
+     "winner": false
+    },
+    {
+     "name": "BRYAN WILLIAM SHUPE",
+     "party": "R",
+     "votes": 5220,
+     "pct": 53.89,
+     "winner": false
+    }
+   ],
+   "total_votes": 9686,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T34",
+   "chamber": "other",
+   "office": "State Representative District 38",
+   "candidates": [
+    {
+     "name": "MAUREEN MADDEN",
+     "party": "D",
+     "votes": 8065,
+     "pct": 45.14,
+     "winner": false
+    },
+    {
+     "name": "CARLIE CAREY",
+     "party": "R",
+     "votes": 9803,
+     "pct": 54.86,
+     "winner": false
+    }
+   ],
+   "total_votes": 17868,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T35",
+   "chamber": "other",
+   "office": "State Representative District 41",
+   "candidates": [
+    {
+     "name": "RYAN STUCKEY",
+     "party": "D",
+     "votes": 5441,
+     "pct": 46.85,
+     "winner": false
+    },
+    {
+     "name": "JOHN ATKINS",
+     "party": "R",
+     "votes": 6173,
+     "pct": 53.15,
+     "winner": false
+    }
+   ],
+   "total_votes": 11614,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T36",
+   "chamber": "other",
+   "office": "New Castle County Council District 2",
+   "candidates": [
+    {
+     "name": "DEE DURHAM",
+     "party": "D",
+     "votes": 14222,
+     "pct": 66.98,
+     "winner": false
+    },
+    {
+     "name": "JAMIE COLLINS",
+     "party": "R",
+     "votes": 7012,
+     "pct": 33.02,
+     "winner": false
+    }
+   ],
+   "total_votes": 21234,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T37",
+   "chamber": "other",
+   "office": "New Castle County Council District 3",
+   "candidates": [
+    {
+     "name": "KIRA ALEJANDRO",
+     "party": "D",
+     "votes": 13116,
+     "pct": 63.35,
+     "winner": false
+    },
+    {
+     "name": "MELISSA S. BRAYMAN",
+     "party": "R",
+     "votes": 7587,
+     "pct": 36.65,
+     "winner": false
+    }
+   ],
+   "total_votes": 20703,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T38",
+   "chamber": "other",
+   "office": "New Castle County Council District 6",
+   "candidates": [
+    {
+     "name": "DAVID CARTER",
+     "party": "D",
+     "votes": 13017,
+     "pct": 64.21,
+     "winner": false
+    },
+    {
+     "name": "ALISON T. GIBBS",
+     "party": "R",
+     "votes": 7254,
+     "pct": 35.79,
+     "winner": false
+    }
+   ],
+   "total_votes": 20271,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T39",
+   "chamber": "other",
+   "office": "Kent County Recorder of Deeds",
+   "candidates": [
+    {
+     "name": "RAMONA BRACY",
+     "party": "D",
+     "votes": 36232,
+     "pct": 57.39,
+     "winner": false
+    },
+    {
+     "name": "EUGENIA THORNTON",
+     "party": "R",
+     "votes": 26904,
+     "pct": 42.61,
+     "winner": false
+    }
+   ],
+   "total_votes": 63136,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T40",
+   "chamber": "other",
+   "office": "Kent County Levy Court At-Large",
+   "candidates": [
+    {
+     "name": "TERRY L. PEPPER",
+     "party": "D",
+     "votes": 38856,
+     "pct": 61.38,
+     "winner": false
+    },
+    {
+     "name": "FRANK E. COLEMAN",
+     "party": "R",
+     "votes": 24445,
+     "pct": 38.62,
+     "winner": false
+    }
+   ],
+   "total_votes": 63301,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T41",
+   "chamber": "other",
+   "office": "Sussex County Council District 4",
+   "candidates": [
+    {
+     "name": "JUSTINE CUCCIA",
+     "party": "D",
+     "votes": 12988,
+     "pct": 44.49,
+     "winner": false
+    },
+    {
+     "name": "DOUGLAS B. HUDSON",
+     "party": "R",
+     "votes": 16202,
+     "pct": 55.51,
+     "winner": false
+    }
+   ],
+   "total_votes": 29190,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
+  },
+  {
+   "id": "DE-T42",
+   "chamber": "other",
+   "office": "Sussex County Council District 5",
+   "candidates": [
+    {
+     "name": "JILL HICKS",
+     "party": "D",
+     "votes": 11251,
+     "pct": 51.36,
+     "winner": false
+    },
+    {
+     "name": "JOHN L. RIELEY",
+     "party": "R",
+     "votes": 10657,
+     "pct": 48.64,
+     "winner": false
+    }
+   ],
+   "total_votes": 21908,
+   "reporting": null,
+   "called": false,
+   "state": "DE",
+   "state_zh": "特拉华州",
+   "source_id": "DE",
+   "source_url": "https://elections.delaware.gov/results/enr/GE2026.html",
+   "source_agency": "特拉华州选举委员会",
+   "source_channel": "browser"
   }
  ],
  "states": [
@@ -41612,7 +40294,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T02:07:30.153330+00:00",
    "races": 99,
-   "note": "99 场竞选"
+   "note": "99 场竞选",
+   "stale": true
   },
   {
    "id": "AR",
@@ -41659,7 +40342,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T02:08:01.523195+00:00",
    "races": 285,
-   "note": "285 场竞选"
+   "note": "285 场竞选",
+   "stale": true
   },
   {
    "id": "CT",
@@ -41688,9 +40372,9 @@
    "agency": "特拉华州选举委员会",
    "url": "https://elections.delaware.gov/results/enr/GE2026.html",
    "status": "ok",
-   "updated_at": "2026-11-05T02:08:26.958100+00:00",
-   "races": 86,
-   "note": "86 场竞选"
+   "updated_at": "2026-11-05T02:30:23.871661+00:00",
+   "races": 43,
+   "note": "43 场竞选"
   },
   {
    "id": "DC",
@@ -41817,7 +40501,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T02:09:59.259363+00:00",
    "races": 274,
-   "note": "274 场竞选"
+   "note": "274 场竞选",
+   "stale": true
   },
   {
    "id": "KS",
@@ -42264,7 +40949,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T02:15:25.399751+00:00",
    "races": 295,
-   "note": "295 场竞选"
+   "note": "295 场竞选",
+   "stale": true
   },
   {
    "id": "UT",
@@ -42311,7 +40997,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T02:15:50.170954+00:00",
    "races": 32,
-   "note": "32 场竞选"
+   "note": "32 场竞选",
+   "stale": true
   },
   {
    "id": "WA",
@@ -42326,7 +41013,8 @@
    "status": "ok",
    "updated_at": "2026-11-05T02:15:50.659225+00:00",
    "races": 173,
-   "note": "173 场竞选"
+   "note": "173 场竞选",
+   "stale": true
   },
   {
    "id": "WI",
