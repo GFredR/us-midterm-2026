@@ -39,6 +39,7 @@ PORT = int(os.environ.get("PORT", "3000"))
 INTERVAL = max(60, int(os.environ.get("REFRESH_INTERVAL", "1800")))
 ON_START = os.environ.get("REFRESH_ON_START", "1") not in ("0", "false", "no")
 TIMEOUT = int(os.environ.get("COLLECT_TIMEOUT", "2400"))
+COLLECTOR_OK = False       # 启动时探测决定
 
 LOCK = threading.Lock()
 STATE = {
@@ -49,12 +50,33 @@ STATE = {
     "last_error": None,    # 上次失败原因
     "runs": 0,
     "busy": False,
+    "collector": None,     # 采集器探测结果
     "history": [],         # 最近若干次采集结果摘要
 }
 
 
 def now_iso():
     return datetime.now(timezone.utc).isoformat()
+
+
+def probe_collector():
+    """
+    探测本机能不能真的采集。
+
+    部署沙箱里通常**没有 Chrome**，而且出口 IP 仍被各州官方站的国家级封禁拦着。
+    与其让采集线程每 30 分钟失败一次（还把状态条搞成报错），不如先探明：
+      可用 → 正常周期采集
+      不可用 → 只发静态快照，状态里如实说明，由前端改从 CI 远程快照取数
+    """
+    try:
+        sys.path.insert(0, os.path.join(ROOT, "scripts"))
+        import collect as collector_mod            # noqa: PLC0415
+    except Exception as e:                        # noqa: BLE001
+        return {"available": False, "reason": f"采集器模块不可用: {e}"}
+    chrome = collector_mod.find_chrome()
+    if not chrome:
+        return {"available": False, "reason": "本机没有可用的 Chrome，无法渲染抓取"}
+    return {"available": True, "reason": "", "chrome": chrome}
 
 
 def load_snapshot():
@@ -158,6 +180,10 @@ def save_state():
 
 def worker():
     """后台循环：启动后立刻采一次，之后按 INTERVAL 周期刷新。"""
+    if not COLLECTOR_OK:
+        print(f"[server] 采集能力不可用（{STATE['collector'].get('reason')}）"
+              "，本进程只发静态快照；前端会改从 CI 远程快照取数。", flush=True)
+        return
     if ON_START:
         run_collection("启动")
     while True:
@@ -202,6 +228,7 @@ class Handler(SimpleHTTPRequestHandler):
                     "runs": snap["runs"],
                     "busy": snap["busy"],
                     "interval_sec": INTERVAL,
+                    "collector": snap.get("collector"),
                     "history": snap["history"],
                     "server_time": now_iso(),
                 }
@@ -209,6 +236,12 @@ class Handler(SimpleHTTPRequestHandler):
                               "application/json; charset=utf-8")
 
         if path == "/api/refresh":
+            if not COLLECTOR_OK:
+                return self._send(503, json.dumps({
+                    "accepted": False,
+                    "error": "本部署环境没有可用的 Chrome，无法在服务端采集",
+                    "detail": (STATE.get("collector") or {}).get("reason", ""),
+                }, ensure_ascii=False).encode("utf-8"), "application/json; charset=utf-8")
             # 异步触发：立刻返回，真正的采集在后台线程跑
             threading.Thread(target=run_collection, args=("手动",), daemon=True).start()
             return self._send(202, json.dumps({"accepted": True, "note": "采集已在后台启动"},
@@ -231,8 +264,13 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def main():
+    global COLLECTOR_OK
     print(f"[server] 启动，端口 {PORT}，自动刷新间隔 {INTERVAL}s", flush=True)
     load_snapshot()
+    STATE["collector"] = probe_collector()
+    COLLECTOR_OK = bool(STATE["collector"].get("available"))
+    print(f"[server] 采集能力：{'可用' if COLLECTOR_OK else '不可用'} "
+          f"{STATE['collector'].get('reason') or STATE['collector'].get('chrome', '')}", flush=True)
     threading.Thread(target=worker, daemon=True).start()
     srv = ThreadingHTTPServer(("0.0.0.0", PORT), Handler)
     srv.daemon_threads = True

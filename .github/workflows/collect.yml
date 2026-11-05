@@ -18,7 +18,8 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    # 浏览器通道每个州最长 90 秒（超时上限），51 个州最坏情况会跑很久，放宽到 90 分钟
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 
@@ -76,3 +77,13 @@ jobs:
           name: collect-log
           path: collect.log
           retention-days: 7
+
+      # 解析失败的州会把原始官方页面存进 data/raw/，这是后续写适配器唯一的依据
+      - name: 上传原始页面存档
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-pages
+          path: data/raw/
+          retention-days: 7
+          if-no-files-found: ignore

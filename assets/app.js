@@ -518,7 +518,20 @@ async function triggerServerRefresh() {
   if (!state.serverMode) return false;
   setRefreshBtn('采集中');
   try {
-    await fetch(SERVER_REFRESH_URL, { cache: 'no-store' });
+    const res = await fetch(SERVER_REFRESH_URL, { cache: 'no-store' });
+    if (!res.ok) {
+      // 服务端明确说了采不了（如部署环境没有 Chrome），把原因带到状态条上
+      const body = await res.json().catch(() => ({}));
+      state.serverStatus = {
+        ...(state.serverStatus || {}),
+        collector: {
+          available: false,
+          reason: body.detail || body.error || ('HTTP ' + res.status),
+        },
+      };
+      setRefreshBtn('');
+      return false;
+    }
   } catch (e) {
     setRefreshBtn('');
     return false;
@@ -649,6 +662,14 @@ function statusNoteHtml(nOk, data) {
     : '当前展示 <b>同源本地快照</b>';
   if (state.serverMode) {
     const st = state.serverStatus || {};
+    const col = st.collector || {};
+    const src = state.dataSource === 'remote'
+      ? '当前展示 <b>CI 远程快照</b>'
+      : '当前展示 <b>服务端快照</b>';
+    if (col.available === false) {
+      return `${base} · 服务端环境无法直连采集（${esc(col.reason || '缺少 Chrome')}），`
+        + `改由 <b>GitHub Actions</b> 每 30 分钟在美国 IP 采集 · ${src}`;
+    }
     const every = Math.round((st.interval_sec || 1800) / 60);
     return `${base} · 服务端每 <b>${every}</b> 分钟自动重抓一次，点「刷新」可立即触发 · ${src}`;
   }

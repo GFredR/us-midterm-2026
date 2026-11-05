@@ -27,23 +27,45 @@
 ```
 us-midterm-2026/
 ├── index.html                 # 站点页面
+├── server.py                  # 可选的服务端形态：周期重抓 + /api/refresh + /api/status
 ├── assets/
+│   ├── config.js              # 数据源配置（本地快照 / CI 远程快照 / 刷新间隔）
 │   ├── styles.css             # 深色主题样式
 │   ├── app.js                 # 前端渲染（席位计算 / 图表 / 表格 / 筛选排序）
 │   └── echarts.min.js         # ECharts 5.5.1（已本地化，无 CDN 依赖）
 ├── data/
 │   ├── election-2026.json     # 归一化后的计票快照（前端读取这个文件）
-│   └── raw/                   # 各州抓取到的原始页面 / JSON，便于复核
-└── scripts/
-    ├── collect.py             # 采集器（Python 标准库，无第三方依赖）
-    ├── browser.mjs            # Chrome CDP 抓取器（应对 JS 挑战 / SPA / iframe / 网络接口嗅探）
-    ├── verify.mjs             # 页面渲染校验（控制台错误 / 关键 DOM / 截图）
-    └── state_sources.json     # 51 个辖区的官方源配置 + 选举结构基准
+│   └── raw/                   # 各州抓取到的原始页面 / JSON，便于复核（不入库）
+├── scripts/
+│   ├── collect.py             # 采集器（Python 标准库，无第三方依赖）
+│   ├── browser.mjs            # Chrome CDP 抓取器（应对 JS 挑战 / SPA / iframe / 网络接口嗅探）
+│   ├── verify.mjs             # 页面渲染校验（控制台错误 / 关键 DOM / 截图）
+│   ├── push_via_api.py        # 代理不通 github.com 时的 GitHub API 推送通道
+│   └── state_sources.json     # 51 个辖区的官方源配置 + 选举结构基准
+└── .github/workflows/
+    └── collect.yml             # GitHub Actions：每 30 分钟在美国 IP 采集并提交快照
 ```
 
 ---
 
-## 三、刷新数据
+## 三、数据怎么保持新鲜
+
+站点有两条独立的更新链路，**互为兜底**：
+
+### 3.1 GitHub Actions（主力）
+
+`.github/workflows/collect.yml` 每 30 分钟在 GitHub 的 runner 上跑一次全量采集，
+把新的 `data/election-2026.json` 提交回仓库。
+
+关键点：**runner 在美国机房，出口 IP 不被各州官方站的国家级封禁拦截**，
+因此能拿到比国内直连多得多的州（Cloudflare 按国家封禁、Imperva、Akamai 这些都挡不住它）。
+
+前端默认从 `https://raw.githubusercontent.com/GFredR/us-midterm-2026/main/data/election-2026.json`
+拉最新快照（见 `assets/config.js`），并与同源本地快照比较 `meta.generated_at`，取较新的一份。
+
+也可以在 Actions 页面手动触发一次。
+
+### 3.2 本机采集（调试 / 自建）
 
 ```bash
 cd us-midterm-2026
@@ -53,6 +75,30 @@ python3 scripts/collect.py --only WA,CO   # 只刷新指定州
 python3 scripts/collect.py --no-browser   # 禁用 Chrome 通道，只用直连
 python3 scripts/collect.py --list         # 查看各州官方源配置
 ```
+
+国内网络下需要本机有可用代理：采集器会读 `HTTPS_PROXY` / `ALL_PROXY` 等环境变量，
+并把代理透传给 Chrome（Chrome 不认这些环境变量，不显式传就会直连失败）。
+
+### 3.3 服务端形态（可选）
+
+`server.py` 让站点自己承担采集：
+
+```bash
+PORT=3000 REFRESH_INTERVAL=1800 python3 server.py
+```
+
+| 环境变量 | 默认 | 含义 |
+|---|---|---|
+| `PORT` | 3000 | 监听端口（部署平台会注入） |
+| `REFRESH_INTERVAL` | 1800 | 自动重抓间隔（秒） |
+| `REFRESH_ON_START` | 1 | 启动后是否立刻采一次 |
+| `COLLECT_TIMEOUT` | 2400 | 单次采集超时（秒） |
+
+采集失败会自动回滚到上一份完好快照，绝不返回半截 JSON。
+
+---
+
+## 三·补、采集器会做的事
 
 采集器会自动：
 

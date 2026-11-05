@@ -712,9 +712,12 @@ def collect_state(cfg, chrome):
     if not races:
         rec["status"] = "pending"
         rec["note"] = "页面可访问但未解析出票数（结果未公布或结构需适配）"
-        if adapter_name == "generic_html" and mode == "direct":
+        # 解析失败也要把原始页面存下来：这是后续写适配器唯一的依据
+        try:
             with open(os.path.join(RAW_DIR, f"{cfg['id']}.html"), "w", encoding="utf-8") as f:
                 f.write(body[:3_000_000])
+        except OSError:
+            pass
         return rec, []
 
     rec["status"] = "ok"
