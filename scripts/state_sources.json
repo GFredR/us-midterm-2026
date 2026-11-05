@@ -100,12 +100,13 @@
    "senate_seats_up": 0,
    "gov_up": true,
    "agency": "亚利桑那州州务卿",
-   "adapter": "generic_html",
-   "url": "https://azsos.gov/elections/results-data",
-   "mode": "browser",
-   "wait": 10000,
+   "adapter": "wa_api_json",
+   "url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
+   "mode": "direct",
    "senate_holder": "",
-   "gov_holder": "D"
+   "gov_holder": "D",
+   "official_page": "https://azsos.gov/elections/results-data",
+   "note": "EnhancedVoting 州级官方 JSON（app.enhancedvoting.com），与 WA/VA 同构"
   },
   {
    "id": "AR",

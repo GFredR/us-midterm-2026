@@ -162,7 +162,9 @@ if (mode === 'enr') {
     fs.writeFileSync(outFile, links || '{}');
     console.error(`链接已写入 ${outFile}`);
   } else {
-    // 主体 + 同源 iframe 内容
+    // 主体 + 所有 iframe（含跨域）的内容
+    // 同源 iframe 用 f.contentDocument 能拿，跨域拿不到（会抛安全异常）→ 只能靠 CDP
+    // 在每个 frame 自己的执行上下文里取 outerHTML。
     const html = await evalJs(`(() => {
       const parts = [];
       parts.push('<!-- MAIN FRAME -->\\n' + document.documentElement.outerHTML);
@@ -171,12 +173,40 @@ if (mode === 'enr') {
         try {
           const d = f.contentDocument;
           if (d) parts.push('\\n<!-- FRAME ' + i + ' ' + (f.src||'') + ' -->\\n' + d.documentElement.outerHTML);
-        } catch (e) { parts.push('\\n<!-- FRAME ' + i + ' inaccessible -->'); }
+          else parts.push('\\n<!-- FRAME ' + i + ' ' + (f.src||'') + ' cross-origin -->');
+        } catch (e) { parts.push('\\n<!-- FRAME ' + i + ' ' + (f.src||'') + ' inaccessible -->'); }
       });
       return parts.join('\\n');
     })()`);
-    fs.writeFileSync(outFile, html || '');
-    console.error(`页面已写入 ${outFile}（${(html || '').length} 字节）`);
+
+    // 跨域 iframe：用 Page.getFrameTree + 隔离世界逐个取
+    const frameHtml = [];
+    try {
+      const tree = await browser.send('Page.getFrameTree', {}, sessionId);
+      const frameIds = [];
+      (function walk(node) {
+        if (!node) return;
+        if (node.frame && node.frame.id) frameIds.push(node.frame.id);
+        (node.childFrames || []).forEach(walk);
+      })(tree.frameTree);
+      for (const fid of frameIds) {
+        try {
+          const world = await browser.send('Page.createIsolatedWorld', {
+            frameId: fid, worldName: 'elscrape-probe', grantUniveralAccess: true,
+          }, sessionId);
+          const r = await browser.send('Runtime.evaluate', {
+            expression: 'document.documentElement ? document.documentElement.outerHTML : ""',
+            contextId: world.executionContextId, returnByValue: true,
+          }, sessionId);
+          const h = r && r.result && r.result.value;
+          if (h && h.length > 200) frameHtml.push(`<!-- FRAME ${fid} -->\n${h}`);
+        } catch (e) { /* 该 frame 不可读，跳过 */ }
+      }
+    } catch (e) { /* getFrameTree 失败不影响主流程 */ }
+
+    const out = (html || '') + (frameHtml.length ? '\n\n' + frameHtml.join('\n\n') : '');
+    fs.writeFileSync(outFile, out || '');
+    console.error(`页面已写入 ${outFile}（${(out || '').length} 字节，${frameHtml.length} 个 iframe 内容）`);
   }
 }
 
