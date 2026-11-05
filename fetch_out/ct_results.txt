@@ -1,0 +1,1018 @@
+<!-- MAIN FRAME -->
+<html class="no-ie wf-museo-n3-active wf-museo-n5-active wf-museo-n7-inactive wf-museo-i3-inactive wf-museo-i5-inactive wf-museo-i7-inactive wf-museosans-n3-inactive wf-museosans-i3-inactive wf-museosans-n5-inactive wf-museosans-i5-inactive wf-museosans-n7-inactive wf-museosans-i7-inactive wf-opensans-n7-inactive wf-opensans-i7-inactive wf-opensans-i4-inactive wf-opensans-n4-inactive wf-opensans-n6-inactive wf-opensans-i6-inactive wf-active" lang="en" style="height: 100%;"><head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 Error Page</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+            <meta name="robots" content="index, follow">
+
+    
+    <meta property="og:description" content="">
+    <meta property="og:title" content="404 Error Page">
+    <meta property="og:url" content="https://portal.ct.gov/en/404error/?item=%2fsots%2felection-results%2f2026-election-results&amp;user=extranet%5cAnonymous&amp;site=website">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="CT.gov - Connecticut's Official State Website">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="https://portal.ct.gov/Assets/Images/facebook-default_01.png">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="https://portal.ct.gov/en/404error/?item=%2fsots%2felection-results%2f2026-election-results&amp;user=extranet%5cAnonymous&amp;site=website">
+    <meta name="twitter:title" content="404 Error Page">
+    <meta name="twitter:description" content="">
+    
+
+
+<!--Google Search Meta filters starts here-->
+
+    <meta name="pagetype" content="webpages">
+    <!-- <PageMap>
+            <DataObject type="PageData">
+                <Attribute name="type">webpages</Attribute>
+                <Attribute name="metatitle">404 Error Page</Attribute>
+            </DataObject>
+        </PageMap> -->
+<!--Google Search Meta filters ends here-->
+<!--Google Search Rich Snippet FAQ starts here-->
+
+
+
+<!--Google Search Rich Snippet FAQ ends here-->
+    
+
+<link rel="canonical" href="https://portal.ct.gov/404-error-page">
+
+    
+    <link rel="dns-prefetch" href="https://www.google.com">
+    <link rel="dns-prefetch" href="https://www.gstatic.com">
+    <link rel="dns-prefetch" href="https://translate.googleapis.com">
+    <link rel="dns-prefetch" href="https://static.hotjar.com">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+    <link rel="dns-prefetch" href="https://vc.hotjar.io">
+    <link rel="dns-prefetch" href="https://script.hotjar.com">
+    <link rel="dns-prefetch" href="https://vars.hotjar.com">
+    <link rel="dns-prefetch" href="https://rum-static.pingdom.net">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://ipmeta.io">
+    <link rel="dns-prefetch" href="https://use.typekit.net">
+    <link rel="dns-prefetch" href="https://translate.google.com">
+
+
+    
+<meta name="VIcurrentDateTime" content="639294434695489969">
+<meta name="VirtualFolder" content="/">
+<script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KHNQGWP"></script><script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+    <!-- Google Tag Manager -->
+
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push(
+
+                    { 'gtm.start': new Date().getTime(), event: 'gtm.js' }
+                ); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-KHNQGWP');</script>
+        <!-- IpMeta must be included after Google Analytics -->
+        <script src="https://ipmeta.io/plugin.js"></script>
+        <script>
+            var data = provideGtmPlugin({
+                apiKey: '10c1f82633b1a4f3685aa4e6b627aacbf78a898979bd89ce49582af001c8cc50',
+            });
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push(data);
+        </script>
+        <!-- End Google Tag Manager -->
+        <!-- Google Tag Manager (noscript) -->
+    <!-- End Google Tag Manager (noscript) -->
+    <style>
+        :focus {
+            outline: -webkit-focus-ring-color auto 5px !important;
+        }
+    </style>
+
+    
+    <link rel="preload" href="/assets/css/app.css?v=20261031074308" as="style">
+    <link rel="preload" href="/assets/css/dsf-legacy-styles.css?v=20261031074308" as="style">
+
+    
+    <link rel="stylesheet" as="style" media="all" onload="this.media='all'" href="/assets/css/app.css?v=20261031074308">
+
+    <link rel="stylesheet" as="style" media="all" onload="this.media='all'" href="/assets/css/dsf-legacy-styles.css?v=20261031074308">
+
+    
+    <noscript>
+        <link rel="stylesheet" href="/assets/css/app.css?v=20261031074308">
+    </noscript>
+    <noscript>
+        <link rel="stylesheet" href="/assets/css/dsf-legacy-styles.css?v=20261031074308">
+    </noscript>
+
+    
+
+    <!--[if lt IE 9]>
+        <script src="/assets/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <script src="https://use.typekit.net/pyg1doj.js"></script>
+
+    <style type="text/css">.tk-museo{font-family:"museo",serif;}.tk-museo-sans{font-family:"museo-sans",sans-serif;}.tk-open-sans{font-family:"open-sans",sans-serif;}</style><style type="text/css">@font-face{font-family:tk-museo-n3;src:url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-n5;src:url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-n7;src:url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-i3;src:url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-i5;src:url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-i7;src:url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-n3;src:url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-i3;src:url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-n5;src:url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-i5;src:url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-n7;src:url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-i7;src:url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-n7;src:url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-i7;src:url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-i4;src:url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-n4;src:url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-n6;src:url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-i6;src:url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("woff2"),url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("woff"),url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("opentype");font-weight:600;font-style:italic;font-stretch:normal;font-display:auto;}</style><script>try { Typekit.load({ async: true }); } catch (e) { }</script>
+    <script>
+        var _prum = [['id', '5579d063abe53d913a55de35'],
+        ['mark', 'firstbyte', (new Date()).getTime()]];
+        (function () {
+            var s = document.getElementsByTagName('script')[0]
+                , p = document.createElement('script');
+            p.async = 'async';
+            p.src = '//rum-static.pingdom.net/prum.min.js';
+            s.parentNode.insertBefore(p, s);
+        })();
+    </script>
+
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) }
+                ;
+            h._hjSettings =
+                { hjid: 218205, hjsv: 5 }
+                ;
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script><script async="" src="//static.hotjar.com/c/hotjar-218205.js?sv=5"></script>
+    <script src="/assets/js/acc-bundle.js?v=20261031074308"></script>
+<meta class="foundation-mq"><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.zZZZhVqDDCw.L.W.O/am=AAAAAw/d=0/rs=AN8SPfpUkvS-Z71_1qzwNK-AklHkiHZ2gQ/m=el_main_css"><style type="text/css">@font-face{font-family:museo;src:url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("woff2"),url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("woff"),url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("opentype");font-weight:600;font-style:italic;font-stretch:normal;font-display:auto;}</style><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.zh_CN.Hk3D6mreBiY.O/am=AAAAAw/d=1/ed=1/rs=AN8SPfox5P7n-bxVej7H0lkzJRbPCRsXUg/m=el_main"></script></head>
+
+<body class="body-main" style="position: relative; min-height: 100%; top: 0px;">
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHNQGWP" height="0" width="0"
+                    style="display:none;visibility:hidden"></iframe>
+        </noscript>
+    <!--[if lte IE 8]>
+         <div class="browser">
+             <h3>If you are viewing this version of CT.gov, you are using an unsupported browser or you are in Internet Explorer 9 using
+             compatibility mode. This means that the design and layout of the site is not fully supported, however the content of the
+             site is still fully accessible and functional. For the full website experience, please update your browser to one of the
+             following:
+                 <a href="/web/20130921201018/https://www.google.com/intl/en/chrome/browser/">Google Chrome</a>,
+                 <a href="/web/20130921201018/http://www.mozilla.org/en-US/firefox/new/">Firefox</a>,
+                 <a href="/web/20130921201018/http://www.apple.com/safari/">Safari</a>,
+                 <a href="/web/20130921201018/http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer 10</a>         or higher.</h3>
+         </div>
+     <![endif]-->
+    <a tab-index="0" aria-label="skip to content" class="show-on-focus skip-link" href="#mainContent">Skip to Content</a>
+    <a tab-index="0" aria-label="skip to chat" id="skipToChat" class="show-on-focus skip-link" style="display: none;" href="#chatContent">Skip to Chat</a>
+
+    <script>
+        function checkAndShowAnchor() {
+            const helpButton = document.querySelector('.helpButton');
+            const messagesWindow = document.querySelector('.messageWrapper');
+            const messagesArea = document.querySelector('.messageArea');
+            const dialogElement = document.querySelector('div[role="dialog"][aria-labelledby="sidebarDialogAssistiveText"].dockableContainer.showDockableContainer');
+            const anchorTag = document.getElementById('skipToChat');
+
+            if ((helpButton || dialogElement) && anchorTag) {
+                if (dialogElement && !dialogElement.attributes['aria-live'] && !messagesWindow.attributes['aria-live']) {
+
+                    dialogElement.setAttribute('aria-live', 'assertive');
+
+                    messagesWindow.setAttribute('aria-live', 'assertive');
+                    messagesWindow.setAttribute('aria-atomic', 'false');
+
+                    dialogElement.focus();
+                }
+
+                anchorTag.style.display = 'block';
+
+                //if (dialogElement)
+                //    clearInterval(interval);
+            }
+        }
+
+        function skipToChatProcess() {
+            var elementExists = document.getElementsByClassName("helpButtonEnabled")[0];
+            if (elementExists && window.innerWidth > 640) {
+                document.getElementsByClassName("helpButtonEnabled")[0].setAttribute('id', 'chatContent');
+                clearInterval(skip_to_chat_interval);
+            }
+        }
+
+        const interval = setInterval(checkAndShowAnchor, 500);
+        const skip_to_chat_interval = setInterval(skipToChatProcess, 500);
+    </script>
+
+    <noscript>
+        <div class="row">
+            <div class="small-12 columns">
+                <br>
+                <strong>Warning!</strong>
+            </div>
+            <div class="small-12 columns">
+                <p>
+                    It seems that JavaScript is not working in your browser. It could be because it is not supported, or
+                    that JavaScript is intentionally disabled. Some of the features on CT.gov will not function properly
+                    with out javascript enabled.
+                </p>
+            </div>
+        </div>
+    </noscript>
+    <access-bar></access-bar>
+    <div class="off-canvas-wrapper">
+        <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper="">
+            <div class="off-canvas position-right" id="offCanvasRight" data-off-canvas="764ybd-off-canvas" data-position="right" aria-hidden="true">
+                <!-- Close button -->
+                <button class="close-button" aria-label="Close menu" type="button" data-close="">
+                    <span aria-hidden="true">×</span>
+                </button>
+
+                <p class="title">Settings Menu</p>
+                <!-- Menu -->
+                <ul class="settings-menu">
+
+                    <li class="language">
+                        <strong>Language</strong>
+                        <!-- Google Translate Widget -->
+                        <style>
+                            .goog-te-menu-value:before {
+                                background-image: url("/Assets/img/Google_Translate_logo.svg");
+                            }
+                        </style>
+
+                        <div class="language-widget">
+                            <div id="google_translate_element"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage" class="goog-te-gadget-simple" style="white-space: nowrap;"><img src="https://www.google.com/images/cleardot.gif" class="goog-te-gadget-icon" alt="" style="background-image: url(&quot;https://translate.googleapis.com/translate_static/img/te_ctrl3.gif&quot;); background-position: -65px 0px;"><span style="vertical-align: middle;"><a aria-haspopup="true" class="VIpgJd-ZVi9od-xl07Ob-lTBxed" href="#"><span>选择语言</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span style="border-left: 1px solid rgb(187, 187, 187);">​</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span aria-hidden="true" style="color: rgb(118, 118, 118);">▼</span></a></span></div></div></div>
+                        </div>
+                        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async=""></script>
+
+                        <script>
+                            function googleTranslateElementInit() {
+                                new google.translate.TranslateElement(
+                                    {
+                                        pageLanguage: "en",
+                                        includedLanguages: "ar,zh-CN,zh-TW,en,fr,de,ht,hi,it,ko,ps,pl,pt,ru,es,tl,uk,vi",
+                                        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                                        autoDisplay: false
+                                    },
+                                    "google_translate_element"
+                                );
+                            }
+                        </script>
+
+                    </li>
+                    <li class="contrast">
+                        <strong>High Contrast</strong>
+                        <div class="switch">
+                            <input class="switch-input" id="contrast-btn" type="checkbox" name="contrast-btn" tabindex="0">
+                            <label class="switch-paddle notranslate" for="contrast-btn">
+                                <span class="show-for-sr">High Contrast Mode On or Off switch</span>
+                                <span class="switch-active" aria-hidden="true">On</span>
+                                <span class="switch-inactive" aria-hidden="true">Off</span>
+                            </label>
+                        </div>
+                    </li>
+
+                    <li class="font-size">
+                        <strong>Font Size</strong>
+                        <button id="resetFont" title="Reset font size" tabindex="0">
+                            <span class="show-for-sr">
+                                regular
+                                font size
+                            </span>
+                        </button>
+                        <button id="increaseFont" title="Increase font size" tabindex="0">
+                            <span class="show-for-sr">large font size</span>
+                        </button>
+                    </li>
+                    <li>
+                        <a href="/portal/policies/disclaimer/#translate" class="link" title="See Translation Disclaimer" tabindex="0">Disclaimer</a>
+                    </li>
+                    <li>
+                        <button class="link" aria-label="Close menu" type="button" data-close="" style="width: 100%; text-align: left">
+                            Close
+                        </button>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="off-canvas-content" data-off-canvas-content="">
+
+                
+                
+
+
+
+
+
+                
+
+
+                <header class="cg-c-header" role="banner">
+                    <div class="row">
+
+                        <div class="cg-c-logo">
+                            <a class="cg-c-logo__link" href="/" title="CT.gov Home">
+
+                                <img class="cg-c-logo__img" src="/Assets/Images/CT Gov Logo.svg" title="CT.gov Logo" alt="CT.gov Logo">
+                                <span class="cg-c-logo__title">
+                                    Connecticut's Official <br>State Website
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="cg-c-header__menu">
+
+                            <div class="row">
+                                <div class="small-12 medium-10 large-8 columns">
+
+
+
+<div class="cg-c-search cg-c-search--" role="search">
+    <label for="searchVal" class="show-for-sr">Search Bar for CT.gov</label>
+    <input class="cg-c-search__input ui-autocomplete-input" type="search" placeholder="Search Connecticut Government..." id="searchVal" title="Search Connecticut Government" autocomplete="off">
+    <div class="cg-c-search__group-button">
+        <button id="btnSearch" type="submit" class="cg-c-search__button" value="Search">
+            <span class="cg-c-search__icon" aria-hidden="true"></span>
+            <span class="cg-c-search__label show-for-sr">Search</span>
+        </button> 
+    </div>
+</div>                                </div>
+                                <div class="small-12 medium-2 large-4 columns">
+
+                                    <div class="cg-c-settings cg-c-settings--">
+                                        <button class="cg-c-settings__button" title="Language and Visual Settings" data-toggle="offCanvasRight" aria-expanded="false" aria-controls="offCanvasRight">
+                                            <span class="cg-c-settings__icon" aria-hidden="true">
+                                            </span>
+                                            <span class="cg-c-settings__label">
+                                                Language + Settings
+                                            </span>
+                                        </button>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+
+
+                
+                <main id="mainContent" role="main">
+                    
+
+
+
+
+
+
+    <section>
+        <div class="row">
+            
+            <div class="small-12 columns">
+                <div class="main-page-title">
+                    Oops! That page is no longer here.
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-12 columns">
+                
+
+
+
+
+            <div class="content">
+                
+                    <h1 class="show-for-sr">Oops! That page is no longer here.</h1>
+                <p>This error means:</p>
+<ul>
+    <li>The page no longer exists, or</li>
+    <li>The page has moved to a different page or website, or</li>
+    <li>The address was entered incorrectly.&nbsp;</li>
+</ul>
+<p>Please find the new Connecticut Governor and Lt. Governor websites:</p>
+<ul>
+    <li><a href="https://portal.ct.gov/governor/otg-archive" target="_blank">Governor Ned Lamont</a></li>
+    <li><a href="https://portal.ct.gov/lt-governor/otlg-archive" target="_blank">Lt. Governor Susan Bysiewicz&nbsp;</a></li>
+</ul>
+<p>Still Need Help?</p>
+<ul>
+    <li>Use the <em>Search Connecticut Government</em>  above.</li>
+    <li>Return to the&nbsp;<a href="https://portal.ct.gov/">CT.gov Home Page</a>.</li>
+    <li>Locate the appropriate&nbsp;<a href="https://portal.ct.gov/government/departments-and-agencies/departments-and-agencies">Department or Agency</a>.</li>
+</ul>
+            </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+                </main>
+
+                <footer class="footer" role="contentinfo">
+                    
+
+
+
+
+<div class="container">
+    <div class="footer-left">
+       
+        <ul>
+    <li><a href="https://portal.ct.gov/Policies/State-Privacy-Policy">Policies</a></li>
+    <li><a href="https://portal.ct.gov/-/media/sitecore-center/accessibility/it-accessibility-policy-final-for-release-07142025.pdf?rev=bd9ac94fd0bd4b5ea7ed11227682895a&amp;hash=14740C9BD9B5E081B47BBF0D0A5E9CF1" class="pdf-link">Accessibility</a></li>
+    <li><a href="https://portal.ct.gov/About">About CT</a></li>
+    <li><a href="https://portal.ct.gov/Directories">Directories</a></li>
+    <li><a href="https://portal.ct.gov/social_media">Social Media</a></li>
+    <li><a href="https://portal.ct.gov/for_state_employees_footer">For State Employees</a></li>
+</ul>
+            <ul class="flag-status">
+                <li>
+                    <img src="https://portal.ct.gov/-/media/connecticut-interactive/images/resources/usflag240.jpg?rev=270711ee169044df8f0f1faded74b3e5&amp;la=en&amp;h=137&amp;w=240&amp;hash=D92C6A2F5792896DF09B730F82ED65B7" alt="United States Flag">
+                    <a href="/governor/flag-status" title="United States flag status - FULL ">
+                    United States 
+                        <span>
+                            FULL
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <img src="https://portal.ct.gov/-/media/connecticut-interactive/images/resources/ctflag240.jpg?rev=7cd4d6cd249845c49bc61ff823a8f06a&amp;la=en&amp;h=137&amp;w=240&amp;hash=19C228858B5EABC80CB91AECCEF7A268" alt="Connecticut Flag">
+                    <a href="/governor/flag-status" title="Connecticut state flag status - FULL ">
+                        Connecticut
+                        <span>
+                            FULL
+                        </span>
+                    </a>
+                </li>
+            </ul>
+        <p class="copy">
+            ©
+            <a href="/" title="Connecticut's Official State Website">
+                <span class="year">2026</span> CT.gov <span>|</span> Connecticut's Official State Website
+            </a>
+        </p>
+    </div>
+    <div class="footer-right">
+        <a href="http://www.ctvisit.com/" title="Connecticut Still Revolutionary" target="_blank" class="tourism cg-c-open-new-icon">
+            <img src="/assets/images/Connecticut logo.svg" alt="Connecticut Logo">
+        </a>
+    </div>
+</div>
+
+                </footer>
+            <div class="js-off-canvas-exit"></div></div>
+        </div>
+    </div>
+
+
+
+    
+
+<script src="/assets/js/app.js?v=20261031074308"></script><a href="#0" aria-hidden="false" class="backto-top" tabindex="0">Top</a><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div>
+<script src="/Assets/js/Ie-shims.js?v=20261031074308"></script>
+<script src="/assets/js/google.search.js?v=20261031074308"></script>
+<script src="/assets/js/ga-externallink.js?v=20261031074308"></script>
+
+
+
+    <script>
+
+        // Search Left side navigation redirect
+        function gotoGoogleSearch(searchLink) {
+            var url = searchLink + "?q=" + $("#agencySpeceificSearch").val();
+            location.href = url;
+            return true;
+        }
+        // jQuery Ready
+        function gotoGoogleSearchEnter(e, searchLink, sites) {
+            if (e.which == 13 || e.charCode == 13) {
+                e.preventDefault();
+                gotoGoogleSearch(searchLink);
+                return true;
+            }
+        }
+    </script><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="display: none; border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class="VIpgJd-yAWNEb-hvhgNd-Ud7fr"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" width="24" height="24" alt=""><div class=" VIpgJd-yAWNEb-hvhgNd-IuizWc-i3jM8c " dir="ltr">原文</div></div><div class="VIpgJd-yAWNEb-hvhgNd-k77Iif"><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">请对此翻译评分</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">您的反馈将用于改进谷歌翻译</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="翻译质量很棒" aria-label="翻译质量很棒" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="翻译质量很差" aria-label="翻译质量很差" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div>
+
+
+
+<div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><iframe frameborder="0" class="VIpgJd-ZVi9od-xl07Ob-OEVmcd skiptranslate" title="语言翻译微件" style="visibility: visible; box-sizing: content-box; width: 238px; height: 302px; display: none;"></iframe></body></html>
+
+<!-- FRAME 0  -->
+<html><head></head><body></body></html>
+
+<!-- FRAME 1  -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF8"><link rel="stylesheet" type="text/css" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.zZZZhVqDDCw.L.W.O/am=AAAAAw/d=0/rs=AN8SPfpUkvS-Z71_1qzwNK-AklHkiHZ2gQ/m=el_main_css"></head><body scroll="no" style="margin:0px;overflow:hidden" dir="ltr" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" border="0"><div id=":1.menuBody" class="VIpgJd-ZVi9od-vH1Gmf" style="box-sizing: content-box; width: 228px; height: 292px;"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top"><td><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">选择语言</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">中文（简体）</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">阿拉伯语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">波兰语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">德语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">俄语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">法语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">菲律宾语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">海地克里奥尔语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">韩语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">葡萄牙语（巴西）</span></div></a></td><td class="VIpgJd-ZVi9od-vH1Gmf-KrhPNb">&nbsp;</td><td><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">普什图语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">乌克兰语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">西班牙语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">意大利语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">印地语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">越南语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">中文（繁体）</span></div></a></td></tr></tbody></table></div></body></html>
+
+<!-- FRAME 528F6DDDDB51F1C78E0B477C7016B9B6 -->
+<html class="no-ie wf-museo-n3-active wf-museo-n5-active wf-museo-n7-inactive wf-museo-i3-inactive wf-museo-i5-inactive wf-museo-i7-inactive wf-museosans-n3-inactive wf-museosans-i3-inactive wf-museosans-n5-inactive wf-museosans-i5-inactive wf-museosans-n7-inactive wf-museosans-i7-inactive wf-opensans-n7-inactive wf-opensans-i7-inactive wf-opensans-i4-inactive wf-opensans-n4-inactive wf-opensans-n6-inactive wf-opensans-i6-inactive wf-active" lang="en" style="height: 100%;"><head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 Error Page</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+            <meta name="robots" content="index, follow">
+
+    
+    <meta property="og:description" content="">
+    <meta property="og:title" content="404 Error Page">
+    <meta property="og:url" content="https://portal.ct.gov/en/404error/?item=%2fsots%2felection-results%2f2026-election-results&amp;user=extranet%5cAnonymous&amp;site=website">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="CT.gov - Connecticut's Official State Website">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="https://portal.ct.gov/Assets/Images/facebook-default_01.png">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="https://portal.ct.gov/en/404error/?item=%2fsots%2felection-results%2f2026-election-results&amp;user=extranet%5cAnonymous&amp;site=website">
+    <meta name="twitter:title" content="404 Error Page">
+    <meta name="twitter:description" content="">
+    
+
+
+<!--Google Search Meta filters starts here-->
+
+    <meta name="pagetype" content="webpages">
+    <!-- <PageMap>
+            <DataObject type="PageData">
+                <Attribute name="type">webpages</Attribute>
+                <Attribute name="metatitle">404 Error Page</Attribute>
+            </DataObject>
+        </PageMap> -->
+<!--Google Search Meta filters ends here-->
+<!--Google Search Rich Snippet FAQ starts here-->
+
+
+
+<!--Google Search Rich Snippet FAQ ends here-->
+    
+
+<link rel="canonical" href="https://portal.ct.gov/404-error-page">
+
+    
+    <link rel="dns-prefetch" href="https://www.google.com">
+    <link rel="dns-prefetch" href="https://www.gstatic.com">
+    <link rel="dns-prefetch" href="https://translate.googleapis.com">
+    <link rel="dns-prefetch" href="https://static.hotjar.com">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+    <link rel="dns-prefetch" href="https://vc.hotjar.io">
+    <link rel="dns-prefetch" href="https://script.hotjar.com">
+    <link rel="dns-prefetch" href="https://vars.hotjar.com">
+    <link rel="dns-prefetch" href="https://rum-static.pingdom.net">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://ipmeta.io">
+    <link rel="dns-prefetch" href="https://use.typekit.net">
+    <link rel="dns-prefetch" href="https://translate.google.com">
+
+
+    
+<meta name="VIcurrentDateTime" content="639294434695489969">
+<meta name="VirtualFolder" content="/">
+<script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KHNQGWP"></script><script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+    <!-- Google Tag Manager -->
+
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push(
+
+                    { 'gtm.start': new Date().getTime(), event: 'gtm.js' }
+                ); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-KHNQGWP');</script>
+        <!-- IpMeta must be included after Google Analytics -->
+        <script src="https://ipmeta.io/plugin.js"></script>
+        <script>
+            var data = provideGtmPlugin({
+                apiKey: '10c1f82633b1a4f3685aa4e6b627aacbf78a898979bd89ce49582af001c8cc50',
+            });
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push(data);
+        </script>
+        <!-- End Google Tag Manager -->
+        <!-- Google Tag Manager (noscript) -->
+    <!-- End Google Tag Manager (noscript) -->
+    <style>
+        :focus {
+            outline: -webkit-focus-ring-color auto 5px !important;
+        }
+    </style>
+
+    
+    <link rel="preload" href="/assets/css/app.css?v=20261031074308" as="style">
+    <link rel="preload" href="/assets/css/dsf-legacy-styles.css?v=20261031074308" as="style">
+
+    
+    <link rel="stylesheet" as="style" media="all" onload="this.media='all'" href="/assets/css/app.css?v=20261031074308">
+
+    <link rel="stylesheet" as="style" media="all" onload="this.media='all'" href="/assets/css/dsf-legacy-styles.css?v=20261031074308">
+
+    
+    <noscript>
+        <link rel="stylesheet" href="/assets/css/app.css?v=20261031074308">
+    </noscript>
+    <noscript>
+        <link rel="stylesheet" href="/assets/css/dsf-legacy-styles.css?v=20261031074308">
+    </noscript>
+
+    
+
+    <!--[if lt IE 9]>
+        <script src="/assets/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <script src="https://use.typekit.net/pyg1doj.js"></script>
+
+    <style type="text/css">.tk-museo{font-family:"museo",serif;}.tk-museo-sans{font-family:"museo-sans",sans-serif;}.tk-open-sans{font-family:"open-sans",sans-serif;}</style><style type="text/css">@font-face{font-family:tk-museo-n3;src:url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-n5;src:url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-n7;src:url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-i3;src:url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-i5;src:url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-i7;src:url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-n3;src:url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-i3;src:url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-n5;src:url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-i5;src:url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-n7;src:url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-museo-sans-i7;src:url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-n7;src:url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-i7;src:url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-i4;src:url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-n4;src:url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-n6;src:url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:tk-open-sans-i6;src:url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("woff2"),url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("woff"),url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("opentype");font-weight:600;font-style:italic;font-stretch:normal;font-display:auto;}</style><script>try { Typekit.load({ async: true }); } catch (e) { }</script>
+    <script>
+        var _prum = [['id', '5579d063abe53d913a55de35'],
+        ['mark', 'firstbyte', (new Date()).getTime()]];
+        (function () {
+            var s = document.getElementsByTagName('script')[0]
+                , p = document.createElement('script');
+            p.async = 'async';
+            p.src = '//rum-static.pingdom.net/prum.min.js';
+            s.parentNode.insertBefore(p, s);
+        })();
+    </script>
+
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) }
+                ;
+            h._hjSettings =
+                { hjid: 218205, hjsv: 5 }
+                ;
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script><script async="" src="//static.hotjar.com/c/hotjar-218205.js?sv=5"></script>
+    <script src="/assets/js/acc-bundle.js?v=20261031074308"></script>
+<meta class="foundation-mq"><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.zZZZhVqDDCw.L.W.O/am=AAAAAw/d=0/rs=AN8SPfpUkvS-Z71_1qzwNK-AklHkiHZ2gQ/m=el_main_css"><style type="text/css">@font-face{font-family:museo;src:url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/f7c91f/000000000000000000011b23/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/0e7386/000000000000000000011b26/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/8a79e7/000000000000000000011b24/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/9797cd/00000000000000000000ebe4/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/3a47c8/00000000000000000000ebe5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:museo;src:url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/beaa6e/00000000000000000000ebe6/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff2"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("woff"),url(https://use.typekit.net/af/5cca6d/00000000000000000000e802/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3) format("opentype");font-weight:300;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff2"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("woff"),url(https://use.typekit.net/af/a28b50/00000000000000000000e803/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3) format("opentype");font-weight:500;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff2"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("woff"),url(https://use.typekit.net/af/c2d3de/00000000000000000000e804/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3) format("opentype");font-weight:500;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:museo-sans;src:url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/2841b6/00000000000000000000e806/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/2553b3/000000000000000000011c34/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff2"),url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("woff"),url(https://use.typekit.net/af/8f2f8d/000000000000000000011c35/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3) format("opentype");font-weight:700;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff2"),url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("woff"),url(https://use.typekit.net/af/4c54ad/000000000000000000011c38/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3) format("opentype");font-weight:400;font-style:italic;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/827015/000000000000000000011c3b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff2"),url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("woff"),url(https://use.typekit.net/af/270ae4/000000000000000000011c3c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3) format("opentype");font-weight:600;font-style:normal;font-stretch:normal;font-display:auto;}@font-face{font-family:open-sans;src:url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("woff2"),url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("woff"),url(https://use.typekit.net/af/46b75c/000000000000000000011c3d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3) format("opentype");font-weight:600;font-style:italic;font-stretch:normal;font-display:auto;}</style><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.zh_CN.Hk3D6mreBiY.O/am=AAAAAw/d=1/ed=1/rs=AN8SPfox5P7n-bxVej7H0lkzJRbPCRsXUg/m=el_main"></script></head>
+
+<body class="body-main" style="position: relative; min-height: 100%; top: 0px;">
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHNQGWP" height="0" width="0"
+                    style="display:none;visibility:hidden"></iframe>
+        </noscript>
+    <!--[if lte IE 8]>
+         <div class="browser">
+             <h3>If you are viewing this version of CT.gov, you are using an unsupported browser or you are in Internet Explorer 9 using
+             compatibility mode. This means that the design and layout of the site is not fully supported, however the content of the
+             site is still fully accessible and functional. For the full website experience, please update your browser to one of the
+             following:
+                 <a href="/web/20130921201018/https://www.google.com/intl/en/chrome/browser/">Google Chrome</a>,
+                 <a href="/web/20130921201018/http://www.mozilla.org/en-US/firefox/new/">Firefox</a>,
+                 <a href="/web/20130921201018/http://www.apple.com/safari/">Safari</a>,
+                 <a href="/web/20130921201018/http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer 10</a>         or higher.</h3>
+         </div>
+     <![endif]-->
+    <a tab-index="0" aria-label="skip to content" class="show-on-focus skip-link" href="#mainContent">Skip to Content</a>
+    <a tab-index="0" aria-label="skip to chat" id="skipToChat" class="show-on-focus skip-link" style="display: none;" href="#chatContent">Skip to Chat</a>
+
+    <script>
+        function checkAndShowAnchor() {
+            const helpButton = document.querySelector('.helpButton');
+            const messagesWindow = document.querySelector('.messageWrapper');
+            const messagesArea = document.querySelector('.messageArea');
+            const dialogElement = document.querySelector('div[role="dialog"][aria-labelledby="sidebarDialogAssistiveText"].dockableContainer.showDockableContainer');
+            const anchorTag = document.getElementById('skipToChat');
+
+            if ((helpButton || dialogElement) && anchorTag) {
+                if (dialogElement && !dialogElement.attributes['aria-live'] && !messagesWindow.attributes['aria-live']) {
+
+                    dialogElement.setAttribute('aria-live', 'assertive');
+
+                    messagesWindow.setAttribute('aria-live', 'assertive');
+                    messagesWindow.setAttribute('aria-atomic', 'false');
+
+                    dialogElement.focus();
+                }
+
+                anchorTag.style.display = 'block';
+
+                //if (dialogElement)
+                //    clearInterval(interval);
+            }
+        }
+
+        function skipToChatProcess() {
+            var elementExists = document.getElementsByClassName("helpButtonEnabled")[0];
+            if (elementExists && window.innerWidth > 640) {
+                document.getElementsByClassName("helpButtonEnabled")[0].setAttribute('id', 'chatContent');
+                clearInterval(skip_to_chat_interval);
+            }
+        }
+
+        const interval = setInterval(checkAndShowAnchor, 500);
+        const skip_to_chat_interval = setInterval(skipToChatProcess, 500);
+    </script>
+
+    <noscript>
+        <div class="row">
+            <div class="small-12 columns">
+                <br>
+                <strong>Warning!</strong>
+            </div>
+            <div class="small-12 columns">
+                <p>
+                    It seems that JavaScript is not working in your browser. It could be because it is not supported, or
+                    that JavaScript is intentionally disabled. Some of the features on CT.gov will not function properly
+                    with out javascript enabled.
+                </p>
+            </div>
+        </div>
+    </noscript>
+    <access-bar></access-bar>
+    <div class="off-canvas-wrapper">
+        <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper="">
+            <div class="off-canvas position-right" id="offCanvasRight" data-off-canvas="764ybd-off-canvas" data-position="right" aria-hidden="true">
+                <!-- Close button -->
+                <button class="close-button" aria-label="Close menu" type="button" data-close="">
+                    <span aria-hidden="true">×</span>
+                </button>
+
+                <p class="title">Settings Menu</p>
+                <!-- Menu -->
+                <ul class="settings-menu">
+
+                    <li class="language">
+                        <strong>Language</strong>
+                        <!-- Google Translate Widget -->
+                        <style>
+                            .goog-te-menu-value:before {
+                                background-image: url("/Assets/img/Google_Translate_logo.svg");
+                            }
+                        </style>
+
+                        <div class="language-widget">
+                            <div id="google_translate_element"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage" class="goog-te-gadget-simple" style="white-space: nowrap;"><img src="https://www.google.com/images/cleardot.gif" class="goog-te-gadget-icon" alt="" style="background-image: url(&quot;https://translate.googleapis.com/translate_static/img/te_ctrl3.gif&quot;); background-position: -65px 0px;"><span style="vertical-align: middle;"><a aria-haspopup="true" class="VIpgJd-ZVi9od-xl07Ob-lTBxed" href="#"><span>选择语言</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span style="border-left: 1px solid rgb(187, 187, 187);">​</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1"><span aria-hidden="true" style="color: rgb(118, 118, 118);">▼</span></a></span></div></div></div>
+                        </div>
+                        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async=""></script>
+
+                        <script>
+                            function googleTranslateElementInit() {
+                                new google.translate.TranslateElement(
+                                    {
+                                        pageLanguage: "en",
+                                        includedLanguages: "ar,zh-CN,zh-TW,en,fr,de,ht,hi,it,ko,ps,pl,pt,ru,es,tl,uk,vi",
+                                        layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                                        autoDisplay: false
+                                    },
+                                    "google_translate_element"
+                                );
+                            }
+                        </script>
+
+                    </li>
+                    <li class="contrast">
+                        <strong>High Contrast</strong>
+                        <div class="switch">
+                            <input class="switch-input" id="contrast-btn" type="checkbox" name="contrast-btn" tabindex="0">
+                            <label class="switch-paddle notranslate" for="contrast-btn">
+                                <span class="show-for-sr">High Contrast Mode On or Off switch</span>
+                                <span class="switch-active" aria-hidden="true">On</span>
+                                <span class="switch-inactive" aria-hidden="true">Off</span>
+                            </label>
+                        </div>
+                    </li>
+
+                    <li class="font-size">
+                        <strong>Font Size</strong>
+                        <button id="resetFont" title="Reset font size" tabindex="0">
+                            <span class="show-for-sr">
+                                regular
+                                font size
+                            </span>
+                        </button>
+                        <button id="increaseFont" title="Increase font size" tabindex="0">
+                            <span class="show-for-sr">large font size</span>
+                        </button>
+                    </li>
+                    <li>
+                        <a href="/portal/policies/disclaimer/#translate" class="link" title="See Translation Disclaimer" tabindex="0">Disclaimer</a>
+                    </li>
+                    <li>
+                        <button class="link" aria-label="Close menu" type="button" data-close="" style="width: 100%; text-align: left">
+                            Close
+                        </button>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="off-canvas-content" data-off-canvas-content="">
+
+                
+                
+
+
+
+
+
+                
+
+
+                <header class="cg-c-header" role="banner">
+                    <div class="row">
+
+                        <div class="cg-c-logo">
+                            <a class="cg-c-logo__link" href="/" title="CT.gov Home">
+
+                                <img class="cg-c-logo__img" src="/Assets/Images/CT Gov Logo.svg" title="CT.gov Logo" alt="CT.gov Logo">
+                                <span class="cg-c-logo__title">
+                                    Connecticut's Official <br>State Website
+                                </span>
+                            </a>
+                        </div>
+
+                        <div class="cg-c-header__menu">
+
+                            <div class="row">
+                                <div class="small-12 medium-10 large-8 columns">
+
+
+
+<div class="cg-c-search cg-c-search--" role="search">
+    <label for="searchVal" class="show-for-sr">Search Bar for CT.gov</label>
+    <input class="cg-c-search__input ui-autocomplete-input" type="search" placeholder="Search Connecticut Government..." id="searchVal" title="Search Connecticut Government" autocomplete="off">
+    <div class="cg-c-search__group-button">
+        <button id="btnSearch" type="submit" class="cg-c-search__button" value="Search">
+            <span class="cg-c-search__icon" aria-hidden="true"></span>
+            <span class="cg-c-search__label show-for-sr">Search</span>
+        </button> 
+    </div>
+</div>                                </div>
+                                <div class="small-12 medium-2 large-4 columns">
+
+                                    <div class="cg-c-settings cg-c-settings--">
+                                        <button class="cg-c-settings__button" title="Language and Visual Settings" data-toggle="offCanvasRight" aria-expanded="false" aria-controls="offCanvasRight">
+                                            <span class="cg-c-settings__icon" aria-hidden="true">
+                                            </span>
+                                            <span class="cg-c-settings__label">
+                                                Language + Settings
+                                            </span>
+                                        </button>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+
+
+                
+                <main id="mainContent" role="main">
+                    
+
+
+
+
+
+
+    <section>
+        <div class="row">
+            
+            <div class="small-12 columns">
+                <div class="main-page-title">
+                    Oops! That page is no longer here.
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-12 columns">
+                
+
+
+
+
+            <div class="content">
+                
+                    <h1 class="show-for-sr">Oops! That page is no longer here.</h1>
+                <p>This error means:</p>
+<ul>
+    <li>The page no longer exists, or</li>
+    <li>The page has moved to a different page or website, or</li>
+    <li>The address was entered incorrectly.&nbsp;</li>
+</ul>
+<p>Please find the new Connecticut Governor and Lt. Governor websites:</p>
+<ul>
+    <li><a href="https://portal.ct.gov/governor/otg-archive" target="_blank">Governor Ned Lamont</a></li>
+    <li><a href="https://portal.ct.gov/lt-governor/otlg-archive" target="_blank">Lt. Governor Susan Bysiewicz&nbsp;</a></li>
+</ul>
+<p>Still Need Help?</p>
+<ul>
+    <li>Use the <em>Search Connecticut Government</em>  above.</li>
+    <li>Return to the&nbsp;<a href="https://portal.ct.gov/">CT.gov Home Page</a>.</li>
+    <li>Locate the appropriate&nbsp;<a href="https://portal.ct.gov/government/departments-and-agencies/departments-and-agencies">Department or Agency</a>.</li>
+</ul>
+            </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+                </main>
+
+                <footer class="footer" role="contentinfo">
+                    
+
+
+
+
+<div class="container">
+    <div class="footer-left">
+       
+        <ul>
+    <li><a href="https://portal.ct.gov/Policies/State-Privacy-Policy">Policies</a></li>
+    <li><a href="https://portal.ct.gov/-/media/sitecore-center/accessibility/it-accessibility-policy-final-for-release-07142025.pdf?rev=bd9ac94fd0bd4b5ea7ed11227682895a&amp;hash=14740C9BD9B5E081B47BBF0D0A5E9CF1" class="pdf-link">Accessibility</a></li>
+    <li><a href="https://portal.ct.gov/About">About CT</a></li>
+    <li><a href="https://portal.ct.gov/Directories">Directories</a></li>
+    <li><a href="https://portal.ct.gov/social_media">Social Media</a></li>
+    <li><a href="https://portal.ct.gov/for_state_employees_footer">For State Employees</a></li>
+</ul>
+            <ul class="flag-status">
+                <li>
+                    <img src="https://portal.ct.gov/-/media/connecticut-interactive/images/resources/usflag240.jpg?rev=270711ee169044df8f0f1faded74b3e5&amp;la=en&amp;h=137&amp;w=240&amp;hash=D92C6A2F5792896DF09B730F82ED65B7" alt="United States Flag">
+                    <a href="/governor/flag-status" title="United States flag status - FULL ">
+                    United States 
+                        <span>
+                            FULL
+                        </span>
+                    </a>
+                </li>
+                <li>
+                    <img src="https://portal.ct.gov/-/media/connecticut-interactive/images/resources/ctflag240.jpg?rev=7cd4d6cd249845c49bc61ff823a8f06a&amp;la=en&amp;h=137&amp;w=240&amp;hash=19C228858B5EABC80CB91AECCEF7A268" alt="Connecticut Flag">
+                    <a href="/governor/flag-status" title="Connecticut state flag status - FULL ">
+                        Connecticut
+                        <span>
+                            FULL
+                        </span>
+                    </a>
+                </li>
+            </ul>
+        <p class="copy">
+            ©
+            <a href="/" title="Connecticut's Official State Website">
+                <span class="year">2026</span> CT.gov <span>|</span> Connecticut's Official State Website
+            </a>
+        </p>
+    </div>
+    <div class="footer-right">
+        <a href="http://www.ctvisit.com/" title="Connecticut Still Revolutionary" target="_blank" class="tourism cg-c-open-new-icon">
+            <img src="/assets/images/Connecticut logo.svg" alt="Connecticut Logo">
+        </a>
+    </div>
+</div>
+
+                </footer>
+            <div class="js-off-canvas-exit"></div></div>
+        </div>
+    </div>
+
+
+
+    
+
+<script src="/assets/js/app.js?v=20261031074308"></script><a href="#0" aria-hidden="false" class="backto-top" tabindex="0">Top</a><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div>
+<script src="/Assets/js/Ie-shims.js?v=20261031074308"></script>
+<script src="/assets/js/google.search.js?v=20261031074308"></script>
+<script src="/assets/js/ga-externallink.js?v=20261031074308"></script>
+
+
+
+    <script>
+
+        // Search Left side navigation redirect
+        function gotoGoogleSearch(searchLink) {
+            var url = searchLink + "?q=" + $("#agencySpeceificSearch").val();
+            location.href = url;
+            return true;
+        }
+        // jQuery Ready
+        function gotoGoogleSearchEnter(e, searchLink, sites) {
+            if (e.which == 13 || e.charCode == 13) {
+                e.preventDefault();
+                gotoGoogleSearch(searchLink);
+                return true;
+            }
+        }
+    </script><div id="goog-gt-tt" class="VIpgJd-yAWNEb-L7lbkb skiptranslate" style="display: none; border-radius: 12px; margin: 0 0 0 -23px; padding: 0; font-family: 'Google Sans', Arial, sans-serif;" data-id=""><div id="goog-gt-vt" class="VIpgJd-yAWNEb-hvhgNd"><div class="VIpgJd-yAWNEb-hvhgNd-Ud7fr"><img src="https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg" width="24" height="24" alt=""><div class=" VIpgJd-yAWNEb-hvhgNd-IuizWc-i3jM8c " dir="ltr">原文</div></div><div class="VIpgJd-yAWNEb-hvhgNd-k77Iif"><div id="goog-gt-original-text" class="VIpgJd-yAWNEb-nVMfcd-fmcmS VIpgJd-yAWNEb-hvhgNd-axAV1"></div></div><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid ltr"><div class="VIpgJd-yAWNEb-hvhgNd-N7Eqid-B7I4Od ltr" dir="ltr"><div class="VIpgJd-yAWNEb-hvhgNd-UTujCb">请对此翻译评分</div><div class="VIpgJd-yAWNEb-hvhgNd-eO9mKe">您的反馈将用于改进谷歌翻译</div></div><div class="VIpgJd-yAWNEb-hvhgNd-xgov5 ltr"><button id="goog-gt-thumbUpButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="翻译质量很棒" aria-label="翻译质量很棒" aria-pressed="false"><span id="goog-gt-thumbUpIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7H2v13h16c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM7 18H4V9h3v9zm14-7l-3 7H9V8l4.34-4.34L12 9h9v2z"></path></svg></span><span id="goog-gt-thumbUpIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M21 7h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 0S7.08 6.85 7 7v13h11c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73V9c0-1.1-.9-2-2-2zM5 7H1v13h4V7z"></path></svg></span></button><button id="goog-gt-thumbDownButton" type="button" class="VIpgJd-yAWNEb-hvhgNd-bgm6sf" title="翻译质量很差" aria-label="翻译质量很差" aria-pressed="false"><span id="goog-gt-thumbDownIcon"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7h5V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zM17 6h3v9h-3V6zM3 13l3-7h9v10l-4.34 4.34L12 15H3v-2z"></path></svg></span><span id="goog-gt-thumbDownIconFilled"><svg width="24" height="24" viewBox="0 0 24 24" focusable="false" class="VIpgJd-yAWNEb-hvhgNd-THI6Vb NMm5M"><path d="M3 17h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 24s7.09-6.85 7.17-7V4H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2zm16 0h4V4h-4v13z"></path></svg></span></button></div></div><div id="goog-gt-votingHiddenPane" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><form id="goog-gt-votingForm" action="//translate.googleapis.com/translate_voting?client=te" method="post" target="votingFrame" class="VIpgJd-yAWNEb-hvhgNd-aXYTce"><input type="text" name="sl" id="goog-gt-votingInputSrcLang"><input type="text" name="tl" id="goog-gt-votingInputTrgLang"><input type="text" name="query" id="goog-gt-votingInputSrcText"><input type="text" name="gtrans" id="goog-gt-votingInputTrgText"><input type="text" name="vote" id="goog-gt-votingInputVote"></form><iframe name="votingFrame" frameborder="0"></iframe></div></div></div>
+
+
+
+<div class="VIpgJd-ZVi9od-aZ2wEe-wOHMyf"><div class="VIpgJd-ZVi9od-aZ2wEe-OiiCO"><svg xmlns="http://www.w3.org/2000/svg" class="VIpgJd-ZVi9od-aZ2wEe" width="96px" height="96px" viewBox="0 0 66 66"><circle class="VIpgJd-ZVi9od-aZ2wEe-Jt5cK" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><iframe frameborder="0" class="VIpgJd-ZVi9od-xl07Ob-OEVmcd skiptranslate" title="语言翻译微件" style="visibility: visible; box-sizing: content-box; width: 238px; height: 302px; display: none;"></iframe></body></html>
+
+<!-- FRAME 1234135BDFD615E160EC0A37001FBF08 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF8"><link rel="stylesheet" type="text/css" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.zZZZhVqDDCw.L.W.O/am=AAAAAw/d=0/rs=AN8SPfpUkvS-Z71_1qzwNK-AklHkiHZ2gQ/m=el_main_css"></head><body scroll="no" style="margin:0px;overflow:hidden" dir="ltr" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" border="0"><div id=":1.menuBody" class="VIpgJd-ZVi9od-vH1Gmf" style="box-sizing: content-box; width: 228px; height: 292px;"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top"><td><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">选择语言</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">中文（简体）</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">阿拉伯语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">波兰语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">德语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">俄语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">法语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">菲律宾语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">海地克里奥尔语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">韩语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">葡萄牙语（巴西）</span></div></a></td><td class="VIpgJd-ZVi9od-vH1Gmf-KrhPNb">&nbsp;</td><td><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">普什图语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">乌克兰语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">西班牙语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">意大利语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">印地语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">越南语</span></div></a><a class="VIpgJd-ZVi9od-vH1Gmf-ibnC6b" href="#"><div style="white-space: nowrap;"><span class="indicator">›</span><span class="text">中文（繁体）</span></div></a></td></tr></tbody></table></div></body></html>

@@ -1,0 +1,1983 @@
+<!-- MAIN FRAME -->
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Your Minnesota Voter Registration - MNVotes</title>
+    
+    
+
+    
+        <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    
+
+    
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@400;700&amp;family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+
+<link rel="shortcut icon" href="https://commoncontent.sos.mn.gov/images/mn-favicon/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://commoncontent.sos.mn.gov/stylesheets/v2/bootstrap5/oss-c.css">
+
+
+    
+    
+        <link rel="stylesheet" href="/css/oss-e.css">
+    
+
+    <!-- this is the V2 bootstrap 5 header script section -->
+
+</head>
+<body class="oss oss-e">
+    <a b-q4cuu10jmz="" href="#skiptomain" class="visually-hidden-focusable oss-c_skiplink">Skip to main content</a>
+    <header b-q4cuu10jmz="" class="oss-c oss-c_header">
+        <!-- Header -->
+        <!-- this is the V2 bootstrap 5 header section -->
+<section class="oss-c_navbar pt-3">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-6 col-xl-7 order-first">
+                <div class="d-flex align-items-center">
+                    <button class="oss-c_navbar_btn" type="button" data-bs-toggle="collapse" data-bs-target="#oss-cNavbar" aria-expanded="false" aria-controls="oss-cNavbar">
+                        <span class="visually-hidden">Menu</span>
+                    </button>
+                    <a href="https://www.sos.mn.gov" class="ms-3 flex-fill flex-sm-grow-0 oss-c_navbar_logotype">
+                        <span class="visually-hidden">Office of the Minnesota Secretary of State, Steve Simon</span>
+                    </a>
+                </div>
+            </div>
+            <section class="col-12 order-2 order-lg-last oss-c_navbar_bar">
+                <div class="container-lg collapse" id="oss-cNavbar">
+                    <div class="row g-0">
+                        <div class="col-12">
+                            <nav class="navbar py-0 navbar-expand-lg navbar-dark oss-c_navbar_navbar" aria-label="Full site menu">
+                                <div class="container-fluid g-0">
+                                    <ul class="navbar-nav nav-justified align-items-stretch">
+                                        <li class="nav-item">
+                                            <a href="https://www.sos.mn.gov/home" id="oss-c_navbar_home" class="nav-link h-100">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Home
+                                            </a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_voting" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Elections &amp; Voting
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_voting">
+                                                <li><a href="https://www.sos.mn.gov/elections-voting/" class="dropdown-item fw-bold">Elections &amp; Voting<span class="visually-hidden"> main page</span></a></li>
+
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/register-to-vote" title="Register to Vote" class="dropdown-item"> Register to Vote</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/election-day-voting" title="Election Day Voting" class="dropdown-item"> Election Day Voting</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/other-ways-to-vote" title="Other Ways to Vote" class="dropdown-item"> Other Ways to Vote</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/whats-on-my-ballot" title="What's on My Ballot?" class="dropdown-item"> What's on My Ballot?</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/election-results" title="Election Results" class="dropdown-item"> Election Results</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/find-county-election-office/" title="Find County Election Office" class="dropdown-item">Find County Election Office</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/secure-and-fair-elections" title="Secure and Fair Elections" class="dropdown-item"> Secure and Fair Elections</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/get-involved" title="Get Involved!" class="dropdown-item"> Get Involved!</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/how-elections-work" title="How Elections Work" class="dropdown-item"> How Elections Work</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_elections" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Election Administration
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_elections">
+                                                <li><a href="https://www.sos.mn.gov/election-administration-campaigns/" class="fw-bold dropdown-item">Elections Administration &amp; Campaigns<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://www.sos.mn.gov/election-administration-campaigns/become-a-candidate/" title="Become a Candidate" class="dropdown-item"> Become a Candidate</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/election-administration-campaigns/campaigning/" title="Campaigning" class="dropdown-item"> Campaigning </a></li>
+                                                    <li><a href="https://www.sos.mn.gov/election-administration-campaigns/data-maps/" title="Data &amp; Maps" class="dropdown-item"> Data &amp; Maps</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/election-administration-campaigns/election-administration/" title="Election Administration" class="dropdown-item"> Election Administration</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/election-administration-campaigns/elections-calendar/" title="Elections Calendar" class="dropdown-item"> Elections Calendar</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_business" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Business &amp; Liens
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_business">
+                                                <li><a href="https://www.sos.mn.gov/business-liens" class="dropdown-item fw-bold">Businesses &amp; Liens<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://mblsportal.sos.mn.gov/Business/Search" title="Business Filings Online" class="dropdown-item"> Business Filings Online</a></li>
+                                                    <li><a href="https://mblsportal.sos.mn.gov/Secured/SearchUCC" title="UCC / Tax Liens Online" class="dropdown-item"> UCC / Tax Liens Online</a></li>
+                                                    <li><a href="https://mblsportal.sos.mn.gov/Secured/SearchCNS" title="CNS Liens Online" class="dropdown-item"> CNS Liens Online</a></li>
+                                                    <li><a href="https://mblsportal.sos.mn.gov/Secured/Subscriptions" title="Online Subscriptions" class="dropdown-item"> Online Subscriptions</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/business-liens/ucc-cns-tax-liens-help/" title="UCC, CNS &amp; Tax Liens Help" class="dropdown-item"> UCC, CNS &amp; Tax Liens Help</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/business-liens/ucc-tax-cns-forms-fees/" title="UCC, Tax &amp; CNS Forms &amp; Fees" class="dropdown-item"> UCC, Tax &amp; CNS Forms &amp; Fees</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/business-liens/start-a-business/how-to-start-a-business-in-minnesota/" title="Start a Business" class="dropdown-item"> Start a  Business</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/business-liens/business-help/" title="Business Help" class="dropdown-item"> Business  Help</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/business-liens/business-forms-fees/" title="Business Forms &amp; Fees" class="dropdown-item"> Business Forms  &amp; Fees</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_notary" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Notary &amp; Apostille
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_notary">
+                                                <li><a href="https://www.sos.mn.gov/notary-apostille/" class="dropdown-item fw-bold">Notary &amp; Apostille<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://notary.sos.mn.gov/search/searchfornotary" title="Find a Notary" class="dropdown-item">Find a Notary</a></li>
+                                                    <li><a href="https://notary.sos.mn.gov/account/login" title="Existing Notaries" class="dropdown-item">Existing Notaries</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/notary-apostille/become-a-notary/" title="Become a Notary" class="dropdown-item"> Become a Notary</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/notary-apostille/notary-training-supplies/" title="Notary Training &amp; Supplies" class="dropdown-item">Notary Training &amp; Supplies</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/notary-apostille/notary-help/" title="Notary Help" class="dropdown-item"> Notary Help</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/notary-apostille/notary-forms/" title="Notary Forms" class="dropdown-item"> Notary Forms</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/notary-apostille/apostille-authentication/" title="Apostille Authentication" class="dropdown-item">Apostille Authentication</a></li>
+                                                    <li><a href="https://apostille.sos.mn.gov/search" title="Apostille Verification" class="dropdown-item">Apostille Verification</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_studyabroad" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Study Abroad
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_studyabroad">
+                                                <li><a href="https://www.sos.mn.gov/study-abroad/" class="dropdown-item fw-bold">Study Abroad<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://www.sos.mn.gov/study-abroad/international-exchange-organizations-in-minnesota/" title="International Exchange Organizations in Minnesota" class="dropdown-item"> International Exchange Organizations in Minnesota</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/study-abroad/college-university-study-abroad-safety/" title="College &amp; University Study Abroad Safety" class="dropdown-item"> College &amp; University Study Abroad Safety</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/study-abroad/high-school-study-abroad-safety/" title="High School Study Abroad Safety" class="dropdown-item"> High School Study Abroad Safety</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/study-abroad/international-safety-resources/" title="International Safety Resources" class="dropdown-item"> International Safety Resources</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/study-abroad/hosting-studying-abroad/" title="Hosting &amp; Studying Abroad" class="dropdown-item"> Hosting &amp; Studying Abroad</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_boards" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Boards &amp; Commissions
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_boards">
+                                                <li><a href="https://www.sos.mn.gov/boards-commissions/" class="dropdown-item fw-bold">Boards &amp; Commissions<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://commissionsandappointments.sos.mn.gov/Position/" title="Open Positions" class="dropdown-item"> Open Positions</a></li>
+                                                    <li><a href="https://commissionsandappointments.sos.mn.gov/Agency/" title="Boards &amp; Commissins" class="dropdown-item"> Boards &amp; Commissions</a></li>
+                                                    <li><a href="https://commissionsandappointments.sos.mn.gov/AppointingAuthority/" title="Appointing Authorities" class="dropdown-item"> Appointing Authorities</a></li>
+                                                    <li><a href="https://commissionsandappointments.sos.mn.gov/Member" title="Members" class="dropdown-item"> Members</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/boards-commissions/help-how-tos/" title="Help &amp; How To" class="dropdown-item"> Help &amp; How To</a></li>
+
+                                            </ul>
+
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_safeathome" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Safe at Home
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_safeathome">
+                                                <li><a href="https://www.sos.mn.gov/safe-at-home/" class="dropdown-item fw-bold">Safe at Home<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/about-safe-at-home/" title="About Safe at Home" class="dropdown-item"> About Safe at Home</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/enroll-in-safe-at-home/" title="Enroll in Safe at Home" class="dropdown-item"> Enroll in Safe at Home</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/resources-for-safety/" title="Resources for Safety" class="dropdown-item"> Resources for Safety</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/application-assistants/" title="Application Assistants" class="dropdown-item"> Application Assistants</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/safe-at-home-news/" title="Safe at Home News" class="dropdown-item"> Safe at Home News</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/safe-at-home-outreach/" title="Safe at Home Outreach" class="dropdown-item"> Safe at Home Outreach</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_minnesota" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                About Minnesota
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_minnesota">
+                                                <li><a href="https://www.sos.mn.gov/about-minnesota/" class="dropdown-item fw-bold">About Minnesota<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://www.sos.mn.gov/about-minnesota/minnesota-in-profile/" title="Minnesota in Profile" class="dropdown-item"> Minnesota in Profile</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-minnesota/minnesota-government/" title="Minnesota Government" class="dropdown-item"> Minnesota Government</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-minnesota/state-symbols/" title="State Symbols" class="dropdown-item"> State Symbols</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-minnesota/get-a-blue-book/" title="Get a Blue Book!" class="dropdown-item"> Get a Blue Book!</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-minnesota/minnesota-veterans/" title="Minnesota Veterans" class="dropdown-item"> Minnesota Veterans</a></li>
+                                                    <li><a href="https://officialdocuments.sos.mn.gov/" title="Official Documents" class="dropdown-item"> Official Documents</a></li>
+
+                                            </ul>
+
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                About the Office
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_about">
+                                                <li><a href="https://www.sos.mn.gov/about-the-office/" class="dropdown-item fw-bold">About the Office<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://www.sos.mn.gov/about-the-office/about-the-office/" title="About the Office" class="dropdown-item"> About  the Office</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-the-office/office-initiatives/" title="Office Initiatives" class="dropdown-item"> Office Initiatives</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-the-office/around-minnesota/" title="Around Minnesota" class="dropdown-item"> Around Minnesota</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-the-office/news-room/" title="News Room" class="dropdown-item"> News Room</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-the-office/rulemaking-data-practice/" title="Rulemaking &amp; Data Practice" class="dropdown-item"> Rulemaking &amp; Data Practice</a></li>
+
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="col-12 col-lg-4 col-xl-3 ms-auto order-last order-lg-2">
+                <div class="input-group oss-c_search">
+                    <input type="search" class="form-control" placeholder="Search" aria-label="Enter your search text" id="search-box" autocomplete="off">
+                    <a class="btn oss-c_search_btn" role="button" id="site-search-btn" data-search-url="https://www.sos.mn.gov/search-results-master/?search-box=">
+                        <span class="visually-hidden">Submit your search query</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+        <section b-q4cuu10jmz="" class="oss-c_localnav d-none d-lg-block">
+            <!-- Banner -->
+            <!-- this is the V2 bootstrap banner section -->
+<div class="container-fluid oss-c_banner d-flex flex-column">
+    
+        <div class="oss-c_languages_bar">
+            <ul class="d-flex flex-row justify-content-end flex-wrap">
+                        <li><a href="https://www.sos.mn.gov/elections-voting/spanish" aria-label="Spanish" lang="es">Español</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/hmong" aria-label="Hmoob" lang="hmn">Hmoob</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/somali" aria-label="Soomaali" lang="so">Soomaali</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/vietnamese" aria-label="Vietnamese" lang="vi">Tiếng Việt</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/russian" aria-label="Russian" lang="ru">Pусский</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/chinese" aria-label="Chinese" lang="zh">中文</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/lao" aria-label="Lao" lang="lo">ພາສາລາວ</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/oromo" aria-label="Afaan Oromo" lang="om">Afaan Oromo</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/khmer" aria-label="Khmer" lang="km">ខ្មែរ</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/amharic" aria-label="Amharic" lang="am">አማርኛ</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/karen" aria-label="Karen" lang="kar">ကညီကျိာ်</a></li>
+
+            </ul>
+        </div>
+    
+        <div class="col-12 oss-c_localnav_heading">
+            <a href="https://www.sos.mn.gov/elections-voting/" class="d-inline-block py-2 oss-c_localnav_heading">
+                <span class="oss-c_localnav_heading_icon"></span>
+                Elections &amp; Voting<span class="visually-hidden"> main page</span>
+            </a>
+        </div>
+</div>
+
+            <!-- Local Nav-->
+            <div b-q4cuu10jmz="" class="container">
+                <div b-q4cuu10jmz="" class="row">
+                    <div b-q4cuu10jmz="" class="col-12">
+                        <nav b-q4cuu10jmz="" class="nav nav-fill flex-nowrap oss-c_localnav_nav" aria-label="Elections &amp; Voting menu">
+<a href="https://www.sos.mn.gov/elections-voting/register-to-vote" title="Register to Vote" class="nav-link"> Register<br> to Vote</a><a href="https://www.sos.mn.gov/elections-voting/election-day-voting" title="Election Day Voting" class="nav-link"> Election Day<br> Voting</a><a href="https://www.sos.mn.gov/elections-voting/other-ways-to-vote" title="Other Ways to Vote" class="nav-link"> Other Ways<br> to Vote</a><a href="https://www.sos.mn.gov/elections-voting/whats-on-my-ballot" title="What's on My Ballot?" class="nav-link"> What's on My<br> Ballot?</a><a href="https://www.sos.mn.gov/elections-voting/election-results" title="Election Results" class="nav-link"> Election<br> Results</a><a href="https://www.sos.mn.gov/elections-voting/find-county-election-office/" title="Find County Election Office" class="nav-link">Find County<br> Election Office</a><a href="https://www.sos.mn.gov/elections-voting/secure-and-fair-elections" title="Secure and Fair Elections" class="nav-link"> Secure and Fair<br> Elections</a><a href="https://www.sos.mn.gov/elections-voting/get-involved" title="Get Involved!" class="nav-link"> Get<br> Involved!</a><a href="https://www.sos.mn.gov/elections-voting/how-elections-work" title="How Elections Work" class="nav-link"> How Elections<br> Work</a>                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </header>
+    <main b-q4cuu10jmz="" class="pt-3 pb-5 oss_main" id="maincontent" tabindex="-1">
+        <a b-q4cuu10jmz="" name="skiptomain"></a>
+        
+
+
+
+<article class="container" id="voterStatusCheck">
+    <div id="divTimer" class="d-none">
+        <div id="lblTimeRemaining" class="d-none p-0 my-4 alert alert-warning text-center" role="alert">
+            <div class="oss_alert_heading py-2 ps-5 pe-2">
+                Time remaining to complete this form: <span id="msgTimeRemaining"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row gx-5 gy-3">
+        <header class="col-12">
+            <div class="row gy-3">
+                <section class="col-12 col-lg-3 order-0 order-lg-1 pt-2">
+
+<button class="ms-auto d-flex text-start btn oss_lang-2_btn" type="button" data-bs-toggle="offcanvas" data-bs-target="#oss_lang-2_switch" aria-controls="oss_lang-2_switch" id="oss_lang_switch_btn">
+    <span class="">Change language</span>
+</button>
+
+
+<div class="offcanvas offcanvas-end oss_lang-2_offcanvas" tabindex="-1" id="oss_lang-2_switch" aria-labelledby="oss_lang-2_switch_label">
+    <div class="offcanvas-header pt-4">
+        <h2 id="oss_lang-2_switch_label" class="m-0 oss_lang-2_offcanvas_head">Language options
+        </h2>
+        <button type="button" class="ms-auto btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body p-0">
+        <form id="frmCulture" class="lang2-c pb-4 pt-2" method="GET">
+            <label id="lblCultureSwitcher" for="selCultureSwitcher" class="visually-hidden">Language options</label>
+            <div class="lang2-c-l" id="langswitch">
+
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="languageOption" id="en-US" value="en-US" checked="checked">
+                        <label class="form-check-label" for="en-US">
+                            English
+                        </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="es" value="es">
+                            <label class="form-check-label" for="es">
+                                español
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Spanish
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="hmn" value="hmn">
+                            <label class="form-check-label" for="hmn">
+                                Hmong
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Hmong
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="so" value="so">
+                            <label class="form-check-label" for="so">
+                                Soomaali
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Somali
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="vi" value="vi">
+                            <label class="form-check-label" for="vi">
+                                Tiếng Việt
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Vietnamese
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="ru" value="ru">
+                            <label class="form-check-label" for="ru">
+                                русский
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Russian
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="zh" value="zh">
+                            <label class="form-check-label" for="zh">
+                                中文
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Chinese
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="lo" value="lo">
+                            <label class="form-check-label" for="lo">
+                                ລາວ
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Lao
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="om" value="om">
+                            <label class="form-check-label" for="om">
+                                Oromoo
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Oromo
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="km" value="km">
+                            <label class="form-check-label" for="km">
+                                ខ្មែរ
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Khmer
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="am" value="am">
+                            <label class="form-check-label" for="am">
+                                አማርኛ
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Amharic
+                                </span>
+                            </label>
+                    </div>
+            </div>
+
+
+            <div class="d-grid mt-3 mx-3">
+                <button type="button" class="btn oss_btn oss_btn-back oss_btn-primary" id="languageOptionSubmit">
+                    Change language
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+                </section>
+                <div class="col-12 col-lg-9 order-1 order-lg-0">
+                    <h1 class="oss_page_title">
+                        Find Your Minnesota Voter Registration
+                    </h1>
+                </div>
+            </div>
+        </header>
+        <div class="col-12">
+        If you're wondering, <em>Am I registered to vote in Minnesota?,</em> you can find your registration status here. Just enter your name, birthday and address (all fields are required).
+            <button class="oss_help_a oss_help-instruction mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#aboutthis" aria-expanded="false" aria-controls="aboutthis" aria-flowto="aboutthis">
+                Instructions and hints for voter registration searches
+            </button>
+            <article class="collapse oss_help-instruction oss_help_box" aria-live="polite" id="aboutthis">
+                <div class="card oss_help-instruction oss_help_box border-dark mb-3">
+                    <header class="card-header d-flex text-white bg-dark">
+                        <h2 class="card-title mb-0 fs-6 text-white">
+                            Instructions and hints for voter registration searches
+                        </h2>
+                        <button type="button" class="ms-auto btn-close btn-close-white" aria-label="Close" data-bs-toggle="collapse" data-bs-target="#aboutthis" aria-expanded="false" aria-controls="aboutthis"></button>
+                    </header>
+                    <div class="card-body">
+                        <ul class="mb-0">
+                            <li>If you're registered to vote, you'll get a confirmation message and links to further information about voting.</li>
+                            <li>If the information you enter does not match a registration or if there is a question about your registration, you'll get information about your status or instructions for next steps.</li>
+                            <li>This website is updated nightly. Election officials may take up to 14 days to process your application. It will appear on this website the day after it is processed.</li>
+                        </ul>
+                    </div>
+                </div>
+            </article>
+        </div>
+        <div class="col-12">
+            <form id="ossVoterStatusCheck" method="post" autocomplete="off" class="oss_form">
+                <div id="inputsDIV">
+                    <fieldset class="oss_break-xs oss_form_section">
+                        <legend class="oss_form_section_heading">
+                            Name
+                        </legend>
+                        <div class="row g-3">
+                            <div class="col-12 col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" name="Data.FirstName" id="txtFirstName" maxlength="50" required="" aria-invalid="false" class="form-control" placeholder="First name" pattern="[A-Za-z '\-]+">
+                                    <label for="txtFirstName">First name</label>
+                                    <div class="invalid-feedback" role="alert" id="msgErrorFirstName_Required">
+                                        <span class="visually-hidden">First name:</span>
+                                        Required
+                                    </div>
+                                    <div class="invalid-feedback" role="alert" id="msgErrorFirstName_Invalid">
+                                        <span class="visually-hidden">First name:</span>
+                                        You entered invalid characters
+                                        <button class="oss_help_a oss_help-instruction" type="button" data-bs-toggle="collapse" data-bs-target="#help_characters" aria-expanded="false" aria-controls="help_characters" aria-flowto="help_characters">
+                                            What characters can I enter?
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" name="Data.LastName" id="txtLastName" maxlength="50" required="" aria-invalid="false" class="form-control" placeholder="Last name" pattern="[A-Za-z '\-]+" aria-describedby="txtLastName_Instruction">
+                                    <label for="txtLastName">Last name</label>
+                                    <div id="msgErrorLastName_Required" class="invalid-feedback" role="alert">
+                                        <span class="visually-hidden">Last name:</span> Required
+                                    </div>
+                                    <div id="msgErrorLastName_Invalid" class="invalid-feedback" role="alert">
+                                        <span class="visually-hidden">Last name:</span>
+                                        You entered invalid characters
+                                        <button class="oss_help_a oss_help-instruction" type="button" data-bs-toggle="collapse" data-bs-target="#help_characters" aria-expanded="false" aria-controls="help_characters" aria-flowto="help_characters">
+                                            What characters can I enter?
+                                        </button>
+                                    </div>
+                                    <div class="form-text" id="txtLastName_Instruction">
+                                        Do not include suffixes like Jr. or Sr.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </fieldset>
+                    <article class="collapse" id="help_characters" aria-live="polite">
+                        <div class="card oss_help-instruction oss_help_box border-dark my-2">
+                            <header class="card-header d-flex text-white bg-dark">
+                                <h3 class="card-title mb-0">What characters can I enter?</h3>
+                                <button type="button" class="ms-auto btn-close btn-close-white" aria-label="Close" data-bs-toggle="collapse" data-bs-target="#help_characters" aria-expanded="false" aria-controls="help_characters"></button>
+                            </header>
+                            <div class="card-body">
+                                <ul class="card-text">
+                                    <li><span aria-hidden="true">Letters A–Z, uppercase or lowercase. Do not use letters with accents or diacritics (such as é or ñ) or non-English characters (such as ф or 陈).</span><span class="visually-hidden">Letters A to Z, uppercase or lowercase. Do not use letters with accents or diacritics (such as E with an accute accent or N with a tilde) or non-English characters (such as Cyrillic letters or Chinese characters).</span></li>
+                                    <li class="mt-2">Spaces</li>
+                                    <li class="mt-2">Hyphens: -</li>
+                                    <li class="mt-2">Apostrophes: ' </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </article>
+                    <fieldset class="oss_break-lg oss_form_section" aria-labelledby="lblDateOfBirth sampleDate">
+                        <legend class="oss_form_section_heading mb-2" id="lblDateOfBirth">
+                            Date of birth
+                        </legend>
+                        <div class="row g-3 gy-md-0 gx-md-3 oss_form_daterow">
+                            <p id="sampleDate" class="mb-2">
+                                <span aria-hidden="true">Use numbers in the month/day/year format: 01/31/1980 for January 31, 1980, for example.</span><span class="visually-hidden">Use numbers in the month, day and year format: zero one, thrity-one, nineteen eighty for January 31, 1980, for example.</span>
+                            </p>
+                            <div class="col-12 col-md-3 col-lg-2">
+                                <label for="txtDobMonth" id="txtBirthMonth">Month</label>
+                                <input type="text" required="" aria-invalid="false" id="txtDobMonth" name="Data.DobMonth" maxlength="2" pattern="^([0-9]+)$" inputmode="numeric" class="form-control" aria-labelledby="lblDateOfBirth txtBirthMonth" value="">
+                                <div id="msgErrorBirthMonth_Required" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Month:</span>
+                                    Required
+                                </div>
+                                <div id="msgErrorBirthMonth_Invalid" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Month:</span>
+                                    Enter a valid date
+                                    <span class="visually-hidden">Use numbers in the month, day and year format: zero one, thrity-one, nineteen eighty for January 31, 1980, for example.</span>
+                                </div>
+                            </div>
+                            <div class="col oss_form_daterow_separator flex-shrink-1 flex-grow-0 pt-4 d-none d-md-block" aria-hidden="true">
+                                /
+                            </div>
+                            <div class="col-12 col-md-3 col-lg-2">
+                                <label for="txtDobDay" id="txtBirthDay">Day</label>
+                                <input type="text" required="" aria-invalid="false" id="txtDobDay" name="Data.DobDay" maxlength="2" pattern="^([0-9]+)$" inputmode="numeric" class="form-control" aria-labelledby="lblDateOfBirth txtBirthDay" value="">
+                                <div id="msgErrorBirthDay_Required" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Day:</span>
+                                    Required
+                                </div>
+                                <div id="msgErrorBirthDay_Invalid" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Day:</span>
+                                    Enter a valid date
+                                </div>
+                            </div>
+                            <div class="col oss_form_daterow_separator flex-shrink-1 flex-grow-0 pt-4 d-none d-md-block" aria-hidden="true">
+                                /
+                            </div>
+                            <div class="col-12 col-md-3 col-lg-2">
+                                <label for="txtDobYear" id="txtBirthYear">Year</label>
+                                <input type="text" required="" aria-invalid="false" id="txtDobYear" name="Data.DobYear" minlength="4" maxlength="4" pattern="^([0-9]+)$" inputmode="numeric" class="form-control" aria-labelledby="lblDateOfBirth txtBirthYear" value="">
+                                <div id="msgErrorBirthYear_Required" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Year:</span>
+                                    Required
+                                </div>
+                                <div id="msgErrorBirthYear_Invalid" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Year:</span>
+                                    Enter a valid date
+                                </div>
+                            </div>
+                        </div>
+                        <div id="msgErrorFullBirthDate_Invalid" role="alert" class="invalid-feedback d-none">
+                            Enter a valid date
+                            <span class="visually-hidden">Use numbers in the month, day and year format: zero one, thrity-one, nineteen eighty for January 31, 1980, for example.</span>
+                        </div>
+                        <div id="msgErrorBirthYear_Ineligible" class="invalid-feedback" role="alert">
+                            <span class="visually-hidden">Year:</span>
+                            You entered an ineligible birth year
+                        </div>
+                        <div id="msgErrorBirthYear_Under18" class="invalid-feedback" role="alert">
+                            <span class="visually-hidden">Year:</span>
+                            If you are not at least 16, you cannot submit a voter registration application
+                        </div>
+                    </fieldset>
+                    <fieldset class="oss_break-lg oss_form_section" aria-labelledby="lblAddress VtrChk_msgEnterYourAddressEitherWithZipcodeOrCounty">
+                        <legend class="oss_form_section_heading mb-2" id="lblAddress">
+                            Your street address
+                        </legend>
+                        <p id="VtrChk_msgEnterYourAddressEitherWithZipcodeOrCounty">
+                            Find your street address starting with either your ZIP Code or county.
+                            <span id="zipcountyToggle" class="text-nowrap oss_toggle_unique">
+                                <button class="btn btn-link p-0" id="zipButton" data-bs-toggle="collapse" data-bs-target="#showZip" aria-controls="showZip" aria-expanded="true" type="button">Switch to ZIP Code search</button>
+                                <button class="btn btn-link p-0 collapsed" id="countyButton" data-bs-toggle="collapse" data-bs-target="#showCounty" aria-controls="showCounty" aria-expanded="false" type="button">Switch to county search</button>
+                            </span>
+                        </p>
+                        <div id="showZipCountyFields">
+                            <div id="showZip" class="collapse show" data-bs-toggle="false" data-bs-parent="#showZipCountyFields">
+                                <div class="row gx-3">
+                                    <div class="col-12 col-lg-4 col-xxl-3">
+                                        <div id="divZipcode" class="form-floating">
+                                            <input type="text" name="Data.ZipCode" id="txtZipCode" maxlength="5" required="" aria-invalid="false" value="" class="form-control" placeholder="ZIP Code" pattern="^\d{5}$">
+                                            <label for="txtZipCode">ZIP Code</label>
+                                            <div id="txtZipCode_Error" class="invalid-feedback" role="alert">
+                                                <span class="visually-hidden">ZIP Code:</span>
+                                                Required
+                                            </div>
+                                            <div id="txtZipCode_Error1" class="invalid-feedback" role="alert">
+                                                <span class="visually-hidden">ZIP Code:</span>
+                                                Enter a valid ZIP Code
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="showCounty" class="collapse" data-bs-toggle="false" data-bs-parent="#showZipCountyFields">
+                                <div class="row gx-3">
+                                    <div class="col-12 col-lg-9 col-xl-8">
+                                        <div id="divCounty" class="form-floating">
+                                            <select name="Data.CountyId" id="selCounty" data-has-changed="false" class="form-select">
+                                                            <option value=""></option>
+                                                            <option value="1">Aitkin</option>
+                                                            <option value="2">Anoka</option>
+                                                            <option value="3">Becker</option>
+                                                            <option value="4">Beltrami</option>
+                                                            <option value="5">Benton</option>
+                                                            <option value="6">Big Stone</option>
+                                                            <option value="7">Blue Earth</option>
+                                                            <option value="8">Brown</option>
+                                                            <option value="9">Carlton</option>
+                                                            <option value="10">Carver</option>
+                                                            <option value="11">Cass</option>
+                                                            <option value="12">Chippewa</option>
+                                                            <option value="13">Chisago</option>
+                                                            <option value="14">Clay</option>
+                                                            <option value="15">Clearwater</option>
+                                                            <option value="16">Cook</option>
+                                                            <option value="17">Cottonwood</option>
+                                                            <option value="18">Crow Wing</option>
+                                                            <option value="19">Dakota</option>
+                                                            <option value="20">Dodge</option>
+                                                            <option value="21">Douglas</option>
+                                                            <option value="22">Faribault</option>
+                                                            <option value="23">Fillmore</option>
+                                                            <option value="24">Freeborn</option>
+                                                            <option value="25">Goodhue</option>
+                                                            <option value="26">Grant</option>
+                                                            <option value="27">Hennepin</option>
+                                                            <option value="28">Houston</option>
+                                                            <option value="29">Hubbard</option>
+                                                            <option value="30">Isanti</option>
+                                                            <option value="31">Itasca</option>
+                                                            <option value="32">Jackson</option>
+                                                            <option value="33">Kanabec</option>
+                                                            <option value="34">Kandiyohi</option>
+                                                            <option value="35">Kittson</option>
+                                                            <option value="36">Koochiching</option>
+                                                            <option value="37">Lac Qui Parle</option>
+                                                            <option value="38">Lake</option>
+                                                            <option value="39">Lake Of The Woods</option>
+                                                            <option value="40">Le Sueur</option>
+                                                            <option value="41">Lincoln</option>
+                                                            <option value="42">Lyon</option>
+                                                            <option value="44">Mahnomen</option>
+                                                            <option value="45">Marshall</option>
+                                                            <option value="46">Martin</option>
+                                                            <option value="43">Mcleod</option>
+                                                            <option value="47">Meeker</option>
+                                                            <option value="48">Mille Lacs</option>
+                                                            <option value="49">Morrison</option>
+                                                            <option value="50">Mower</option>
+                                                            <option value="51">Murray</option>
+                                                            <option value="52">Nicollet</option>
+                                                            <option value="53">Nobles</option>
+                                                            <option value="54">Norman</option>
+                                                            <option value="55">Olmsted</option>
+                                                            <option value="56">Otter Tail</option>
+                                                            <option value="57">Pennington</option>
+                                                            <option value="58">Pine</option>
+                                                            <option value="59">Pipestone</option>
+                                                            <option value="60">Polk</option>
+                                                            <option value="61">Pope</option>
+                                                            <option value="62">Ramsey</option>
+                                                            <option value="63">Red Lake</option>
+                                                            <option value="64">Redwood</option>
+                                                            <option value="65">Renville</option>
+                                                            <option value="66">Rice</option>
+                                                            <option value="67">Rock</option>
+                                                            <option value="68">Roseau</option>
+                                                            <option value="70">Scott</option>
+                                                            <option value="71">Sherburne</option>
+                                                            <option value="72">Sibley</option>
+                                                            <option value="69">St. Louis</option>
+                                                            <option value="73">Stearns</option>
+                                                            <option value="74">Steele</option>
+                                                            <option value="75">Stevens</option>
+                                                            <option value="76">Swift</option>
+                                                            <option value="77">Todd</option>
+                                                            <option value="78">Traverse</option>
+                                                            <option value="79">Wabasha</option>
+                                                            <option value="80">Wadena</option>
+                                                            <option value="81">Waseca</option>
+                                                            <option value="82">Washington</option>
+                                                            <option value="83">Watonwan</option>
+                                                            <option value="84">Wilkin</option>
+                                                            <option value="85">Winona</option>
+                                                            <option value="86">Wright</option>
+                                                            <option value="87">Yellow Medicine</option>
+                                                
+                                            </select>
+                                            <label for="selCounty">County</label>
+                                            <div id="txtCounty_Error" class="invalid-feedback" role="alert">
+                                                <span class="visually-hidden">County:</span>
+                                                Required
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-lg-9 col-xl-8 mt-3">
+                                        <div id="divCity" class="form-floating">
+                                            <select name="Data.McdName" id="selMcd" data-has-changed="false" class="oss_countyfields form-select" disabled="">
+                                            </select>
+                                            <label for="selMcd">City or township</label>
+                                            <div id="txMcd_Error" class="invalid-feedback" role="alert">
+                                                <span class="visually-hidden">City or township:</span>
+                                                Required
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="showStreet" class="pt-3">
+                            <div class="row g-3" id="voterAddressStreet">
+                                <div class="col-12 col-sm-5 col-lg-4 col-xxl-3">
+                                    <div id="divAddress" class="form-floating">
+                                        <input type="text" name="Data.HouseNumber" id="txtHouseNumber" maxlength="10" required="" aria-invalid="false" inputmode="numeric" class="form-control " placeholder="House number" pattern="^[0-9]+[0-9]*$" value="" aria-disabled="true" disabled="">
+                                        <label for="txtHouseNumber">House number</label>
+                                        <div id="txtHouseNumber_Error" class=" invalid-feedback" role="alert">
+                                            <span class="visually-hidden">House number:</span>
+                                            Required
+                                        </div>
+                                        <div id="txtHouseNumber_Error1" class=" invalid-feedback" role="alert">
+                                            <span class="visually-hidden">House number:</span>
+                                            Enter numbers only
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-lg-8 col-xxl-9">
+                                    <div id="divAZipcode" class="form-floating">
+                                        <select name="Data.SelStreet" id="selStreet" class="form-select" required="" aria-invalid="false" data-initial-text=" " disabled="">
+                                        </select>
+                                        <label for="selStreet">Street</label>
+                                        <div id="txtStreet_Error" class="invalid-feedback" role="alert">
+                                            <span class="visually-hidden">Street:</span>
+                                            Required
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="msgHouseNumberNotInAddressRange" class="col-12 col-lg-8 col-xxl-9 invalid-feedback d-none" role="alert">
+                                    The house number you entered cannot be found for this street. Check that both are correct.
+                                    <a href="https://www.sos.mn.gov/elections-voting/find-county-election-office/" target="_blank">If they are correct, contact your county election office for help.</a>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-check form-switch">
+                                        <input type="checkbox" id="chkHouseUnitNumber" name="Data.ChkHouseUnitNumber" class="form-check-input collapsed" role="switch" aria-controls="unitNumber-div" data-val="true" data-val-required="The ChkHouseUnitNumber field is required." value="true">
+                                        <label for="chkHouseUnitNumber">My address includes an apartment or unit number</label>
+                                        <div class="form-text ps-0" id="unitlblLearnMoreText">
+                                            If your registration includes an apartment or other unit number, you must include it in your search.
+                                        </div>
+                                    </div>
+                                    <div id="unitNumber-div" class="col-8 col-md-6 col-lg-4 col-xxl-3 collapse">
+                                        <div class="pt-3">
+                                            <div id="unitNumber" class="form-floating">
+                                                <input type="text" name="Data.HouseUnitNumber" id="txtHouseUnitNumber" maxlength="10" inputmode="text" class="form-control" placeholder="Unit number">
+                                                <label for="txtHouseUnitNumber">Unit number</label>
+                                                <div id="txtHouseUnitNumber_Msg" class="invalid-feedback" role="alert">
+                                                    <span class="visually-hidden">Unit number:</span>
+                                                    Required
+                                                </div>
+                                                <div id="txtHouseUnitNumberInvalid_Msg" class="invalid-feedback" role="alert">
+                                                    <span class="visually-hidden">Unit number:</span>
+                                                    You entered invalid characters
+                                                    <button id="btnUnitNumberHelpChars" class="oss_help_a oss_help-instruction" type="button" data-bs-toggle="collapse" data-bs-target="#help_characters_unitNumber" aria-expanded="false" aria-controls="help_characters_unitNumber">
+                                                        What characters can I enter?
+                                                    </button>
+                                                </div>
+                                                <div id="msgHouseUnitNumberNotInAddressRange" class="col-12 col-lg-8 col-xxl-9 invalid-feedback d-none" role="alert">
+                                                    <span class="visually-hidden">Unit number:</span>
+                                                    The unit number you entered cannot be found for this house number and street.
+                                                    Check that all are correct.
+                                                    <a href="https://www.sos.mn.gov/elections-voting/find-county-election-office/" target="_blank">If they are correct, contact your county election office for help.</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <article class="collapse" id="help_characters_unitNumber">
+                                        <div class="card oss_help-instruction oss_help_box border-dark my-2">
+                                            <header class="card-header d-flex text-white bg-dark">
+                                                <h3 class="card-title mb-0">What characters can I enter?</h3>
+                                                <button type="button" class="ms-auto btn-close btn-close-white" aria-label="Close" data-bs-toggle="collapse" data-bs-target="#help_characters_unitNumber" aria-expanded="false" aria-controls="help_characters_unitNumber"></button>
+                                            </header>
+                                            <div class="card-body">
+                                                <ul class="card-text">
+                                                    <li class="mt-2"><span aria-hidden="true">Letters A–Z, uppercase or lowercase. Do not use letters with accents or diacritics (such as é or ñ) or non-English characters (such as ф or 陈).</span><span class="visually-hidden">Letters A to Z, uppercase or lowercase. Do not use letters with accents or diacritics (such as E with an accute accent or N with a tilde) or non-English characters (such as Cyrillic letters or Chinese characters).</span></li>
+                                                    <li class="mt-2"><span aria-hidden="true">Numbers: 0–9</span><span class="visually-hidden">Numbers: zero through nine</span></li>
+                                                    <li class="mt-2">Spaces</li>
+                                                    <li class="mt-2">Hyphens: -</li>
+                                                    <li class="mt-2">Forward slashes: /</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </article>
+
+                                </div>
+                            </div>
+                        </div>
+                    </fieldset>
+                </div>
+                <div class="oss_break-lg row">
+                    <div class="col-12 col-md-8 col-xl-7">
+                        <button id="btnSubmit" type="button" class="Submitbuttonlength btn oss_btn oss_btn-lg oss_btn-next oss_btn-primary w-100">
+                            Find your registration
+                        </button>
+                    </div>
+                </div>
+            <input name="__RequestVerificationToken" type="hidden" value="CfDJ8HvJWYtgttJAoFsZBsfCv6HFVDKD8csbVCkrmRjSPikBhqOm7Z0q5_9zbSHsvV5HYjO-6237m6uvztf4ROVR_4U_GXKk0la5ay4MFVwkU6aYgsGzADnMWgPxo31GpNqVez0iU6Oh-7wUL4Jz7PPaEMM"><input name="Data.ChkHouseUnitNumber" type="hidden" value="false"></form>
+        </div>
+    </div>
+</article>
+
+
+    </main>
+
+    <!-- this is the V2 bootstrap 5 footer section -->
+<footer class="py-4 oss-c oss-c_footer">
+    <h2 class="visually-hidden">Page footer</h2>
+    <div class="container oss-nowrap-xs">
+        <div class="row justify-content-center g-5">
+            <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                <h3 class="oss-c_footer_heading oss-c_footer_heading-column">Elections &amp; Administration</h3>
+                <ul class="mb-0 list-unstyled">
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-phone">
+                        <span class="oss-c_footer_heading text-nowrap">Elections phone numbers</span>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Metro Area: <a href="tel:651-215-1440" class="text-nowrap">651-215-1440</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Greater MN: <a href="tel:877-600-8683" class="text-nowrap">1-877-600-VOTE (8683)</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        MN Relay Service: <a href="tel:711" class="text-nowrap">711</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-sphone">
+                        <span class="oss-c_footer_heading text-nowrap">Elections Text/SMS</span>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Elections only: <a href="sms:+16512173862" class="text-nowrap">651-217-3862</a>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-clock">
+                        Hours: 8:00&nbsp;a.m. to 4:00&nbsp;p.m.
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-envelope">
+                        Email: <a href="mailto:secretary.state@state.mn.us">secretary.state@state.mn.us</a>
+                    </li>
+                    <li class="mb-0 oss-c_footer_icon oss-c_footer_icon-mapmarker">
+                        <span class="oss-c_footer_heading">Elections &amp; Administration address</span>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        <a href="https://maps.app.goo.gl/PZqseUX4S1dhW4D17" target="_blank">Get Directions<span class="visually-hidden"> to the Elections and Administration offices</span></a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        <p>
+                            Veterans Service Building, Suite 210<br>
+                            20 W 12th Street<br>
+                            Saint Paul, MN 55155
+                        </p>
+                        <p><em>The Veterans Service Building has limited public access. Those who need to conduct business with the elections or administration division in person should make arrangements ahead of time by email or phone.</em></p>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                <h3 class="oss-c_footer_heading oss-c_footer_heading-column">Safe At Home</h3>
+                <ul class="m-0 p-0 list-unstyled">
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-phone">
+                        <span class="oss-c_footer_heading">Safe At Home Phone Numbers</span>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Minnesota’s address confidentiality program
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Metro Area: <a href="tel:651-201-1399">651-201-1399</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Greater MN: <a href="tel:866-723-3035">1-866-723-3035</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        MN Relay Service: <a href="tel:711">711</a>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-clock">
+                        Hours: 8:00&nbsp;a.m. to&nbsp;3:30&nbsp;p.m.
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-envelope">
+                        <a href="https://www.sos.mn.gov/safe-at-home/about-safe-at-home/contact-safe-at-home/">Contact Safe at Home</a>
+                    </li>
+                    <li class="mb-0 oss-c_footer_icon oss-c_footer_icon-mapmarker">
+                        <span class="oss-c_footer_heading">Safe At Home Mailing Address</span><br>
+                        PO Box 17370<br>
+                        Saint Paul, MN 55117-0370
+                    </li>
+                </ul>
+
+            </div>
+            <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                <h3 class="oss-c_footer_heading oss-c_footer_heading-column">Business Services</h3>
+                <ul class="mb-0 list-unstyled">
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-phone">
+                        <span class="oss-c_footer_heading">
+                            Business services phone numbers
+                        </span>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Metro Area: <a href="tel:651-296-2803" class="text-nowrap">651-296-2803</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Greater MN: <a href="tel:877-551-6767" class="text-nowrap">1-877-551-6767</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        MN Relay Service: <a href="tel:711" class="text-nowrap">711</a>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-clock">
+                        <p>Phone Hours: 9:00&nbsp;a.m. to 4:00&nbsp;p.m.</p>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-clock">
+                        <p>In-Person Appointment Hours: 8:00&nbsp;a.m. to 4:00&nbsp;p.m.</p>
+                        <p><a href="https://sos.mn.gov/appointment" target="_blank">Schedule an appointment</a></p>
+                        <p><em>We are appointment-only. Appointments take place at our First National Bank Building location.</em></p>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-envelope">
+                        Email: <a href="mailto:business.services@state.mn.us">business.services@state.mn.us</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Apostille Email: <a href="mailto:apostille.oss@state.mn.us">apostille.oss@state.mn.us</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        UCC Email: <a href="mailto:ucc.dept@state.mn.us">ucc.dept@state.mn.us</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Notary Email: <a href="mailto:notary.sos@state.mn.us">notary.sos@state.mn.us</a>
+                    </li>
+                    <li class="mb-0 oss-c_footer_icon oss-c_footer_icon-mapmarker">
+                        <span class="oss-c_footer_heading">Business Services Address</span><div class="oss-c_footer_spacer-sm"></div>
+                        <a href="https://goo.gl/maps/MxfVdYbjjBkQEvpN9">Get Directions<span class="visually-hidden"> to the Business Services office</span></a><div class="oss-c_footer_spacer-sm"></div>
+                        First National Bank Building <br>
+                        332&nbsp;Minnesota&nbsp;Street, Suite&nbsp;N201 <br>
+                        Saint&nbsp;Paul, MN&nbsp;55101
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row oss-c_footer_copyright">
+            <div class="col-12 col-xl-4 order-1 order-xl-3">
+                <ul class="list-inline d-flex align-items-center">
+                    <li class="list-inline-item ms-auto ms-xl-auto">
+                        <a href="https://public.govdelivery.com/accounts/MNSOS/subscriber/new" target="_blank">Subscribe for email updates!</a>
+                    </li>
+                    <li class="ms-2 list-inline-item">
+                        <a href="https://www.facebook.com/MNSecofState" target="_blank" class="d-block oss-c_footer_social oss-c_footer_social-facebook" rel="nofollow"><span class="visually-hidden">Minnesota Secretary of State on Facebook</span></a>
+                    </li>
+                    <li class="ms-2 list-inline-item">
+                        <a href="https://twitter.com/mnsecofstate" target="_blank" class="d-block oss-c_footer_social oss-c_footer_social-twitter" rel="nofollow"><span class="visually-hidden">Minnesota Secretary of State on Twitter</span></a>
+                    </li>
+                    <li class="ms-2 list-inline-item me-auto me-xl-0">
+                        <a href="https://www.youtube.com/channel/UClVwrWOudd8bRWylSIRCOog" target="_blank" class="d-block oss-c_footer_social oss-c_footer_social-youtube" rel="nofollow"><span class="visually-hidden">Minnesota Secretary of State on YouTube</span></a>
+                    </li>
+                </ul>
+                <p class="text-center text-xl-end"><a href="https://www.sos.mn.gov/about-the-office/about-the-office/vulnerability-disclosure-program/" rel="nofollow noreferrer">Vulnerability Disclosure</a></p>
+            </div>
+            <div class="col-12 col-lg-6 col-xl-4 order-2 order-xl-1 text-center text-lg-start">
+                © 2026 Office of the Minnesota Secretary of State<br>
+                <a href="https://www.sos.mn.gov/about-the-office/about-the-office/web-site-terms-and-conditions-of-use">Terms &amp; Conditions</a>
+            </div>
+            <div class="col-12 col-lg-6 col-xl-4 text-center text-lg-end text-xl-center order-3 order-xl-2 mt-3 mt-lg-0">
+                The Office of&nbsp;the&nbsp;Secretary of&nbsp;State is an&nbsp;equal&nbsp;opportunity&nbsp;employer
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    
+
+    <!-- this is the V2 bootstrap 5 body end scripts section -->
+    <script src="https://commoncontent.sos.mn.gov/javascript/v2/bootstrap5/header-searchbox.js"></script>
+
+
+    
+
+    
+        <script src="/bundles/site.min.js?v=rp2zu2KUDhCxBUTmclgg0IDkO996zs8o15ct7CTDj1M"></script>
+    
+
+    
+    <script type="text/javascript" src="/js/VoterStatusCheck/EventListeners_VoterStatus.js"></script>
+    <script type="text/javascript" src="/js/CultureSwitcher.js"></script>
+
+
+</body></html>
+
+<!-- FRAME D882299F8A820616950DFC7D47D27464 -->
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Your Minnesota Voter Registration - MNVotes</title>
+    
+    
+
+    
+        <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    
+
+    
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@400;700&amp;family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+
+<link rel="shortcut icon" href="https://commoncontent.sos.mn.gov/images/mn-favicon/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://commoncontent.sos.mn.gov/stylesheets/v2/bootstrap5/oss-c.css">
+
+
+    
+    
+        <link rel="stylesheet" href="/css/oss-e.css">
+    
+
+    <!-- this is the V2 bootstrap 5 header script section -->
+
+</head>
+<body class="oss oss-e">
+    <a b-q4cuu10jmz="" href="#skiptomain" class="visually-hidden-focusable oss-c_skiplink">Skip to main content</a>
+    <header b-q4cuu10jmz="" class="oss-c oss-c_header">
+        <!-- Header -->
+        <!-- this is the V2 bootstrap 5 header section -->
+<section class="oss-c_navbar pt-3">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-6 col-xl-7 order-first">
+                <div class="d-flex align-items-center">
+                    <button class="oss-c_navbar_btn" type="button" data-bs-toggle="collapse" data-bs-target="#oss-cNavbar" aria-expanded="false" aria-controls="oss-cNavbar">
+                        <span class="visually-hidden">Menu</span>
+                    </button>
+                    <a href="https://www.sos.mn.gov" class="ms-3 flex-fill flex-sm-grow-0 oss-c_navbar_logotype">
+                        <span class="visually-hidden">Office of the Minnesota Secretary of State, Steve Simon</span>
+                    </a>
+                </div>
+            </div>
+            <section class="col-12 order-2 order-lg-last oss-c_navbar_bar">
+                <div class="container-lg collapse" id="oss-cNavbar">
+                    <div class="row g-0">
+                        <div class="col-12">
+                            <nav class="navbar py-0 navbar-expand-lg navbar-dark oss-c_navbar_navbar" aria-label="Full site menu">
+                                <div class="container-fluid g-0">
+                                    <ul class="navbar-nav nav-justified align-items-stretch">
+                                        <li class="nav-item">
+                                            <a href="https://www.sos.mn.gov/home" id="oss-c_navbar_home" class="nav-link h-100">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Home
+                                            </a>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_voting" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Elections &amp; Voting
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_voting">
+                                                <li><a href="https://www.sos.mn.gov/elections-voting/" class="dropdown-item fw-bold">Elections &amp; Voting<span class="visually-hidden"> main page</span></a></li>
+
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/register-to-vote" title="Register to Vote" class="dropdown-item"> Register to Vote</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/election-day-voting" title="Election Day Voting" class="dropdown-item"> Election Day Voting</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/other-ways-to-vote" title="Other Ways to Vote" class="dropdown-item"> Other Ways to Vote</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/whats-on-my-ballot" title="What's on My Ballot?" class="dropdown-item"> What's on My Ballot?</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/election-results" title="Election Results" class="dropdown-item"> Election Results</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/find-county-election-office/" title="Find County Election Office" class="dropdown-item">Find County Election Office</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/secure-and-fair-elections" title="Secure and Fair Elections" class="dropdown-item"> Secure and Fair Elections</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/get-involved" title="Get Involved!" class="dropdown-item"> Get Involved!</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/elections-voting/how-elections-work" title="How Elections Work" class="dropdown-item"> How Elections Work</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_elections" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Election Administration
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_elections">
+                                                <li><a href="https://www.sos.mn.gov/election-administration-campaigns/" class="fw-bold dropdown-item">Elections Administration &amp; Campaigns<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://www.sos.mn.gov/election-administration-campaigns/become-a-candidate/" title="Become a Candidate" class="dropdown-item"> Become a Candidate</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/election-administration-campaigns/campaigning/" title="Campaigning" class="dropdown-item"> Campaigning </a></li>
+                                                    <li><a href="https://www.sos.mn.gov/election-administration-campaigns/data-maps/" title="Data &amp; Maps" class="dropdown-item"> Data &amp; Maps</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/election-administration-campaigns/election-administration/" title="Election Administration" class="dropdown-item"> Election Administration</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/election-administration-campaigns/elections-calendar/" title="Elections Calendar" class="dropdown-item"> Elections Calendar</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_business" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Business &amp; Liens
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_business">
+                                                <li><a href="https://www.sos.mn.gov/business-liens" class="dropdown-item fw-bold">Businesses &amp; Liens<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://mblsportal.sos.mn.gov/Business/Search" title="Business Filings Online" class="dropdown-item"> Business Filings Online</a></li>
+                                                    <li><a href="https://mblsportal.sos.mn.gov/Secured/SearchUCC" title="UCC / Tax Liens Online" class="dropdown-item"> UCC / Tax Liens Online</a></li>
+                                                    <li><a href="https://mblsportal.sos.mn.gov/Secured/SearchCNS" title="CNS Liens Online" class="dropdown-item"> CNS Liens Online</a></li>
+                                                    <li><a href="https://mblsportal.sos.mn.gov/Secured/Subscriptions" title="Online Subscriptions" class="dropdown-item"> Online Subscriptions</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/business-liens/ucc-cns-tax-liens-help/" title="UCC, CNS &amp; Tax Liens Help" class="dropdown-item"> UCC, CNS &amp; Tax Liens Help</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/business-liens/ucc-tax-cns-forms-fees/" title="UCC, Tax &amp; CNS Forms &amp; Fees" class="dropdown-item"> UCC, Tax &amp; CNS Forms &amp; Fees</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/business-liens/start-a-business/how-to-start-a-business-in-minnesota/" title="Start a Business" class="dropdown-item"> Start a  Business</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/business-liens/business-help/" title="Business Help" class="dropdown-item"> Business  Help</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/business-liens/business-forms-fees/" title="Business Forms &amp; Fees" class="dropdown-item"> Business Forms  &amp; Fees</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_notary" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Notary &amp; Apostille
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_notary">
+                                                <li><a href="https://www.sos.mn.gov/notary-apostille/" class="dropdown-item fw-bold">Notary &amp; Apostille<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://notary.sos.mn.gov/search/searchfornotary" title="Find a Notary" class="dropdown-item">Find a Notary</a></li>
+                                                    <li><a href="https://notary.sos.mn.gov/account/login" title="Existing Notaries" class="dropdown-item">Existing Notaries</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/notary-apostille/become-a-notary/" title="Become a Notary" class="dropdown-item"> Become a Notary</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/notary-apostille/notary-training-supplies/" title="Notary Training &amp; Supplies" class="dropdown-item">Notary Training &amp; Supplies</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/notary-apostille/notary-help/" title="Notary Help" class="dropdown-item"> Notary Help</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/notary-apostille/notary-forms/" title="Notary Forms" class="dropdown-item"> Notary Forms</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/notary-apostille/apostille-authentication/" title="Apostille Authentication" class="dropdown-item">Apostille Authentication</a></li>
+                                                    <li><a href="https://apostille.sos.mn.gov/search" title="Apostille Verification" class="dropdown-item">Apostille Verification</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_studyabroad" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Study Abroad
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_studyabroad">
+                                                <li><a href="https://www.sos.mn.gov/study-abroad/" class="dropdown-item fw-bold">Study Abroad<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://www.sos.mn.gov/study-abroad/international-exchange-organizations-in-minnesota/" title="International Exchange Organizations in Minnesota" class="dropdown-item"> International Exchange Organizations in Minnesota</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/study-abroad/college-university-study-abroad-safety/" title="College &amp; University Study Abroad Safety" class="dropdown-item"> College &amp; University Study Abroad Safety</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/study-abroad/high-school-study-abroad-safety/" title="High School Study Abroad Safety" class="dropdown-item"> High School Study Abroad Safety</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/study-abroad/international-safety-resources/" title="International Safety Resources" class="dropdown-item"> International Safety Resources</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/study-abroad/hosting-studying-abroad/" title="Hosting &amp; Studying Abroad" class="dropdown-item"> Hosting &amp; Studying Abroad</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_boards" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Boards &amp; Commissions
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_boards">
+                                                <li><a href="https://www.sos.mn.gov/boards-commissions/" class="dropdown-item fw-bold">Boards &amp; Commissions<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://commissionsandappointments.sos.mn.gov/Position/" title="Open Positions" class="dropdown-item"> Open Positions</a></li>
+                                                    <li><a href="https://commissionsandappointments.sos.mn.gov/Agency/" title="Boards &amp; Commissins" class="dropdown-item"> Boards &amp; Commissions</a></li>
+                                                    <li><a href="https://commissionsandappointments.sos.mn.gov/AppointingAuthority/" title="Appointing Authorities" class="dropdown-item"> Appointing Authorities</a></li>
+                                                    <li><a href="https://commissionsandappointments.sos.mn.gov/Member" title="Members" class="dropdown-item"> Members</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/boards-commissions/help-how-tos/" title="Help &amp; How To" class="dropdown-item"> Help &amp; How To</a></li>
+
+                                            </ul>
+
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_safeathome" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                Safe at Home
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_safeathome">
+                                                <li><a href="https://www.sos.mn.gov/safe-at-home/" class="dropdown-item fw-bold">Safe at Home<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/about-safe-at-home/" title="About Safe at Home" class="dropdown-item"> About Safe at Home</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/enroll-in-safe-at-home/" title="Enroll in Safe at Home" class="dropdown-item"> Enroll in Safe at Home</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/resources-for-safety/" title="Resources for Safety" class="dropdown-item"> Resources for Safety</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/application-assistants/" title="Application Assistants" class="dropdown-item"> Application Assistants</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/safe-at-home-news/" title="Safe at Home News" class="dropdown-item"> Safe at Home News</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/safe-at-home/safe-at-home-outreach/" title="Safe at Home Outreach" class="dropdown-item"> Safe at Home Outreach</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_minnesota" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                About Minnesota
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_minnesota">
+                                                <li><a href="https://www.sos.mn.gov/about-minnesota/" class="dropdown-item fw-bold">About Minnesota<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://www.sos.mn.gov/about-minnesota/minnesota-in-profile/" title="Minnesota in Profile" class="dropdown-item"> Minnesota in Profile</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-minnesota/minnesota-government/" title="Minnesota Government" class="dropdown-item"> Minnesota Government</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-minnesota/state-symbols/" title="State Symbols" class="dropdown-item"> State Symbols</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-minnesota/get-a-blue-book/" title="Get a Blue Book!" class="dropdown-item"> Get a Blue Book!</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-minnesota/minnesota-veterans/" title="Minnesota Veterans" class="dropdown-item"> Minnesota Veterans</a></li>
+                                                    <li><a href="https://officialdocuments.sos.mn.gov/" title="Official Documents" class="dropdown-item"> Official Documents</a></li>
+
+                                            </ul>
+
+                                        </li>
+                                        <li class="nav-item dropdown">
+                                            <a href="#" class="nav-link dropdown-toggle h-100" id="oss-c_navbar_about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                                <span class="oss-c_navbar_icon"></span>
+                                                About the Office
+                                            </a>
+                                            <ul class="dropdown-menu" aria-labelledby="oss-c_navbar_about">
+                                                <li><a href="https://www.sos.mn.gov/about-the-office/" class="dropdown-item fw-bold">About the Office<span class="visually-hidden"> main page</span></a></li>
+                                                
+                                                    <li><a href="https://www.sos.mn.gov/about-the-office/about-the-office/" title="About the Office" class="dropdown-item"> About  the Office</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-the-office/office-initiatives/" title="Office Initiatives" class="dropdown-item"> Office Initiatives</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-the-office/around-minnesota/" title="Around Minnesota" class="dropdown-item"> Around Minnesota</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-the-office/news-room/" title="News Room" class="dropdown-item"> News Room</a></li>
+                                                    <li><a href="https://www.sos.mn.gov/about-the-office/rulemaking-data-practice/" title="Rulemaking &amp; Data Practice" class="dropdown-item"> Rulemaking &amp; Data Practice</a></li>
+
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="col-12 col-lg-4 col-xl-3 ms-auto order-last order-lg-2">
+                <div class="input-group oss-c_search">
+                    <input type="search" class="form-control" placeholder="Search" aria-label="Enter your search text" id="search-box" autocomplete="off">
+                    <a class="btn oss-c_search_btn" role="button" id="site-search-btn" data-search-url="https://www.sos.mn.gov/search-results-master/?search-box=">
+                        <span class="visually-hidden">Submit your search query</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+        <section b-q4cuu10jmz="" class="oss-c_localnav d-none d-lg-block">
+            <!-- Banner -->
+            <!-- this is the V2 bootstrap banner section -->
+<div class="container-fluid oss-c_banner d-flex flex-column">
+    
+        <div class="oss-c_languages_bar">
+            <ul class="d-flex flex-row justify-content-end flex-wrap">
+                        <li><a href="https://www.sos.mn.gov/elections-voting/spanish" aria-label="Spanish" lang="es">Español</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/hmong" aria-label="Hmoob" lang="hmn">Hmoob</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/somali" aria-label="Soomaali" lang="so">Soomaali</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/vietnamese" aria-label="Vietnamese" lang="vi">Tiếng Việt</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/russian" aria-label="Russian" lang="ru">Pусский</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/chinese" aria-label="Chinese" lang="zh">中文</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/lao" aria-label="Lao" lang="lo">ພາສາລາວ</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/oromo" aria-label="Afaan Oromo" lang="om">Afaan Oromo</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/khmer" aria-label="Khmer" lang="km">ខ្មែរ</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/amharic" aria-label="Amharic" lang="am">አማርኛ</a></li>
+                        <li><a href="https://www.sos.mn.gov/elections-voting/karen" aria-label="Karen" lang="kar">ကညီကျိာ်</a></li>
+
+            </ul>
+        </div>
+    
+        <div class="col-12 oss-c_localnav_heading">
+            <a href="https://www.sos.mn.gov/elections-voting/" class="d-inline-block py-2 oss-c_localnav_heading">
+                <span class="oss-c_localnav_heading_icon"></span>
+                Elections &amp; Voting<span class="visually-hidden"> main page</span>
+            </a>
+        </div>
+</div>
+
+            <!-- Local Nav-->
+            <div b-q4cuu10jmz="" class="container">
+                <div b-q4cuu10jmz="" class="row">
+                    <div b-q4cuu10jmz="" class="col-12">
+                        <nav b-q4cuu10jmz="" class="nav nav-fill flex-nowrap oss-c_localnav_nav" aria-label="Elections &amp; Voting menu">
+<a href="https://www.sos.mn.gov/elections-voting/register-to-vote" title="Register to Vote" class="nav-link"> Register<br> to Vote</a><a href="https://www.sos.mn.gov/elections-voting/election-day-voting" title="Election Day Voting" class="nav-link"> Election Day<br> Voting</a><a href="https://www.sos.mn.gov/elections-voting/other-ways-to-vote" title="Other Ways to Vote" class="nav-link"> Other Ways<br> to Vote</a><a href="https://www.sos.mn.gov/elections-voting/whats-on-my-ballot" title="What's on My Ballot?" class="nav-link"> What's on My<br> Ballot?</a><a href="https://www.sos.mn.gov/elections-voting/election-results" title="Election Results" class="nav-link"> Election<br> Results</a><a href="https://www.sos.mn.gov/elections-voting/find-county-election-office/" title="Find County Election Office" class="nav-link">Find County<br> Election Office</a><a href="https://www.sos.mn.gov/elections-voting/secure-and-fair-elections" title="Secure and Fair Elections" class="nav-link"> Secure and Fair<br> Elections</a><a href="https://www.sos.mn.gov/elections-voting/get-involved" title="Get Involved!" class="nav-link"> Get<br> Involved!</a><a href="https://www.sos.mn.gov/elections-voting/how-elections-work" title="How Elections Work" class="nav-link"> How Elections<br> Work</a>                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </header>
+    <main b-q4cuu10jmz="" class="pt-3 pb-5 oss_main" id="maincontent" tabindex="-1">
+        <a b-q4cuu10jmz="" name="skiptomain"></a>
+        
+
+
+
+<article class="container" id="voterStatusCheck">
+    <div id="divTimer" class="d-none">
+        <div id="lblTimeRemaining" class="d-none p-0 my-4 alert alert-warning text-center" role="alert">
+            <div class="oss_alert_heading py-2 ps-5 pe-2">
+                Time remaining to complete this form: <span id="msgTimeRemaining"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row gx-5 gy-3">
+        <header class="col-12">
+            <div class="row gy-3">
+                <section class="col-12 col-lg-3 order-0 order-lg-1 pt-2">
+
+<button class="ms-auto d-flex text-start btn oss_lang-2_btn" type="button" data-bs-toggle="offcanvas" data-bs-target="#oss_lang-2_switch" aria-controls="oss_lang-2_switch" id="oss_lang_switch_btn">
+    <span class="">Change language</span>
+</button>
+
+
+<div class="offcanvas offcanvas-end oss_lang-2_offcanvas" tabindex="-1" id="oss_lang-2_switch" aria-labelledby="oss_lang-2_switch_label">
+    <div class="offcanvas-header pt-4">
+        <h2 id="oss_lang-2_switch_label" class="m-0 oss_lang-2_offcanvas_head">Language options
+        </h2>
+        <button type="button" class="ms-auto btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body p-0">
+        <form id="frmCulture" class="lang2-c pb-4 pt-2" method="GET">
+            <label id="lblCultureSwitcher" for="selCultureSwitcher" class="visually-hidden">Language options</label>
+            <div class="lang2-c-l" id="langswitch">
+
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="languageOption" id="en-US" value="en-US" checked="checked">
+                        <label class="form-check-label" for="en-US">
+                            English
+                        </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="es" value="es">
+                            <label class="form-check-label" for="es">
+                                español
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Spanish
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="hmn" value="hmn">
+                            <label class="form-check-label" for="hmn">
+                                Hmong
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Hmong
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="so" value="so">
+                            <label class="form-check-label" for="so">
+                                Soomaali
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Somali
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="vi" value="vi">
+                            <label class="form-check-label" for="vi">
+                                Tiếng Việt
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Vietnamese
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="ru" value="ru">
+                            <label class="form-check-label" for="ru">
+                                русский
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Russian
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="zh" value="zh">
+                            <label class="form-check-label" for="zh">
+                                中文
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Chinese
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="lo" value="lo">
+                            <label class="form-check-label" for="lo">
+                                ລາວ
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Lao
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="om" value="om">
+                            <label class="form-check-label" for="om">
+                                Oromoo
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Oromo
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="km" value="km">
+                            <label class="form-check-label" for="km">
+                                ខ្មែរ
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Khmer
+                                </span>
+                            </label>
+                    </div>
+                    <div class="form-check">
+                            <input class="form-check-input" type="radio" name="languageOption" id="am" value="am">
+                            <label class="form-check-label" for="am">
+                                አማርኛ
+                                <span class="ms-auto align-self-center oss_lang-2_list-en">
+                                    Amharic
+                                </span>
+                            </label>
+                    </div>
+            </div>
+
+
+            <div class="d-grid mt-3 mx-3">
+                <button type="button" class="btn oss_btn oss_btn-back oss_btn-primary" id="languageOptionSubmit">
+                    Change language
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+                </section>
+                <div class="col-12 col-lg-9 order-1 order-lg-0">
+                    <h1 class="oss_page_title">
+                        Find Your Minnesota Voter Registration
+                    </h1>
+                </div>
+            </div>
+        </header>
+        <div class="col-12">
+        If you're wondering, <em>Am I registered to vote in Minnesota?,</em> you can find your registration status here. Just enter your name, birthday and address (all fields are required).
+            <button class="oss_help_a oss_help-instruction mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#aboutthis" aria-expanded="false" aria-controls="aboutthis" aria-flowto="aboutthis">
+                Instructions and hints for voter registration searches
+            </button>
+            <article class="collapse oss_help-instruction oss_help_box" aria-live="polite" id="aboutthis">
+                <div class="card oss_help-instruction oss_help_box border-dark mb-3">
+                    <header class="card-header d-flex text-white bg-dark">
+                        <h2 class="card-title mb-0 fs-6 text-white">
+                            Instructions and hints for voter registration searches
+                        </h2>
+                        <button type="button" class="ms-auto btn-close btn-close-white" aria-label="Close" data-bs-toggle="collapse" data-bs-target="#aboutthis" aria-expanded="false" aria-controls="aboutthis"></button>
+                    </header>
+                    <div class="card-body">
+                        <ul class="mb-0">
+                            <li>If you're registered to vote, you'll get a confirmation message and links to further information about voting.</li>
+                            <li>If the information you enter does not match a registration or if there is a question about your registration, you'll get information about your status or instructions for next steps.</li>
+                            <li>This website is updated nightly. Election officials may take up to 14 days to process your application. It will appear on this website the day after it is processed.</li>
+                        </ul>
+                    </div>
+                </div>
+            </article>
+        </div>
+        <div class="col-12">
+            <form id="ossVoterStatusCheck" method="post" autocomplete="off" class="oss_form">
+                <div id="inputsDIV">
+                    <fieldset class="oss_break-xs oss_form_section">
+                        <legend class="oss_form_section_heading">
+                            Name
+                        </legend>
+                        <div class="row g-3">
+                            <div class="col-12 col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" name="Data.FirstName" id="txtFirstName" maxlength="50" required="" aria-invalid="false" class="form-control" placeholder="First name" pattern="[A-Za-z '\-]+">
+                                    <label for="txtFirstName">First name</label>
+                                    <div class="invalid-feedback" role="alert" id="msgErrorFirstName_Required">
+                                        <span class="visually-hidden">First name:</span>
+                                        Required
+                                    </div>
+                                    <div class="invalid-feedback" role="alert" id="msgErrorFirstName_Invalid">
+                                        <span class="visually-hidden">First name:</span>
+                                        You entered invalid characters
+                                        <button class="oss_help_a oss_help-instruction" type="button" data-bs-toggle="collapse" data-bs-target="#help_characters" aria-expanded="false" aria-controls="help_characters" aria-flowto="help_characters">
+                                            What characters can I enter?
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" name="Data.LastName" id="txtLastName" maxlength="50" required="" aria-invalid="false" class="form-control" placeholder="Last name" pattern="[A-Za-z '\-]+" aria-describedby="txtLastName_Instruction">
+                                    <label for="txtLastName">Last name</label>
+                                    <div id="msgErrorLastName_Required" class="invalid-feedback" role="alert">
+                                        <span class="visually-hidden">Last name:</span> Required
+                                    </div>
+                                    <div id="msgErrorLastName_Invalid" class="invalid-feedback" role="alert">
+                                        <span class="visually-hidden">Last name:</span>
+                                        You entered invalid characters
+                                        <button class="oss_help_a oss_help-instruction" type="button" data-bs-toggle="collapse" data-bs-target="#help_characters" aria-expanded="false" aria-controls="help_characters" aria-flowto="help_characters">
+                                            What characters can I enter?
+                                        </button>
+                                    </div>
+                                    <div class="form-text" id="txtLastName_Instruction">
+                                        Do not include suffixes like Jr. or Sr.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </fieldset>
+                    <article class="collapse" id="help_characters" aria-live="polite">
+                        <div class="card oss_help-instruction oss_help_box border-dark my-2">
+                            <header class="card-header d-flex text-white bg-dark">
+                                <h3 class="card-title mb-0">What characters can I enter?</h3>
+                                <button type="button" class="ms-auto btn-close btn-close-white" aria-label="Close" data-bs-toggle="collapse" data-bs-target="#help_characters" aria-expanded="false" aria-controls="help_characters"></button>
+                            </header>
+                            <div class="card-body">
+                                <ul class="card-text">
+                                    <li><span aria-hidden="true">Letters A–Z, uppercase or lowercase. Do not use letters with accents or diacritics (such as é or ñ) or non-English characters (such as ф or 陈).</span><span class="visually-hidden">Letters A to Z, uppercase or lowercase. Do not use letters with accents or diacritics (such as E with an accute accent or N with a tilde) or non-English characters (such as Cyrillic letters or Chinese characters).</span></li>
+                                    <li class="mt-2">Spaces</li>
+                                    <li class="mt-2">Hyphens: -</li>
+                                    <li class="mt-2">Apostrophes: ' </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </article>
+                    <fieldset class="oss_break-lg oss_form_section" aria-labelledby="lblDateOfBirth sampleDate">
+                        <legend class="oss_form_section_heading mb-2" id="lblDateOfBirth">
+                            Date of birth
+                        </legend>
+                        <div class="row g-3 gy-md-0 gx-md-3 oss_form_daterow">
+                            <p id="sampleDate" class="mb-2">
+                                <span aria-hidden="true">Use numbers in the month/day/year format: 01/31/1980 for January 31, 1980, for example.</span><span class="visually-hidden">Use numbers in the month, day and year format: zero one, thrity-one, nineteen eighty for January 31, 1980, for example.</span>
+                            </p>
+                            <div class="col-12 col-md-3 col-lg-2">
+                                <label for="txtDobMonth" id="txtBirthMonth">Month</label>
+                                <input type="text" required="" aria-invalid="false" id="txtDobMonth" name="Data.DobMonth" maxlength="2" pattern="^([0-9]+)$" inputmode="numeric" class="form-control" aria-labelledby="lblDateOfBirth txtBirthMonth" value="">
+                                <div id="msgErrorBirthMonth_Required" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Month:</span>
+                                    Required
+                                </div>
+                                <div id="msgErrorBirthMonth_Invalid" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Month:</span>
+                                    Enter a valid date
+                                    <span class="visually-hidden">Use numbers in the month, day and year format: zero one, thrity-one, nineteen eighty for January 31, 1980, for example.</span>
+                                </div>
+                            </div>
+                            <div class="col oss_form_daterow_separator flex-shrink-1 flex-grow-0 pt-4 d-none d-md-block" aria-hidden="true">
+                                /
+                            </div>
+                            <div class="col-12 col-md-3 col-lg-2">
+                                <label for="txtDobDay" id="txtBirthDay">Day</label>
+                                <input type="text" required="" aria-invalid="false" id="txtDobDay" name="Data.DobDay" maxlength="2" pattern="^([0-9]+)$" inputmode="numeric" class="form-control" aria-labelledby="lblDateOfBirth txtBirthDay" value="">
+                                <div id="msgErrorBirthDay_Required" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Day:</span>
+                                    Required
+                                </div>
+                                <div id="msgErrorBirthDay_Invalid" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Day:</span>
+                                    Enter a valid date
+                                </div>
+                            </div>
+                            <div class="col oss_form_daterow_separator flex-shrink-1 flex-grow-0 pt-4 d-none d-md-block" aria-hidden="true">
+                                /
+                            </div>
+                            <div class="col-12 col-md-3 col-lg-2">
+                                <label for="txtDobYear" id="txtBirthYear">Year</label>
+                                <input type="text" required="" aria-invalid="false" id="txtDobYear" name="Data.DobYear" minlength="4" maxlength="4" pattern="^([0-9]+)$" inputmode="numeric" class="form-control" aria-labelledby="lblDateOfBirth txtBirthYear" value="">
+                                <div id="msgErrorBirthYear_Required" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Year:</span>
+                                    Required
+                                </div>
+                                <div id="msgErrorBirthYear_Invalid" class="invalid-feedback" role="alert">
+                                    <span class="visually-hidden">Year:</span>
+                                    Enter a valid date
+                                </div>
+                            </div>
+                        </div>
+                        <div id="msgErrorFullBirthDate_Invalid" role="alert" class="invalid-feedback d-none">
+                            Enter a valid date
+                            <span class="visually-hidden">Use numbers in the month, day and year format: zero one, thrity-one, nineteen eighty for January 31, 1980, for example.</span>
+                        </div>
+                        <div id="msgErrorBirthYear_Ineligible" class="invalid-feedback" role="alert">
+                            <span class="visually-hidden">Year:</span>
+                            You entered an ineligible birth year
+                        </div>
+                        <div id="msgErrorBirthYear_Under18" class="invalid-feedback" role="alert">
+                            <span class="visually-hidden">Year:</span>
+                            If you are not at least 16, you cannot submit a voter registration application
+                        </div>
+                    </fieldset>
+                    <fieldset class="oss_break-lg oss_form_section" aria-labelledby="lblAddress VtrChk_msgEnterYourAddressEitherWithZipcodeOrCounty">
+                        <legend class="oss_form_section_heading mb-2" id="lblAddress">
+                            Your street address
+                        </legend>
+                        <p id="VtrChk_msgEnterYourAddressEitherWithZipcodeOrCounty">
+                            Find your street address starting with either your ZIP Code or county.
+                            <span id="zipcountyToggle" class="text-nowrap oss_toggle_unique">
+                                <button class="btn btn-link p-0" id="zipButton" data-bs-toggle="collapse" data-bs-target="#showZip" aria-controls="showZip" aria-expanded="true" type="button">Switch to ZIP Code search</button>
+                                <button class="btn btn-link p-0 collapsed" id="countyButton" data-bs-toggle="collapse" data-bs-target="#showCounty" aria-controls="showCounty" aria-expanded="false" type="button">Switch to county search</button>
+                            </span>
+                        </p>
+                        <div id="showZipCountyFields">
+                            <div id="showZip" class="collapse show" data-bs-toggle="false" data-bs-parent="#showZipCountyFields">
+                                <div class="row gx-3">
+                                    <div class="col-12 col-lg-4 col-xxl-3">
+                                        <div id="divZipcode" class="form-floating">
+                                            <input type="text" name="Data.ZipCode" id="txtZipCode" maxlength="5" required="" aria-invalid="false" value="" class="form-control" placeholder="ZIP Code" pattern="^\d{5}$">
+                                            <label for="txtZipCode">ZIP Code</label>
+                                            <div id="txtZipCode_Error" class="invalid-feedback" role="alert">
+                                                <span class="visually-hidden">ZIP Code:</span>
+                                                Required
+                                            </div>
+                                            <div id="txtZipCode_Error1" class="invalid-feedback" role="alert">
+                                                <span class="visually-hidden">ZIP Code:</span>
+                                                Enter a valid ZIP Code
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="showCounty" class="collapse" data-bs-toggle="false" data-bs-parent="#showZipCountyFields">
+                                <div class="row gx-3">
+                                    <div class="col-12 col-lg-9 col-xl-8">
+                                        <div id="divCounty" class="form-floating">
+                                            <select name="Data.CountyId" id="selCounty" data-has-changed="false" class="form-select">
+                                                            <option value=""></option>
+                                                            <option value="1">Aitkin</option>
+                                                            <option value="2">Anoka</option>
+                                                            <option value="3">Becker</option>
+                                                            <option value="4">Beltrami</option>
+                                                            <option value="5">Benton</option>
+                                                            <option value="6">Big Stone</option>
+                                                            <option value="7">Blue Earth</option>
+                                                            <option value="8">Brown</option>
+                                                            <option value="9">Carlton</option>
+                                                            <option value="10">Carver</option>
+                                                            <option value="11">Cass</option>
+                                                            <option value="12">Chippewa</option>
+                                                            <option value="13">Chisago</option>
+                                                            <option value="14">Clay</option>
+                                                            <option value="15">Clearwater</option>
+                                                            <option value="16">Cook</option>
+                                                            <option value="17">Cottonwood</option>
+                                                            <option value="18">Crow Wing</option>
+                                                            <option value="19">Dakota</option>
+                                                            <option value="20">Dodge</option>
+                                                            <option value="21">Douglas</option>
+                                                            <option value="22">Faribault</option>
+                                                            <option value="23">Fillmore</option>
+                                                            <option value="24">Freeborn</option>
+                                                            <option value="25">Goodhue</option>
+                                                            <option value="26">Grant</option>
+                                                            <option value="27">Hennepin</option>
+                                                            <option value="28">Houston</option>
+                                                            <option value="29">Hubbard</option>
+                                                            <option value="30">Isanti</option>
+                                                            <option value="31">Itasca</option>
+                                                            <option value="32">Jackson</option>
+                                                            <option value="33">Kanabec</option>
+                                                            <option value="34">Kandiyohi</option>
+                                                            <option value="35">Kittson</option>
+                                                            <option value="36">Koochiching</option>
+                                                            <option value="37">Lac Qui Parle</option>
+                                                            <option value="38">Lake</option>
+                                                            <option value="39">Lake Of The Woods</option>
+                                                            <option value="40">Le Sueur</option>
+                                                            <option value="41">Lincoln</option>
+                                                            <option value="42">Lyon</option>
+                                                            <option value="44">Mahnomen</option>
+                                                            <option value="45">Marshall</option>
+                                                            <option value="46">Martin</option>
+                                                            <option value="43">Mcleod</option>
+                                                            <option value="47">Meeker</option>
+                                                            <option value="48">Mille Lacs</option>
+                                                            <option value="49">Morrison</option>
+                                                            <option value="50">Mower</option>
+                                                            <option value="51">Murray</option>
+                                                            <option value="52">Nicollet</option>
+                                                            <option value="53">Nobles</option>
+                                                            <option value="54">Norman</option>
+                                                            <option value="55">Olmsted</option>
+                                                            <option value="56">Otter Tail</option>
+                                                            <option value="57">Pennington</option>
+                                                            <option value="58">Pine</option>
+                                                            <option value="59">Pipestone</option>
+                                                            <option value="60">Polk</option>
+                                                            <option value="61">Pope</option>
+                                                            <option value="62">Ramsey</option>
+                                                            <option value="63">Red Lake</option>
+                                                            <option value="64">Redwood</option>
+                                                            <option value="65">Renville</option>
+                                                            <option value="66">Rice</option>
+                                                            <option value="67">Rock</option>
+                                                            <option value="68">Roseau</option>
+                                                            <option value="70">Scott</option>
+                                                            <option value="71">Sherburne</option>
+                                                            <option value="72">Sibley</option>
+                                                            <option value="69">St. Louis</option>
+                                                            <option value="73">Stearns</option>
+                                                            <option value="74">Steele</option>
+                                                            <option value="75">Stevens</option>
+                                                            <option value="76">Swift</option>
+                                                            <option value="77">Todd</option>
+                                                            <option value="78">Traverse</option>
+                                                            <option value="79">Wabasha</option>
+                                                            <option value="80">Wadena</option>
+                                                            <option value="81">Waseca</option>
+                                                            <option value="82">Washington</option>
+                                                            <option value="83">Watonwan</option>
+                                                            <option value="84">Wilkin</option>
+                                                            <option value="85">Winona</option>
+                                                            <option value="86">Wright</option>
+                                                            <option value="87">Yellow Medicine</option>
+                                                
+                                            </select>
+                                            <label for="selCounty">County</label>
+                                            <div id="txtCounty_Error" class="invalid-feedback" role="alert">
+                                                <span class="visually-hidden">County:</span>
+                                                Required
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-lg-9 col-xl-8 mt-3">
+                                        <div id="divCity" class="form-floating">
+                                            <select name="Data.McdName" id="selMcd" data-has-changed="false" class="oss_countyfields form-select" disabled="">
+                                            </select>
+                                            <label for="selMcd">City or township</label>
+                                            <div id="txMcd_Error" class="invalid-feedback" role="alert">
+                                                <span class="visually-hidden">City or township:</span>
+                                                Required
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="showStreet" class="pt-3">
+                            <div class="row g-3" id="voterAddressStreet">
+                                <div class="col-12 col-sm-5 col-lg-4 col-xxl-3">
+                                    <div id="divAddress" class="form-floating">
+                                        <input type="text" name="Data.HouseNumber" id="txtHouseNumber" maxlength="10" required="" aria-invalid="false" inputmode="numeric" class="form-control " placeholder="House number" pattern="^[0-9]+[0-9]*$" value="" aria-disabled="true" disabled="">
+                                        <label for="txtHouseNumber">House number</label>
+                                        <div id="txtHouseNumber_Error" class=" invalid-feedback" role="alert">
+                                            <span class="visually-hidden">House number:</span>
+                                            Required
+                                        </div>
+                                        <div id="txtHouseNumber_Error1" class=" invalid-feedback" role="alert">
+                                            <span class="visually-hidden">House number:</span>
+                                            Enter numbers only
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-lg-8 col-xxl-9">
+                                    <div id="divAZipcode" class="form-floating">
+                                        <select name="Data.SelStreet" id="selStreet" class="form-select" required="" aria-invalid="false" data-initial-text=" " disabled="">
+                                        </select>
+                                        <label for="selStreet">Street</label>
+                                        <div id="txtStreet_Error" class="invalid-feedback" role="alert">
+                                            <span class="visually-hidden">Street:</span>
+                                            Required
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="msgHouseNumberNotInAddressRange" class="col-12 col-lg-8 col-xxl-9 invalid-feedback d-none" role="alert">
+                                    The house number you entered cannot be found for this street. Check that both are correct.
+                                    <a href="https://www.sos.mn.gov/elections-voting/find-county-election-office/" target="_blank">If they are correct, contact your county election office for help.</a>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-check form-switch">
+                                        <input type="checkbox" id="chkHouseUnitNumber" name="Data.ChkHouseUnitNumber" class="form-check-input collapsed" role="switch" aria-controls="unitNumber-div" data-val="true" data-val-required="The ChkHouseUnitNumber field is required." value="true">
+                                        <label for="chkHouseUnitNumber">My address includes an apartment or unit number</label>
+                                        <div class="form-text ps-0" id="unitlblLearnMoreText">
+                                            If your registration includes an apartment or other unit number, you must include it in your search.
+                                        </div>
+                                    </div>
+                                    <div id="unitNumber-div" class="col-8 col-md-6 col-lg-4 col-xxl-3 collapse">
+                                        <div class="pt-3">
+                                            <div id="unitNumber" class="form-floating">
+                                                <input type="text" name="Data.HouseUnitNumber" id="txtHouseUnitNumber" maxlength="10" inputmode="text" class="form-control" placeholder="Unit number">
+                                                <label for="txtHouseUnitNumber">Unit number</label>
+                                                <div id="txtHouseUnitNumber_Msg" class="invalid-feedback" role="alert">
+                                                    <span class="visually-hidden">Unit number:</span>
+                                                    Required
+                                                </div>
+                                                <div id="txtHouseUnitNumberInvalid_Msg" class="invalid-feedback" role="alert">
+                                                    <span class="visually-hidden">Unit number:</span>
+                                                    You entered invalid characters
+                                                    <button id="btnUnitNumberHelpChars" class="oss_help_a oss_help-instruction" type="button" data-bs-toggle="collapse" data-bs-target="#help_characters_unitNumber" aria-expanded="false" aria-controls="help_characters_unitNumber">
+                                                        What characters can I enter?
+                                                    </button>
+                                                </div>
+                                                <div id="msgHouseUnitNumberNotInAddressRange" class="col-12 col-lg-8 col-xxl-9 invalid-feedback d-none" role="alert">
+                                                    <span class="visually-hidden">Unit number:</span>
+                                                    The unit number you entered cannot be found for this house number and street.
+                                                    Check that all are correct.
+                                                    <a href="https://www.sos.mn.gov/elections-voting/find-county-election-office/" target="_blank">If they are correct, contact your county election office for help.</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <article class="collapse" id="help_characters_unitNumber">
+                                        <div class="card oss_help-instruction oss_help_box border-dark my-2">
+                                            <header class="card-header d-flex text-white bg-dark">
+                                                <h3 class="card-title mb-0">What characters can I enter?</h3>
+                                                <button type="button" class="ms-auto btn-close btn-close-white" aria-label="Close" data-bs-toggle="collapse" data-bs-target="#help_characters_unitNumber" aria-expanded="false" aria-controls="help_characters_unitNumber"></button>
+                                            </header>
+                                            <div class="card-body">
+                                                <ul class="card-text">
+                                                    <li class="mt-2"><span aria-hidden="true">Letters A–Z, uppercase or lowercase. Do not use letters with accents or diacritics (such as é or ñ) or non-English characters (such as ф or 陈).</span><span class="visually-hidden">Letters A to Z, uppercase or lowercase. Do not use letters with accents or diacritics (such as E with an accute accent or N with a tilde) or non-English characters (such as Cyrillic letters or Chinese characters).</span></li>
+                                                    <li class="mt-2"><span aria-hidden="true">Numbers: 0–9</span><span class="visually-hidden">Numbers: zero through nine</span></li>
+                                                    <li class="mt-2">Spaces</li>
+                                                    <li class="mt-2">Hyphens: -</li>
+                                                    <li class="mt-2">Forward slashes: /</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </article>
+
+                                </div>
+                            </div>
+                        </div>
+                    </fieldset>
+                </div>
+                <div class="oss_break-lg row">
+                    <div class="col-12 col-md-8 col-xl-7">
+                        <button id="btnSubmit" type="button" class="Submitbuttonlength btn oss_btn oss_btn-lg oss_btn-next oss_btn-primary w-100">
+                            Find your registration
+                        </button>
+                    </div>
+                </div>
+            <input name="__RequestVerificationToken" type="hidden" value="CfDJ8HvJWYtgttJAoFsZBsfCv6HFVDKD8csbVCkrmRjSPikBhqOm7Z0q5_9zbSHsvV5HYjO-6237m6uvztf4ROVR_4U_GXKk0la5ay4MFVwkU6aYgsGzADnMWgPxo31GpNqVez0iU6Oh-7wUL4Jz7PPaEMM"><input name="Data.ChkHouseUnitNumber" type="hidden" value="false"></form>
+        </div>
+    </div>
+</article>
+
+
+    </main>
+
+    <!-- this is the V2 bootstrap 5 footer section -->
+<footer class="py-4 oss-c oss-c_footer">
+    <h2 class="visually-hidden">Page footer</h2>
+    <div class="container oss-nowrap-xs">
+        <div class="row justify-content-center g-5">
+            <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                <h3 class="oss-c_footer_heading oss-c_footer_heading-column">Elections &amp; Administration</h3>
+                <ul class="mb-0 list-unstyled">
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-phone">
+                        <span class="oss-c_footer_heading text-nowrap">Elections phone numbers</span>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Metro Area: <a href="tel:651-215-1440" class="text-nowrap">651-215-1440</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Greater MN: <a href="tel:877-600-8683" class="text-nowrap">1-877-600-VOTE (8683)</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        MN Relay Service: <a href="tel:711" class="text-nowrap">711</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-sphone">
+                        <span class="oss-c_footer_heading text-nowrap">Elections Text/SMS</span>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Elections only: <a href="sms:+16512173862" class="text-nowrap">651-217-3862</a>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-clock">
+                        Hours: 8:00&nbsp;a.m. to 4:00&nbsp;p.m.
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-envelope">
+                        Email: <a href="mailto:secretary.state@state.mn.us">secretary.state@state.mn.us</a>
+                    </li>
+                    <li class="mb-0 oss-c_footer_icon oss-c_footer_icon-mapmarker">
+                        <span class="oss-c_footer_heading">Elections &amp; Administration address</span>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        <a href="https://maps.app.goo.gl/PZqseUX4S1dhW4D17" target="_blank">Get Directions<span class="visually-hidden"> to the Elections and Administration offices</span></a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        <p>
+                            Veterans Service Building, Suite 210<br>
+                            20 W 12th Street<br>
+                            Saint Paul, MN 55155
+                        </p>
+                        <p><em>The Veterans Service Building has limited public access. Those who need to conduct business with the elections or administration division in person should make arrangements ahead of time by email or phone.</em></p>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                <h3 class="oss-c_footer_heading oss-c_footer_heading-column">Safe At Home</h3>
+                <ul class="m-0 p-0 list-unstyled">
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-phone">
+                        <span class="oss-c_footer_heading">Safe At Home Phone Numbers</span>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Minnesota’s address confidentiality program
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Metro Area: <a href="tel:651-201-1399">651-201-1399</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Greater MN: <a href="tel:866-723-3035">1-866-723-3035</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        MN Relay Service: <a href="tel:711">711</a>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-clock">
+                        Hours: 8:00&nbsp;a.m. to&nbsp;3:30&nbsp;p.m.
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-envelope">
+                        <a href="https://www.sos.mn.gov/safe-at-home/about-safe-at-home/contact-safe-at-home/">Contact Safe at Home</a>
+                    </li>
+                    <li class="mb-0 oss-c_footer_icon oss-c_footer_icon-mapmarker">
+                        <span class="oss-c_footer_heading">Safe At Home Mailing Address</span><br>
+                        PO Box 17370<br>
+                        Saint Paul, MN 55117-0370
+                    </li>
+                </ul>
+
+            </div>
+            <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+                <h3 class="oss-c_footer_heading oss-c_footer_heading-column">Business Services</h3>
+                <ul class="mb-0 list-unstyled">
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-phone">
+                        <span class="oss-c_footer_heading">
+                            Business services phone numbers
+                        </span>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Metro Area: <a href="tel:651-296-2803" class="text-nowrap">651-296-2803</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Greater MN: <a href="tel:877-551-6767" class="text-nowrap">1-877-551-6767</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        MN Relay Service: <a href="tel:711" class="text-nowrap">711</a>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-clock">
+                        <p>Phone Hours: 9:00&nbsp;a.m. to 4:00&nbsp;p.m.</p>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-clock">
+                        <p>In-Person Appointment Hours: 8:00&nbsp;a.m. to 4:00&nbsp;p.m.</p>
+                        <p><a href="https://sos.mn.gov/appointment" target="_blank">Schedule an appointment</a></p>
+                        <p><em>We are appointment-only. Appointments take place at our First National Bank Building location.</em></p>
+                    </li>
+                    <li class="mb-4 oss-c_footer_icon oss-c_footer_icon-envelope">
+                        Email: <a href="mailto:business.services@state.mn.us">business.services@state.mn.us</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Apostille Email: <a href="mailto:apostille.oss@state.mn.us">apostille.oss@state.mn.us</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        UCC Email: <a href="mailto:ucc.dept@state.mn.us">ucc.dept@state.mn.us</a>
+                        <div class="oss-c_footer_spacer-sm"></div>
+                        Notary Email: <a href="mailto:notary.sos@state.mn.us">notary.sos@state.mn.us</a>
+                    </li>
+                    <li class="mb-0 oss-c_footer_icon oss-c_footer_icon-mapmarker">
+                        <span class="oss-c_footer_heading">Business Services Address</span><div class="oss-c_footer_spacer-sm"></div>
+                        <a href="https://goo.gl/maps/MxfVdYbjjBkQEvpN9">Get Directions<span class="visually-hidden"> to the Business Services office</span></a><div class="oss-c_footer_spacer-sm"></div>
+                        First National Bank Building <br>
+                        332&nbsp;Minnesota&nbsp;Street, Suite&nbsp;N201 <br>
+                        Saint&nbsp;Paul, MN&nbsp;55101
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row oss-c_footer_copyright">
+            <div class="col-12 col-xl-4 order-1 order-xl-3">
+                <ul class="list-inline d-flex align-items-center">
+                    <li class="list-inline-item ms-auto ms-xl-auto">
+                        <a href="https://public.govdelivery.com/accounts/MNSOS/subscriber/new" target="_blank">Subscribe for email updates!</a>
+                    </li>
+                    <li class="ms-2 list-inline-item">
+                        <a href="https://www.facebook.com/MNSecofState" target="_blank" class="d-block oss-c_footer_social oss-c_footer_social-facebook" rel="nofollow"><span class="visually-hidden">Minnesota Secretary of State on Facebook</span></a>
+                    </li>
+                    <li class="ms-2 list-inline-item">
+                        <a href="https://twitter.com/mnsecofstate" target="_blank" class="d-block oss-c_footer_social oss-c_footer_social-twitter" rel="nofollow"><span class="visually-hidden">Minnesota Secretary of State on Twitter</span></a>
+                    </li>
+                    <li class="ms-2 list-inline-item me-auto me-xl-0">
+                        <a href="https://www.youtube.com/channel/UClVwrWOudd8bRWylSIRCOog" target="_blank" class="d-block oss-c_footer_social oss-c_footer_social-youtube" rel="nofollow"><span class="visually-hidden">Minnesota Secretary of State on YouTube</span></a>
+                    </li>
+                </ul>
+                <p class="text-center text-xl-end"><a href="https://www.sos.mn.gov/about-the-office/about-the-office/vulnerability-disclosure-program/" rel="nofollow noreferrer">Vulnerability Disclosure</a></p>
+            </div>
+            <div class="col-12 col-lg-6 col-xl-4 order-2 order-xl-1 text-center text-lg-start">
+                © 2026 Office of the Minnesota Secretary of State<br>
+                <a href="https://www.sos.mn.gov/about-the-office/about-the-office/web-site-terms-and-conditions-of-use">Terms &amp; Conditions</a>
+            </div>
+            <div class="col-12 col-lg-6 col-xl-4 text-center text-lg-end text-xl-center order-3 order-xl-2 mt-3 mt-lg-0">
+                The Office of&nbsp;the&nbsp;Secretary of&nbsp;State is an&nbsp;equal&nbsp;opportunity&nbsp;employer
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <script src="/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    
+
+    <!-- this is the V2 bootstrap 5 body end scripts section -->
+    <script src="https://commoncontent.sos.mn.gov/javascript/v2/bootstrap5/header-searchbox.js"></script>
+
+
+    
+
+    
+        <script src="/bundles/site.min.js?v=rp2zu2KUDhCxBUTmclgg0IDkO996zs8o15ct7CTDj1M"></script>
+    
+
+    
+    <script type="text/javascript" src="/js/VoterStatusCheck/EventListeners_VoterStatus.js"></script>
+    <script type="text/javascript" src="/js/CultureSwitcher.js"></script>
+
+
+</body></html>

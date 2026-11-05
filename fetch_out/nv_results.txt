@@ -1,0 +1,1961 @@
+<!-- MAIN FRAME -->
+<html lang="en" class="k-webkit k-webkit156"><head id="Head1"><style>@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style><script type="text/javascript" async="" src="https://remote.captcha.com/include.js?i=ATABMAExATMBMAIxNBR9EDHzgzswgKGJ1X6P4nXjLnjw8Q"></script><script type="text/javascript">try { document.__defineGetter__("referrer",function(){return "";}); } catch (exception) {try {Object.defineProperties(document, {referrer:   { get: function() { return ""; } } } );} catch (exception) {} } </script><script src="/Powes-art-Thath-sepe-Macbethe-Walkt-and-sleed-an" async=""></script><meta charset="UTF-8"><link href="/DefaultContent/Default/bootstrap.v3.4.1.min.css" rel="stylesheet">
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"><title>
+	
+     | Nevada Secretary of State
+
+</title>
+
+    
+    <script>
+         (function() {
+            window['angular_base'] = "/";
+         })();
+    </script>
+    
+
+    
+            <script type="text/javascript">
+                (function() {
+                    if (window.self !== window.top) { //Inside Iframe                
+                        if (document.getElementsByTagName("html").length > 0) {
+                            document.getElementsByTagName("html")[0].classList.add("apple-product");                
+                        }                
+                    }
+                })();
+            </script>
+    
+    <meta name="viewport" content="width=device-width">
+    
+    <link href="/DefaultContent/Default/StyleBundleDesignTheme.cssbnd?v=XuSY58cYXFocrb64T0DJ7jsMaAKH1awJV9bIuGB3MuI1" rel="stylesheet">
+<link href="/Project/Contents/Main/StyleBundleDesignTheme.cssbnd?v=TgckZ3qHMA1VfuwJUitKTL04EDDZpCZWIy0qjgIbI181" rel="stylesheet">
+<link href="/Areas/Admin/Content/StyleBundleFrontendExtra.cssbnd?v=nqlce7hzdo9LIG8VjJmT54anvfgjYa7U1e0fCFkn8EQ1" rel="stylesheet">
+<link href="/DefaultContent/Default/Print.cssbnd?v=KHE7WOKtPueyPX2uj_mtIbyWU4zUk_Vb5WjoMZ1rsuk1" rel="stylesheet" media="print">
+<link href="/Project/Contents/Main/Print.cssbnd?v=jfhfKsMmxQr_xKAfv9Fj6qRlRX7gMoxJTHKVE6DLWuo1" rel="stylesheet" media="print">
+<script src="/Scripts/ScriptBundleFAllInOne.jsbnd?v=JVE6npY6YF2wH7c-hT0P0TJ17hzzeczFVFrT2ygR9VY1"></script>
+
+<script>
+    function handleExternalURL() { };
+</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:10,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Nevada Secretary of State', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Nevada Secretary of State","TimeAMFormat":"AM","TimePMFormat":"PM","ProjectTimeZone":"America/Los_Angeles","ProjectTimeZoneDiff":{"Id":"Pacific Standard Time","DisplayName":"(UTC-08:00) Pacific Time (US & Canada)","StandardName":"Pacific Standard Time","DaylightName":"Pacific Daylight Time","BaseUtcOffset":"-08:00:00","AdjustmentRules":[{"DateStart":"0001-01-01T00:00:00","DateEnd":"2006-12-31T00:00:00","DaylightDelta":"01:00:00","DaylightTransitionStart":{"TimeOfDay":"0001-01-01T02:00:00","Month":4,"Week":1,"Day":1,"DayOfWeek":0,"IsFixedDateRule":false},"DaylightTransitionEnd":{"TimeOfDay":"0001-01-01T02:00:00","Month":10,"Week":5,"Day":1,"DayOfWeek":0,"IsFixedDateRule":false},"BaseUtcOffsetDelta":"00:00:00"},{"DateStart":"2007-01-01T00:00:00","DateEnd":"9999-12-31T00:00:00","DaylightDelta":"01:00:00","DaylightTransitionStart":{"TimeOfDay":"0001-01-01T02:00:00","Month":3,"Week":2,"Day":1,"DayOfWeek":0,"IsFixedDateRule":false},"DaylightTransitionEnd":{"TimeOfDay":"0001-01-01T02:00:00","Month":11,"Week":1,"Day":1,"DayOfWeek":0,"IsFixedDateRule":false},"BaseUtcOffsetDelta":"00:00:00"}],"SupportsDaylightSavingTime":true},"ShowDefaultMarginRadEditor":true,"ContentReviewDefaultScheduleType":"0","EnableXSSCheck":true,"BasicXSSKeywords":"script|scriptscr|imagesrc","AdvancedXSSKeywords":"onload|onclick|onerror|javascript|onmouseover|eval|random|function|onload|execcommand|script|fscommand|onabort|onactivate|onafterprint|onafterupdate|onbeforeactivate|onbeforecopy|onbeforecut|onbeforedeactivate|onbeforeeditfocus|onbeforepaste|onbeforeunload|onbeforeupdate|onbegin|onblur|onbounce|oncellchange|onchange|onclick|oncontextmMenu|oncontrolselect|oncopy|oncut|ondataavailable|ondatasetchanged|ondatasetcomplete|ondblclick|ondeactivate|ondrag|ondragend|ondragleave|ondragenter|ondragover|ondragdrop|ondragstart|onend|onerror|onerrorupdate|onfilterchange|onfinish|onfocus|onfocusin|onfocusout|onhashchange|onhelp|oninput|onkeydown|onkeypress|onkeyup|onlayoutcomplete|onload|onlosecapture|onmediacomplete|onmediaerror|onmousedown|onmouseenter|onmouseleave|onmousemove|onmouseout|onmouseover|onmouseup|onmousewheel|onmove|onmoveend|onmovestart|onoffline|ononline|onoutofsync|onpaste|onpause|onpopstate|onprogress|onpropertychange|onreadystatechange|onredo|onrepeat|onreset|onresize|onresizeend|onresizestart|onresume|onreverse|onrowsenter|onrowexit|onrowdelete|onrowinserted|onscroll|onseek|onselect|onselectionchange|onselectstart|onstart|onstop|onstorage|onsyncrestored|onsubmit|ontimeerror|ontrackchange|onundo|onunload|onurlflip|seeksegmenttime|document.cookie","EnableMultipleSSO":false,"FileSignatures":"{\".jpg\":[\"FFD8FF\"],\".jpeg\":[\"FFD8FF\"],\".png\":[\"89504E470D0A1A0A\"],\".gif\":[\"474946383761\",\"474946383961\"],\".bmp\":[\"424D\"],\".tif\":[\"49492A00\",\"4D4D002A\"],\".tiff\":[\"49492A00\",\"4D4D002A\"],\".svg\":[],\".txt\":[],\".csv\":[],\".xml\":[],\".rtf\":[\"7B5C727466\"],\".doc\":[\"D0CF11E0A1B11AE1\"],\".docx\":[\"504B0304\"],\".xls\":[\"D0CF11E0A1B11AE1\"],\".xlsx\":[\"504B0304\"],\".ppt\":[\"D0CF11E0A1B11AE1\"],\".pptx\":[\"504B0304\"],\".pps\":[\"D0CF11E0A1B11AE1\"],\".pdf\":[\"25504446\"],\".zip\":[\"504B0304\",\"504B0506\",\"504B0708\"],\".rar\":[\"526172211A0700\",\"526172211A070100\"],\".7z\":[\"377ABCAF271C\"],\".dwg\":[\"41433130\"],\".eps\":[\"25215053\"],\".ai\":[\"25215053\"],\".vsd\":[\"D0CF11E0A1B11AE1\"],\".kml\":[],\".kmz\":[\"504B0304\",\"504B0506\",\"504B0708\"],\".mp3\":[\"494433\"],\".wav\":[\"52494646\"],\".mp4\":[\"00000018\",\"66747970\"],\".avi\":[\"52494646\"],\".mov\":[\"00000014\",\"66747970\"],\".ogg\":[\"4F676753\"],\".flac\":[\"664C6143\"],\".webm\":[\"1A45DFA3\"],\".mkv\":[\"1A45DFA3\"],\".json\":[],\".html\":[],\".htm\":[]}","GoogleReCaptchaPublicKey":"6LflacYZAAAAAI_guTdTbHQCZE5F-MhOTIbJoag3"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IjdKTUdER21sSVBwN3J3MDRXQk1DYmc9PSJ9.s_f5plVvotARyoXemlv1k6mZxL2msxb64_J6V0KfnasFbx8GBfqZWxzALTAk9cuqcxI9Qy7xRhoA0pO2qUUqxIzhG89X7ZCS.tlFMPn1kMCKOWkfSETUcqQ.k5cKWr1AnGFcaW6bjBvMkEaYSE_NsqE-7nVMgx6hFs101xX5QSWvQe4mVwH0Aj0-fS1sB3M9ZYtRSu8xn0Nqx08eKgow5qLkWSQGy1qnAdTbeE64g6bjP13IqeYGppcQj7lyLNac4K-L5YP1pmu6fNQSFlwZRdX7YaalhFXQdNc0cYTs69gtGBR1BjGFiPlypBiLNMLF-PqVOnFl7-5Ldoq7IIXyG_18b17OKzigq8E.mShTlA-U9kS69XzyUWDh6TUbVm1nTjVGt3K2UnR-5Ww";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ ; })(window.visionLiveConfig); })(window);</script>
+
+    <script type="text/javascript">
+        // added the htmlEncode and htmlDecode method to fixed the js load order issue.
+        $.extend($, {
+            htmlEncode: function (html) {
+                var temp = document.createElement("div");
+                (temp.textContent != undefined) ? (temp.textContent = html) : (temp.innerText = html);
+                var output = temp.innerHTML;
+                temp = null;
+                return output;
+            },
+            htmlDecode: function (text) {
+                var temp = document.createElement("div");
+                temp.innerHTML = text;
+                var output = temp.innerText || temp.textContent;
+                temp = null;
+                return output;
+            }
+        });    
+        $(function () {
+            //script for view full site button, placed here to keep firefox for mobile devices happy
+            var viewFullElement = document.getElementById("view-full");           
+            if (viewFullElement) {
+                viewFullElement.innerHTML = "View Full Site";
+                viewFullElement.className = "mobile_only fullsite";
+            }
+        });
+    </script>
+    
+
+    <!--[if lt IE 9]>
+        <script src="/Scripts/ScriptBundleOthers.jsbnd?v=3Q7FhTQfRrKx8h7Kvdbh9bBluzlNlXKsFAERd4g8_TY1"></script>
+
+	<![endif]-->
+
+    
+    <link id="active_font" rel="stylesheet" type="text/css" href="/Project/Contents/Main/x-small.css">
+    
+    <link rel="Shortcut Icon" href="/favicon.ico">
+
+    
+    
+    
+    <script>
+        $(function () {
+            $.frontendSessionManager({
+                virtualApplicationPath:"/",
+                backendUserLogin: false,
+                frontendUserLogin: false,
+                sessionTimeoutInMinutes:30,
+                timeToAlertBeforeSessionTimeoutInMinutes:10,
+                extendSessionTimeoutPath:"Home/FrontEndExtendSessionTimeout"
+            }).setTimerForSessionExpiration();
+        });
+    </script>
+    
+    </head>
+
+<body class="front_end_body site_standardsitetemplate  " ng-app="vi.cms">    
+    <input name="__RequestVerificationToken" type="hidden" value="LUrsI2-FozTJrn0yWbSMUdT1sCCAKRw9FiicQY2o-mUnyZDin1TKt1Iuj5viN6pXSP89SR5SJdbWVx8BDBS9U9wuuc2T_MggCXwSoND7jqE1">
+
+    
+            <style>
+                
+            </style>
+        <link href="/DefaultContent/Default/StyleBundleAngularLib.cssbnd?v=sED2Qjf38ysQJYZW_ZvZj-7IGXKm4NOJhdA51oOtG5A1" rel="stylesheet">
+
+
+
+<script>
+    window.frontendCommonConfig = {
+        loginPage: 'https://www.nvsos.gov/sys/sso/login',
+        popupLoginPage: '/sys/sso/popuplogin',
+        photoBaseUrlForPeople: 'https://www.nvsos.gov/sys/sso/ShowProfilePhoto?id=',
+        photoBaseUrl: 'https://www.nvsos.gov/Home/ShowPublishedImage/',
+        token: window.visionApps ? window.visionApps.token : '',
+        cmsUserLogged: false,
+        anonymousAvatar: 'https://www.nvsos.gov/DefaultContent/Default/_gfx/anonymous.png',
+        loginUser: {
+            name: '',
+            avatar: '',
+            userID: null,
+            firstName: '',
+            lastName: '',
+            imageID: null,
+            email: '',
+        }
+    };
+</script>
+
+
+<script>
+    //It's before the AngularJSLib Loading, which might be update in the AngularJSLib bundle.
+    window.viPredefinedModules = [];
+</script>
+<script src="/Scripts/ScriptBundleAngularLib.jsbnd?v=NE32Axf8AoQJCvAhR0BrNgsJvJ2CpfeBE2zvnHeghcE1"></script>
+
+
+<script>
+    (function (window, angular) {
+
+        $("body").attr("ng-app", "vi.cms");
+        
+        window.viCurrentModule = angular.module("vi.cms", window.viPredefinedModules || []);
+    })(window, angular);
+</script>
+
+
+    <script src="/Scripts/frontendCoreBundle.jsbnd?v=B6JbwsWOd-EUHAJbvPp8WWgswnVmMSWA48MG3na2qBY1"></script>
+
+
+    
+    <!--stopindex-->
+    <noscript>
+        <div class="noscript_alert"><span>Please enable JavaScript in your browser for a better user experience.</span></div>
+    </noscript>
+    <!--startindex-->
+    <div class="vi-temp-message-container" style="display:none;"></div>
+        
+    
+    
+        <!--stopindex-->
+        <section class="alert_container" role="region" aria-labelledby="alert_content" aria-label="Announcement">
+            <div class="important_alert_wrapper">
+                <article id="alert_content" class="important_alert">Our customer service phone line is currently experiencing longer than normal hold times (12-15 minutes). You can also reach us by email at <a href="mailto:sosmail@sos.nv.gov" rel="noreferrer"><u>sosmail@sos.nv.gov</u></a>. If you're reaching out regarding ORION - Nevada's new business licensing portal, you can find training videos to walk you through the new system and other helpful information <a rel="noopener noreferrer" href="https://www.nvsos.gov/business/orion-information"><u>here</u></a>.
+</article>
+            </div>
+
+            <button class="hide" id="alert_controls" data-action="/Sys/Home/SetTopTipCookie" aria-label="Hide banner" tabindex="2" href="javascript: void (0)" role="button" aria-expanded="true"><span class="visually-hidden">Hide banner</span></button>
+        </section>
+        <!--startindex-->
+
+
+<div class="sitewrapper  site_template mainSpan_wrapper">
+    <div class="mainSpan" id="mainSpan_wrapper_Screen">
+
+        <header id="siteheader" class="">
+
+            <!--stopindex-->
+            <div id="skipnav">
+                <a href="#sitebody">Skip to main content</a>
+            </div>
+            <!--startindex-->
+
+            <!--stopindex-->
+            <h1 class="wcag_only">Nevada Secretary of State</h1>
+            <a id="home_link" href="/home">Home</a>
+
+            <a class="menu_trigger mobile_only" href="javascript:void(0);"><i></i><span class="menu-btn-text">Menu</span></a>
+            <!--startindex-->
+
+            
+<div id="headercolumn" class="site_template_column  header_column   ">
+
+                <!--stopindex-->
+                
+<div class="search_overlay"></div>
+<a href="javascript:void(0);" class="search-trigger hidden-xs">Search</a>
+<div class="top_search">
+    <a class="close_search" href="javascript:void(0);">Close</a>
+    <div class="search_block">
+        <div id="searchbox" class="clearfix">
+            <label class="visually-hidden" for="search_text">Search</label>
+            <input title="Search" id="search_text" placeholder="Ex: Apply for a Permit" type="text">
+            <button type="submit" class="search_submitbtn">Search</button>
+        </div>
+
+            <div class="top_links">
+                <h2>Probable Searches</h2>
+                <ul>
+                		<li><a href="/online-services/book-an-appointment" target="_self"><span class="link-text">Book an Appointment</span></a></li>
+                		<li><a href="/licensing/notary" target="_self"><span class="link-text">Notary</span></a></li>
+                		<li><a href="/securities/investor-information" target="_self"><span class="link-text">Investor Information</span></a></li>
+                		<li><a href="/businesses/start-a-business" target="_self"><span class="link-text">Start a Business</span></a></li>
+                		<li><a href="/elections/voters/voter-registration-statistics" target="_self"><span class="link-text">Voter Registration Stats</span></a></li>
+                		<li><a href="/licensing/document-preparation-services" target="_self"><span class="link-text">Document Preparation Services</span></a></li>
+                </ul>
+            </div>
+        
+    </div>
+</div>
+
+
+<script>
+
+    $(function () {
+       
+        $("#searchbox input").keydown(function (e) {
+            if (e.keyCode == 13) {
+                $("#searchbox button").click();
+            }
+        });
+        $("#searchbox button").click(function () {
+            var keyWord = $("#searchbox input#search_text").val();
+            if (keyWord.length <= 0) { return false; }
+            keyWord  = keyWord.replace(/^\s\s*/, '').replace(/\s\s*$/, '');
+            keyWord = encodeURIComponent(keyWord.replace("<"," ").replace(">"," ") );
+            var link = '/sos-information/search-results';
+            if (link.indexOf("?") >= 0 )
+                link = link + "&q=" + keyWord;
+            else
+                link = link + "?q=" + keyWord;
+            if ('False' == 'True') {
+                window.top.location.href = link;
+                return false;
+            } else {
+                window.location.href = link;
+            }            
+        });
+    
+        function toggleSearchButtonState() {
+            const searchText = $("#search_text");
+            if(searchText.length) {
+                const state = $("#search_text").val().trim().length > 0 ? {"pointer-events": "auto", "opacity":"1"} : {"pointer-events": "none", "opacity":"0.2"};
+                $("#searchbox > a").css(state);
+            }
+        }
+        $("#search_text").on("input", toggleSearchButtonState);
+        $(window).on("load", toggleSearchButtonState);
+});
+
+
+$(document).ready(function () {
+  const $searchInput = $('#search_text');
+  const originalPlaceholder = $searchInput.attr('placeholder');
+  const mobilePlaceholder = 'Site Search...';
+
+  function updatePlaceholder() {
+    if ($(window).width() <= 767) {
+      $searchInput.attr('placeholder', mobilePlaceholder);
+    } else {
+      $searchInput.attr('placeholder', originalPlaceholder);
+    }
+  }
+
+  // Run on page load
+  updatePlaceholder();
+
+  // Run on window resize (debounced for performance)
+  let resizeTimer;
+  $(window).on('resize', function () {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(updatePlaceholder, 150);
+  });
+});
+ 
+</script>
+
+
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+
+<div id="top_buttons">
+	<a href="javascript:void" onclick="javascript:GoogleTranslateLink();">Translate</a>
+		<a href="https://orion.nv.gov/portal/public/#/public/nvsos/en/CaseXscreen?screen=external-GenericFilingsSearch&amp;tabRoute=business" target="_self">Business Search</a>		
+    <!--<div class="translatebox">-->
+    <!--    <div id="google_translate_element"></div>-->
+    <!--    <script>-->
+    <!--        function googleTranslateElementInit() {-->
+    <!--            new google.translate.TranslateElement({-->
+    <!--		    includedLanguages: 'ar,zh-CN,zh-TW,tl,hi,ja,ko,fa,pt,ru,es,vi,fr',-->
+    <!--                pageLanguage: 'en'-->
+                    
+    <!--            }, 'google_translate_element');-->
+    <!--            $('select.goog-te-combo').attr('title','translate');-->
+    <!--        }-->
+    <!--    </script>-->
+    <!--    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>-->
+    <!--</div>-->
+	<a href="javascript:void(0);" class="search-trigger hidden-xs">Site Search</a>
+</div>
+
+<script type="text/javascript">
+
+// 	function changeLanguageText() {
+//         if ($('.goog-te-combo option:first-child').text() == "Select Language" ) {
+//             $('.goog-te-combo option:first-child').text('Translate');
+//             $('.translatebox').fadeTo("slow", "1");
+//         } else {
+//             setTimeout(changeLanguageText, 50);
+//         }
+//         var moveEStoTop = false; //EDIT here
+//         if(moveEStoTop){
+//             var firstElement = $("#google_translate_element option:first");
+//             var secondElement = $("#google_translate_element option:first").next();
+//     	    var esElement = $("#google_translate_element option[value='es']");
+//     	    if(esElement != secondElement) {
+    	        
+//     	        esElement.insertAfter(firstElement);
+    	        
+//     	    }
+//         }
+//     }
+
+//     $(document).ready(function () {
+//         changeLanguageText();
+//         $('.goog-te-combo').change(function () {
+//                 changeLanguageText();	            
+//         });	        
+//     });
+function GoogleTranslateLink()
+{
+	if (window.location.href.indexOf("translate.google.com") == -1)
+	{
+		var url = "http://translate.google.com/translate?js=y&prev=_t&hl=en&ie=UTF-8&layout=1&eotf=1&sl=en&tl=es&u=";
+		url += escape(window.location.href);
+		window.location.href = url;
+	}
+}
+</script>
+
+
+
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+
+<div id="top_nav">
+
+		<a href="/home" target="_self">Home</a>		
+		<a href="/sos-information/forms-all-divisions" target="_self">Forms</a>		
+		<a href="/sos-information/office-facts/faqs-all-division" target="_self">FAQ</a>		
+		<a href="/sos-information/contact-us" target="_self">Contact Us</a>		
+
+	
+</div>
+                <!--startindex-->
+            
+
+</div>
+
+        </header>
+
+        
+
+<div class="onecolumnlayout clearfix" id="sitebody">
+    
+<div id="ColumnUserControl1" class="column   top_col clearfix  " role="main" aria-label="ColumnUserControl1">
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="35"WidgetStart!!-->    
+
+                <!--stopindex-->
+                <div class=" main_menu_widget"><!--stopindex--><link href="/DefaultContent/Default/StyleBundleMegaMenuDropDown.cssbnd?v=CD_eN-fYJU8KKPigt6x-Ey-z8_WTsoZ7bqx2pLTZtXU1" rel="stylesheet">
+<link href="/Project/Contents/Main/StyleBundleMegaMenuDropDown.cssbnd?v=N7ZDlwd_taSQGkQGgYZ5cj7E__DuAXvVqBiKF290XKg1" rel="stylesheet">
+<nav aria-label="Main Navigation" class="regularmegamenu mainnav" id="menuContainer_35_0_0"><ul class="dropdownmenu clearfix"><li class="megamenu_first" id="dropdownrootitem1"><a class="dropdownrootitem1" href="/home" aria-label="Home" data-navid="1" target="_self">Home</a></li><li class="megamenu_first" id="dropdownrootitem2"><a class="dropdownrootitem2" href="/businesses" aria-label="Business" data-navid="4" target="_self">Business</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/business/orion-information" aria-label="ORION INFORMATION" data-navid="3053" target="_self">ORION INFORMATION</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/commercial-recordings" aria-label="Commercial Recordings" data-navid="243" target="_self">Commercial Recordings</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/ceremonial-charters-certificates" aria-label="Ceremonial Charters &amp; Certificates" data-navid="146" target="_self">Ceremonial Charters &amp; Certificates</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/faqs" aria-label="FAQs" data-navid="154" target="_self">FAQs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/foreign-corporation-publication-requirements" aria-label="Foreign Corporation Publication Requirements" data-navid="244" target="_self">Foreign Corporation Publication Requirements</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/forms-fees" aria-label="Forms &amp; Fees" data-navid="127" target="_self">Forms &amp; Fees</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/all-business-forms" aria-label="All Business Forms" data-navid="129" target="_self">All Business Forms</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/customer-order-forms" aria-label="Customer Order Forms" data-navid="132" target="_self">Customer Order Forms</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/video-service-provider-certificate-of-authority" aria-label="Video Service Provider Certificate of Authority" data-navid="137" target="_self">Video Service Provider Certificate of Authority</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/name-reservation" aria-label="Name Reservation" data-navid="139" target="_self">Name Reservation</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/registered-agents" aria-label="Registered Agents" data-navid="141" target="_self">Registered Agents</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/partnership-authority" aria-label="Partnership Authority" data-navid="143" target="_self">Partnership Authority</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/merger-exchange-conversion-forms" aria-label="Merger/Exchange/Conversion Forms" data-navid="304" target="_self">Merger/Exchange/Conversion Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/registered-agent-listing" aria-label="Registered Agent Listing" data-navid="833" target="_self">Registered Agent Listing</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/restricted-word-list" aria-label="Restricted Word List" data-navid="145" target="_self">Restricted Word List</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/rights-of-publicity" aria-label="Rights of Publicity" data-navid="149" target="_self">Rights of Publicity</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/sample-certificates" aria-label="Sample Certificates" data-navid="151" target="_self">Sample Certificates</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/service-of-process" aria-label="Service of Process" data-navid="153" target="_self">Service of Process</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="144" target="_self">Statutes &amp; Regulations</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/why-incorporate-in-nevada" aria-label="Why Incorporate in Nevada?" data-navid="152" target="_self">Why Incorporate in Nevada?</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/start-a-business" aria-label="Start A Business" data-navid="415" target="_self">Start A Business</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/manage-your-business" aria-label="Manage Your Business" data-navid="416" target="_self">Manage Your Business</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/close-a-business" aria-label="Close A Business" data-navid="417" target="_self">Close A Business</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/close-a-business/business-trust" aria-label="Business Trust" data-navid="438" target="_self">Business Trust</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/ucc" aria-label="UCC" data-navid="155" target="_self">UCC</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/business/ucc/new-ucc-module-information" aria-label="UCC ORION INFORMATION" data-navid="2860" target="_self">UCC ORION INFORMATION</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/business/ucc/ucc-filings" aria-label="UCC Filings" data-navid="2924" target="_self">UCC Filings</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/ucc/faqs" aria-label="FAQs" data-navid="245" target="_self">FAQs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/ucc/data-report-requests" aria-label="Data Report Requests" data-navid="158" target="_self">Data Report Requests</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/ucc/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="156" target="_self">Statutes &amp; Regulations</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/trademarks" aria-label="Trademarks" data-navid="246" target="_self">Trademarks</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/trademarks/forms-fees" aria-label="Forms &amp; Fees" data-navid="159" target="_self">Forms &amp; Fees</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/trademarks/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="160" target="_self">Statutes &amp; Regulations</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/trademarks/mark-search" aria-label="Mark Search" data-navid="161" target="_blank" rel="noopener">Mark Search</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/apostille" aria-label="Apostille" data-navid="124" target="_self">Apostille</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/apostille/fees" aria-label="Fees" data-navid="162" target="_self">Fees</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/apostille/completing-request-form" aria-label="Submission Instructions" data-navid="2767" target="_self">Submission Instructions</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/apostille/nevada-clerks-recorders" aria-label="Nevada Clerks &amp; Recorders" data-navid="163" target="_self">Nevada Clerks &amp; Recorders</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/apostille/apostille-certification-order-form-credit-card-checklist" aria-label="Apostille/ Certification Order Form &amp; Credit Card Checklist" data-navid="164" target="_blank" rel="noopener">Apostille/ Certification Order Form &amp; Credit Card Checklist</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/other-services" aria-label="Other Services" data-navid="418" target="_self">Other Services</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/business-entity-search-1338" aria-label="Business Entity Search" data-navid="1338" target="_self">Business Entity Search</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/online-articles-of-incorporation-organization" aria-label="Online Articles of Incorporation/Organization" data-navid="824" target="_self">Online Articles of Incorporation/Organization</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/resources" aria-label="Resources" data-navid="421" target="_self">Resources</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/resources/federal-small-business-reporting-requirements" aria-label="Federal Small Business Reporting Requirements" data-navid="2795" target="_self">Federal Small Business Reporting Requirements</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/processing-dates" aria-label="Processing Dates" data-navid="1605" target="_self">Processing Dates</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/assistance" aria-label="Assistance" data-navid="526" target="_self">Assistance</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/terms-of-use" aria-label="Terms of Use" data-navid="1665" target="_self">Terms of Use</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/request-a-refund" aria-label="Request a Refund" data-navid="2838" target="_self">Request a Refund</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/nvid-request" aria-label="NVID Request" data-navid="2825" target="_self">NVID Request</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/forged-or-fraudulent-filing-complaints" aria-label="Forged or Fraudulent Filing Complaints " data-navid="263" target="_self">Forged or Fraudulent Filing Complaints </a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/forged-or-fraudulent-filing-complaints/forms" aria-label="Forms" data-navid="264" target="_self">Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/forged-or-fraudulent-filing-complaints/regulations" aria-label="Regulations" data-navid="265" target="_blank" rel="noopener">Regulations</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/project-orion" aria-label="Project Orion" data-navid="2794" target="_self">Project Orion</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/project-orion/project-orion-press-releases" aria-label="Project Orion Press Releases" data-navid="2847" target="_self">Project Orion Press Releases</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/business/project-orion/november-2025-business-portal-release-notes" aria-label="November 2025 Business Portal Release Notes" data-navid="2899" target="_self">November 2025 Business Portal Release Notes</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/business/project-orion/project-orion-press-releases/october-2025-release-notes" aria-label="October 2025 Release Notes" data-navid="2895" target="_self">October 2025 Release Notes</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/state-business-license-1339" aria-label="State Business License" data-navid="1339" target="_self">State Business License</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/charitable-organizations" aria-label="Charitable Organizations" data-navid="1552" target="_self">Charitable Organizations</a></li></ul></div></div></li><li class="megamenu_first" id="dropdownrootitem3"><a class="dropdownrootitem3" href="/elections" aria-label="Elections" data-navid="3" target="_self">Elections</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/voters" aria-label="Voters" data-navid="71" target="_self">Voters</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/voters/registering-to-vote" aria-label="Registering to Vote" data-navid="703" target="_self">Registering to Vote</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/voters/voter-roll-maintenance" aria-label="Voter Roll Maintenance" data-navid="2858" target="_self">Voter Roll Maintenance</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/voters/county-clerk-contact-information" aria-label="County Clerk Contact Information" data-navid="81" target="_self">County Clerk Contact Information</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/voters/voters-with-disabilities" aria-label="Voters with Disabilities" data-navid="79" target="_self">Voters with Disabilities</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/language-access" aria-label="Language Access" data-navid="2884" target="_self">Language Access</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/youth-vote-nevada" aria-label="Youth Vote Nevada" data-navid="3003" target="_self">Youth Vote Nevada</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/election-information" aria-label="Election Information" data-navid="72" target="_self">Election Information</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-information/vivid-project" aria-label="Election Data Dashboards" data-navid="3035" target="_self">Election Data Dashboards</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-information/voter-turnouts" aria-label="Voter Turnouts" data-navid="3059" target="_self">Voter Turnouts</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-information/2026-election-information" aria-label="2026 Election Information" data-navid="2853" target="_self">2026 Election Information</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/primary-election-information" aria-label="Primary Election Information" data-navid="3058" target="_self">Primary Election Information</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-churchill-special-election-information" aria-label="2026 Churchill Special Election Information" data-navid="3049" target="_self">2026 Churchill Special Election Information</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-cast-vote-records" aria-label="2026 Cast Vote Records" data-navid="3047" target="_self">2026 Cast Vote Records</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-canvass-information" aria-label="2026 Canvass Information" data-navid="3042" target="_self">2026 Canvass Information</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-election-cycle-county-information" aria-label="2026 Election Cycle - County Election Submitted Plans" data-navid="3013" target="_self">2026 Election Cycle - County Election Submitted Plans</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-polling-locations" aria-label="2026 Voting Locations" data-navid="3037" target="_self">2026 Voting Locations</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-candidate-public-media-information" aria-label="2026 Candidate Public Media Information" data-navid="3014" target="_self">2026 Candidate Public Media Information</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-information/election-investigations" aria-label="Election Investigations" data-navid="2923" target="_self">Election Investigations</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/election-resources" aria-label="Election Resources" data-navid="250" target="_self">Election Resources</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-resources/election-regulations-2026" aria-label="Election Regulations - 2026" data-navid="2954" target="_self">Election Regulations - 2026</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-resources/elections-procedures-manual" aria-label="Elections Procedures Manual" data-navid="2717" target="_self">Elections Procedures Manual</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/sb79-request-for-confidentiality" aria-label="Request for Confidentiality" data-navid="1645" target="_self">Request for Confidentiality</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-resources/faqs" aria-label="FAQs" data-navid="255" target="_self">FAQs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/i-vote-to-honor-a-service-member" aria-label="I Vote to Honor a Service Member" data-navid="1242" target="_self">I Vote to Honor a Service Member</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-resources/i-vote-to-honor-a-service-member-form" aria-label="i-vote-to-honor-a-service-member-form" data-navid="3061" target="_self">i-vote-to-honor-a-service-member-form</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/candidate-information" aria-label="Candidate Information" data-navid="1319" target="_self">Candidate Information</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/candidate-information/important-2026-candidate-dates" aria-label="Important 2026 Candidate Dates" data-navid="1532" target="_self">Important 2026 Candidate Dates</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/candidate-information/campaign-finance-reporting-requirements" aria-label="Campaign Finance Reporting Requirements" data-navid="1323" target="_self">Campaign Finance Reporting Requirements</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/how-to-protect-your-private-information" aria-label="How to Protect Your Private Information" data-navid="2887" target="_self">How to Protect Your Private Information</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/poll-workers" aria-label="Poll Workers" data-navid="2826" target="_self">Poll Workers</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/party-committee-information" aria-label="Party &amp; Committee Information" data-navid="74" target="_self">Party &amp; Committee Information</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/organized-political-parties" aria-label="Organized Political Parties" data-navid="114" target="_self">Organized Political Parties</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/party-committee-information/quarterly-determination-reports" aria-label="Quarterly Determination Reports" data-navid="3040" target="_self">Quarterly Determination Reports</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/initiatives-referenda" aria-label="Initiatives &amp; Referenda" data-navid="75" target="_self">Initiatives &amp; Referenda</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/2026-petitions" aria-label="2026 Petitions" data-navid="2886" target="_self">2026 Petitions</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/election-resources/voting-system" aria-label="Voting System" data-navid="1340" target="_self">Voting System</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/vrems-project" aria-label="VREMS Project" data-navid="2713" target="_self">VREMS Project</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/online-services/bulk-contributions-expenses-upload-guide" aria-label="Bulk Contributions/Expenses Upload Guide" data-navid="1241" target="_self">Bulk Contributions/Expenses Upload Guide</a></li></ul></div></div></li><li class="megamenu_first" id="dropdownrootitem4"><a class="dropdownrootitem4" href="/licensing" aria-label="Compliance" data-navid="5" target="_self">Compliance</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/notary" aria-label="Notary" data-navid="165" target="_self">Notary</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/step-by-step-guide-to-become-a-notary" aria-label="Step-by-Step Guide To Become a Notary" data-navid="1690" target="_self">Step-by-Step Guide To Become a Notary</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/step-by-step-guide-to-enotary-registration" aria-label="Step-by-Step Guide to eNotary Registration " data-navid="1676" target="_self">Step-by-Step Guide to eNotary Registration </a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/electronic-notary-solution-provider-information-1678" aria-label="Electronic Notary Solution Provider Information" data-navid="1678" target="_self">Electronic Notary Solution Provider Information</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/duties" aria-label="Duties" data-navid="172" target="_self">Duties</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/training-class-information" aria-label="Training &amp; Class Information" data-navid="542" target="_self">Training &amp; Class Information</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/forms-fees" aria-label="Forms &amp; Fees" data-navid="173" target="_self">Forms &amp; Fees</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="175" target="_self">Statutes &amp; Regulations</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/faqs" aria-label="FAQs" data-navid="209" target="_self">FAQs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/enotary-faqs" aria-label="eNotary FAQs" data-navid="1680" target="_self">eNotary FAQs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/notary-public-handbook" aria-label="Notary Public Handbook" data-navid="1697" target="_self">Notary Public Handbook</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/data-report-requests" aria-label="Data Report Requests" data-navid="171" target="_self">Data Report Requests</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/suspended-cancelled-notary-appointments" aria-label="Suspended &amp; Cancelled Notary Appointments" data-navid="1317" target="_self">Suspended &amp; Cancelled Notary Appointments</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/notary-violation-complaint-report" aria-label="Notary Violation Complaint Report" data-navid="2707" target="_self">Notary Violation Complaint Report</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/request-a-notary-refund" aria-label="Request a Notary Refund" data-navid="2854" target="_self">Request a Notary Refund</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/sports-agents" aria-label="Sports Agents" data-navid="167" target="_self">Sports Agents</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/sports-agents/general-information" aria-label="General Information" data-navid="315" target="_self">General Information</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/sports-agents/forms-fees" aria-label="Forms &amp; Fees" data-navid="177" target="_self">Forms &amp; Fees</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/sports-agents/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="178" target="_self">Statutes &amp; Regulations</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/sports-agents/faqs" aria-label="FAQs" data-navid="179" target="_self">FAQs</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/document-preparation-services" aria-label="Document Preparation Services" data-navid="1346" target="_self">Document Preparation Services</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/qualifications" aria-label="Qualifications" data-navid="1347" target="_self">Qualifications</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/summary-of-ab324" aria-label="Summary of Bills" data-navid="1636" target="_self">Summary of Bills</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/application-process" aria-label="Application Process" data-navid="1348" target="_self">Application Process</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/fingerprinting-background-procedures" aria-label="Fingerprinting for Investigation of History of Applicant" data-navid="1349" target="_self">Fingerprinting for Investigation of History of Applicant</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/bond-requirements" aria-label="Bond Requirements" data-navid="1627" target="_self">Bond Requirements</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/document-preparation-services/bond-requirements/making-a-claim-against-a-bond" aria-label="Making a claim against a bond" data-navid="1688" target="_self">Making a claim against a bond</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/look-up-a-document-preparation-service" aria-label="Look Up A Document Preparation Service" data-navid="1672" target="_self">Look Up A Document Preparation Service</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/duties-obligations-of-a-document-preparation-service" aria-label="Duties &amp; Obligations" data-navid="1350" target="_self">Duties &amp; Obligations</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/how-to-renew" aria-label="How to Renew" data-navid="1626" target="_self">How to Renew</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/know-your-rights-as-a-client" aria-label="Know Your Rights as a Client" data-navid="1352" target="_self">Know Your Rights as a Client</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/compliance/document-preparation-services/document-preparation-file-a-complaint" aria-label="File A Complaint Process and Form" data-navid="3052" target="_self">File A Complaint Process and Form</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/orders-and-judgments" aria-label="Orders and Judgments" data-navid="1674" target="_self">Orders and Judgments</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/contact-docprep" aria-label="Contact DocPrep" data-navid="1630" target="_self">Contact DocPrep</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/digital-signatures" aria-label="Digital Signatures" data-navid="168" target="_self">Digital Signatures</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/digital-signatures/certifying-authorities" aria-label="Certifying Authorities" data-navid="180" target="_self">Certifying Authorities</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/digital-signatures/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="181" target="_self">Statutes &amp; Regulations</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/investor-information" aria-label="Securities" data-navid="6" target="_self">Securities</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/investor-information/securities-information" aria-label="Securities Information" data-navid="187" target="_self">Securities Information</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/securities-information/overview-of-nevada-securities-law" aria-label="Overview of Nevada Securities Law" data-navid="188" target="_self">Overview of Nevada Securities Law</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/compliance/securities/regulations-enforcement/file-a-complaint" aria-label="File a Complaint" data-navid="193" target="_self">File a Complaint</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/compliance/securities/securities-information/suspected-financial-exploitation" aria-label="Suspected Financial Exploitation" data-navid="3050" target="_self">Suspected Financial Exploitation</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/investor-alerts" aria-label="Investor Alerts" data-navid="821" target="_self">Investor Alerts</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/securities/securities-information/notices" aria-label="Notices" data-navid="2783" target="_self">Notices</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/investor-information/registration-of-securities" aria-label="Licensing &amp; Registration" data-navid="189" target="_self">Licensing &amp; Registration</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/registration-of-securities/securities-forms" aria-label="Securities Forms" data-navid="854" target="_self">Securities Forms</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/registration-of-securities/exemption-from-registration" aria-label="Exemption from Registration" data-navid="197" target="_self">Exemption from Registration</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/securities/investment-adviser-ia-investment-adviser-representative" aria-label="Investment Adviser (IA) &amp; Investment Adviser Representative" data-navid="182" target="_self">Investment Adviser (IA) &amp; Investment Adviser Representative</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/securities/broker-dealer" aria-label="Broker Dealer" data-navid="183" target="_self">Broker Dealer</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/securities/branch-office" aria-label="Branch Office" data-navid="185" target="_self">Branch Office</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/securities/sales-representative-agent-of-the-issuer" aria-label="Sales Representative/Agent of the Issuer" data-navid="184" target="_self">Sales Representative/Agent of the Issuer</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/securities/transfer-agent" aria-label="Transfer Agent" data-navid="818" target="_self">Transfer Agent</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/investor-information/regulations-enforcement" aria-label="Regulations &amp; Enforcement" data-navid="191" target="_self">Regulations &amp; Enforcement</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/regulations-enforcement/statutes-regulations-orders/administrative-orders" aria-label="Administrative Orders" data-navid="549" target="_self">Administrative Orders</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/regulations-enforcement/statutes-regulations-orders/recent-legislative-updates" aria-label="Recent Legislative Updates" data-navid="1635" target="_self">Recent Legislative Updates</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/securities/investor-information" aria-label="Investor Information" data-navid="2778" target="_self">Investor Information</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/check-your-broker-or-adviser" aria-label="Is My Investment Professional Licensed?" data-navid="855" target="_self">Is My Investment Professional Licensed?</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/investor-education/for-your-information" aria-label="For Your Information" data-navid="199" target="_self">For Your Information</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/investor-education/recognizing-investment-fraud" aria-label="Recognizing Investment Fraud" data-navid="200" target="_self">Recognizing Investment Fraud</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/resources/securities-related-websites" aria-label="Securities Related Websites" data-navid="259" target="_self">Securities Related Websites</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/investor-threats-for-2018" aria-label="Investor Threats" data-navid="1650" target="_self">Investor Threats</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/investor-information/resources/frequently-asked-questions" aria-label="Frequently Asked Questions" data-navid="261" target="_self">Frequently Asked Questions</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/securities/new-fiduciary-duty" aria-label="NEW!  Fiduciary Duty" data-navid="1633" target="_self">NEW!  Fiduciary Duty</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/state-business-license" aria-label="State Business License" data-navid="267" target="_self">State Business License</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/state-business-license/state-business-license-faq" aria-label="State Business License - FAQ" data-navid="273" target="_self">State Business License - FAQ</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/state-business-license/state-business-license-exemption-faq" aria-label="State Business License Exemption - FAQ" data-navid="1077" target="_self">State Business License Exemption - FAQ</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/state-business-license/nonprofit-solicitation-requirements" aria-label="Nonprofit Solicitation Requirements" data-navid="1344" target="_self">Nonprofit Solicitation Requirements</a></li></ul></li></ul></div></div></li><li class="megamenu_first" id="dropdownrootitem5"><a class="dropdownrootitem5" href="/online-services" aria-label="Services" data-navid="7" target="_self">Services</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/sos-information" aria-label="SOS Information" data-navid="2" target="_self">SOS Information</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/office-facts" aria-label="Office Facts" data-navid="37" target="_self">Office Facts</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/office-facts/about-the-office" aria-label="About the Office" data-navid="38" target="_self">About the Office</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/office-facts/about-francisco-v-aguilar" aria-label="About Francisco V. Aguilar" data-navid="1526" target="_self">About Francisco V. Aguilar</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/office-facts/executive-staff" aria-label="Executive Staff" data-navid="40" target="_self">Executive Staff</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/office-facts/previous-secretaries-of-state" aria-label="Previous Secretaries of State" data-navid="41" target="_self">Previous Secretaries of State</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/about-elections/political-history-of-nevada" aria-label="Political History of Nevada" data-navid="1623" target="_self">Political History of Nevada</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/office-facts/faqs-all-division" aria-label="FAQs -  All Division" data-navid="42" target="_self">FAQs -  All Division</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/public-records-requests" aria-label="Public Records Requests" data-navid="1307" target="_self">Public Records Requests</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/file-a-complaint" aria-label="File a Complaint" data-navid="1370" target="_self">File a Complaint</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/search-results" aria-label="Search Results" data-navid="1594" target="_self">Search Results</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/secretary-of-state-committees-and-task-forces" aria-label="Secretary of State Boards and Commissions" data-navid="2791" target="_self">Secretary of State Boards and Commissions</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/secretary-of-state-boards-and-commissions/task-force-on-safe-sidewalk-vending" aria-label="Task Force on Safe Sidewalk Vending" data-navid="2793" target="_self">Task Force on Safe Sidewalk Vending</a></li></ul></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/online-services/data-download" aria-label="Data Download" data-navid="206" target="_self">Data Download</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/online-services/book-an-appointment" aria-label="Book an Appointment" data-navid="2702" target="_self">Book an Appointment</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/online-services/nevada-lockbox" aria-label="Nevada Lockbox" data-navid="214" target="_self">Nevada Lockbox</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/about-advance-directive-registry" aria-label="About Advance Directive Registry" data-navid="1651" target="_self">About Advance Directive Registry</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/file-advance-directive" aria-label="File Advance Directive" data-navid="217" target="_self">File Advance Directive</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/about-guardianship-nomination-registry" aria-label="About Guardianship Nomination Registry" data-navid="1649" target="_self">About Guardianship Nomination Registry</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/file-guardianship-nomination" aria-label="File Guardianship Nomination" data-navid="1652" target="_self">File Guardianship Nomination</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/authorized-entity-info" aria-label="Authorized Entity Info" data-navid="218" target="_self">Authorized Entity Info</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/forms-resources" aria-label="Forms &amp; Resources" data-navid="219" target="_self">Forms &amp; Resources</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/testimonials" aria-label="Testimonials" data-navid="1365" target="_self">Testimonials</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/contact-us" aria-label="Contact Nevada Lockbox" data-navid="220" target="_self">Contact Nevada Lockbox</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/registrant-access" aria-label="Registrant Access" data-navid="221" target="_self">Registrant Access</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/authorized-provider-access" aria-label="Authorized Entity Access" data-navid="222" target="_self">Authorized Entity Access</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/faqs" aria-label="FAQs" data-navid="216" target="_self">FAQs</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/online-services/public-database-registry-searches" aria-label="Public Database &amp; Registry Searches" data-navid="1471" target="_self">Public Database &amp; Registry Searches</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/marriage-officiants" aria-label="Marriage Officiants" data-navid="166" target="_self">Marriage Officiants</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/domestic-partnerships" aria-label="Domestic Partnerships" data-navid="269" target="_self">Domestic Partnerships</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/domestic-partnerships/domestic-partnership-faq" aria-label="Domestic Partnership - FAQ" data-navid="274" target="_self">Domestic Partnership - FAQ</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/sos-information/forms-all-divisions" aria-label="Forms - All Divisions" data-navid="51" target="_self">Forms - All Divisions</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/business-forms" aria-label="Business Forms" data-navid="545" target="_self">Business Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/election-forms" aria-label="Election Forms" data-navid="53" target="_self">Election Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/securities-forms" aria-label="Securities Forms" data-navid="54" target="_self">Securities Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/notary-forms" aria-label="Notary Forms" data-navid="55" target="_self">Notary Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/sports-agents" aria-label="Sports Agents" data-navid="56" target="_self">Sports Agents</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/trademark-forms" aria-label="Trademark Forms" data-navid="57" target="_self">Trademark Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/ucc-forms" aria-label="UCC Forms" data-navid="583" target="_self">UCC Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/living-will-lockbox-forms" aria-label="Nevada Lockbox Forms" data-navid="819" target="_self">Nevada Lockbox Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/domestic-partnership-forms" aria-label="Domestic Partnership Forms" data-navid="820" target="_self">Domestic Partnership Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/tax-assignee-bond-notice-form" aria-label="Tax Assignee Bond Notice Form" data-navid="1310" target="_self">Tax Assignee Bond Notice Form</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/services/indigenous-relations" aria-label="Indigenous Relations" data-navid="2876" target="_self">Indigenous Relations</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/services/consultation-with-nevada-s-tribes" aria-label="Consultation with Nevada's Tribes" data-navid="2916" target="_self">Consultation with Nevada's Tribes</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/services/indigenous-relations/latest-news-2917" aria-label="Latest News" data-navid="2917" target="_self">Latest News</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/services/indigenous-relations/reports-publications-2918" aria-label="Reports &amp; Publications" data-navid="2918" target="_self">Reports &amp; Publications</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/services/indigenous-relations/elections-tribal-voting-2919" aria-label="Elections &amp; Tribal Voting" data-navid="2919" target="_self">Elections &amp; Tribal Voting</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/sos-information/news-23" aria-label="News" data-navid="23" target="_self">News</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/news/annual-reports" aria-label="Annual/Biennial Reports" data-navid="34" target="_self">Annual/Biennial Reports</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/news/public-notices" aria-label="Public Notices" data-navid="35" target="_self">Public Notices</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/sos-information/contact-us" aria-label="Contact Us" data-navid="68" target="_self">Contact Us</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/contact-us/online-comments/contact-information-for-special-programs" aria-label="Contact Information for Special Programs" data-navid="1663" target="_self">Contact Information for Special Programs</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/sos-information/legislative-acts" aria-label="Legislative Reporting" data-navid="66" target="_self">Legislative Reporting</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/services/language-access-plan" aria-label="Language Access Plan" data-navid="2901" target="_self">Language Access Plan</a></li></ul></div></div></li></ul><script>
+$(function () {
+ var menuContainer = $('#menuContainer_35_0_0');
+ menuContainer.find('.dropdownmenu>li>a[data-navid="1"]').closest('li').addClass('active _visionMenuSelected');
+});
+</script></nav><!--startindex--></div>
+
+
+<script>
+    /**********************************************************
+    Dropdown Menu delay disappearance on mouse out
+    *********************************************************/
+    /*javascript to delay the disappearance of the menu when the user mouses out.  Uses jquery library.*/
+    $(function () {
+        
+
+        var timer = null;
+        var delay = 800; //change this number for shorter or longer delay
+        
+        
+        //using megamenu
+        var dropdowncontainer = '>.megamenu_container';        
+        var activePage = $(".mainnav .dropdownmenu > li.active");
+        $('.mainnav > .dropdownmenu>li > a').css('overflow', 'visible');
+        $(".mainnav > .dropdownmenu > li").hoverIntent(
+        
+            //what happens on hover over
+            function () {
+                 //end timer and stop hiding if they are mousing back in.
+                 if (timer != null) {
+                     clearTimeout(timer);
+                     timer = null;
+                 }
+                 // Find the hovered menu's sub-menu
+                 var $menu = $(this);
+                 var $submenu = $(this).find(dropdowncontainer);
+
+                 // hide any other submenus that are open
+                 $('.mainnav > .dropdownmenu>li' + dropdowncontainer).not($submenu).css('display', 'none');
+                 $('.mainnav > .dropdownmenu li.active').not($menu).not(activePage).removeClass('active');
+                 $('.mainnav > .dropdownmenu li._visionMenuHovered').not($menu).removeClass('_visionMenuHovered');
+                 // show current menu
+                 $submenu.css('display', 'block');
+                 $menu.addClass('active');
+                 $menu.addClass('_visionMenuHovered');
+             },
+
+            //what happens on mouse out
+            function () {
+                var $submenu = $(this).find(dropdowncontainer);
+                var $menu = $(this);
+                // delay disappearance
+                var mouseDelay = $(this).data("mouseDelay") || delay;
+                clearTimeout(timer);
+                timer = setTimeout(function () {
+                    $submenu.css('display', 'none'); $menu.not(activePage).removeClass('active');
+                    $menu.removeClass('_visionMenuHovered');
+                    clearTimeout(timer); timer = null;
+                }, mouseDelay);
+            }
+        );
+
+        function hideRootMegaMenu($menu) {
+            $menu.children(dropdowncontainer).css('display', 'none');
+            $menu.not(activePage).removeClass('active');
+            $menu.removeClass('_visionMenuHovered');
+        }
+
+        function showRootMegaMenu($menu) {
+            var $submenu = $menu.children(dropdowncontainer);    
+            $('.mainnav > .dropdownmenu > li').not($menu).each(function () {
+                hideRootMegaMenu($(this));
+            });
+            if ($submenu.length > 0) {
+                $submenu.css('display', 'block');
+            }
+            $menu.addClass('active');
+            $menu.addClass('_visionMenuHovered');
+        }
+        
+        $('.mainnav > .dropdownmenu > li.megamenu_first > a:not([href])').on('keydown', function (event) {
+            var keyCode = event.which || event.keyCode;
+            var $menu = $(this).closest('li');
+
+            if (keyCode == 13 || keyCode == 32) {
+                event.preventDefault();
+                clearTimeout(timer);
+                if ($menu.children(dropdowncontainer).is(':visible')) {
+                    hideRootMegaMenu($menu);
+                }
+                else {
+                    showRootMegaMenu($menu);
+                }
+            }
+            else if (keyCode == 27) {
+                event.preventDefault();
+                hideRootMegaMenu($menu);
+                $(this).focus();
+            }
+        });
+
+        $('body').bind('keyup', function (event) {
+            if (event.keyCode == 9) {
+                // Find the hovered menu's sub-menu
+                var $menu = $(event.target).closest('li');                
+                 $menu.addClass("_visionMenuHovered");
+                $menu.on('focusout', function () {
+                $(this).removeClass("_visionMenuHovered");
+ });
+                let isJPanelMenuVisible = $("#jPanelMenu-menu").length > 0 ? true : false;
+                if ($menu.hasClass('megamenu_first')) {
+                    if (isJPanelMenuVisible) {
+                        HideMainMenuChild($menu.prev().find('li'));
+                    }
+                    var $submenu = $menu.find(dropdowncontainer);
+
+                    // hide any other submenus that are open
+                    $('.mainnav > .dropdownmenu>li' + dropdowncontainer).not($submenu).css('display', 'none');
+                    $('.mainnav > .dropdownmenu li.active').not($menu).not(activePage).removeClass('active');
+                    // show current menu
+                    $submenu.css('display', 'block');
+                    $menu.addClass('active');
+                }
+                else {
+                    if (isJPanelMenuVisible) {
+                        //sub-menu has children
+                        if ($menu.children('ul').length > 0) {
+                            var subMenuContainer = '>li > ul';
+                            var $submenuChild = $menu.find('>ul');
+                            $submenuChild.css('display', 'block');
+                            $menu.addClass('megamenulevelchildmenu');
+                        }
+
+                        var isSideNav = $menu.hasClass('sidenav_haschildren');
+                        if (isSideNav) {
+                            $menu.removeClass('megamenulevelchildmenu');
+                            $menu.addClass('sidenav_expanded');
+                            var $item = $menu.children('.vi-sidenav-toggle');
+                            $item.html("-");
+                            $item.attr('aria-expanded', true);
+                            $item.on('keydown', function (e) {
+                                if (e.code.toLowerCase() == "enter" || e.code.toLowerCase() == "numpadenter") {
+                                    var isSideNavExpanded = $menu.hasClass('sidenav_expanded');
+                                    if (isSideNavExpanded) {
+                                        $item.html("-");
+                                        $item.attr('aria-expanded', false);
+                                        $menu.children('ul').css('display', 'none');
+                                    }
+                                    else {
+                                        var isItemExpand = $item.html() == "-";
+                                        if (!isItemExpand) {
+                                            $item.html("+");
+                                        }
+                                        $item.attr('aria-expanded', !isItemExpand);
+                                        $menu.children('ul').css('display', isItemExpand ? 'none' : 'block');
+                                        $menu.removeClass('sidenav_expanded');
+                                    }
+                                }
+                            });
+                        }
+                        if ($menu.prev().hasClass('megamenulevelchildmenu')) {
+                            HideMainMenuChild($menu.prev());
+                        }
+                        else if ($menu.parent().prev().children('li').hasClass('megamenulevelchildmenu')) {
+                            HideMainMenuChild($menu.parent().prev().children('li'));
+                        }
+                    }
+
+                }
+            }
+        });
+
+        function HideMainMenuChild(e) {
+            $(e).each(function (index,child) {
+                
+                if ($(child).children('ul').each(function (subIndex,subChild) {
+                    HideMainMenuChild($(subChild).children('li'));
+                }));  
+            });
+            $(e).children('ul').css('display', 'none');
+            $(e).removeClass('megamenulevelchildmenu');
+        }
+
+        
+        $(document).click(function(e){
+            if($(e.target).closest('li.active').hasClass('megamenu_first') === false &&
+                $(e.target).closest(".megamenu_first>a").length <= 0){
+                $('.megamenu_first>div.megamenu_container').css('display', 'none');                
+            }               
+        });
+
+    });
+</script>
+
+<script>
+    //$(function () 
+    {
+        var menuContainerID = "menuContainer_35_0_0";
+        var menuContainer = $("#" + menuContainerID);
+        
+        function isIE(userAgent) {
+            userAgent = userAgent || navigator.userAgent;
+            return userAgent.indexOf("MSIE ") > -1 || userAgent.indexOf("Trident/") > -1;
+        }
+
+        function isIE9(userAgent) {
+            userAgent = userAgent || navigator.userAgent;
+            return userAgent.indexOf("MSIE 9") > -1;
+        }
+
+        function isTouchScreenEvent(event) {
+            var _isTouchScreen = false;
+            if ("ontouchstart" in window) {
+                _isTouchScreen = true;
+            } else if ("onpointerdown" in window) {
+                _isTouchScreen = event.originalEvent.pointerType == "touch";
+            } else if (window.MSPointerEvent) {
+                _isTouchScreen = event.originalEvent.pointerType == event.originalEvent.MSPOINTER_TYPE_TOUCH; // 2 ; http://blogs.msdn.com/b/ie/archive/2011/09/20/touch-input-for-ie10-and-metro-style-apps.aspx
+            } else {
+            }
+            return _isTouchScreen;
+        }
+
+        var _isIE = isIE();
+        var _isIE9 = isIE9();
+        var isMegaMenu = $('.megamenu_first', menuContainer).length > 0;
+        var currentMenu = $('> ul.dropdownmenu > li.active', menuContainer);
+
+        $(function () {
+            if (currentMenu.length == 0)
+                currentMenu = $('> ul.dropdownmenu > li.active', menuContainer);
+        });
+
+        if (("ontouchstart" in window   // Chrome & Safari (IOS) && Firefox
+         || "onpointerdown" in window   // IE 11 
+         || window.MSPointerEvent       // IE 10
+         ) && ($(window).width() > 648)) {
+            var eventName = "ontouchstart" in window ? "touchstart"
+                          : "onpointerdown" in window ? "pointerdown"
+                          : window.MSPointerEvent ? "MSPointerDown"
+                          : "";
+            if (eventName.length > 0) {
+                $('> ul.dropdownmenu  li>a[data-navid]', menuContainer).bind(eventName, function (event) {
+
+                    if (isTouchScreenEvent(event) == false) {
+                        return true;
+                    }
+
+                    var currentLevelAnchor = $(this);
+                    var currentLeveLi = currentLevelAnchor.closest("li");
+                    var firstLevelLi = currentLevelAnchor.closest("li[id^='dropdownrootitem']");
+                    var firstLevelAnchor = firstLevelLi.find(">a[data-navid]");
+                    var inFirstLevel = currentLevelAnchor[0] == firstLevelAnchor[0];
+
+                    var hasSubMenu = currentLevelAnchor.next("ul,div").length > 0;
+                    if (hasSubMenu) {
+                        $(this).closest("li").data("mouseDelay", 1);
+
+                        // Menu is not selected
+                        if (!firstLevelLi.hasClass('touch-active')) {
+                            if ($(this).attr("href")) {
+                                $(this).attr("data-href", $(this).attr("href"));
+                                $(this).attr("href", "javascript:void(0);");
+                            }
+                            $(menuContainer).find('.touch-active').removeClass('touch-active').not(currentMenu).removeClass('active');
+
+                            firstLevelLi.addClass('touch-active active');
+                            currentLevelAnchor.addClass('touch-active active');
+                            currentMenu.addClass("active");
+
+                            $(' li:not(.touch-active)', menuContainer).not(firstLevelLi).removeClass('_current');
+                            $(' li:not(.touch-active) li', menuContainer).not(currentLeveLi).removeClass('_current');
+
+                            $('> ul.dropdownmenu > li:not(.touch-active) > a[data-navid]', menuContainer).next().css('display', 'none');
+                            $('> ul.dropdownmenu > li.touch-active > a[data-navid]', menuContainer).next().css('display', 'block');
+
+                            event.preventDefault();
+                        }
+                            // Menu is selected
+                        else {
+                            if (inFirstLevel) {
+                                // non clickable
+                                if (currentLevelAnchor.attr('href') == undefined) {
+                                    //has class touch-active and no link
+                                    removeClassAndHideMenu();
+                                    event.preventDefault();
+                                } else if ($(this).attr("data-href")) { //clickable, but href have been moved to data.
+                                    $(this).attr("href", $(this).attr("data-href"));
+                                }
+                            }
+                            else {
+                                if (isMegaMenu)
+                                    return true;
+
+                                if (!currentLeveLi.hasClass('touch-active')) {
+                                    if ($(this).attr("href")) {
+                                        $(this).attr("data-href", $(this).attr("href"));
+                                        $(this).attr("href", "javascript:void(0);");
+                                    }
+                                    $(firstLevelLi).find('.touch-active').removeClass('touch-active').not(currentMenu).removeClass('active');
+                                    currentLeveLi.parent().children("li._current").removeClass("_current");
+                                    currentLeveLi.addClass('touch-active active _current');
+
+                                    currentLevelAnchor.addClass('touch-active active');
+
+                                    //$(' li:not(.touch-active)', menuContainer).not(firstLevelLi).removeClass('_current');    
+                                    //$(' li:not(.touch-active) li', menuContainer).not(currentLeveLi).removeClass('_current');
+
+                                    $(' li:not(.touch-active) > a[data-navid]', currentLeveLi.parent()).next().css('display', 'none');
+                                    $('> li.touch-active > a[data-navid]', currentLeveLi.parent()).next().css('display', 'block');
+
+                                    event.preventDefault();
+                                } else {
+                                    if (currentLevelAnchor.attr('href') == undefined) {
+                                        //has class touch-active and no link
+                                        removeClassAndHideMenu();
+                                        event.preventDefault();
+                                    } else if ($(this).attr("data-href")) {
+                                        $(this).attr("href", $(this).attr("data-href"));
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                });
+            }
+        }
+
+
+
+        function removeClassAndHideMenu() {
+            $(menuContainer).find('a.touch-active, li.touch-active').removeClass('touch-active active');
+            $('> ul.dropdownmenu > li > a[data-navid]', menuContainer).next().css('display', 'none');
+            // If we don't change the menu item, we should keep the old one.
+            if ($('> ul.dropdownmenu > li.active', menuContainer).length == 0) {
+                currentMenu.addClass("active");
+            }
+        }
+
+        $('body').bind(eventName, function (event) {
+            if (isTouchScreenEvent(event) == false) {
+                return true;
+            }
+            if (!$(event.target).closest('li.touch-active').length) {
+                removeClassAndHideMenu();
+            }
+        });
+    }
+    //);
+</script>
+
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="36"WidgetStart!!-->    
+
+                <!--stopindex-->
+                
+
+<div class="broken_links_reporter">
+    <form id="broken_links_reporter_form" action="/Home/BrokenLinksReporter" class="front_end_form" data-replace-self="True" formcontainer=".broken_links_reporter" loadingcontainer="body" method="post" need-ajax-submit="true" need-write-proxy="true" needloading="true" posteles="input[type='text'],textarea,input[type='hidden']" write-proxy=".error_recaptcha_field"><div class="validation-summary-valid" data-valmsg-summary="true"><span>Please correct the fields below:</span>
+<ul><li style="display:none"></li>
+</ul></div>
+
+    
+    
+    
+    <input id="ErrorIdentity" name="ErrorIdentity" type="hidden" value="JYGMYWZSG2">
+    <input data-val="true" data-val-number="The field SiteID must be a number." data-val-required="The SiteID field is required." id="SiteID" name="SiteID" type="hidden" value="1">
+    <h1 class="error_subject">
+        Page Not Found...
+    </h1>
+    <p class="error_message">
+        The page you are looking for,<br> <b>https://www.nvsos.gov/elections/election-results/2026-election-results</b>, <br>may have been removed, renamed, entered wrong, or is temporarily unavailable.
+    </p>
+    <p class="error_tip">
+        You can go to the <a href="/home">home page</a> but why not send us information that may help resolve this issue?
+    </p>
+    <div class="error_comment_field">
+        <label class="hidden for_assistive_device" for="Comment">Comment</label>
+        <textarea cols="20" data-val="true" data-val-length="The Comment field must be no more than 2000 characters." data-val-length-max="2000" id="Comment" name="Comment" placeholder="Enter some details about what you were trying to do here - like what page you were trying to access - and Submit this page" rows="2"></textarea>
+    </div>
+    
+    <div class="error_recaptcha_field">
+        
+<div class="recaptcha">
+    <div class="lanap_captcha" id="recaptcha_widget">
+        
+        
+         <div class="recaptcha_response_hint">
+            <label>
+                <span class="recaptcha_only_if_image">To prevent spam we utilize a verification code system. Please enter the code as it is shown in the box below:</span>
+            </label>
+         </div>
+        
+
+
+  <div class="LBD_CaptchaDiv" id="__captcha_id_CaptchaDiv" style="width: 280px !important; height: 50px !important;"><!--
+ --><div class="LBD_CaptchaImageDiv" id="__captcha_id_CaptchaImageDiv" style="width: 250px !important; height: 50px !important;"><!--
+   --><a target="_blank" href="http://captcha.com/asp.net-captcha-info.html" title="What is BotDetect .NET CAPTCHA Control?" onclick="__captcha_id.OnHelpLinkClick(); return __captcha_id.FollowHelpLink;"><img class="LBD_CaptchaImage" id="__captcha_id_CaptchaImage" src="/BotDetectCaptcha.ashx?get=image&amp;c=__captcha_id&amp;t=7916a1d128e04ad4857aa6981bb89469" alt="CAPTCHA"></a><!-- --></div><!--
+ --><div class="LBD_CaptchaIconsDiv" id="__captcha_id_CaptchaIconsDiv" style="width: 24px !important;"><!--
+   --><a class="LBD_ReloadLink" id="__captcha_id_ReloadLink" href="#" onclick="__captcha_id.ReloadImage(); this.blur(); return false;" title="Change the CAPTCHA code"><img class="LBD_ReloadIcon" id="__captcha_id_ReloadIcon" src="/BotDetectCaptcha.ashx?get=ReloadIcon" alt="Change the CAPTCHA code"></a><!--
+   --><a class="LBD_SoundLink" id="__captcha_id_SoundLink" href="/BotDetectCaptcha.ashx?get=sound&amp;c=__captcha_id&amp;t=7916a1d128e04ad4857aa6981bb89469&amp;s=tXrH0PqZA1iBWobpzwOiZfa%2f15rpWqoGCS52EtpNZJ8JwwAmfIalyHEYqDill3poHVqVOCbk6gh9Bjcsl4%2f5jg%3d%3d" onclick="__captcha_id.PlaySound(); this.blur(); return false;" title="Speak the CAPTCHA code"><img class="LBD_SoundIcon" id="__captcha_id_SoundIcon" src="/BotDetectCaptcha.ashx?get=SoundIcon" alt="Speak the CAPTCHA code"></a><!--
+   --><div class="LBD_Placeholder" id="__captcha_id_AudioPlaceholder">&nbsp;</div><!--
+ --></div>
+    <script src="/BotDetectCaptcha.ashx?get=clientScriptInclude" type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+      BotDetect.Init('__captcha_id', '7916a1d128e04ad4857aa6981bb89469', '__captcha_response_field', true, true, true, true, 3600, 7200, 0);
+    //]]>
+    </script>
+    <script type="text/javascript">
+    //<![CDATA[
+      try{(function(){var bdrsn = document.createElement('script'); bdrsn.type = 'text/javascript'; bdrsn.async = true; bdrsn.src = document.location.protocol + '//remote.captcha.com/include.js?i=ATABMAExATMBMAIxNBR9EDHzgzswgKGJ1X6P4nXjLnjw8Q'; var fsn = document.getElementsByTagName('script')[0]; fsn.parentNode.insertBefore(bdrsn, fsn);})();} catch(err){}
+    //]]>
+    </script>
+    <input type="hidden" name="LBD_VCID___captcha_id" id="LBD_VCID___captcha_id" value="7916a1d128e04ad4857aa6981bb89469">
+  </div>
+
+
+         <div class="recaptcha_response_area">
+            <label for="__captcha_response_field">
+                <span>Code:</span>
+            </label>
+            <input autocomplete="off" id="__captcha_response_field" name="__captcha_response_field" type="text" value="">
+         </div>    
+    </div>
+    
+    <script>
+        $(function () {
+            var lanapCatpcha = window['__captcha_id'];
+            if(lanapCatpcha != null)
+                lanapCatpcha.AutoFocusInput = false;
+            $(".LBD_ReloadLink").attr("style", " display: inline-block !important");
+            window.setTimeout(function () {
+                // Remove blur(), otherwise, it will read the page title.
+                $(".LBD_CaptchaDiv a.LBD_ReloadLink").attr("onclick", "$('#__captcha_response_field').focus(); __captcha_id.ReloadImage(); return false;");
+                $(".LBD_CaptchaDiv a.LBD_SoundLink").attr("onclick", "$('#__captcha_response_field').focus(); setTimeout( function() { __captcha_id.PlaySound(); }, 3000); return false;");              
+                
+                try {
+                    $("#__captcha_response_field").attr("data-val-required", "The Validation Code field is required.");
+                    $("#__captcha_response_field").rules("remove");
+                    $("#__captcha_response_field").rules("add", {
+                        required: true,
+                        messages: {
+                            required: "The Validation Code field is required."
+                        }
+                    });
+                } catch(err) {}
+            }, 50);
+
+            
+
+        })
+    </script>
+</div><input name="__captcha__type" type="hidden" value="Vision.Cms.Mvc.LanapCaptCha">
+    </div>
+    
+    <div class="error_button_field">
+        <input class="command primary" type="submit" value="Submit">
+    </div>
+    </form>
+    <script>
+        $(function () {
+            document.title = $.htmlDecode("Page Not Found... | Nevada Secretary of State");
+            $("#broken_links_reporter_form").submit(function () {
+                if (!$("form").valid())
+                    $(this).showErrorsWCAGCompliant();
+            });
+        });
+
+    </script>
+    
+</div>
+
+
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    
+</div>
+
+
+</div>
+
+
+        <footer id="page_footer" class="">
+            <!--stopindex-->
+            
+<div id="footercolumn" class="site_template_column  footer_column   ">
+
+                <!--stopindex-->
+                  
+<div class="col-sm-12 col-md-3">
+    <div class="footer_info">
+        <h2>Contact Us</h2>
+	    <p><a href="https://maps.app.goo.gl/8Q6ewgJ3GjYabknLA">101 N Carson Street Suite 3<br> Carson City, NV 89701</a></p> <br> <p>Ph: <a href="tel:7756845708">(775) 684-5708</a></p>
+    </div>
+</div>
+
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+<div class="col-sm-12 col-md-2">
+    <div class="footer_seal">
+	    <img src="/home/showpublishedimage/2081/638919776295670000" alt="">
+    </div>
+</div>
+
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+
+<div class="col-sm-12 col-md-4">
+    <div class="footer_nav">
+        <h2>Links</h2>
+    	<div class="footer_nav_list">
+    		<a href="mailto:sosmail@sos.nv.gov" target="_blank">Email Us</a>		
+    		<a href="/services/language-access-plan" target="_blank">Language Access Plan</a>		
+    		<a href="/sos-information/contact-us" target="_blank">Contact Us</a>		
+    		<a href="/sos-information/contact-us" target="_blank">Address</a>		
+    	</div>
+    </div>
+</div>
+
+
+
+
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                
+<div class="col-sm-12 col-md-3">
+    <div class="social_icons">
+        <h2>Social Media</h2>
+    		<a href="https://www.facebook.com/NVSOS" target="_blank" title="">
+    			<img src="/home/showpublishedimage/2075/638919770600530000" alt="Facebook">
+    		</a>
+    		<a href="https://x.com/NVSOS" target="_blank" title="">
+    			<img src="/home/showpublishedimage/2077/638919770602570000" alt="X">
+    		</a>
+    		<a href="https://www.youtube.com/@nevadasos" target="_blank" title="">
+    			<img src="/home/showpublishedimage/2079/638919770604870000" alt="YouTube">
+    		</a>
+    </div>
+</div>
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+
+<div class="footer_bottom col-sm-12 col-md-12">
+    <div class="footer_copyright">WEBSITE DESIGN BY <a href="//granicus.com/government-website-design/?utm_source=customer&amp;utm_medium=footer&amp;utm_campaign=govAccesswebsite">GRANICUS</a> - Connecting People and Government</div>
+    <div class="footer_bottom_nav">
+	</div>
+</div>
+
+
+
+                <!--startindex-->
+            
+
+</div>
+
+            <!--startindex-->
+        </footer>
+        
+    </div>
+</div>
+
+<script src="/Project/Contents/Main/scripts/slick.js" type="text/javascript"></script>
+<script src="/Project/Contents/Main/mobile_nav_scripts.js" type="text/javascript"></script>
+<script src="/Project/Contents/Main/sitelayout_scripts.js" type="text/javascript"></script>
+
+
+    
+
+    <script src="/Scripts/ScriptBundleVisionFrontend.jsbnd?v=NIOqwzbLKciu5T0n4C5FpqslDfan_eEBcpT3PTagNT81"></script>
+
+
+    <div id="ccl-web-surveyor"></div>
+
+<script src="https://ccl-webchat.communityconnectlabs.com/latest/custom-version/ccl-web-surveyor-optional-field.min.js" type="text/javascript"></script></body></html>
+
+<!-- FRAME 3E3AADC7A0FFB080BBD92EF8F700D329 -->
+<html lang="en" class="k-webkit k-webkit156"><head id="Head1"><style>@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style><script type="text/javascript" async="" src="https://remote.captcha.com/include.js?i=ATABMAExATMBMAIxNBR9EDHzgzswgKGJ1X6P4nXjLnjw8Q"></script><script type="text/javascript">try { document.__defineGetter__("referrer",function(){return "";}); } catch (exception) {try {Object.defineProperties(document, {referrer:   { get: function() { return ""; } } } );} catch (exception) {} } </script><script src="/Powes-art-Thath-sepe-Macbethe-Walkt-and-sleed-an" async=""></script><meta charset="UTF-8"><link href="/DefaultContent/Default/bootstrap.v3.4.1.min.css" rel="stylesheet">
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE"><title>
+	
+     | Nevada Secretary of State
+
+</title>
+
+    
+    <script>
+         (function() {
+            window['angular_base'] = "/";
+         })();
+    </script>
+    
+
+    
+            <script type="text/javascript">
+                (function() {
+                    if (window.self !== window.top) { //Inside Iframe                
+                        if (document.getElementsByTagName("html").length > 0) {
+                            document.getElementsByTagName("html")[0].classList.add("apple-product");                
+                        }                
+                    }
+                })();
+            </script>
+    
+    <meta name="viewport" content="width=device-width">
+    
+    <link href="/DefaultContent/Default/StyleBundleDesignTheme.cssbnd?v=XuSY58cYXFocrb64T0DJ7jsMaAKH1awJV9bIuGB3MuI1" rel="stylesheet">
+<link href="/Project/Contents/Main/StyleBundleDesignTheme.cssbnd?v=TgckZ3qHMA1VfuwJUitKTL04EDDZpCZWIy0qjgIbI181" rel="stylesheet">
+<link href="/Areas/Admin/Content/StyleBundleFrontendExtra.cssbnd?v=nqlce7hzdo9LIG8VjJmT54anvfgjYa7U1e0fCFkn8EQ1" rel="stylesheet">
+<link href="/DefaultContent/Default/Print.cssbnd?v=KHE7WOKtPueyPX2uj_mtIbyWU4zUk_Vb5WjoMZ1rsuk1" rel="stylesheet" media="print">
+<link href="/Project/Contents/Main/Print.cssbnd?v=jfhfKsMmxQr_xKAfv9Fj6qRlRX7gMoxJTHKVE6DLWuo1" rel="stylesheet" media="print">
+<script src="/Scripts/ScriptBundleFAllInOne.jsbnd?v=JVE6npY6YF2wH7c-hT0P0TJ17hzzeczFVFrT2ygR9VY1"></script>
+
+<script>
+    function handleExternalURL() { };
+</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:10,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Nevada Secretary of State', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Nevada Secretary of State","TimeAMFormat":"AM","TimePMFormat":"PM","ProjectTimeZone":"America/Los_Angeles","ProjectTimeZoneDiff":{"Id":"Pacific Standard Time","DisplayName":"(UTC-08:00) Pacific Time (US & Canada)","StandardName":"Pacific Standard Time","DaylightName":"Pacific Daylight Time","BaseUtcOffset":"-08:00:00","AdjustmentRules":[{"DateStart":"0001-01-01T00:00:00","DateEnd":"2006-12-31T00:00:00","DaylightDelta":"01:00:00","DaylightTransitionStart":{"TimeOfDay":"0001-01-01T02:00:00","Month":4,"Week":1,"Day":1,"DayOfWeek":0,"IsFixedDateRule":false},"DaylightTransitionEnd":{"TimeOfDay":"0001-01-01T02:00:00","Month":10,"Week":5,"Day":1,"DayOfWeek":0,"IsFixedDateRule":false},"BaseUtcOffsetDelta":"00:00:00"},{"DateStart":"2007-01-01T00:00:00","DateEnd":"9999-12-31T00:00:00","DaylightDelta":"01:00:00","DaylightTransitionStart":{"TimeOfDay":"0001-01-01T02:00:00","Month":3,"Week":2,"Day":1,"DayOfWeek":0,"IsFixedDateRule":false},"DaylightTransitionEnd":{"TimeOfDay":"0001-01-01T02:00:00","Month":11,"Week":1,"Day":1,"DayOfWeek":0,"IsFixedDateRule":false},"BaseUtcOffsetDelta":"00:00:00"}],"SupportsDaylightSavingTime":true},"ShowDefaultMarginRadEditor":true,"ContentReviewDefaultScheduleType":"0","EnableXSSCheck":true,"BasicXSSKeywords":"script|scriptscr|imagesrc","AdvancedXSSKeywords":"onload|onclick|onerror|javascript|onmouseover|eval|random|function|onload|execcommand|script|fscommand|onabort|onactivate|onafterprint|onafterupdate|onbeforeactivate|onbeforecopy|onbeforecut|onbeforedeactivate|onbeforeeditfocus|onbeforepaste|onbeforeunload|onbeforeupdate|onbegin|onblur|onbounce|oncellchange|onchange|onclick|oncontextmMenu|oncontrolselect|oncopy|oncut|ondataavailable|ondatasetchanged|ondatasetcomplete|ondblclick|ondeactivate|ondrag|ondragend|ondragleave|ondragenter|ondragover|ondragdrop|ondragstart|onend|onerror|onerrorupdate|onfilterchange|onfinish|onfocus|onfocusin|onfocusout|onhashchange|onhelp|oninput|onkeydown|onkeypress|onkeyup|onlayoutcomplete|onload|onlosecapture|onmediacomplete|onmediaerror|onmousedown|onmouseenter|onmouseleave|onmousemove|onmouseout|onmouseover|onmouseup|onmousewheel|onmove|onmoveend|onmovestart|onoffline|ononline|onoutofsync|onpaste|onpause|onpopstate|onprogress|onpropertychange|onreadystatechange|onredo|onrepeat|onreset|onresize|onresizeend|onresizestart|onresume|onreverse|onrowsenter|onrowexit|onrowdelete|onrowinserted|onscroll|onseek|onselect|onselectionchange|onselectstart|onstart|onstop|onstorage|onsyncrestored|onsubmit|ontimeerror|ontrackchange|onundo|onunload|onurlflip|seeksegmenttime|document.cookie","EnableMultipleSSO":false,"FileSignatures":"{\".jpg\":[\"FFD8FF\"],\".jpeg\":[\"FFD8FF\"],\".png\":[\"89504E470D0A1A0A\"],\".gif\":[\"474946383761\",\"474946383961\"],\".bmp\":[\"424D\"],\".tif\":[\"49492A00\",\"4D4D002A\"],\".tiff\":[\"49492A00\",\"4D4D002A\"],\".svg\":[],\".txt\":[],\".csv\":[],\".xml\":[],\".rtf\":[\"7B5C727466\"],\".doc\":[\"D0CF11E0A1B11AE1\"],\".docx\":[\"504B0304\"],\".xls\":[\"D0CF11E0A1B11AE1\"],\".xlsx\":[\"504B0304\"],\".ppt\":[\"D0CF11E0A1B11AE1\"],\".pptx\":[\"504B0304\"],\".pps\":[\"D0CF11E0A1B11AE1\"],\".pdf\":[\"25504446\"],\".zip\":[\"504B0304\",\"504B0506\",\"504B0708\"],\".rar\":[\"526172211A0700\",\"526172211A070100\"],\".7z\":[\"377ABCAF271C\"],\".dwg\":[\"41433130\"],\".eps\":[\"25215053\"],\".ai\":[\"25215053\"],\".vsd\":[\"D0CF11E0A1B11AE1\"],\".kml\":[],\".kmz\":[\"504B0304\",\"504B0506\",\"504B0708\"],\".mp3\":[\"494433\"],\".wav\":[\"52494646\"],\".mp4\":[\"00000018\",\"66747970\"],\".avi\":[\"52494646\"],\".mov\":[\"00000014\",\"66747970\"],\".ogg\":[\"4F676753\"],\".flac\":[\"664C6143\"],\".webm\":[\"1A45DFA3\"],\".mkv\":[\"1A45DFA3\"],\".json\":[],\".html\":[],\".htm\":[]}","GoogleReCaptchaPublicKey":"6LflacYZAAAAAI_guTdTbHQCZE5F-MhOTIbJoag3"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IjdKTUdER21sSVBwN3J3MDRXQk1DYmc9PSJ9.s_f5plVvotARyoXemlv1k6mZxL2msxb64_J6V0KfnasFbx8GBfqZWxzALTAk9cuqcxI9Qy7xRhoA0pO2qUUqxIzhG89X7ZCS.tlFMPn1kMCKOWkfSETUcqQ.k5cKWr1AnGFcaW6bjBvMkEaYSE_NsqE-7nVMgx6hFs101xX5QSWvQe4mVwH0Aj0-fS1sB3M9ZYtRSu8xn0Nqx08eKgow5qLkWSQGy1qnAdTbeE64g6bjP13IqeYGppcQj7lyLNac4K-L5YP1pmu6fNQSFlwZRdX7YaalhFXQdNc0cYTs69gtGBR1BjGFiPlypBiLNMLF-PqVOnFl7-5Ldoq7IIXyG_18b17OKzigq8E.mShTlA-U9kS69XzyUWDh6TUbVm1nTjVGt3K2UnR-5Ww";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ ; })(window.visionLiveConfig); })(window);</script>
+
+    <script type="text/javascript">
+        // added the htmlEncode and htmlDecode method to fixed the js load order issue.
+        $.extend($, {
+            htmlEncode: function (html) {
+                var temp = document.createElement("div");
+                (temp.textContent != undefined) ? (temp.textContent = html) : (temp.innerText = html);
+                var output = temp.innerHTML;
+                temp = null;
+                return output;
+            },
+            htmlDecode: function (text) {
+                var temp = document.createElement("div");
+                temp.innerHTML = text;
+                var output = temp.innerText || temp.textContent;
+                temp = null;
+                return output;
+            }
+        });    
+        $(function () {
+            //script for view full site button, placed here to keep firefox for mobile devices happy
+            var viewFullElement = document.getElementById("view-full");           
+            if (viewFullElement) {
+                viewFullElement.innerHTML = "View Full Site";
+                viewFullElement.className = "mobile_only fullsite";
+            }
+        });
+    </script>
+    
+
+    <!--[if lt IE 9]>
+        <script src="/Scripts/ScriptBundleOthers.jsbnd?v=3Q7FhTQfRrKx8h7Kvdbh9bBluzlNlXKsFAERd4g8_TY1"></script>
+
+	<![endif]-->
+
+    
+    <link id="active_font" rel="stylesheet" type="text/css" href="/Project/Contents/Main/x-small.css">
+    
+    <link rel="Shortcut Icon" href="/favicon.ico">
+
+    
+    
+    
+    <script>
+        $(function () {
+            $.frontendSessionManager({
+                virtualApplicationPath:"/",
+                backendUserLogin: false,
+                frontendUserLogin: false,
+                sessionTimeoutInMinutes:30,
+                timeToAlertBeforeSessionTimeoutInMinutes:10,
+                extendSessionTimeoutPath:"Home/FrontEndExtendSessionTimeout"
+            }).setTimerForSessionExpiration();
+        });
+    </script>
+    
+    </head>
+
+<body class="front_end_body site_standardsitetemplate  " ng-app="vi.cms">    
+    <input name="__RequestVerificationToken" type="hidden" value="LUrsI2-FozTJrn0yWbSMUdT1sCCAKRw9FiicQY2o-mUnyZDin1TKt1Iuj5viN6pXSP89SR5SJdbWVx8BDBS9U9wuuc2T_MggCXwSoND7jqE1">
+
+    
+            <style>
+                
+            </style>
+        <link href="/DefaultContent/Default/StyleBundleAngularLib.cssbnd?v=sED2Qjf38ysQJYZW_ZvZj-7IGXKm4NOJhdA51oOtG5A1" rel="stylesheet">
+
+
+
+<script>
+    window.frontendCommonConfig = {
+        loginPage: 'https://www.nvsos.gov/sys/sso/login',
+        popupLoginPage: '/sys/sso/popuplogin',
+        photoBaseUrlForPeople: 'https://www.nvsos.gov/sys/sso/ShowProfilePhoto?id=',
+        photoBaseUrl: 'https://www.nvsos.gov/Home/ShowPublishedImage/',
+        token: window.visionApps ? window.visionApps.token : '',
+        cmsUserLogged: false,
+        anonymousAvatar: 'https://www.nvsos.gov/DefaultContent/Default/_gfx/anonymous.png',
+        loginUser: {
+            name: '',
+            avatar: '',
+            userID: null,
+            firstName: '',
+            lastName: '',
+            imageID: null,
+            email: '',
+        }
+    };
+</script>
+
+
+<script>
+    //It's before the AngularJSLib Loading, which might be update in the AngularJSLib bundle.
+    window.viPredefinedModules = [];
+</script>
+<script src="/Scripts/ScriptBundleAngularLib.jsbnd?v=NE32Axf8AoQJCvAhR0BrNgsJvJ2CpfeBE2zvnHeghcE1"></script>
+
+
+<script>
+    (function (window, angular) {
+
+        $("body").attr("ng-app", "vi.cms");
+        
+        window.viCurrentModule = angular.module("vi.cms", window.viPredefinedModules || []);
+    })(window, angular);
+</script>
+
+
+    <script src="/Scripts/frontendCoreBundle.jsbnd?v=B6JbwsWOd-EUHAJbvPp8WWgswnVmMSWA48MG3na2qBY1"></script>
+
+
+    
+    <!--stopindex-->
+    <noscript>
+        <div class="noscript_alert"><span>Please enable JavaScript in your browser for a better user experience.</span></div>
+    </noscript>
+    <!--startindex-->
+    <div class="vi-temp-message-container" style="display:none;"></div>
+        
+    
+    
+        <!--stopindex-->
+        <section class="alert_container" role="region" aria-labelledby="alert_content" aria-label="Announcement">
+            <div class="important_alert_wrapper">
+                <article id="alert_content" class="important_alert">Our customer service phone line is currently experiencing longer than normal hold times (12-15 minutes). You can also reach us by email at <a href="mailto:sosmail@sos.nv.gov" rel="noreferrer"><u>sosmail@sos.nv.gov</u></a>. If you're reaching out regarding ORION - Nevada's new business licensing portal, you can find training videos to walk you through the new system and other helpful information <a rel="noopener noreferrer" href="https://www.nvsos.gov/business/orion-information"><u>here</u></a>.
+</article>
+            </div>
+
+            <button class="hide" id="alert_controls" data-action="/Sys/Home/SetTopTipCookie" aria-label="Hide banner" tabindex="2" href="javascript: void (0)" role="button" aria-expanded="true"><span class="visually-hidden">Hide banner</span></button>
+        </section>
+        <!--startindex-->
+
+
+<div class="sitewrapper  site_template mainSpan_wrapper">
+    <div class="mainSpan" id="mainSpan_wrapper_Screen">
+
+        <header id="siteheader" class="">
+
+            <!--stopindex-->
+            <div id="skipnav">
+                <a href="#sitebody">Skip to main content</a>
+            </div>
+            <!--startindex-->
+
+            <!--stopindex-->
+            <h1 class="wcag_only">Nevada Secretary of State</h1>
+            <a id="home_link" href="/home">Home</a>
+
+            <a class="menu_trigger mobile_only" href="javascript:void(0);"><i></i><span class="menu-btn-text">Menu</span></a>
+            <!--startindex-->
+
+            
+<div id="headercolumn" class="site_template_column  header_column   ">
+
+                <!--stopindex-->
+                
+<div class="search_overlay"></div>
+<a href="javascript:void(0);" class="search-trigger hidden-xs">Search</a>
+<div class="top_search">
+    <a class="close_search" href="javascript:void(0);">Close</a>
+    <div class="search_block">
+        <div id="searchbox" class="clearfix">
+            <label class="visually-hidden" for="search_text">Search</label>
+            <input title="Search" id="search_text" placeholder="Ex: Apply for a Permit" type="text">
+            <button type="submit" class="search_submitbtn">Search</button>
+        </div>
+
+            <div class="top_links">
+                <h2>Probable Searches</h2>
+                <ul>
+                		<li><a href="/online-services/book-an-appointment" target="_self"><span class="link-text">Book an Appointment</span></a></li>
+                		<li><a href="/licensing/notary" target="_self"><span class="link-text">Notary</span></a></li>
+                		<li><a href="/securities/investor-information" target="_self"><span class="link-text">Investor Information</span></a></li>
+                		<li><a href="/businesses/start-a-business" target="_self"><span class="link-text">Start a Business</span></a></li>
+                		<li><a href="/elections/voters/voter-registration-statistics" target="_self"><span class="link-text">Voter Registration Stats</span></a></li>
+                		<li><a href="/licensing/document-preparation-services" target="_self"><span class="link-text">Document Preparation Services</span></a></li>
+                </ul>
+            </div>
+        
+    </div>
+</div>
+
+
+<script>
+
+    $(function () {
+       
+        $("#searchbox input").keydown(function (e) {
+            if (e.keyCode == 13) {
+                $("#searchbox button").click();
+            }
+        });
+        $("#searchbox button").click(function () {
+            var keyWord = $("#searchbox input#search_text").val();
+            if (keyWord.length <= 0) { return false; }
+            keyWord  = keyWord.replace(/^\s\s*/, '').replace(/\s\s*$/, '');
+            keyWord = encodeURIComponent(keyWord.replace("<"," ").replace(">"," ") );
+            var link = '/sos-information/search-results';
+            if (link.indexOf("?") >= 0 )
+                link = link + "&q=" + keyWord;
+            else
+                link = link + "?q=" + keyWord;
+            if ('False' == 'True') {
+                window.top.location.href = link;
+                return false;
+            } else {
+                window.location.href = link;
+            }            
+        });
+    
+        function toggleSearchButtonState() {
+            const searchText = $("#search_text");
+            if(searchText.length) {
+                const state = $("#search_text").val().trim().length > 0 ? {"pointer-events": "auto", "opacity":"1"} : {"pointer-events": "none", "opacity":"0.2"};
+                $("#searchbox > a").css(state);
+            }
+        }
+        $("#search_text").on("input", toggleSearchButtonState);
+        $(window).on("load", toggleSearchButtonState);
+});
+
+
+$(document).ready(function () {
+  const $searchInput = $('#search_text');
+  const originalPlaceholder = $searchInput.attr('placeholder');
+  const mobilePlaceholder = 'Site Search...';
+
+  function updatePlaceholder() {
+    if ($(window).width() <= 767) {
+      $searchInput.attr('placeholder', mobilePlaceholder);
+    } else {
+      $searchInput.attr('placeholder', originalPlaceholder);
+    }
+  }
+
+  // Run on page load
+  updatePlaceholder();
+
+  // Run on window resize (debounced for performance)
+  let resizeTimer;
+  $(window).on('resize', function () {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(updatePlaceholder, 150);
+  });
+});
+ 
+</script>
+
+
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+
+<div id="top_buttons">
+	<a href="javascript:void" onclick="javascript:GoogleTranslateLink();">Translate</a>
+		<a href="https://orion.nv.gov/portal/public/#/public/nvsos/en/CaseXscreen?screen=external-GenericFilingsSearch&amp;tabRoute=business" target="_self">Business Search</a>		
+    <!--<div class="translatebox">-->
+    <!--    <div id="google_translate_element"></div>-->
+    <!--    <script>-->
+    <!--        function googleTranslateElementInit() {-->
+    <!--            new google.translate.TranslateElement({-->
+    <!--		    includedLanguages: 'ar,zh-CN,zh-TW,tl,hi,ja,ko,fa,pt,ru,es,vi,fr',-->
+    <!--                pageLanguage: 'en'-->
+                    
+    <!--            }, 'google_translate_element');-->
+    <!--            $('select.goog-te-combo').attr('title','translate');-->
+    <!--        }-->
+    <!--    </script>-->
+    <!--    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>-->
+    <!--</div>-->
+	<a href="javascript:void(0);" class="search-trigger hidden-xs">Site Search</a>
+</div>
+
+<script type="text/javascript">
+
+// 	function changeLanguageText() {
+//         if ($('.goog-te-combo option:first-child').text() == "Select Language" ) {
+//             $('.goog-te-combo option:first-child').text('Translate');
+//             $('.translatebox').fadeTo("slow", "1");
+//         } else {
+//             setTimeout(changeLanguageText, 50);
+//         }
+//         var moveEStoTop = false; //EDIT here
+//         if(moveEStoTop){
+//             var firstElement = $("#google_translate_element option:first");
+//             var secondElement = $("#google_translate_element option:first").next();
+//     	    var esElement = $("#google_translate_element option[value='es']");
+//     	    if(esElement != secondElement) {
+    	        
+//     	        esElement.insertAfter(firstElement);
+    	        
+//     	    }
+//         }
+//     }
+
+//     $(document).ready(function () {
+//         changeLanguageText();
+//         $('.goog-te-combo').change(function () {
+//                 changeLanguageText();	            
+//         });	        
+//     });
+function GoogleTranslateLink()
+{
+	if (window.location.href.indexOf("translate.google.com") == -1)
+	{
+		var url = "http://translate.google.com/translate?js=y&prev=_t&hl=en&ie=UTF-8&layout=1&eotf=1&sl=en&tl=es&u=";
+		url += escape(window.location.href);
+		window.location.href = url;
+	}
+}
+</script>
+
+
+
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+
+<div id="top_nav">
+
+		<a href="/home" target="_self">Home</a>		
+		<a href="/sos-information/forms-all-divisions" target="_self">Forms</a>		
+		<a href="/sos-information/office-facts/faqs-all-division" target="_self">FAQ</a>		
+		<a href="/sos-information/contact-us" target="_self">Contact Us</a>		
+
+	
+</div>
+                <!--startindex-->
+            
+
+</div>
+
+        </header>
+
+        
+
+<div class="onecolumnlayout clearfix" id="sitebody">
+    
+<div id="ColumnUserControl1" class="column   top_col clearfix  " role="main" aria-label="ColumnUserControl1">
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="35"WidgetStart!!-->    
+
+                <!--stopindex-->
+                <div class=" main_menu_widget"><!--stopindex--><link href="/DefaultContent/Default/StyleBundleMegaMenuDropDown.cssbnd?v=CD_eN-fYJU8KKPigt6x-Ey-z8_WTsoZ7bqx2pLTZtXU1" rel="stylesheet">
+<link href="/Project/Contents/Main/StyleBundleMegaMenuDropDown.cssbnd?v=N7ZDlwd_taSQGkQGgYZ5cj7E__DuAXvVqBiKF290XKg1" rel="stylesheet">
+<nav aria-label="Main Navigation" class="regularmegamenu mainnav" id="menuContainer_35_0_0"><ul class="dropdownmenu clearfix"><li class="megamenu_first" id="dropdownrootitem1"><a class="dropdownrootitem1" href="/home" aria-label="Home" data-navid="1" target="_self">Home</a></li><li class="megamenu_first" id="dropdownrootitem2"><a class="dropdownrootitem2" href="/businesses" aria-label="Business" data-navid="4" target="_self">Business</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/business/orion-information" aria-label="ORION INFORMATION" data-navid="3053" target="_self">ORION INFORMATION</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/commercial-recordings" aria-label="Commercial Recordings" data-navid="243" target="_self">Commercial Recordings</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/ceremonial-charters-certificates" aria-label="Ceremonial Charters &amp; Certificates" data-navid="146" target="_self">Ceremonial Charters &amp; Certificates</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/faqs" aria-label="FAQs" data-navid="154" target="_self">FAQs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/foreign-corporation-publication-requirements" aria-label="Foreign Corporation Publication Requirements" data-navid="244" target="_self">Foreign Corporation Publication Requirements</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/forms-fees" aria-label="Forms &amp; Fees" data-navid="127" target="_self">Forms &amp; Fees</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/all-business-forms" aria-label="All Business Forms" data-navid="129" target="_self">All Business Forms</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/customer-order-forms" aria-label="Customer Order Forms" data-navid="132" target="_self">Customer Order Forms</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/video-service-provider-certificate-of-authority" aria-label="Video Service Provider Certificate of Authority" data-navid="137" target="_self">Video Service Provider Certificate of Authority</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/name-reservation" aria-label="Name Reservation" data-navid="139" target="_self">Name Reservation</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/registered-agents" aria-label="Registered Agents" data-navid="141" target="_self">Registered Agents</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/businesses/commercial-recordings/forms-fees/partnership-authority" aria-label="Partnership Authority" data-navid="143" target="_self">Partnership Authority</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/merger-exchange-conversion-forms" aria-label="Merger/Exchange/Conversion Forms" data-navid="304" target="_self">Merger/Exchange/Conversion Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/registered-agent-listing" aria-label="Registered Agent Listing" data-navid="833" target="_self">Registered Agent Listing</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/restricted-word-list" aria-label="Restricted Word List" data-navid="145" target="_self">Restricted Word List</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/rights-of-publicity" aria-label="Rights of Publicity" data-navid="149" target="_self">Rights of Publicity</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/sample-certificates" aria-label="Sample Certificates" data-navid="151" target="_self">Sample Certificates</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/service-of-process" aria-label="Service of Process" data-navid="153" target="_self">Service of Process</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="144" target="_self">Statutes &amp; Regulations</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/commercial-recordings/why-incorporate-in-nevada" aria-label="Why Incorporate in Nevada?" data-navid="152" target="_self">Why Incorporate in Nevada?</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/start-a-business" aria-label="Start A Business" data-navid="415" target="_self">Start A Business</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/manage-your-business" aria-label="Manage Your Business" data-navid="416" target="_self">Manage Your Business</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/close-a-business" aria-label="Close A Business" data-navid="417" target="_self">Close A Business</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/close-a-business/business-trust" aria-label="Business Trust" data-navid="438" target="_self">Business Trust</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/ucc" aria-label="UCC" data-navid="155" target="_self">UCC</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/business/ucc/new-ucc-module-information" aria-label="UCC ORION INFORMATION" data-navid="2860" target="_self">UCC ORION INFORMATION</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/business/ucc/ucc-filings" aria-label="UCC Filings" data-navid="2924" target="_self">UCC Filings</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/ucc/faqs" aria-label="FAQs" data-navid="245" target="_self">FAQs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/ucc/data-report-requests" aria-label="Data Report Requests" data-navid="158" target="_self">Data Report Requests</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/ucc/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="156" target="_self">Statutes &amp; Regulations</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/trademarks" aria-label="Trademarks" data-navid="246" target="_self">Trademarks</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/trademarks/forms-fees" aria-label="Forms &amp; Fees" data-navid="159" target="_self">Forms &amp; Fees</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/trademarks/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="160" target="_self">Statutes &amp; Regulations</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/trademarks/mark-search" aria-label="Mark Search" data-navid="161" target="_blank" rel="noopener">Mark Search</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/apostille" aria-label="Apostille" data-navid="124" target="_self">Apostille</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/apostille/fees" aria-label="Fees" data-navid="162" target="_self">Fees</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/apostille/completing-request-form" aria-label="Submission Instructions" data-navid="2767" target="_self">Submission Instructions</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/apostille/nevada-clerks-recorders" aria-label="Nevada Clerks &amp; Recorders" data-navid="163" target="_self">Nevada Clerks &amp; Recorders</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/apostille/apostille-certification-order-form-credit-card-checklist" aria-label="Apostille/ Certification Order Form &amp; Credit Card Checklist" data-navid="164" target="_blank" rel="noopener">Apostille/ Certification Order Form &amp; Credit Card Checklist</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/other-services" aria-label="Other Services" data-navid="418" target="_self">Other Services</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/business-entity-search-1338" aria-label="Business Entity Search" data-navid="1338" target="_self">Business Entity Search</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/online-articles-of-incorporation-organization" aria-label="Online Articles of Incorporation/Organization" data-navid="824" target="_self">Online Articles of Incorporation/Organization</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/resources" aria-label="Resources" data-navid="421" target="_self">Resources</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/resources/federal-small-business-reporting-requirements" aria-label="Federal Small Business Reporting Requirements" data-navid="2795" target="_self">Federal Small Business Reporting Requirements</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/processing-dates" aria-label="Processing Dates" data-navid="1605" target="_self">Processing Dates</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/assistance" aria-label="Assistance" data-navid="526" target="_self">Assistance</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/terms-of-use" aria-label="Terms of Use" data-navid="1665" target="_self">Terms of Use</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/request-a-refund" aria-label="Request a Refund" data-navid="2838" target="_self">Request a Refund</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/nvid-request" aria-label="NVID Request" data-navid="2825" target="_self">NVID Request</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/forged-or-fraudulent-filing-complaints" aria-label="Forged or Fraudulent Filing Complaints " data-navid="263" target="_self">Forged or Fraudulent Filing Complaints </a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/forged-or-fraudulent-filing-complaints/forms" aria-label="Forms" data-navid="264" target="_self">Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/forged-or-fraudulent-filing-complaints/regulations" aria-label="Regulations" data-navid="265" target="_blank" rel="noopener">Regulations</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/businesses/project-orion" aria-label="Project Orion" data-navid="2794" target="_self">Project Orion</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/businesses/project-orion/project-orion-press-releases" aria-label="Project Orion Press Releases" data-navid="2847" target="_self">Project Orion Press Releases</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/business/project-orion/november-2025-business-portal-release-notes" aria-label="November 2025 Business Portal Release Notes" data-navid="2899" target="_self">November 2025 Business Portal Release Notes</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/business/project-orion/project-orion-press-releases/october-2025-release-notes" aria-label="October 2025 Release Notes" data-navid="2895" target="_self">October 2025 Release Notes</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/state-business-license-1339" aria-label="State Business License" data-navid="1339" target="_self">State Business License</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/charitable-organizations" aria-label="Charitable Organizations" data-navid="1552" target="_self">Charitable Organizations</a></li></ul></div></div></li><li class="megamenu_first" id="dropdownrootitem3"><a class="dropdownrootitem3" href="/elections" aria-label="Elections" data-navid="3" target="_self">Elections</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/voters" aria-label="Voters" data-navid="71" target="_self">Voters</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/voters/registering-to-vote" aria-label="Registering to Vote" data-navid="703" target="_self">Registering to Vote</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/voters/voter-roll-maintenance" aria-label="Voter Roll Maintenance" data-navid="2858" target="_self">Voter Roll Maintenance</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/voters/county-clerk-contact-information" aria-label="County Clerk Contact Information" data-navid="81" target="_self">County Clerk Contact Information</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/voters/voters-with-disabilities" aria-label="Voters with Disabilities" data-navid="79" target="_self">Voters with Disabilities</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/language-access" aria-label="Language Access" data-navid="2884" target="_self">Language Access</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/youth-vote-nevada" aria-label="Youth Vote Nevada" data-navid="3003" target="_self">Youth Vote Nevada</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/election-information" aria-label="Election Information" data-navid="72" target="_self">Election Information</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-information/vivid-project" aria-label="Election Data Dashboards" data-navid="3035" target="_self">Election Data Dashboards</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-information/voter-turnouts" aria-label="Voter Turnouts" data-navid="3059" target="_self">Voter Turnouts</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-information/2026-election-information" aria-label="2026 Election Information" data-navid="2853" target="_self">2026 Election Information</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/primary-election-information" aria-label="Primary Election Information" data-navid="3058" target="_self">Primary Election Information</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-churchill-special-election-information" aria-label="2026 Churchill Special Election Information" data-navid="3049" target="_self">2026 Churchill Special Election Information</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-cast-vote-records" aria-label="2026 Cast Vote Records" data-navid="3047" target="_self">2026 Cast Vote Records</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-canvass-information" aria-label="2026 Canvass Information" data-navid="3042" target="_self">2026 Canvass Information</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-election-cycle-county-information" aria-label="2026 Election Cycle - County Election Submitted Plans" data-navid="3013" target="_self">2026 Election Cycle - County Election Submitted Plans</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-polling-locations" aria-label="2026 Voting Locations" data-navid="3037" target="_self">2026 Voting Locations</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/2026-election-information/2026-candidate-public-media-information" aria-label="2026 Candidate Public Media Information" data-navid="3014" target="_self">2026 Candidate Public Media Information</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-information/election-investigations" aria-label="Election Investigations" data-navid="2923" target="_self">Election Investigations</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/election-resources" aria-label="Election Resources" data-navid="250" target="_self">Election Resources</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-resources/election-regulations-2026" aria-label="Election Regulations - 2026" data-navid="2954" target="_self">Election Regulations - 2026</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-resources/elections-procedures-manual" aria-label="Elections Procedures Manual" data-navid="2717" target="_self">Elections Procedures Manual</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/sb79-request-for-confidentiality" aria-label="Request for Confidentiality" data-navid="1645" target="_self">Request for Confidentiality</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-resources/faqs" aria-label="FAQs" data-navid="255" target="_self">FAQs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/i-vote-to-honor-a-service-member" aria-label="I Vote to Honor a Service Member" data-navid="1242" target="_self">I Vote to Honor a Service Member</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/election-resources/i-vote-to-honor-a-service-member-form" aria-label="i-vote-to-honor-a-service-member-form" data-navid="3061" target="_self">i-vote-to-honor-a-service-member-form</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/candidate-information" aria-label="Candidate Information" data-navid="1319" target="_self">Candidate Information</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/candidate-information/important-2026-candidate-dates" aria-label="Important 2026 Candidate Dates" data-navid="1532" target="_self">Important 2026 Candidate Dates</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/candidate-information/campaign-finance-reporting-requirements" aria-label="Campaign Finance Reporting Requirements" data-navid="1323" target="_self">Campaign Finance Reporting Requirements</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/how-to-protect-your-private-information" aria-label="How to Protect Your Private Information" data-navid="2887" target="_self">How to Protect Your Private Information</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/poll-workers" aria-label="Poll Workers" data-navid="2826" target="_self">Poll Workers</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/party-committee-information" aria-label="Party &amp; Committee Information" data-navid="74" target="_self">Party &amp; Committee Information</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/organized-political-parties" aria-label="Organized Political Parties" data-navid="114" target="_self">Organized Political Parties</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/elections/party-committee-information/quarterly-determination-reports" aria-label="Quarterly Determination Reports" data-navid="3040" target="_self">Quarterly Determination Reports</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/initiatives-referenda" aria-label="Initiatives &amp; Referenda" data-navid="75" target="_self">Initiatives &amp; Referenda</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/2026-petitions" aria-label="2026 Petitions" data-navid="2886" target="_self">2026 Petitions</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/election-resources/voting-system" aria-label="Voting System" data-navid="1340" target="_self">Voting System</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/elections/vrems-project" aria-label="VREMS Project" data-navid="2713" target="_self">VREMS Project</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/online-services/bulk-contributions-expenses-upload-guide" aria-label="Bulk Contributions/Expenses Upload Guide" data-navid="1241" target="_self">Bulk Contributions/Expenses Upload Guide</a></li></ul></div></div></li><li class="megamenu_first" id="dropdownrootitem4"><a class="dropdownrootitem4" href="/licensing" aria-label="Compliance" data-navid="5" target="_self">Compliance</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/notary" aria-label="Notary" data-navid="165" target="_self">Notary</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/step-by-step-guide-to-become-a-notary" aria-label="Step-by-Step Guide To Become a Notary" data-navid="1690" target="_self">Step-by-Step Guide To Become a Notary</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/step-by-step-guide-to-enotary-registration" aria-label="Step-by-Step Guide to eNotary Registration " data-navid="1676" target="_self">Step-by-Step Guide to eNotary Registration </a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/electronic-notary-solution-provider-information-1678" aria-label="Electronic Notary Solution Provider Information" data-navid="1678" target="_self">Electronic Notary Solution Provider Information</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/duties" aria-label="Duties" data-navid="172" target="_self">Duties</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/training-class-information" aria-label="Training &amp; Class Information" data-navid="542" target="_self">Training &amp; Class Information</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/forms-fees" aria-label="Forms &amp; Fees" data-navid="173" target="_self">Forms &amp; Fees</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="175" target="_self">Statutes &amp; Regulations</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/faqs" aria-label="FAQs" data-navid="209" target="_self">FAQs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/enotary-faqs" aria-label="eNotary FAQs" data-navid="1680" target="_self">eNotary FAQs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/notary-public-handbook" aria-label="Notary Public Handbook" data-navid="1697" target="_self">Notary Public Handbook</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/data-report-requests" aria-label="Data Report Requests" data-navid="171" target="_self">Data Report Requests</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/suspended-cancelled-notary-appointments" aria-label="Suspended &amp; Cancelled Notary Appointments" data-navid="1317" target="_self">Suspended &amp; Cancelled Notary Appointments</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/notary-violation-complaint-report" aria-label="Notary Violation Complaint Report" data-navid="2707" target="_self">Notary Violation Complaint Report</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/notary/request-a-notary-refund" aria-label="Request a Notary Refund" data-navid="2854" target="_self">Request a Notary Refund</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/sports-agents" aria-label="Sports Agents" data-navid="167" target="_self">Sports Agents</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/sports-agents/general-information" aria-label="General Information" data-navid="315" target="_self">General Information</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/sports-agents/forms-fees" aria-label="Forms &amp; Fees" data-navid="177" target="_self">Forms &amp; Fees</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/sports-agents/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="178" target="_self">Statutes &amp; Regulations</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/sports-agents/faqs" aria-label="FAQs" data-navid="179" target="_self">FAQs</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/document-preparation-services" aria-label="Document Preparation Services" data-navid="1346" target="_self">Document Preparation Services</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/qualifications" aria-label="Qualifications" data-navid="1347" target="_self">Qualifications</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/summary-of-ab324" aria-label="Summary of Bills" data-navid="1636" target="_self">Summary of Bills</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/application-process" aria-label="Application Process" data-navid="1348" target="_self">Application Process</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/fingerprinting-background-procedures" aria-label="Fingerprinting for Investigation of History of Applicant" data-navid="1349" target="_self">Fingerprinting for Investigation of History of Applicant</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/bond-requirements" aria-label="Bond Requirements" data-navid="1627" target="_self">Bond Requirements</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/document-preparation-services/bond-requirements/making-a-claim-against-a-bond" aria-label="Making a claim against a bond" data-navid="1688" target="_self">Making a claim against a bond</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/look-up-a-document-preparation-service" aria-label="Look Up A Document Preparation Service" data-navid="1672" target="_self">Look Up A Document Preparation Service</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/duties-obligations-of-a-document-preparation-service" aria-label="Duties &amp; Obligations" data-navid="1350" target="_self">Duties &amp; Obligations</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/how-to-renew" aria-label="How to Renew" data-navid="1626" target="_self">How to Renew</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/know-your-rights-as-a-client" aria-label="Know Your Rights as a Client" data-navid="1352" target="_self">Know Your Rights as a Client</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/compliance/document-preparation-services/document-preparation-file-a-complaint" aria-label="File A Complaint Process and Form" data-navid="3052" target="_self">File A Complaint Process and Form</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/orders-and-judgments" aria-label="Orders and Judgments" data-navid="1674" target="_self">Orders and Judgments</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/document-preparation-services/contact-docprep" aria-label="Contact DocPrep" data-navid="1630" target="_self">Contact DocPrep</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/digital-signatures" aria-label="Digital Signatures" data-navid="168" target="_self">Digital Signatures</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/digital-signatures/certifying-authorities" aria-label="Certifying Authorities" data-navid="180" target="_self">Certifying Authorities</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/digital-signatures/statutes-regulations" aria-label="Statutes &amp; Regulations" data-navid="181" target="_self">Statutes &amp; Regulations</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/investor-information" aria-label="Securities" data-navid="6" target="_self">Securities</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/investor-information/securities-information" aria-label="Securities Information" data-navid="187" target="_self">Securities Information</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/securities-information/overview-of-nevada-securities-law" aria-label="Overview of Nevada Securities Law" data-navid="188" target="_self">Overview of Nevada Securities Law</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/compliance/securities/regulations-enforcement/file-a-complaint" aria-label="File a Complaint" data-navid="193" target="_self">File a Complaint</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/compliance/securities/securities-information/suspected-financial-exploitation" aria-label="Suspected Financial Exploitation" data-navid="3050" target="_self">Suspected Financial Exploitation</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/investor-alerts" aria-label="Investor Alerts" data-navid="821" target="_self">Investor Alerts</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/securities/securities-information/notices" aria-label="Notices" data-navid="2783" target="_self">Notices</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/investor-information/registration-of-securities" aria-label="Licensing &amp; Registration" data-navid="189" target="_self">Licensing &amp; Registration</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/registration-of-securities/securities-forms" aria-label="Securities Forms" data-navid="854" target="_self">Securities Forms</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/registration-of-securities/exemption-from-registration" aria-label="Exemption from Registration" data-navid="197" target="_self">Exemption from Registration</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/securities/investment-adviser-ia-investment-adviser-representative" aria-label="Investment Adviser (IA) &amp; Investment Adviser Representative" data-navid="182" target="_self">Investment Adviser (IA) &amp; Investment Adviser Representative</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/securities/broker-dealer" aria-label="Broker Dealer" data-navid="183" target="_self">Broker Dealer</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/securities/branch-office" aria-label="Branch Office" data-navid="185" target="_self">Branch Office</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/securities/sales-representative-agent-of-the-issuer" aria-label="Sales Representative/Agent of the Issuer" data-navid="184" target="_self">Sales Representative/Agent of the Issuer</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/licensing/securities/transfer-agent" aria-label="Transfer Agent" data-navid="818" target="_self">Transfer Agent</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/investor-information/regulations-enforcement" aria-label="Regulations &amp; Enforcement" data-navid="191" target="_self">Regulations &amp; Enforcement</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/regulations-enforcement/statutes-regulations-orders/administrative-orders" aria-label="Administrative Orders" data-navid="549" target="_self">Administrative Orders</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/regulations-enforcement/statutes-regulations-orders/recent-legislative-updates" aria-label="Recent Legislative Updates" data-navid="1635" target="_self">Recent Legislative Updates</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/securities/investor-information" aria-label="Investor Information" data-navid="2778" target="_self">Investor Information</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/check-your-broker-or-adviser" aria-label="Is My Investment Professional Licensed?" data-navid="855" target="_self">Is My Investment Professional Licensed?</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/investor-education/for-your-information" aria-label="For Your Information" data-navid="199" target="_self">For Your Information</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/investor-education/recognizing-investment-fraud" aria-label="Recognizing Investment Fraud" data-navid="200" target="_self">Recognizing Investment Fraud</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/resources/securities-related-websites" aria-label="Securities Related Websites" data-navid="259" target="_self">Securities Related Websites</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/investor-information/investor-threats-for-2018" aria-label="Investor Threats" data-navid="1650" target="_self">Investor Threats</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/investor-information/resources/frequently-asked-questions" aria-label="Frequently Asked Questions" data-navid="261" target="_self">Frequently Asked Questions</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/securities/new-fiduciary-duty" aria-label="NEW!  Fiduciary Duty" data-navid="1633" target="_self">NEW!  Fiduciary Duty</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/state-business-license" aria-label="State Business License" data-navid="267" target="_self">State Business License</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/state-business-license/state-business-license-faq" aria-label="State Business License - FAQ" data-navid="273" target="_self">State Business License - FAQ</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/state-business-license/state-business-license-exemption-faq" aria-label="State Business License Exemption - FAQ" data-navid="1077" target="_self">State Business License Exemption - FAQ</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/state-business-license/nonprofit-solicitation-requirements" aria-label="Nonprofit Solicitation Requirements" data-navid="1344" target="_self">Nonprofit Solicitation Requirements</a></li></ul></li></ul></div></div></li><li class="megamenu_first" id="dropdownrootitem5"><a class="dropdownrootitem5" href="/online-services" aria-label="Services" data-navid="7" target="_self">Services</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/sos-information" aria-label="SOS Information" data-navid="2" target="_self">SOS Information</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/office-facts" aria-label="Office Facts" data-navid="37" target="_self">Office Facts</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/office-facts/about-the-office" aria-label="About the Office" data-navid="38" target="_self">About the Office</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/office-facts/about-francisco-v-aguilar" aria-label="About Francisco V. Aguilar" data-navid="1526" target="_self">About Francisco V. Aguilar</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/office-facts/executive-staff" aria-label="Executive Staff" data-navid="40" target="_self">Executive Staff</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/office-facts/previous-secretaries-of-state" aria-label="Previous Secretaries of State" data-navid="41" target="_self">Previous Secretaries of State</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/elections/election-information/about-elections/political-history-of-nevada" aria-label="Political History of Nevada" data-navid="1623" target="_self">Political History of Nevada</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/office-facts/faqs-all-division" aria-label="FAQs -  All Division" data-navid="42" target="_self">FAQs -  All Division</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/public-records-requests" aria-label="Public Records Requests" data-navid="1307" target="_self">Public Records Requests</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/file-a-complaint" aria-label="File a Complaint" data-navid="1370" target="_self">File a Complaint</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/search-results" aria-label="Search Results" data-navid="1594" target="_self">Search Results</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/secretary-of-state-committees-and-task-forces" aria-label="Secretary of State Boards and Commissions" data-navid="2791" target="_self">Secretary of State Boards and Commissions</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/sos-information/secretary-of-state-boards-and-commissions/task-force-on-safe-sidewalk-vending" aria-label="Task Force on Safe Sidewalk Vending" data-navid="2793" target="_self">Task Force on Safe Sidewalk Vending</a></li></ul></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/online-services/data-download" aria-label="Data Download" data-navid="206" target="_self">Data Download</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/online-services/book-an-appointment" aria-label="Book an Appointment" data-navid="2702" target="_self">Book an Appointment</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/online-services/nevada-lockbox" aria-label="Nevada Lockbox" data-navid="214" target="_self">Nevada Lockbox</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/about-advance-directive-registry" aria-label="About Advance Directive Registry" data-navid="1651" target="_self">About Advance Directive Registry</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/file-advance-directive" aria-label="File Advance Directive" data-navid="217" target="_self">File Advance Directive</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/about-guardianship-nomination-registry" aria-label="About Guardianship Nomination Registry" data-navid="1649" target="_self">About Guardianship Nomination Registry</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/file-guardianship-nomination" aria-label="File Guardianship Nomination" data-navid="1652" target="_self">File Guardianship Nomination</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/authorized-entity-info" aria-label="Authorized Entity Info" data-navid="218" target="_self">Authorized Entity Info</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/forms-resources" aria-label="Forms &amp; Resources" data-navid="219" target="_self">Forms &amp; Resources</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/testimonials" aria-label="Testimonials" data-navid="1365" target="_self">Testimonials</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/contact-us" aria-label="Contact Nevada Lockbox" data-navid="220" target="_self">Contact Nevada Lockbox</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/registrant-access" aria-label="Registrant Access" data-navid="221" target="_self">Registrant Access</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/authorized-provider-access" aria-label="Authorized Entity Access" data-navid="222" target="_self">Authorized Entity Access</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/online-services/nevada-lockbox/faqs" aria-label="FAQs" data-navid="216" target="_self">FAQs</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/online-services/public-database-registry-searches" aria-label="Public Database &amp; Registry Searches" data-navid="1471" target="_self">Public Database &amp; Registry Searches</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/marriage-officiants" aria-label="Marriage Officiants" data-navid="166" target="_self">Marriage Officiants</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/licensing/domestic-partnerships" aria-label="Domestic Partnerships" data-navid="269" target="_self">Domestic Partnerships</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/licensing/domestic-partnerships/domestic-partnership-faq" aria-label="Domestic Partnership - FAQ" data-navid="274" target="_self">Domestic Partnership - FAQ</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/sos-information/forms-all-divisions" aria-label="Forms - All Divisions" data-navid="51" target="_self">Forms - All Divisions</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/business-forms" aria-label="Business Forms" data-navid="545" target="_self">Business Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/election-forms" aria-label="Election Forms" data-navid="53" target="_self">Election Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/securities-forms" aria-label="Securities Forms" data-navid="54" target="_self">Securities Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/notary-forms" aria-label="Notary Forms" data-navid="55" target="_self">Notary Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/sports-agents" aria-label="Sports Agents" data-navid="56" target="_self">Sports Agents</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/trademark-forms" aria-label="Trademark Forms" data-navid="57" target="_self">Trademark Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/ucc-forms" aria-label="UCC Forms" data-navid="583" target="_self">UCC Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/living-will-lockbox-forms" aria-label="Nevada Lockbox Forms" data-navid="819" target="_self">Nevada Lockbox Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/domestic-partnership-forms" aria-label="Domestic Partnership Forms" data-navid="820" target="_self">Domestic Partnership Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/forms-all-divisions/tax-assignee-bond-notice-form" aria-label="Tax Assignee Bond Notice Form" data-navid="1310" target="_self">Tax Assignee Bond Notice Form</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/services/indigenous-relations" aria-label="Indigenous Relations" data-navid="2876" target="_self">Indigenous Relations</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/services/consultation-with-nevada-s-tribes" aria-label="Consultation with Nevada's Tribes" data-navid="2916" target="_self">Consultation with Nevada's Tribes</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/services/indigenous-relations/latest-news-2917" aria-label="Latest News" data-navid="2917" target="_self">Latest News</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/services/indigenous-relations/reports-publications-2918" aria-label="Reports &amp; Publications" data-navid="2918" target="_self">Reports &amp; Publications</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/services/indigenous-relations/elections-tribal-voting-2919" aria-label="Elections &amp; Tribal Voting" data-navid="2919" target="_self">Elections &amp; Tribal Voting</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/sos-information/news-23" aria-label="News" data-navid="23" target="_self">News</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/news/annual-reports" aria-label="Annual/Biennial Reports" data-navid="34" target="_self">Annual/Biennial Reports</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/news/public-notices" aria-label="Public Notices" data-navid="35" target="_self">Public Notices</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/sos-information/contact-us" aria-label="Contact Us" data-navid="68" target="_self">Contact Us</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/sos-information/contact-us/online-comments/contact-information-for-special-programs" aria-label="Contact Information for Special Programs" data-navid="1663" target="_self">Contact Information for Special Programs</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/sos-information/legislative-acts" aria-label="Legislative Reporting" data-navid="66" target="_self">Legislative Reporting</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/services/language-access-plan" aria-label="Language Access Plan" data-navid="2901" target="_self">Language Access Plan</a></li></ul></div></div></li></ul><script>
+$(function () {
+ var menuContainer = $('#menuContainer_35_0_0');
+ menuContainer.find('.dropdownmenu>li>a[data-navid="1"]').closest('li').addClass('active _visionMenuSelected');
+});
+</script></nav><!--startindex--></div>
+
+
+<script>
+    /**********************************************************
+    Dropdown Menu delay disappearance on mouse out
+    *********************************************************/
+    /*javascript to delay the disappearance of the menu when the user mouses out.  Uses jquery library.*/
+    $(function () {
+        
+
+        var timer = null;
+        var delay = 800; //change this number for shorter or longer delay
+        
+        
+        //using megamenu
+        var dropdowncontainer = '>.megamenu_container';        
+        var activePage = $(".mainnav .dropdownmenu > li.active");
+        $('.mainnav > .dropdownmenu>li > a').css('overflow', 'visible');
+        $(".mainnav > .dropdownmenu > li").hoverIntent(
+        
+            //what happens on hover over
+            function () {
+                 //end timer and stop hiding if they are mousing back in.
+                 if (timer != null) {
+                     clearTimeout(timer);
+                     timer = null;
+                 }
+                 // Find the hovered menu's sub-menu
+                 var $menu = $(this);
+                 var $submenu = $(this).find(dropdowncontainer);
+
+                 // hide any other submenus that are open
+                 $('.mainnav > .dropdownmenu>li' + dropdowncontainer).not($submenu).css('display', 'none');
+                 $('.mainnav > .dropdownmenu li.active').not($menu).not(activePage).removeClass('active');
+                 $('.mainnav > .dropdownmenu li._visionMenuHovered').not($menu).removeClass('_visionMenuHovered');
+                 // show current menu
+                 $submenu.css('display', 'block');
+                 $menu.addClass('active');
+                 $menu.addClass('_visionMenuHovered');
+             },
+
+            //what happens on mouse out
+            function () {
+                var $submenu = $(this).find(dropdowncontainer);
+                var $menu = $(this);
+                // delay disappearance
+                var mouseDelay = $(this).data("mouseDelay") || delay;
+                clearTimeout(timer);
+                timer = setTimeout(function () {
+                    $submenu.css('display', 'none'); $menu.not(activePage).removeClass('active');
+                    $menu.removeClass('_visionMenuHovered');
+                    clearTimeout(timer); timer = null;
+                }, mouseDelay);
+            }
+        );
+
+        function hideRootMegaMenu($menu) {
+            $menu.children(dropdowncontainer).css('display', 'none');
+            $menu.not(activePage).removeClass('active');
+            $menu.removeClass('_visionMenuHovered');
+        }
+
+        function showRootMegaMenu($menu) {
+            var $submenu = $menu.children(dropdowncontainer);    
+            $('.mainnav > .dropdownmenu > li').not($menu).each(function () {
+                hideRootMegaMenu($(this));
+            });
+            if ($submenu.length > 0) {
+                $submenu.css('display', 'block');
+            }
+            $menu.addClass('active');
+            $menu.addClass('_visionMenuHovered');
+        }
+        
+        $('.mainnav > .dropdownmenu > li.megamenu_first > a:not([href])').on('keydown', function (event) {
+            var keyCode = event.which || event.keyCode;
+            var $menu = $(this).closest('li');
+
+            if (keyCode == 13 || keyCode == 32) {
+                event.preventDefault();
+                clearTimeout(timer);
+                if ($menu.children(dropdowncontainer).is(':visible')) {
+                    hideRootMegaMenu($menu);
+                }
+                else {
+                    showRootMegaMenu($menu);
+                }
+            }
+            else if (keyCode == 27) {
+                event.preventDefault();
+                hideRootMegaMenu($menu);
+                $(this).focus();
+            }
+        });
+
+        $('body').bind('keyup', function (event) {
+            if (event.keyCode == 9) {
+                // Find the hovered menu's sub-menu
+                var $menu = $(event.target).closest('li');                
+                 $menu.addClass("_visionMenuHovered");
+                $menu.on('focusout', function () {
+                $(this).removeClass("_visionMenuHovered");
+ });
+                let isJPanelMenuVisible = $("#jPanelMenu-menu").length > 0 ? true : false;
+                if ($menu.hasClass('megamenu_first')) {
+                    if (isJPanelMenuVisible) {
+                        HideMainMenuChild($menu.prev().find('li'));
+                    }
+                    var $submenu = $menu.find(dropdowncontainer);
+
+                    // hide any other submenus that are open
+                    $('.mainnav > .dropdownmenu>li' + dropdowncontainer).not($submenu).css('display', 'none');
+                    $('.mainnav > .dropdownmenu li.active').not($menu).not(activePage).removeClass('active');
+                    // show current menu
+                    $submenu.css('display', 'block');
+                    $menu.addClass('active');
+                }
+                else {
+                    if (isJPanelMenuVisible) {
+                        //sub-menu has children
+                        if ($menu.children('ul').length > 0) {
+                            var subMenuContainer = '>li > ul';
+                            var $submenuChild = $menu.find('>ul');
+                            $submenuChild.css('display', 'block');
+                            $menu.addClass('megamenulevelchildmenu');
+                        }
+
+                        var isSideNav = $menu.hasClass('sidenav_haschildren');
+                        if (isSideNav) {
+                            $menu.removeClass('megamenulevelchildmenu');
+                            $menu.addClass('sidenav_expanded');
+                            var $item = $menu.children('.vi-sidenav-toggle');
+                            $item.html("-");
+                            $item.attr('aria-expanded', true);
+                            $item.on('keydown', function (e) {
+                                if (e.code.toLowerCase() == "enter" || e.code.toLowerCase() == "numpadenter") {
+                                    var isSideNavExpanded = $menu.hasClass('sidenav_expanded');
+                                    if (isSideNavExpanded) {
+                                        $item.html("-");
+                                        $item.attr('aria-expanded', false);
+                                        $menu.children('ul').css('display', 'none');
+                                    }
+                                    else {
+                                        var isItemExpand = $item.html() == "-";
+                                        if (!isItemExpand) {
+                                            $item.html("+");
+                                        }
+                                        $item.attr('aria-expanded', !isItemExpand);
+                                        $menu.children('ul').css('display', isItemExpand ? 'none' : 'block');
+                                        $menu.removeClass('sidenav_expanded');
+                                    }
+                                }
+                            });
+                        }
+                        if ($menu.prev().hasClass('megamenulevelchildmenu')) {
+                            HideMainMenuChild($menu.prev());
+                        }
+                        else if ($menu.parent().prev().children('li').hasClass('megamenulevelchildmenu')) {
+                            HideMainMenuChild($menu.parent().prev().children('li'));
+                        }
+                    }
+
+                }
+            }
+        });
+
+        function HideMainMenuChild(e) {
+            $(e).each(function (index,child) {
+                
+                if ($(child).children('ul').each(function (subIndex,subChild) {
+                    HideMainMenuChild($(subChild).children('li'));
+                }));  
+            });
+            $(e).children('ul').css('display', 'none');
+            $(e).removeClass('megamenulevelchildmenu');
+        }
+
+        
+        $(document).click(function(e){
+            if($(e.target).closest('li.active').hasClass('megamenu_first') === false &&
+                $(e.target).closest(".megamenu_first>a").length <= 0){
+                $('.megamenu_first>div.megamenu_container').css('display', 'none');                
+            }               
+        });
+
+    });
+</script>
+
+<script>
+    //$(function () 
+    {
+        var menuContainerID = "menuContainer_35_0_0";
+        var menuContainer = $("#" + menuContainerID);
+        
+        function isIE(userAgent) {
+            userAgent = userAgent || navigator.userAgent;
+            return userAgent.indexOf("MSIE ") > -1 || userAgent.indexOf("Trident/") > -1;
+        }
+
+        function isIE9(userAgent) {
+            userAgent = userAgent || navigator.userAgent;
+            return userAgent.indexOf("MSIE 9") > -1;
+        }
+
+        function isTouchScreenEvent(event) {
+            var _isTouchScreen = false;
+            if ("ontouchstart" in window) {
+                _isTouchScreen = true;
+            } else if ("onpointerdown" in window) {
+                _isTouchScreen = event.originalEvent.pointerType == "touch";
+            } else if (window.MSPointerEvent) {
+                _isTouchScreen = event.originalEvent.pointerType == event.originalEvent.MSPOINTER_TYPE_TOUCH; // 2 ; http://blogs.msdn.com/b/ie/archive/2011/09/20/touch-input-for-ie10-and-metro-style-apps.aspx
+            } else {
+            }
+            return _isTouchScreen;
+        }
+
+        var _isIE = isIE();
+        var _isIE9 = isIE9();
+        var isMegaMenu = $('.megamenu_first', menuContainer).length > 0;
+        var currentMenu = $('> ul.dropdownmenu > li.active', menuContainer);
+
+        $(function () {
+            if (currentMenu.length == 0)
+                currentMenu = $('> ul.dropdownmenu > li.active', menuContainer);
+        });
+
+        if (("ontouchstart" in window   // Chrome & Safari (IOS) && Firefox
+         || "onpointerdown" in window   // IE 11 
+         || window.MSPointerEvent       // IE 10
+         ) && ($(window).width() > 648)) {
+            var eventName = "ontouchstart" in window ? "touchstart"
+                          : "onpointerdown" in window ? "pointerdown"
+                          : window.MSPointerEvent ? "MSPointerDown"
+                          : "";
+            if (eventName.length > 0) {
+                $('> ul.dropdownmenu  li>a[data-navid]', menuContainer).bind(eventName, function (event) {
+
+                    if (isTouchScreenEvent(event) == false) {
+                        return true;
+                    }
+
+                    var currentLevelAnchor = $(this);
+                    var currentLeveLi = currentLevelAnchor.closest("li");
+                    var firstLevelLi = currentLevelAnchor.closest("li[id^='dropdownrootitem']");
+                    var firstLevelAnchor = firstLevelLi.find(">a[data-navid]");
+                    var inFirstLevel = currentLevelAnchor[0] == firstLevelAnchor[0];
+
+                    var hasSubMenu = currentLevelAnchor.next("ul,div").length > 0;
+                    if (hasSubMenu) {
+                        $(this).closest("li").data("mouseDelay", 1);
+
+                        // Menu is not selected
+                        if (!firstLevelLi.hasClass('touch-active')) {
+                            if ($(this).attr("href")) {
+                                $(this).attr("data-href", $(this).attr("href"));
+                                $(this).attr("href", "javascript:void(0);");
+                            }
+                            $(menuContainer).find('.touch-active').removeClass('touch-active').not(currentMenu).removeClass('active');
+
+                            firstLevelLi.addClass('touch-active active');
+                            currentLevelAnchor.addClass('touch-active active');
+                            currentMenu.addClass("active");
+
+                            $(' li:not(.touch-active)', menuContainer).not(firstLevelLi).removeClass('_current');
+                            $(' li:not(.touch-active) li', menuContainer).not(currentLeveLi).removeClass('_current');
+
+                            $('> ul.dropdownmenu > li:not(.touch-active) > a[data-navid]', menuContainer).next().css('display', 'none');
+                            $('> ul.dropdownmenu > li.touch-active > a[data-navid]', menuContainer).next().css('display', 'block');
+
+                            event.preventDefault();
+                        }
+                            // Menu is selected
+                        else {
+                            if (inFirstLevel) {
+                                // non clickable
+                                if (currentLevelAnchor.attr('href') == undefined) {
+                                    //has class touch-active and no link
+                                    removeClassAndHideMenu();
+                                    event.preventDefault();
+                                } else if ($(this).attr("data-href")) { //clickable, but href have been moved to data.
+                                    $(this).attr("href", $(this).attr("data-href"));
+                                }
+                            }
+                            else {
+                                if (isMegaMenu)
+                                    return true;
+
+                                if (!currentLeveLi.hasClass('touch-active')) {
+                                    if ($(this).attr("href")) {
+                                        $(this).attr("data-href", $(this).attr("href"));
+                                        $(this).attr("href", "javascript:void(0);");
+                                    }
+                                    $(firstLevelLi).find('.touch-active').removeClass('touch-active').not(currentMenu).removeClass('active');
+                                    currentLeveLi.parent().children("li._current").removeClass("_current");
+                                    currentLeveLi.addClass('touch-active active _current');
+
+                                    currentLevelAnchor.addClass('touch-active active');
+
+                                    //$(' li:not(.touch-active)', menuContainer).not(firstLevelLi).removeClass('_current');    
+                                    //$(' li:not(.touch-active) li', menuContainer).not(currentLeveLi).removeClass('_current');
+
+                                    $(' li:not(.touch-active) > a[data-navid]', currentLeveLi.parent()).next().css('display', 'none');
+                                    $('> li.touch-active > a[data-navid]', currentLeveLi.parent()).next().css('display', 'block');
+
+                                    event.preventDefault();
+                                } else {
+                                    if (currentLevelAnchor.attr('href') == undefined) {
+                                        //has class touch-active and no link
+                                        removeClassAndHideMenu();
+                                        event.preventDefault();
+                                    } else if ($(this).attr("data-href")) {
+                                        $(this).attr("href", $(this).attr("data-href"));
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                });
+            }
+        }
+
+
+
+        function removeClassAndHideMenu() {
+            $(menuContainer).find('a.touch-active, li.touch-active').removeClass('touch-active active');
+            $('> ul.dropdownmenu > li > a[data-navid]', menuContainer).next().css('display', 'none');
+            // If we don't change the menu item, we should keep the old one.
+            if ($('> ul.dropdownmenu > li.active', menuContainer).length == 0) {
+                currentMenu.addClass("active");
+            }
+        }
+
+        $('body').bind(eventName, function (event) {
+            if (isTouchScreenEvent(event) == false) {
+                return true;
+            }
+            if (!$(event.target).closest('li.touch-active').length) {
+                removeClassAndHideMenu();
+            }
+        });
+    }
+    //);
+</script>
+
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="36"WidgetStart!!-->    
+
+                <!--stopindex-->
+                
+
+<div class="broken_links_reporter">
+    <form id="broken_links_reporter_form" action="/Home/BrokenLinksReporter" class="front_end_form" data-replace-self="True" formcontainer=".broken_links_reporter" loadingcontainer="body" method="post" need-ajax-submit="true" need-write-proxy="true" needloading="true" posteles="input[type='text'],textarea,input[type='hidden']" write-proxy=".error_recaptcha_field"><div class="validation-summary-valid" data-valmsg-summary="true"><span>Please correct the fields below:</span>
+<ul><li style="display:none"></li>
+</ul></div>
+
+    
+    
+    
+    <input id="ErrorIdentity" name="ErrorIdentity" type="hidden" value="JYGMYWZSG2">
+    <input data-val="true" data-val-number="The field SiteID must be a number." data-val-required="The SiteID field is required." id="SiteID" name="SiteID" type="hidden" value="1">
+    <h1 class="error_subject">
+        Page Not Found...
+    </h1>
+    <p class="error_message">
+        The page you are looking for,<br> <b>https://www.nvsos.gov/elections/election-results/2026-election-results</b>, <br>may have been removed, renamed, entered wrong, or is temporarily unavailable.
+    </p>
+    <p class="error_tip">
+        You can go to the <a href="/home">home page</a> but why not send us information that may help resolve this issue?
+    </p>
+    <div class="error_comment_field">
+        <label class="hidden for_assistive_device" for="Comment">Comment</label>
+        <textarea cols="20" data-val="true" data-val-length="The Comment field must be no more than 2000 characters." data-val-length-max="2000" id="Comment" name="Comment" placeholder="Enter some details about what you were trying to do here - like what page you were trying to access - and Submit this page" rows="2"></textarea>
+    </div>
+    
+    <div class="error_recaptcha_field">
+        
+<div class="recaptcha">
+    <div class="lanap_captcha" id="recaptcha_widget">
+        
+        
+         <div class="recaptcha_response_hint">
+            <label>
+                <span class="recaptcha_only_if_image">To prevent spam we utilize a verification code system. Please enter the code as it is shown in the box below:</span>
+            </label>
+         </div>
+        
+
+
+  <div class="LBD_CaptchaDiv" id="__captcha_id_CaptchaDiv" style="width: 280px !important; height: 50px !important;"><!--
+ --><div class="LBD_CaptchaImageDiv" id="__captcha_id_CaptchaImageDiv" style="width: 250px !important; height: 50px !important;"><!--
+   --><a target="_blank" href="http://captcha.com/asp.net-captcha-info.html" title="What is BotDetect .NET CAPTCHA Control?" onclick="__captcha_id.OnHelpLinkClick(); return __captcha_id.FollowHelpLink;"><img class="LBD_CaptchaImage" id="__captcha_id_CaptchaImage" src="/BotDetectCaptcha.ashx?get=image&amp;c=__captcha_id&amp;t=7916a1d128e04ad4857aa6981bb89469" alt="CAPTCHA"></a><!-- --></div><!--
+ --><div class="LBD_CaptchaIconsDiv" id="__captcha_id_CaptchaIconsDiv" style="width: 24px !important;"><!--
+   --><a class="LBD_ReloadLink" id="__captcha_id_ReloadLink" href="#" onclick="__captcha_id.ReloadImage(); this.blur(); return false;" title="Change the CAPTCHA code"><img class="LBD_ReloadIcon" id="__captcha_id_ReloadIcon" src="/BotDetectCaptcha.ashx?get=ReloadIcon" alt="Change the CAPTCHA code"></a><!--
+   --><a class="LBD_SoundLink" id="__captcha_id_SoundLink" href="/BotDetectCaptcha.ashx?get=sound&amp;c=__captcha_id&amp;t=7916a1d128e04ad4857aa6981bb89469&amp;s=tXrH0PqZA1iBWobpzwOiZfa%2f15rpWqoGCS52EtpNZJ8JwwAmfIalyHEYqDill3poHVqVOCbk6gh9Bjcsl4%2f5jg%3d%3d" onclick="__captcha_id.PlaySound(); this.blur(); return false;" title="Speak the CAPTCHA code"><img class="LBD_SoundIcon" id="__captcha_id_SoundIcon" src="/BotDetectCaptcha.ashx?get=SoundIcon" alt="Speak the CAPTCHA code"></a><!--
+   --><div class="LBD_Placeholder" id="__captcha_id_AudioPlaceholder">&nbsp;</div><!--
+ --></div>
+    <script src="/BotDetectCaptcha.ashx?get=clientScriptInclude" type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+      BotDetect.Init('__captcha_id', '7916a1d128e04ad4857aa6981bb89469', '__captcha_response_field', true, true, true, true, 3600, 7200, 0);
+    //]]>
+    </script>
+    <script type="text/javascript">
+    //<![CDATA[
+      try{(function(){var bdrsn = document.createElement('script'); bdrsn.type = 'text/javascript'; bdrsn.async = true; bdrsn.src = document.location.protocol + '//remote.captcha.com/include.js?i=ATABMAExATMBMAIxNBR9EDHzgzswgKGJ1X6P4nXjLnjw8Q'; var fsn = document.getElementsByTagName('script')[0]; fsn.parentNode.insertBefore(bdrsn, fsn);})();} catch(err){}
+    //]]>
+    </script>
+    <input type="hidden" name="LBD_VCID___captcha_id" id="LBD_VCID___captcha_id" value="7916a1d128e04ad4857aa6981bb89469">
+  </div>
+
+
+         <div class="recaptcha_response_area">
+            <label for="__captcha_response_field">
+                <span>Code:</span>
+            </label>
+            <input autocomplete="off" id="__captcha_response_field" name="__captcha_response_field" type="text" value="">
+         </div>    
+    </div>
+    
+    <script>
+        $(function () {
+            var lanapCatpcha = window['__captcha_id'];
+            if(lanapCatpcha != null)
+                lanapCatpcha.AutoFocusInput = false;
+            $(".LBD_ReloadLink").attr("style", " display: inline-block !important");
+            window.setTimeout(function () {
+                // Remove blur(), otherwise, it will read the page title.
+                $(".LBD_CaptchaDiv a.LBD_ReloadLink").attr("onclick", "$('#__captcha_response_field').focus(); __captcha_id.ReloadImage(); return false;");
+                $(".LBD_CaptchaDiv a.LBD_SoundLink").attr("onclick", "$('#__captcha_response_field').focus(); setTimeout( function() { __captcha_id.PlaySound(); }, 3000); return false;");              
+                
+                try {
+                    $("#__captcha_response_field").attr("data-val-required", "The Validation Code field is required.");
+                    $("#__captcha_response_field").rules("remove");
+                    $("#__captcha_response_field").rules("add", {
+                        required: true,
+                        messages: {
+                            required: "The Validation Code field is required."
+                        }
+                    });
+                } catch(err) {}
+            }, 50);
+
+            
+
+        })
+    </script>
+</div><input name="__captcha__type" type="hidden" value="Vision.Cms.Mvc.LanapCaptCha">
+    </div>
+    
+    <div class="error_button_field">
+        <input class="command primary" type="submit" value="Submit">
+    </div>
+    </form>
+    <script>
+        $(function () {
+            document.title = $.htmlDecode("Page Not Found... | Nevada Secretary of State");
+            $("#broken_links_reporter_form").submit(function () {
+                if (!$("form").valid())
+                    $(this).showErrorsWCAGCompliant();
+            });
+        });
+
+    </script>
+    
+</div>
+
+
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    
+</div>
+
+
+</div>
+
+
+        <footer id="page_footer" class="">
+            <!--stopindex-->
+            
+<div id="footercolumn" class="site_template_column  footer_column   ">
+
+                <!--stopindex-->
+                  
+<div class="col-sm-12 col-md-3">
+    <div class="footer_info">
+        <h2>Contact Us</h2>
+	    <p><a href="https://maps.app.goo.gl/8Q6ewgJ3GjYabknLA">101 N Carson Street Suite 3<br> Carson City, NV 89701</a></p> <br> <p>Ph: <a href="tel:7756845708">(775) 684-5708</a></p>
+    </div>
+</div>
+
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+<div class="col-sm-12 col-md-2">
+    <div class="footer_seal">
+	    <img src="/home/showpublishedimage/2081/638919776295670000" alt="">
+    </div>
+</div>
+
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+
+<div class="col-sm-12 col-md-4">
+    <div class="footer_nav">
+        <h2>Links</h2>
+    	<div class="footer_nav_list">
+    		<a href="mailto:sosmail@sos.nv.gov" target="_blank">Email Us</a>		
+    		<a href="/services/language-access-plan" target="_blank">Language Access Plan</a>		
+    		<a href="/sos-information/contact-us" target="_blank">Contact Us</a>		
+    		<a href="/sos-information/contact-us" target="_blank">Address</a>		
+    	</div>
+    </div>
+</div>
+
+
+
+
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                
+<div class="col-sm-12 col-md-3">
+    <div class="social_icons">
+        <h2>Social Media</h2>
+    		<a href="https://www.facebook.com/NVSOS" target="_blank" title="">
+    			<img src="/home/showpublishedimage/2075/638919770600530000" alt="Facebook">
+    		</a>
+    		<a href="https://x.com/NVSOS" target="_blank" title="">
+    			<img src="/home/showpublishedimage/2077/638919770602570000" alt="X">
+    		</a>
+    		<a href="https://www.youtube.com/@nevadasos" target="_blank" title="">
+    			<img src="/home/showpublishedimage/2079/638919770604870000" alt="YouTube">
+    		</a>
+    </div>
+</div>
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+
+<div class="footer_bottom col-sm-12 col-md-12">
+    <div class="footer_copyright">WEBSITE DESIGN BY <a href="//granicus.com/government-website-design/?utm_source=customer&amp;utm_medium=footer&amp;utm_campaign=govAccesswebsite">GRANICUS</a> - Connecting People and Government</div>
+    <div class="footer_bottom_nav">
+	</div>
+</div>
+
+
+
+                <!--startindex-->
+            
+
+</div>
+
+            <!--startindex-->
+        </footer>
+        
+    </div>
+</div>
+
+<script src="/Project/Contents/Main/scripts/slick.js" type="text/javascript"></script>
+<script src="/Project/Contents/Main/mobile_nav_scripts.js" type="text/javascript"></script>
+<script src="/Project/Contents/Main/sitelayout_scripts.js" type="text/javascript"></script>
+
+
+    
+
+    <script src="/Scripts/ScriptBundleVisionFrontend.jsbnd?v=NIOqwzbLKciu5T0n4C5FpqslDfan_eEBcpT3PTagNT81"></script>
+
+
+    <div id="ccl-web-surveyor"></div>
+
+<script src="https://ccl-webchat.communityconnectlabs.com/latest/custom-version/ccl-web-surveyor-optional-field.min.js" type="text/javascript"></script></body></html>

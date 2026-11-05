@@ -1,0 +1,2780 @@
+<!-- MAIN FRAME -->
+<html lang="en" class="fontawesome-i2svg-active fontawesome-i2svg-complete"><!-- InstanceBegin template="/Templates/vote-level2.dwt" codeOutsideHTMLIsLocked="false" --><head><script src="https://connect.facebook.net/signals/config/7240295202744682?v=2.9.435&amp;r=stable&amp;domain=nj.gov&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P3V3PJ6"></script><script src="/Sprighter-a-newly-of-my-Louer-Entermittlemaine-I" async=""></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P3V3PJ6');</script>
+<!-- End Google Tag Manager -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- InstanceBeginEditable name="title" --><title>NJ DOS - Division of Elections - Election Results</title>
+	
+ 	<meta name="ROBOTS" content="NOARCHIVE">
+ 	<meta name="GOOGLEBOT" content="NOARCHIVE"> 
+ 	<meta name="author" content="dos">
+ 	<meta name="revised" content="01/28/26">
+ 	<meta name="keywords" content="NJ Voter Information Portal, New Jersey Elections, New Jersey Division of Elections, Election Results, State of New Jersey, New Jersey, Government, State">
+ 	<meta name="description" content="Official State of New Jersey, Division of Elections, NJ Voter Information Portal website.">
+
+	<meta property="og:title" content="NJ Voter Information Portal - Election Results">
+	<meta property="og:image" content="https://nj.gov/state/elections/assets/images/spots/nj-votes-logo.jpg">
+	<meta property="og:image:secure_url" content="https://nj.gov/state/elections/assets/images/spots/nj-votes-logo.jpg">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="650">
+	<meta property="og:image:height" content="357">
+	<meta property="og:image:alt" content="NJ Voter Information Portal - Election Results">
+	<meta property="og:description" content="NJ Voter Information Election Results.">
+
+	<meta name="twitter:title" content="NJ Voter Information Portal - Election Results">
+	<meta name="twitter:description" content="Official State of New Jersey, Division of Elections website">
+	<meta name="twitter:image" content="https://nj.gov/state/elections/assets/images/spots/nj-votes-logo.jpg">
+	<meta name="twitter:card" content="summary_large_image">
+	
+
+	<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><style type="text/css">:root, :host {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 7 Pro";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 7 Pro";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 7 Pro";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 7 Pro";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 7 Duotone";
+  --fa-font-duotone-regular: normal 400 1em/1 "Font Awesome 7 Duotone";
+  --fa-font-duotone-light: normal 300 1em/1 "Font Awesome 7 Duotone";
+  --fa-font-duotone-thin: normal 100 1em/1 "Font Awesome 7 Duotone";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 7 Brands";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 7 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 7 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 7 Sharp";
+  --fa-font-sharp-thin: normal 100 1em/1 "Font Awesome 7 Sharp";
+  --fa-font-sharp-duotone-solid: normal 900 1em/1 "Font Awesome 7 Sharp Duotone";
+  --fa-font-sharp-duotone-regular: normal 400 1em/1 "Font Awesome 7 Sharp Duotone";
+  --fa-font-sharp-duotone-light: normal 300 1em/1 "Font Awesome 7 Sharp Duotone";
+  --fa-font-sharp-duotone-thin: normal 100 1em/1 "Font Awesome 7 Sharp Duotone";
+  --fa-font-slab-regular: normal 400 1em/1 "Font Awesome 7 Slab";
+  --fa-font-slab-press-regular: normal 400 1em/1 "Font Awesome 7 Slab Press";
+  --fa-font-whiteboard-semibold: normal 600 1em/1 "Font Awesome 7 Whiteboard";
+  --fa-font-thumbprint-light: normal 300 1em/1 "Font Awesome 7 Thumbprint";
+  --fa-font-notdog-solid: normal 900 1em/1 "Font Awesome 7 Notdog";
+  --fa-font-notdog-duo-solid: normal 900 1em/1 "Font Awesome 7 Notdog Duo";
+  --fa-font-etch-solid: normal 900 1em/1 "Font Awesome 7 Etch";
+  --fa-font-jelly-regular: normal 400 1em/1 "Font Awesome 7 Jelly";
+  --fa-font-jelly-fill-regular: normal 400 1em/1 "Font Awesome 7 Jelly Fill";
+  --fa-font-jelly-duo-regular: normal 400 1em/1 "Font Awesome 7 Jelly Duo";
+  --fa-font-chisel-regular: normal 400 1em/1 "Font Awesome 7 Chisel";
+}
+
+.svg-inline--fa {
+  box-sizing: content-box;
+  display: var(--fa-display, inline-block);
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+  width: var(--fa-width, 1.25em);
+}
+.svg-inline--fa.fa-2xs {
+  vertical-align: 0.1em;
+}
+.svg-inline--fa.fa-xs {
+  vertical-align: 0em;
+}
+.svg-inline--fa.fa-sm {
+  vertical-align: -0.0714285714em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.2em;
+}
+.svg-inline--fa.fa-xl {
+  vertical-align: -0.25em;
+}
+.svg-inline--fa.fa-2xl {
+  vertical-align: -0.3125em;
+}
+.svg-inline--fa.fa-pull-left,
+.svg-inline--fa .fa-pull-start {
+  float: inline-start;
+  margin-inline-end: var(--fa-pull-margin, 0.3em);
+}
+.svg-inline--fa.fa-pull-right,
+.svg-inline--fa .fa-pull-end {
+  float: inline-end;
+  margin-inline-start: var(--fa-pull-margin, 0.3em);
+}
+.svg-inline--fa.fa-li {
+  width: var(--fa-li-width, 2em);
+  inset-inline-start: calc(-1 * var(--fa-li-width, 2em));
+  inset-block-start: 0.25em; /* syncing vertical alignment with Web Font rendering */
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: var(--fa-width, 1.25em);
+}
+.fa-layers .svg-inline--fa {
+  inset: 0;
+  margin: auto;
+  position: absolute;
+  transform-origin: center center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: var(--fa-counter-background-color, #ff253a);
+  border-radius: var(--fa-counter-border-radius, 1em);
+  box-sizing: border-box;
+  color: var(--fa-inverse, #fff);
+  line-height: var(--fa-counter-line-height, 1);
+  max-width: var(--fa-counter-max-width, 5em);
+  min-width: var(--fa-counter-min-width, 1.5em);
+  overflow: hidden;
+  padding: var(--fa-counter-padding, 0.25em 0.5em);
+  right: var(--fa-right, 0);
+  text-overflow: ellipsis;
+  top: var(--fa-top, 0);
+  transform: scale(var(--fa-counter-scale, 0.25));
+  transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: var(--fa-bottom, 0);
+  right: var(--fa-right, 0);
+  top: auto;
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: var(--fa-bottom, 0);
+  left: var(--fa-left, 0);
+  right: auto;
+  top: auto;
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  top: var(--fa-top, 0);
+  right: var(--fa-right, 0);
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: var(--fa-left, 0);
+  right: auto;
+  top: var(--fa-top, 0);
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: top left;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-2xs {
+  font-size: calc(10 / 16 * 1em); /* converts a 10px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 10 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 10 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-xs {
+  font-size: calc(12 / 16 * 1em); /* converts a 12px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 12 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 12 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-sm {
+  font-size: calc(14 / 16 * 1em); /* converts a 14px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 14 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 14 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-lg {
+  font-size: calc(20 / 16 * 1em); /* converts a 20px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 20 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 20 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-xl {
+  font-size: calc(24 / 16 * 1em); /* converts a 24px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 24 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 24 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-2xl {
+  font-size: calc(32 / 16 * 1em); /* converts a 32px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 32 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 32 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-width-auto {
+  --fa-width: auto;
+}
+
+.fa-fw,
+.fa-width-fixed {
+  --fa-width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-inline-start: var(--fa-li-margin, 2.5em);
+  padding-inline-start: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  inset-inline-start: calc(-1 * var(--fa-li-width, 2em));
+  position: absolute;
+  text-align: center;
+  width: var(--fa-li-width, 2em);
+  line-height: inherit;
+}
+
+/* Heads Up: Bordered Icons will not be supported in the future!
+  - This feature will be deprecated in the next major release of Font Awesome (v8)!
+  - You may continue to use it in this version *v7), but it will not be supported in Font Awesome v8.
+*/
+/* Notes:
+* --@{v.$css-prefix}-border-width = 1/16 by default (to render as ~1px based on a 16px default font-size)
+* --@{v.$css-prefix}-border-padding =
+  ** 3/16 for vertical padding (to give ~2px of vertical whitespace around an icon considering it's vertical alignment)
+  ** 4/16 for horizontal padding (to give ~4px of horizontal whitespace around an icon)
+*/
+.fa-border {
+  border-color: var(--fa-border-color, #eee);
+  border-radius: var(--fa-border-radius, 0.1em);
+  border-style: var(--fa-border-style, solid);
+  border-width: var(--fa-border-width, 0.0625em);
+  box-sizing: var(--fa-border-box-sizing, content-box);
+  padding: var(--fa-border-padding, 0.1875em 0.25em);
+}
+
+.fa-pull-left,
+.fa-pull-start {
+  float: inline-start;
+  margin-inline-end: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-pull-right,
+.fa-pull-end {
+  float: inline-end;
+  margin-inline-start: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-beat {
+  animation-name: fa-beat;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-bounce {
+  animation-name: fa-bounce;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+}
+
+.fa-fade {
+  animation-name: fa-fade;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-beat-fade {
+  animation-name: fa-beat-fade;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-flip {
+  animation-name: fa-flip;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-shake {
+  animation-name: fa-shake;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin {
+  animation-name: fa-spin;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 2s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin-reverse {
+  --fa-animation-direction: reverse;
+}
+
+.fa-pulse,
+.fa-spin-pulse {
+  animation-name: fa-spin;
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, steps(8));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fa-beat,
+  .fa-bounce,
+  .fa-fade,
+  .fa-beat-fade,
+  .fa-flip,
+  .fa-pulse,
+  .fa-shake,
+  .fa-spin,
+  .fa-spin-pulse {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+@keyframes fa-beat {
+  0%, 90% {
+    transform: scale(1);
+  }
+  45% {
+    transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@keyframes fa-bounce {
+  0% {
+    transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    transform: scale(1, 1) translateY(0);
+  }
+}
+@keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@keyframes fa-flip {
+  50% {
+    transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@keyframes fa-shake {
+  0% {
+    transform: rotate(-15deg);
+  }
+  4% {
+    transform: rotate(15deg);
+  }
+  8%, 24% {
+    transform: rotate(-18deg);
+  }
+  12%, 28% {
+    transform: rotate(18deg);
+  }
+  16% {
+    transform: rotate(-22deg);
+  }
+  20% {
+    transform: rotate(22deg);
+  }
+  32% {
+    transform: rotate(-12deg);
+  }
+  36% {
+    transform: rotate(12deg);
+  }
+  40%, 100% {
+    transform: rotate(0deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  transform: scale(1, -1);
+}
+
+.fa-flip-both,
+.fa-flip-horizontal.fa-flip-vertical {
+  transform: scale(-1, -1);
+}
+
+.fa-rotate-by {
+  transform: rotate(var(--fa-rotate-angle, 0));
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.svg-inline--fa.fa-inverse {
+  fill: var(--fa-inverse, #fff);
+}
+
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: var(--fa-stack-z-index, auto);
+}</style><link rel="stylesheet" type="text/css" href="assets/css/njvote.css">	
+	
+<!-- InstanceEndEditable -->
+
+<!-- Bootstrap -->
+<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/sonj-components.css">
+<link rel="stylesheet" type="text/css" href="assets/css/site-base.css"> 
+<link rel="stylesheet" type="text/css" href="//nj.gov/nj/design/util/slick/slick.css">
+<link rel="stylesheet" type="text/css" href="//nj.gov/nj/design/util/slick/slick-theme.css">
+<!-- InstanceBeginEditable name="header" -->
+		
+<!-- InstanceEndEditable -->
+
+<!-- 	XXXXXXXXXXXXXXX   Random Script for Header images 	XXXXXXXXXXXXXXX   -->
+<script language="javascript" type="text/javascript">
+	var totalSets = 4;
+	var randNum = 0;
+	randNum = Math.floor(Math.random()*totalSets)+1;
+	mainImg = '<img src="assets/images/hero/state-flag-'+randNum+'.jpg" alt="NJ Division of Elections" title="NJ Division of Elections" class="img-fluid mx-auto d-block" />';
+</script>
+<!-- 	XXXXXXXXXXXXXXX   End Random Script for Header images 	XXXXXXXXXXXXXXX   -->
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<!-- InstanceBeginEditable name="body" -->
+<body>
+<!-- InstanceEndEditable -->
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3V3PJ6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<a class="accessibility-aid" href="#top">Skip to main content</a>
+<!-- Alert DOS -->
+
+<!-- ./Alert -->
+<style>
+header.sonj li.sonj-translate >a{background: #ffffff;color:#000000!important;border-radius: .25rem;}
+header.sonj li.sonj-translate >a{color:#000000!important}
+p.disclaimer {color:#fff!important;}
+p.disclaimer >a{color:#fff!important;}
+</style>
+
+
+<header class="sonj  ">
+<div class="row justify-content-center no-gutters mx-0 px-1">
+		<div id="logo" class="col-sm-8 col-lg-4 col-xl-4">
+			<h1 class="my-2"><a href="https://nj.gov/" title="Go to NJ.gov Home"><img src="/nj/design/images/state_seal_white.png" alt="State of New Jersey Seal" title="Go to  The State of New Jersey Website">Official Site of The State of New Jersey</a></h1>
+		</div>
+		<div class=" col-sm-4 col-lg-6 col-xl-6">
+		  <div class="gov-bar text-right d-none d-lg-block"><a href="https://nj.gov/governor/" target="_blank" title="go to governor website">Governor Mikie Sherrill <!-- &bull; Lt. Governor --></a> </div>
+		  <ul class="my-sm-2 my-lg-0 social statewide text-right">
+			  <li class="sonj-translate px-md-3" style="border-right:0">
+			  								<a href="#" class="" style="padding: 2px 5px; font-weight: 400;">Translate <svg class="svg-inline--fa fa-language fa-lg" data-prefix="fas" data-icon="language" role="img" viewBox="0 0 576 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M160 0c17.7 0 32 14.3 32 32l0 32 128 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-9.6 0-8.4 23.1c-16.4 45.2-41.1 86.5-72.2 122 14.2 8.8 29 16.6 44.4 23.5l50.4 22.4 62.2-140c5.1-11.6 16.6-19 29.2-19s24.1 7.4 29.2 19l128 288c7.2 16.2-.1 35.1-16.2 42.2s-35.1-.1-42.2-16.2l-20-45-157.5 0-20 45c-7.2 16.2-26.1 23.4-42.2 16.2s-23.4-26.1-16.2-42.2l39.8-89.5-50.4-22.4c-23-10.2-45-22.4-65.8-36.4-21.3 17.2-44.6 32.2-69.5 44.7L78.3 380.6c-15.8 7.9-35 1.5-42.9-14.3s-1.5-35 14.3-42.9l34.5-17.3c16.3-8.2 31.8-17.7 46.4-28.3-13.8-12.7-26.8-26.4-38.9-40.9L81.6 224.7c-11.3-13.6-9.5-33.8 4.1-45.1s33.8-9.5 45.1 4.1l10.2 12.2c11.5 13.9 24.1 26.8 37.4 38.7 27.5-30.4 49.2-66.1 63.5-105.4l.5-1.2-210.3 0C14.3 128 0 113.7 0 96S14.3 64 32 64l96 0 0-32c0-17.7 14.3-32 32-32zM416 270.8L365.7 384 466.3 384 416 270.8z"></path></svg><!-- <i class="fas fa-language fa-lg"></i> --></a>
+			  							<div class="drop px-4 pb-3">
+			  			<div id="translate-widget-container" translate="no"><div role="region" aria-label="Language Selection" translate="no"><label for="language-selector" style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; white-space: nowrap; border: 0px;">Select Language</label><select id="language-selector" aria-label="Select Language" aria-expanded="false" aria-controls="language-options" aria-describedby="language-help" translate="no" style="padding: 4px; font-size: 14px; border-radius: 4px; width: 100%;"><option value="" disabled="" translate="no">Select Language</option><option value="en" translate="no" lang="en">English</option><option value="ar" translate="no" lang="ar">العربية/Arabic</option><option value="bn" translate="no" lang="bn">বাংলা/Bengali</option><option value="zh" translate="no" lang="zh">中文（简体/Chinese (Simplified)</option><option value="zh-TW" translate="no" lang="zh-TW">中文（繁體/Chinese (Traditional)</option><option value="fr" translate="no" lang="fr">Français/French</option><option value="de" translate="no" lang="de">Deutsch/German</option><option value="gu" translate="no" lang="gu">ગુજરાતી/Gujarati</option><option value="ht" translate="no" lang="ht">Kreyòl Ayisyen/Haitian Creole</option><option value="it" translate="no" lang="it">Italiano/Italian</option><option value="ja" translate="no" lang="ja">日本語/Japanese</option><option value="ko" translate="no" lang="ko">한국/Korean</option><option value="pt" translate="no" lang="pt">Português/Portuguese (Brazil)</option><option value="ru" translate="no" lang="ru">Русский язык/Russian</option><option value="es" translate="no" lang="es">Español/Spanish</option><option value="sw" translate="no" lang="sw">Kiswahili/Swahili</option><option value="tr" translate="no" lang="tr">Türkçe/Turkish</option></select><span id="language-help" style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; white-space: nowrap; border: 0px;">Choose a language to translate this page</span></div></div>
+			  				<script src="/nj/design/js/translate-widget.js"></script>
+			  		<p class="disclaimer pt-3 pb-0 text-left">
+					<!--The State of NJ site may include optional links, information, services, and content from third-party websites for user convenience, such as language translation services. These translation tools are free online services that provide language translations. Users are informed that neither the State of NJ site nor its operators review or endorse any services, information, or content from third-party links.<br>
+							-->
+							<a href="https://www.nj.gov/nj/about/translator/" target="_blank">Translation Disclaimer <svg class="svg-inline--fa fa-link" data-prefix="fas" data-icon="link" role="img" viewBox="0 0 576 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M419.5 96c-16.6 0-32.7 4.5-46.8 12.7-15.8-16-34.2-29.4-54.5-39.5 28.2-24 64.1-37.2 101.3-37.2 86.4 0 156.5 70 156.5 156.5 0 41.5-16.5 81.3-45.8 110.6l-71.1 71.1c-29.3 29.3-69.1 45.8-110.6 45.8-86.4 0-156.5-70-156.5-156.5 0-1.5 0-3 .1-4.5 .5-17.7 15.2-31.6 32.9-31.1s31.6 15.2 31.1 32.9c0 .9 0 1.8 0 2.6 0 51.1 41.4 92.5 92.5 92.5 24.5 0 48-9.7 65.4-27.1l71.1-71.1c17.3-17.3 27.1-40.9 27.1-65.4 0-51.1-41.4-92.5-92.5-92.5zM275.2 173.3c-1.9-.8-3.8-1.9-5.5-3.1-12.6-6.5-27-10.2-42.1-10.2-24.5 0-48 9.7-65.4 27.1L91.1 258.2c-17.3 17.3-27.1 40.9-27.1 65.4 0 51.1 41.4 92.5 92.5 92.5 16.5 0 32.6-4.4 46.7-12.6 15.8 16 34.2 29.4 54.6 39.5-28.2 23.9-64 37.2-101.3 37.2-86.4 0-156.5-70-156.5-156.5 0-41.5 16.5-81.3 45.8-110.6l71.1-71.1c29.3-29.3 69.1-45.8 110.6-45.8 86.6 0 156.5 70.6 156.5 156.9 0 1.3 0 2.6 0 3.9-.4 17.7-15.1 31.6-32.8 31.2s-31.6-15.1-31.2-32.8c0-.8 0-1.5 0-2.3 0-33.7-18-63.3-44.8-79.6z"></path></svg><!-- <i class="fas fa-link"></i> --></a></p>
+			  				<button type="button" role="button" aria-label="Close" class="pl-0 btn btn-link float-left drop-close" style="color:#fff"><svg class="svg-inline--fa fa-circle-xmark" data-prefix="fas" data-icon="circle-xmark" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM167 167c9.4-9.4 24.6-9.4 33.9 0l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9z"></path></svg><!-- <i class="fas fa-times-circle"></i> --> close</button>
+			  							</div>
+						</li>
+			<li class="d-none d-lg-inline"><a href="https://nj.gov" title="go to nj state website">NJ.gov</a></li>
+			<li class="d-none d-lg-inline"><a href="https://nj.gov/nj/gov/njgov/alphaserv.html" title="go to page to check NJ services">Services</a></li>
+			<li class="d-none d-lg-inline"><a href="https://nj.gov/nj/gov/deptserv/" title="view list of all the NJ Agencies">Agencies</a></li>
+			<li><a href="https://www.nj.gov/faqs/" aria-label="Frequently asked questions" title="Visit Frequently asked questions website"><span aria-hidden="true">FAQs</span><span class="sr-only">Frequently Asked Questions</span></a>
+
+
+			<!-- Add sign up header menu item -->
+						</li><li class="sonj-updates">
+							<a href="https://nj.gov/subscribe/" id="updates-label" role="button" title="subscribe to get updates from NJe">Get Updates <svg class="svg-inline--fa fa-envelope fa-lg" data-prefix="fas" data-icon="envelope" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M48 64c-26.5 0-48 21.5-48 48 0 15.1 7.1 29.3 19.2 38.4l208 156c17.1 12.8 40.5 12.8 57.6 0l208-156c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48L48 64zM0 196L0 384c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-188-198.4 148.8c-34.1 25.6-81.1 25.6-115.2 0L0 196z"></path></svg><!-- <i class="fas fa-envelope fa-lg"></i> --></a>
+							<div class="drop px-4 pb-3 pt-3 text-left">
+
+								<script src="https://beta.nj.gov/global-signup/embed.js"></script>
+								<div class="global-parent-loaded" style="line-height: 0;"><iframe id="global-signup-form-embed-0" src="https://beta.nj.gov/global-signup/form/form.html?id=global-signup-form-embed-0&amp;location=nj.gov%2Fstate%2Felections%2Felection-results.shtml&amp;style=header" width="1px" height="1px" frameborder="0" scrolling="no" style="min-width: 100%; background-color: transparent; overflow: hidden; height: 0px;"></iframe></div>
+								<button type="button" class="pl-0 btn btn-link drop-close" style="color:#fff" role="button" aria-label="Close"><svg class="svg-inline--fa fa-circle-xmark" data-prefix="fas" data-icon="circle-xmark" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM167 167c9.4-9.4 24.6-9.4 33.9 0l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9z"></path></svg><!-- <i class="fas fa-times-circle"></i> --> close</button>
+							</div>
+			</li>
+			<li class="sonj-search">
+				<a href="https://nj.gov/search/" id="search-label" role="button">Search <svg class="svg-inline--fa fa-magnifying-glass" data-prefix="fas" data-icon="magnifying-glass" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376C296.3 401.1 253.9 416 208 416 93.1 416 0 322.9 0 208S93.1 0 208 0 416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"></path></svg><!-- <i class="fas fa-search"></i> --></a>
+				<div class="drop px-4 pb-3">
+
+					<form id="search" action="https://nj.gov/search/" name="search">
+						<div class="input-group pt-4"><label for="qt" class="visuallyhidden sr-only">Search: </label>
+							<input type="text" class="form-control p-1" placeholder="Type Search Here" aria-label="Search Query" aria-describedby="search-label" name="qt" id="qt">
+							<div class="input-group-append">
+								<button type="submit" class="input-group-text" aria-label="Submit Search" role="button"><svg class="svg-inline--fa fa-magnifying-glass fa-lg" data-prefix="fas" data-icon="magnifying-glass" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376C296.3 401.1 253.9 416 208 416 93.1 416 0 322.9 0 208S93.1 0 208 0 416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"></path></svg><!-- <i class="fas fa-search fa-lg"></i> --></button>
+							</div>
+						</div>
+					</form>
+					<button type="button" class="pl-0 btn btn-link float-left drop-close" style="color:#fff" role="button" aria-label="Close"><svg class="svg-inline--fa fa-circle-xmark" data-prefix="fas" data-icon="circle-xmark" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM167 167c9.4-9.4 24.6-9.4 33.9 0l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9z"></path></svg><!-- <i class="fas fa-times-circle"></i> --> close</button>
+				</div>
+			</li>
+		  </ul>
+		</div>
+		</div>
+	  </header>
+	<!-- ------- Begin DOE Header include  ----------  -->
+
+	<div class="container-fluid d-none d-lg-block agency"> 
+	  <div class="row justify-content-center ">
+		<div id="site-name" class="agency col-12 col-xl-10 py-3">
+			<img src="assets/images/njvotes-header-logo.png" alt="NJ Votes Logo" title="NJ Votes Logo" class="njdos-logo">
+			<h5>Shirley U. Emehelu, Acting Secretary of State</h5>
+			<h2 class="align-middle agency">New Jersey Voter Information Portal</h2>
+			<h6>Department of State, Division of Elections</h6>
+		</div>
+	  </div>
+	</div>
+	
+	<div class="container-fluid sonj-nav"> 
+	<div class="row justify-content-center ">
+		<div id="" class="col-12 col-xl-10">
+			<nav class="navbar navbar-expand-lg navbar-dark x-bg-light px-0 justify-content-between">
+  <h2 class="navbar-brand x-mr-auto d-lg-none" href="#">NJ Voter Information Portal</h2>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto x-nav-pills">
+      <li class="nav-item pr-4" data-pnav="doshome"><a class="nav-link" href="/state/index.shtml">DOS <svg class="svg-inline--fa fa-house" aria-label="DOS home" data-prefix="fas" data-icon="house" role="img" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M277.8 8.6c-12.3-11.4-31.3-11.4-43.5 0l-224 208c-9.6 9-12.8 22.9-8 35.1S18.8 272 32 272l16 0 0 176c0 35.3 28.7 64 64 64l288 0c35.3 0 64-28.7 64-64l0-176 16 0c13.2 0 25-8.1 29.8-20.3s1.6-26.2-8-35.1l-224-208zM240 320l32 0c26.5 0 48 21.5 48 48l0 96-128 0 0-96c0-26.5 21.5-48 48-48z"></path></svg><!-- <i class="fas fa-home" aria-label="DOS home"></i> --></a></li>
+      
+      <li class="nav-item pr-4" data-pnav="doehome"><a class="nav-link" href="vote.shtml#doe">DOE <svg class="svg-inline--fa fa-house" aria-label="DOE home" data-prefix="fas" data-icon="house" role="img" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M277.8 8.6c-12.3-11.4-31.3-11.4-43.5 0l-224 208c-9.6 9-12.8 22.9-8 35.1S18.8 272 32 272l16 0 0 176c0 35.3 28.7 64 64 64l288 0c35.3 0 64-28.7 64-64l0-176 16 0c13.2 0 25-8.1 29.8-20.3s1.6-26.2-8-35.1l-224-208zM240 320l32 0c26.5 0 48 21.5 48 48l0 96-128 0 0-96c0-26.5 21.5-48 48-48z"></path></svg><!-- <i class="fas fa-home" aria-label="DOE home"></i> --></a></li>
+		
+	<li class="nav-item dropdown pr-4"><a class="nav-link dropdown-toggle" href="vote.shtml" id="pNav02" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">NJ Voter Information Portal </a>
+        <ul class="dropdown-menu" aria-labelledby="pNav02">
+          	<li><a class="dropdown-item" href="vote.shtml">NJ Voter Information Portal</a></li>
+			<li><a class="dropdown-item" href="vote-3-ways-to-vote.shtml">3 Ways To Vote</a></li>
+			<li><a class="dropdown-item" href="vote-by-mail.shtml">Vote-By-Mail</a></li>
+			<li><a class="dropdown-item" href="https://voter.svrs.nj.gov/mib-request">Request a Ballot!</a></li>
+			<li><a class="dropdown-item" href="vote-early-voting.shtml">Early Voting</a></li>
+			<li><a class="dropdown-item" href="vote-polling-location.shtml">Polling Location</a></li>
+			<li><a class="dropdown-item" href="vote-secure-drop-boxes.shtml">Secure Drop Box Locations</a></li>
+			<!--<li><a class="dropdown-item" href="vote-interactive-maps.shtml" >Interactive Maps</a></li>-->
+			<li><a class="dropdown-item" href="vote-track-my-ballot.shtml">Track My Ballot</a></li>
+			<li><a class="dropdown-item" href="voter-registration.shtml">Register to Vote!</a></li>
+			<li><a class="dropdown-item" href="https://voter.svrs.nj.gov/registration-check">Am I Registered?</a></li>
+			<li><a class="dropdown-item" href="voter-education.shtml">Voter Education Video</a></li>
+			<li><a class="dropdown-item" href="election-results.shtml">Election Results</a></li>
+			<li><a class="dropdown-item" href="safe-secure-elections.shtml">Safe Secure Elections</a></li>
+			<li><a class="dropdown-item" href="vote-faq.shtml">Frequently Asked Questions</a></li>
+			<li><a class="dropdown-item" href="vote-county-election-officials.shtml">County Election Officials</a></li>
+			<li><a class="dropdown-item" href="vote-military-and-overseas.shtml">Military and Overseas Voting</a></li>
+			<li><a class="dropdown-item" href="vote-students.shtml">Student Registration &amp; Voting</a></li>
+			<li><a class="dropdown-item" href="voter-rights.shtml">Voter Rights and Accessibility</a></li>
+			<li><a class="dropdown-item" href="vote-forms.shtml">Additional Forms</a></li>
+			<li><a class="dropdown-item" href="pollworker.shtml">Be A Poll Worker</a></li>
+			<li><a class="dropdown-item" href="vote-info-sign-up.shtml">NJ Votes Information Sign-Up</a></li>
+			<li><a class="dropdown-item" href="doe-publications.shtml">Printable Flyers &amp; Publications</a></li>
+        </ul>
+      </li>
+		
+	<li class="nav-item dropdown pr-4"><a class="nav-link dropdown-toggle" href="county-information.shtml" id="pNav04" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a>
+        <ul class="dropdown-menu" aria-labelledby="pNav04">
+          	<li><a class="dropdown-item" href="county-information.shtml">County Information</a></li>
+			<li><a class="dropdown-item" href="vote-county-election-officials.shtml">County Election Officials</a></li>
+			<!--<li><a class="dropdown-item" href="doe-publications.shtml#toolkit" >Social Media Toolkit</a></li>-->
+			<li><a class="dropdown-item" href="election-information-nvra.shtml">National Voter Registration Act</a></li>
+			<li><a class="dropdown-item" href="resources-voting-equipment.shtml">Voting Equipment Certification</a></li>
+			<li><a class="dropdown-item" href="resources-voting-equipment-inventory.shtml">Voting Equipment Inventory</a></li>
+			<li><a class="dropdown-item" href="county-electronic-poll-book-certification.shtml">Electronic Poll Book Certification</a></li>
+			<li><a class="dropdown-item" href="election-results.shtml">Election Results</a></li>
+			<li><a class="dropdown-item" href="election-information.shtml">Election Archive Information</a></li>
+			<li><a class="dropdown-item" href="election-information-results.shtml">Election Results Archive</a></li>
+			<li><a class="dropdown-item" href="election-information-ballots-cast.shtml">Summary of Registered Voters and Ballots Cast</a></li>
+			<li><a class="dropdown-item" href="election-information-svrs.shtml">Statewide Voter Registration Statistics Archive</a></li>
+			<li><a class="dropdown-item" href="covid-19-resources.shtml">Covid-19 Election Resources</a></li>
+			<li><a class="dropdown-item" href="/state/dos-statutes-elections-19-01-09.shtml">Statutes &amp; Rules</a></li>
+			<li><a class="dropdown-item" href="doe-publications.shtml">Printable Flyers &amp; Publications</a></li>
+        </ul>
+    </li>			
+		
+	<li class="nav-item dropdown pr-4"><a class="nav-link dropdown-toggle" href="candidate-information.shtml" id="pNav03" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Candidate Information</a>
+        <ul class="dropdown-menu" aria-labelledby="pNav03">
+			<li><a class="dropdown-item" href="candidate-information.shtml">Candidate Petitions</a></li>
+			<!--<li><a class="dropdown-item" href="candidate-petition-primary.shtml">Candidate Petitions for the Primary Election</a></li>
+			<li><a class="dropdown-item" href="candidate-petition-general.shtml">Candidate Petitions for the General Election</a></li>-->
+			<li><a class="dropdown-item" href="candidate-petition-filing.shtml" target="_blank">Candidate Petition Filing</a></li>
+			<li><a class="dropdown-item" href="candidate-petition-challenge.shtml" target="_blank">Candidate Petition Challenges</a></li>
+			<li><a class="dropdown-item" href="candidate-recall-election-process.shtml" target="_blank">Recall Election Process</a> </li>
+			<li><a class="dropdown-item" href="//www.elec.state.nj.us/" target="_blank">New Jersey Election Law Enforcement Commission (ELEC)</a> </li>
+			<li><a class="dropdown-item" href="//www.fec.gov/" target="_blank">Federal Election Commission</a></li>
+        </ul>
+      </li>	
+		
+	<li class="nav-item dropdown pr-4"><a class="nav-link dropdown-toggle" href="election-information.shtml" id="pNav05" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Election Information</a>
+        <ul class="dropdown-menu" aria-labelledby="pNav05">
+			<li><a class="dropdown-item" href="election-information-2026.shtml">2026 Election Year Information</a></li>
+			<!--<li><a class="dropdown-item" href="special-election.shtml">2026 Special Election Information</a></li>-->
+			<li><a class="dropdown-item" href="election-results-information.shtml">2026 Periodic Election Reporting</a></li>
+			<li><a class="dropdown-item" href="election-chronological-timelines.shtml">Chronological Election Timelines</a></li>
+			
+        </ul>
+    </li>		
+				<li class="nav-item dropdown pr-4"><a class="nav-link dropdown-toggle" href="jersey-civic-engage.shtml" id="pNav06" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Jersey Civic Engage</a>
+        <ul class="dropdown-menu" aria-labelledby="pNav06">
+			
+			<li><a class="dropdown-item" href="jersey-civic-engage.shtml">Jersey Civic Engage</a></li>
+			<li><a class="dropdown-item" href="trustedinfo2022.shtml">#TrustedInfo2022</a></li>   
+			<li><a class="dropdown-item" href="https://nj.gov/state/nj-ballot-bowl.shtml">NJ Ballot Bowl</a></li>
+			<li><a class="dropdown-item" href="https://nj.gov/state/vote-for-valor.shtml">Vote for Valor</a></li>
+			<li><a class="dropdown-item" href="https://nj.gov/state/census.shtml">NJ Census</a></li>
+			<li><a class="dropdown-item" href="jersey-civic-engage-njace.shtml">NJ Alliance for Civic Engagement</a></li>
+        </ul>
+      </li>	
+		
+	 <li class="nav-item pr-4">
+        <a class="nav-link" href="notice-public-meeting.shtml" id="pNav07" role="button" aria-expanded="false">
+          Notice of Public Meeting
+        </a>
+      </li>	
+		
+     </ul> 
+  </div>
+</nav>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+<!-- myNJ
+my-5
+-->
+	<div class="container-fluid d-lg-block agency"> 
+	  <div class="row justify-content-center ">
+		<div id="site-name" class="vote col-12 col-xl-10 py-3">
+			<span class="align-middle vote">Voting Questions? Call <strong>1-877-NJ-VOTER</strong> (1-877-658-6837)</span>
+		</div>
+	  </div>
+	</div>
+
+
+
+
+<!-- ------- End DOE Header include  ---------- id="doephone" -->	
+<div class="x-container-fluid d-none d-sm-inline sticky-social">
+	<a href="" class="toggle-sticky"><svg class="svg-inline--fa fa-angles-right fa-1x sonj-gray toggle-target" aria-label="hide social links" data-prefix="fas" data-icon="angles-right" role="img" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M439.1 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L371.2 256 233.9 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L179.2 256 41.9 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"></path></svg><!-- <i class="fas fa-angle-double-right fa-1x sonj-gray toggle-target" aria-label="hide social links"></i> --><svg class="svg-inline--fa fa-angles-left d-none fa-1x sonj-gray toggle-target" aria-label="show social links" data-prefix="fas" data-icon="angles-left" role="img" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 214.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160zm352-160l-160 160c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L269.3 256 406.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0z"></path></svg><!-- <i class="fas fa-angle-double-left fa-1x sonj-gray d-none toggle-target" aria-label="show social links"></i> --></a>
+	<a href="https://twitter.com/NJ_Votes" class="toggle-target"><svg class="svg-inline--fa fa-square-x-twitter fa-2x sonj-gray" aria-label="Division of Elections twitter link" data-prefix="fab" data-icon="square-x-twitter" role="img" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zm297.1 84l-103.8 118.6 122.1 161.4-95.6 0-74.8-97.9-85.7 97.9-47.5 0 111-126.9-117.1-153.1 98 0 67.7 89.5 78.2-89.5 47.5 0zM323.3 367.6l-169.9-224.7-28.3 0 171.8 224.7 26.4 0z"></path></svg><!-- <i class="fa-brands fa-square-x-twitter fa-2x sonj-gray" aria-label="Division of Elections twitter link"></i> --></a> 
+	<a href="https://www.facebook.com/NJVotes/" class="toggle-target"><svg class="svg-inline--fa fa-facebook-square fa-2x sonj-gray" aria-label="Division of Elections Facebook link" data-prefix="fab" data-icon="facebook-square" role="img" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg><!-- <i class="fab fa-facebook-square fa-2x sonj-gray" aria-label="Division of Elections Facebook link"></i> --></a> 
+	<a href="https://www.youtube.com/channel/UCpra_Xk_0KhMXhiJwCc6hzw" class="toggle-target"><svg class="svg-inline--fa fa-youtube-square fa-2x sonj-gray" aria-label="Department of State YouTube link" data-prefix="fab" data-icon="youtube-square" role="img" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M186.8 202.1l95.2 54.1-95.2 54.1V202.1zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-42 176.3s0-59.6-7.6-88.2c-4.2-15.8-16.5-28.2-32.2-32.4C337.9 128 224 128 224 128s-113.9 0-142.2 7.7c-15.7 4.2-28 16.6-32.2 32.4-7.6 28.5-7.6 88.2-7.6 88.2s0 59.6 7.6 88.2c4.2 15.8 16.5 27.7 32.2 31.9C110.1 384 224 384 224 384s113.9 0 142.2-7.7c15.7-4.2 28-16.1 32.2-31.9 7.6-28.5 7.6-88.1 7.6-88.1z"></path></svg><!-- <i class="fab fa-youtube-square fa-2x sonj-gray" aria-label="Department of State YouTube link"></i> --></a> 
+
+</div>	
+<!-- Alert -->
+<!--  
+  
+<div class="container-fluid d-lg-block "> 
+	<div class="row justify-content-center ">
+		<div class="alert alert-danger col-12 col-xl-10 py-3">
+		<button type="button" class="close" data-dismiss="alert">&times;</button>
+			<span class="text-center">-->
+				<!--<h4>Important Notice to Voters: <a href="assets/pdf/publications/no-electioneering-poster.pdf" target="_blank">Electioneering at Polling Locations is Not Permitted in New Jersey</a></h4>
+				<p><strong>You Cannot</strong> Enter a Polling Place, or Stand within 100 feet of the Outside Entrance of a Polling Place, <strong>WEARING</strong> or <strong>DISPLAYING</strong> Anything that may offer Support for or opposition against any Candidate, Party or Public Question on the Ballot. That includes political badges, buttons, insignias, t-shirts, hats or other display that can be read or viewed to identify support or opposition of a candidate, political party or public questions.</p>
+					
+				<h4>Important Notice: 2025 Primary Election Rescheduled</a></h4>
+			<p>The 2025 Primary Election has been rescheduled. Please <a href="assets/pdf/public-notice/2025-notice-rescheduled-primary-election.pdf" target="_blank">view the official notice</a> for further details.</p>
+				
+				<h4>On November 21, 2025, Governor Murphy issued a Writ of Election to fill the vacancy in the House of Representatives in the Eleventh Congressional District due to the resignation of the Honorable Mikie Sherrill. <br/><a href="assets/pdf/election-results/2026/2026-writ-of-election.pdf" target="_blank">Writ of Elections</a></h4>
+				
+				<h4>The full schedule of deadlines can be found here on our <a href="election-chronological-timelines.shtml">Chronological Election Timelines page</a>.</h4>
+				
+				<h4>Important Notice to Voters:</h4>
+					<p>This is a friendly reminder on how to return your Mail-In ballot. How you return it is up to you.<br/>
+						<strong>Select one of the following three ways:</strong></p></span>
+						<ul>
+							<li><strong>Mail:</strong> It must be postmarked on or before 8:00 p.m. Election Day and be received by your county’s Board of Elections on or before 6 days after Election Day. To make sure your ballot is postmarked on time, put your ballot in the mail at least a few days before election day, or go up to the counter at a U.S. Post Office and have a clerk manually stamp the postmark on your ballot envelope.</li>
+							<li><strong>Secure Ballot Drop Box:</strong> Place it in one of your county’s secure ballot drop boxes by 8:00 p.m. on Election Day. <a href="vote-secure-drop-boxes.shtml" target="_blank">Secure Ballot Drop Box locations</a></li>
+							<li><strong>Board of Elections Office:</strong> Deliver it in person to your county’s Board of Elections Office by 8:00 p.m. on Election Day. <a href="vote-county-election-officials.shtml" target="_blank">County Election Officials</a></li>
+				</ul>
+
+
+		
+			
+
+		</div>
+	</div>
+</div> -->
+
+
+
+ 
+<!-- ./Alert -->
+<!-- InstanceBeginEditable name="Banner" -->	
+	<div class="container-fluid">	
+		<div class="row justify-content-center ">
+			<div class="col col-xl-9"><img src="assets/images/hero/vote-registration.jpg" alt="Register Vote - Image of Hand filling out Registration Form and the NJ Votes Logo" title="Register Vote - Image of Hand filling out Registration Form and the NJ Votes Logo" class="img-fluid mx-auto d-block"></div>
+		</div>
+	</div>
+<!-- InstanceEndEditable -->
+
+
+<div class="container-fluid">
+ <div class="row justify-content-center">
+ 	<div class="col col-xl-9">
+  		<nav aria-label="breadcrumb" role="navigation">
+			  <ol class="breadcrumb">
+			      <li class="breadcrumb-item"><a href="https://nj.gov/state/index.shtml">DOS <svg class="svg-inline--fa fa-house" data-prefix="fas" data-icon="house" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M277.8 8.6c-12.3-11.4-31.3-11.4-43.5 0l-224 208c-9.6 9-12.8 22.9-8 35.1S18.8 272 32 272l16 0 0 176c0 35.3 28.7 64 64 64l288 0c35.3 0 64-28.7 64-64l0-176 16 0c13.2 0 25-8.1 29.8-20.3s1.6-26.2-8-35.1l-224-208zM240 320l32 0c26.5 0 48 21.5 48 48l0 96-128 0 0-96c0-26.5 21.5-48 48-48z"></path></svg><!-- <i class="fas fa-home"></i> --></a></li> <li class="breadcrumb-item"><a href="index.shtml">DOE <svg class="svg-inline--fa fa-house" data-prefix="fas" data-icon="house" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M277.8 8.6c-12.3-11.4-31.3-11.4-43.5 0l-224 208c-9.6 9-12.8 22.9-8 35.1S18.8 272 32 272l16 0 0 176c0 35.3 28.7 64 64 64l288 0c35.3 0 64-28.7 64-64l0-176 16 0c13.2 0 25-8.1 29.8-20.3s1.6-26.2-8-35.1l-224-208zM240 320l32 0c26.5 0 48 21.5 48 48l0 96-128 0 0-96c0-26.5 21.5-48 48-48z"></path></svg><!-- <i class="fas fa-home"></i> --></a></li>
+<!-- InstanceBeginEditable name="Breadcrumbs" -->
+						
+					 	<li class="breadcrumb-item">Election Results</li>
+<!-- InstanceEndEditable -->
+			  </ol>
+		  </nav>
+  	</div>
+ </div>
+</div>
+
+<div class="container-fluid">
+ <div class="row justify-content-center my-5">
+ 	<div class="col col-xl-9">
+		<h1><a id="top" name="top"></a><!-- InstanceBeginEditable name="headline" -->Election Results<!-- InstanceEndEditable --></h1>
+		<!-- InstanceBeginEditable name="subheadline" -->   <!-- InstanceEndEditable -->
+	</div>
+</div>
+</div>	
+	
+	
+<div class="container-fluid content">
+ <div class="row justify-content-center my-5">
+ 	<div class="row col-xl-9">
+		<div class="col-sm-9">
+<!-- InstanceBeginEditable name="page" -->
+
+<div class="card my-3">
+	<div class="card-header"><h2><a href="election-results-information.shtml">Unofficial Periodic Election Reporting</a></h2></div>
+	<div class="card-body">	
+	
+			
+		<p>P.L.2023, c.131, amending N.J.S.A. 19:52-3.1, requires periodic reporting of election results beginning on Election Day for each primary and general election through final certification of the election results providing added transparency in reported election results.  Each county clerk, in consultation with the county boards of election, must list in an easily accessible location on the county clerk’s website, an unofficial report detailing the number and types of ballots that have been received and, to the extent practicable, the number and types of ballots that have been counted and that remain to be counted in that election.  The Secretary of State’s office is required to post each county’s unofficial periodic reports on the Division of Election’s website by the deadlines identified within the statute.</p>
+
+	</div>
+</div>
+			<p>&nbsp;</p>
+
+<div class="card my-3">
+	<div class="card-header"><h2><a href="election-night-results.shtml">2026 Election Results</a></h2></div>
+	<div class="card-body">	
+
+
+		<p>The Division of Elections does not post running results on Election Night, either official or unofficial. The best source for election night results are the local county websites.</p>
+		
+	</div>
+</div>
+
+			<p>&nbsp;</p>
+			
+<div class="card my-3">
+	<div class="card-header"><h2><a href="election-information-results.shtml">Archived Election Results</a></h2></div>
+	<div class="card-body">	
+		
+		
+		<p>These are the results of previous elections.</p>
+
+	</div>
+</div>
+
+			
+			
+
+
+
+
+
+<!-- InstanceEndEditable -->
+		<p>&nbsp;</p>
+		</div>
+
+		<div class="col-sm-3">
+	<!-- InstanceBeginEditable name="sidenav" -->
+			<!-- BEGIN leftNav -->
+<div class="list-group list-group-flush sos">
+	<a href="vote.shtml" target="_self" class="list-group-item-action list-group-item">Voter Information Portal</a>	
+	<a href="vote-3-ways-to-vote.shtml" target="_self" class="list-group-item-action list-group-item">3 Ways To Vote</a>
+	<a href="vote-by-mail.shtml" target="_self" class="list-group-item-action list-group-item">Vote-By-Mail</a>
+	<a href="vote-early-voting.shtml" target="_self" class="list-group-item-action list-group-item">Early Voting</a>
+	<a href="vote-polling-location.shtml" target="_self" class="list-group-item-action list-group-item">Polling Location</a>
+	<a href="vote-secure-drop-boxes.shtml" target="_self" class="list-group-item-action list-group-item">Secure Drop Box Locations</a>
+	<a href="vote-track-my-ballot.shtml" target="_self" class="list-group-item-action list-group-item">Track My Ballot</a>
+	<a href="voter-registration.shtml" target="_self" class="list-group-item-action list-group-item">Register to Vote!</a>
+	<a href="https://voter.svrs.nj.gov/registration-check" target="_self" class="list-group-item-action list-group-item">Am I Registered?</a>
+	<a href="voter-education.shtml" target="_self" class="list-group-item-action list-group-item">Voter Education Videos</a>
+	<a href="election-results.shtml" target="_self" class="list-group-item-action list-group-item active">Election Results</a>
+	<a href="safe-secure-elections.shtml" target="_self" class="list-group-item-action list-group-item">Safe Secure Elections</a>
+	<a href="vote-faq.shtml" target="_self" class="list-group-item-action list-group-item">Frequently Asked Questions</a>
+	<a href="vote-county-election-officials.shtml" target="_self" class="list-group-item-action list-group-item">County Election Officials</a>	
+	<a href="vote-military-and-overseas.shtml" target="_self" class="list-group-item-action list-group-item">Military and Overseas Voting</a>
+	<a href="vote-students.shtml" target="_self" class="list-group-item-action list-group-item">Student Registration &amp; Voting</a>
+	<a href="voter-rights.shtml" target="_self" class="list-group-item-action list-group-item">Voter Rights and Accessibility</a>
+	<a href="vote-forms.shtml" target="_self" class="list-group-item-action list-group-item">Additional Forms</a>
+	<a href="pollworker.shtml" target="_self" class="list-group-item-action list-group-item">Be A Poll Worker</a>
+	<a href="vote-info-sign-up.shtml" target="_self" class="list-group-item-action list-group-item">NJ Votes Information Sign-Up</a>
+	<a href="doe-publications.shtml" target="_self" class="list-group-item-action list-group-item">Printable Flyers &amp; Publications</a>
+	
+</div> 
+
+
+<p>&nbsp;</p>
+    
+
+<!-- END leftNav --> 	
+			
+			<!-- BEGIN App Inc -->
+
+<div class="alert alert-info">
+
+	<p><img src="assets/images/app-logo.jpg" class="float-left " style="padding: 0 10px 0 0;"></p>
+	<h3>Download the Mobile App</h3>
+	<p>Download the NJ Elections Mobile App on <a href="https://apps.apple.com/us/app/nj-elections/id1466971627" target="_self"><strong>Apple</strong></a> or <a href="https://play.google.com/store/apps/details?id=com.nicusa.NJI.Dashboard" target="_self"><strong>Google Play</strong></a></p> 
+
+</div>      
+<!-- END App Inc --> 
+
+
+
+
+
+
+	<!-- InstanceEndEditable -->
+		</div>	
+    
+	</div>	
+</div>
+</div>
+<!--<div class="container-fluid">
+	<a id="back-to-top" href="#top" class="btn btn-lg back-to-top" role="button" ><i class="fas fa-chevron-up"></i><br>Back<br>to top</a>
+</div>-->
+
+<!-- Footer      ==================================================    ==================================================    -->
+
+<footer class="footer site">
+		<div class="container-fluid"> 
+			<div class="row x-no-gutters justify-content-center">
+				<div class="col-lg-9 col-xl-8">
+					<h3><a href="/state/">Department of State</a></h3>
+
+					<div class="columned">
+							<ul>
+								<li><h5><a href="/state/sos-about.shtml">Office of the Secretary</a></h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/sos-about.shtml" target="_self">About the Secretary</a></li>
+									<li><a href="/state/sos-invite.shtml" target="_self">Invite the Secretary</a></li>
+									<!--li><a href="/state/sos-secretary-in-the-community.shtml" target="_self" >The Secretary in the Community</a></li-->
+									<li><a href="/state/elections/jersey-civic-engage.shtml" target="_self">Jersey Civic Engage</a></li>	
+									<!--li><a href="/state/nj-john-lewis-award.shtml" target="_self">John Lewis Youth Leadership Award</a></li-->
+									<li><a href="/state/nj-ballot-bowl.shtml" target="_self">NJ Ballot Bowl</a></li>
+									<li><a href="/state/vote-for-valor.shtml" target="_self">Vote for Valor</a></li>
+									<!--li><a href="/state/census.shtml" target="_self">NJ Census 2020</a></li-->
+									<!--li><a href="/state/njcounts.shtml" target="_self" >NJ Complete Count Commission</a></li-->
+									</ul>
+								</li>
+							</ul>
+
+							<ul>
+								<li><h5><a href="/state/" class="">Department of State Home</a></h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/dos-directory.shtml" target="_self">Directory</a></li>
+									<li><a href="/state/dos-legal-notices.shtml" target="_self">DOS Legal Notices</a></li>
+									<li><a href="/state/press.shtml" target="_self">Press Releases</a></li>	
+									<li><a href="/state/dos-grant-information.shtml" target="_self">Grant Information</a></li>	
+									<li><a href="/state/dos-employment-opportunities.shtml" target="_self">Employment Opportunities</a></li>	
+									<li><a href="/state/dos-flag-status.shtml" target="_self">NJ Flag Status</a></li>	
+									<li><a href="/state/dos-commemorative-dates.shtml" target="_self">Commemorative Dates</a></li>
+									<li><a href="/state/dos-pay-to-play.shtml" target="_self">Pay-to-Play Ordinances</a></li>
+									<li><a href="/state/dos-civil-celebrant.shtml" target="_self">Certified Civil Celebrants</a></li>
+									<li><a href="/state/dos-will-registry.shtml" target="_self">Will Registry</a></li>	
+									<li><a href="/state/dos-language-access-plan.shtml" target="_self">Language Access Plan</a></li>	
+									<li><a href="/state/dos-statutes.shtml" target="_self">Statutes &amp; Rules</a></li>	
+									<li><a href="/state/statewide-legal-notices-list.shtml" target="_self">Statewide Legal Notices</a></li>	
+									</ul>
+								</li>
+							</ul>
+
+							<ul>
+								<li><h5>Business &amp; Economic Development</h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/bac/">NJ Business Action Center</a></li>
+									<li><a href="/state/bac/business-support/overview/">Business Support</a></li>
+									<li><a href="/state/bac/business-support/small-business/">Small Business</a></li>
+									<li><a href="/state/bac/business-support/mid-large-business/">Mid-Large Business</a></li>	
+									<li><a href="/state/bac/business-support/exports/">Exports</a></li>
+									<li><a href="/state/bac/cannabis-training/about/">Cannabis Training Academy</a></li>	
+									<li><a href="/state/bac/planning/">Planning Advocates</a></li>
+									<li><a href="https://www.visitnj.org/" target="_self">NJ Division of Travel &amp; Tourism</a></li>
+									<li><a href="/state/nonprofit.shtml">Non-Profit Portal</a></li>
+									</ul>
+								</li>
+							</ul>
+
+							<ul>
+								<li><h5>Civic Engagement</h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/elections/index.shtml" target="_self">NJ Division of Elections</a></li>
+									<li><a href="/state/elections/vote.shtml" target="_self">NJ Voter Information Portal</a></li>
+									<li><a href="/state/elections/jersey-civic-engage.shtml" target="_self">Jersey Civic Engage</a></li>
+									<li><a href="/state/fac/index.shtml" target="_self">NJ Faith Action Center</a></li>
+									<li><a href="/state/volunteer.shtml" target="_self">Volunteer and National Service</a></li>
+									<li><a href="/state/volunteer-americorps-national-service.shtml#americorps" target="_self">AmeriCorps</a></li>
+									<li><a href="/state/volunteer-americorps-national-service.shtml#senior-corps" target="_self">Senior Corps</a></li>
+									<li><a href="/state/chprd.shtml" target="_self">NJ Center for Hispanic Policy, Research and Development</a></li>
+									
+									</ul>
+								</li>
+							</ul>
+
+							<ul>
+								<li><h5>Arts &amp; Culture</h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/museum/index.shtml" target="_self">NJ State Museum</a></li>
+									<li><a href="/state/njsca/index.shtml" target="_self">NJ Council on the Arts</a></li>
+									<li><a href="/state/archives/index.shtml" target="_self">NJ State Archives</a></li>
+									<li><a href="/state/historical/index.shtml" target="_self">NJ Historical Commission</a></li> 
+									<li><a href="/state/culturaltrust/index.shtml" target="_self">NJ Cultural Trust</a></li>
+									<li><a href="/state/memorial/index.shtml" target="_self">Patriots Theater at the War Memorial</a></li>
+									<li><a href="/state/mlk.shtml" target="_self">NJ Martin Luther King, Jr. Commemorative Commission</a></li>
+									<li><a href="/state/njaapic/index.shtml" target="_self">NJ Asian American Pacific Islander Commission</a></li>	
+									<li><a href="/state/njcaia.shtml" target="_self">NJ Commission on American Indian Affairs</a></li>
+									<li><a href="/state/nj-india.shtml" target="_self">NJ-India Commission</a></li>
+									<li><a href="/state/njic.shtml" target="_self">NJ-Israel Commission</a></li>
+									<li><a href="/state/puertoricocommission.shtml" target="_self">NJ Puerto Rico Commission</a></li>
+									<li><a href="/state/nj-ireland/index.shtml" target="_self">NJ Ireland Trade Commission</a></li>		
+									<li><a href="/state/hellenic.shtml" target="_self">NJ Hellenic American Heritage Commission</a></li>
+									<li><a href="/state/dos-culture-heritage.shtml" target="_self">Cultural Heritage Commissions</a></li>
+									</ul>
+								</li>
+							</ul>
+	
+							<ul>
+								<li><h5>Information<!--a href="/state/dos-directory.shtml" target="_self"></a--></h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/assets/pdf/sos/dos-information-and-resources-guide.pdf" target="new">Information and Resources Guide</a></li>
+									
+									</ul>
+								</li>
+							</ul>
+						
+						
+					</div>
+				</div>
+				<div class="col-lg-3 col-xl-2">
+					<h3>Statewide</h3>
+					<ul class="statewide d-inline-block float-left mr-1 mr-sm-5 mr-lg-0">
+						<li class=""><a href="//nj.gov/governor/admin/about/" target="_blank">Governor Mikie Sherrill</a></li>
+						<li class=""><a href="https://www.nj.gov/governor/admin/ltgovernor/" target="_blank">Shirley U. Emehelu, Acting Secretary of State </a></li>
+						<li><a href="//nj.gov/" target="_blank">NJ Home</a></li>
+						<li><a href="//nj.gov/nj/gov/njgov/alphaserv.html" target="_blank">Services A to Z</a></li>
+						<li><a href="//nj.gov/nj/gov/deptserv/" target="_blank">Departments/Agencies</a></li>
+						<li><a href="//nj.gov/faqs/" target="_blank">FAQs</a></li>
+						<li><a href="//nj.gov/nj/feedback.html" target="_blank">Contact Us</a></li>
+						<li><a href="//nj.gov/nj/privacy.html" target="_blank">Privacy Notice</a></li>
+						<li><a href="//nj.gov/nj/legal.html" target="_blank">Legal Statement &amp; Disclaimers</a></li>
+						<li><a href="//nj.gov/nj/accessibility.html" target="_blank">Accessibility Statement</a></li>
+					</ul>
+					<img src="/state/assets/images/state_seal_white_transparent10.png" alt="State Seal Logo " class="digital-nj img-fluid max-width float-left ">
+				</div>
+			</div>
+		</div>
+	</footer>
+	
+	
+	
+
+
+<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  -->
+<!-- Begin doe-footer-bottom.shtml   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+
+		<footer class="footer sonj">
+		<div class="container-fluid"> 
+			<div class="row no-gutters justify-content-center">
+				<div class="col-sm-3 col-xl-2">
+					<a href="//nj.gov/opra/" class="mb-4 mr-4 d-inline-block  float-left"><img src="//nj.gov/nj/design/images/opra.png" alt="Open Public Records Act (OPRA)" class="opra"></a>
+					<a href="https://my.state.nj.us/openam/UI/Login" class="mb-4 d-inline-block float-left"><img src="//nj.gov/nj/design/images/myNJ.png" alt="My New Jersey Portal" class="mynj"></a> 
+				</div>
+				<div class="col-sm-9 col-xl-8  text-right">
+					<!--<a href="https://twitter.com/NJ_Votes" class="toggle-target"><i class="fab fa-twitter-square fa-2x sonj-gray" aria-label="Division of Elections twitter link"></i></a>
+					<a href="https://www.facebook.com/NJVotes/"  class="toggle-target"><i class="fab fa-facebook-square fa-2x sonj-gray" aria-label="Division of Elections Facebook link"></i></a> 
+					<a href="https://www.youtube.com/channel/UCpra_Xk_0KhMXhiJwCc6hzw" class="toggle-target"><i class="fab fa-youtube-square fa-2x sonj-gray" aria-label="Department of State YouTube link"></i></a>
+					
+					
+					<br>-->
+					<script language="JavaScript">
+				<!-- Hide from old browsers
+				today=new Date();
+				y0=today.getFullYear();
+				// end hiding --->
+				</script>
+				Copyright © NJ Department of State, 2001-<script language="JavaScript">
+  			<!--- Hide from old browsers
+   			document.write(y0);
+  			// end hiding --->
+				</script>2026 <br><br>
+				<strong>NJ Division of Elections<br><br>
+				Mailing Address</strong><br>
+				NJ Division of Elections, P.O. Box 304, Trenton, NJ 08625-0304<br>
+				<br>
+				<strong>Office Address</strong><br>
+				225 West State Street, 1st Floor, Trenton, NJ 08608<br>
+				Tel: 609-292-3760, 609-789-0124&nbsp; &nbsp;Fax: 609-777-1280<br> 
+					Email:  <a href="mailto:nj.elections@sos.nj.gov " class="moreLinks">nj.elections@sos.nj.gov</a><br>
+				<br>
+				<strong>Voting Information &amp; Assistance</strong><br>
+				1-877-NJ-VOTER (1-877-658-6837)<br>
+				<br>
+				<strong>TTY/TDD</strong> 609-292-0034<br>
+				This site is maintained by New Jersey Department of State
+					
+				<script src="/nj/design/fontawesome-pro-7.0.0-web/js/all.js"></script>	
+					
+				</div>
+			</div>
+		</div>
+			
+			
+<script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            ttd_dom_ready( function() {
+                if (typeof TTDUniversalPixelApi === 'function') {
+                    var universalPixelApi = new TTDUniversalPixelApi();
+                    universalPixelApi.init("egol4o0", ["l2ipv5a"], "https://insight.adsrvr.org/track/up");
+                }
+            });
+        </script>
+			
+	</footer>
+
+<!-- End doe-footer-bottom.shtml   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+<!--	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Begin Script section XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  -->
+
+<!-- InstanceBeginEditable name="scripts" -->
+
+
+<!-- InstanceEndEditable -->
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+		<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- Bootstrap core JavaScript -->
+
+<!-- ================================================== -->
+
+<script src="//nj.gov/nj/design/js/jquery-3.3.1.min.js"></script>
+<!--<script src="//code.jquery.com/jquery-3.2.1.slim.min.js" ></script>--><!-- integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script> -->
+
+<script src="//nj.gov/nj/design/js/bootstrap.bundle.min.js"></script>
+<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" ></script>--> <!-- integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>-->
+<!-- <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" ></script>--> <!-- integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>-->
+<!-- Font Awesome -->
+
+<script defer="" src="//nj.gov/nj/design/fontawesome/js/all.js"></script>
+<!--<script defer src="//use.fontawesome.com/releases/v5.0.9/js/all.js" ></script>--> <!-- integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>-->
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+
+<script src="//nj.gov/nj/design/js/ie10-viewport-bug-workaround.js"></script>	
+
+<script src="//nj.gov/nj/design/js/sonj-header.js"></script>
+
+<script src="//nj.gov/nj/design/js/sticky-social.js"></script>
+
+<script src="//nj.gov/nj/design/js/navigation.js"></script>
+
+<script src="//nj.gov/nj/design/util/slick/slick.min.js" type="text/javascript"></script>
+
+<script src="/nj/design/js/slick-init.js"></script>
+
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+<script>
+	$(document).ready(function() {
+		$('figure.highlight pre code').each(function(i, block) {
+			hljs.highlightBlock(block);
+		});
+	});
+</script>
+	
+		<a id="back-to-top" href="#" class="btn  btn-lg back-to-top" role="button" title=""><svg class="svg-inline--fa fa-chevron-up" data-prefix="fas" data-icon="chevron-up" role="img" viewBox="0 0 448 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M201.4 105.4c12.5-12.5 32.8-12.5 45.3 0l192 192c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L224 173.3 54.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l192-192z"></path></svg><!-- <i class="fas fa-chevron-up"></i> --><br>Back<br>to top</a>
+	
+<script>
+ $(window).scroll(function () {
+		if ($(this).scrollTop() > 50) {
+			$('#back-to-top').fadeIn();
+		} else {
+			$('#back-to-top').fadeOut();
+		}
+	});
+	// scroll body to 0px on click
+	$('#back-to-top').click(function () {
+		$('#back-to-top').tooltip('hide');
+		$('body,html').animate({
+			scrollTop: 0
+		}, 800);
+		return false;
+	});
+</script>	
+	
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '7240295202744682');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src=https://www.facebook.com/tr?id=7240295202744682&ev=PageView&noscript=1
+/></noscript>
+<!-- End Meta Pixel Code -->
+	
+
+<!-- Site Improve  Code -->	
+<script async="" src="https://siteimproveanalytics.com/js/siteanalyze_6291948.js"></script>	
+<!-- End Site Improve  Code -->
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=1037701268" async=""></script>
+</body><!-- InstanceEnd --></html>
+
+<!-- FRAME 0 https://beta.nj.gov/global-signup/form/form.html?id=global-signup-form-embed-0&location=nj.gov%2Fstate%2Felections%2Felection-results.shtml&style=header cross-origin -->
+
+<!-- FRAME 6CA9CC77E5BADF60CD26DBFB27CD966B -->
+<html lang="en" class="fontawesome-i2svg-active fontawesome-i2svg-complete"><!-- InstanceBegin template="/Templates/vote-level2.dwt" codeOutsideHTMLIsLocked="false" --><head><script src="https://connect.facebook.net/signals/config/7240295202744682?v=2.9.435&amp;r=stable&amp;domain=nj.gov&amp;hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&amp;ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P3V3PJ6"></script><script src="/Sprighter-a-newly-of-my-Louer-Entermittlemaine-I" async=""></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P3V3PJ6');</script>
+<!-- End Google Tag Manager -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- InstanceBeginEditable name="title" --><title>NJ DOS - Division of Elections - Election Results</title>
+	
+ 	<meta name="ROBOTS" content="NOARCHIVE">
+ 	<meta name="GOOGLEBOT" content="NOARCHIVE"> 
+ 	<meta name="author" content="dos">
+ 	<meta name="revised" content="01/28/26">
+ 	<meta name="keywords" content="NJ Voter Information Portal, New Jersey Elections, New Jersey Division of Elections, Election Results, State of New Jersey, New Jersey, Government, State">
+ 	<meta name="description" content="Official State of New Jersey, Division of Elections, NJ Voter Information Portal website.">
+
+	<meta property="og:title" content="NJ Voter Information Portal - Election Results">
+	<meta property="og:image" content="https://nj.gov/state/elections/assets/images/spots/nj-votes-logo.jpg">
+	<meta property="og:image:secure_url" content="https://nj.gov/state/elections/assets/images/spots/nj-votes-logo.jpg">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="650">
+	<meta property="og:image:height" content="357">
+	<meta property="og:image:alt" content="NJ Voter Information Portal - Election Results">
+	<meta property="og:description" content="NJ Voter Information Election Results.">
+
+	<meta name="twitter:title" content="NJ Voter Information Portal - Election Results">
+	<meta name="twitter:description" content="Official State of New Jersey, Division of Elections website">
+	<meta name="twitter:image" content="https://nj.gov/state/elections/assets/images/spots/nj-votes-logo.jpg">
+	<meta name="twitter:card" content="summary_large_image">
+	
+
+	<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><style type="text/css">:root, :host {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 7 Pro";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 7 Pro";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 7 Pro";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 7 Pro";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 7 Duotone";
+  --fa-font-duotone-regular: normal 400 1em/1 "Font Awesome 7 Duotone";
+  --fa-font-duotone-light: normal 300 1em/1 "Font Awesome 7 Duotone";
+  --fa-font-duotone-thin: normal 100 1em/1 "Font Awesome 7 Duotone";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 7 Brands";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 7 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 7 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 7 Sharp";
+  --fa-font-sharp-thin: normal 100 1em/1 "Font Awesome 7 Sharp";
+  --fa-font-sharp-duotone-solid: normal 900 1em/1 "Font Awesome 7 Sharp Duotone";
+  --fa-font-sharp-duotone-regular: normal 400 1em/1 "Font Awesome 7 Sharp Duotone";
+  --fa-font-sharp-duotone-light: normal 300 1em/1 "Font Awesome 7 Sharp Duotone";
+  --fa-font-sharp-duotone-thin: normal 100 1em/1 "Font Awesome 7 Sharp Duotone";
+  --fa-font-slab-regular: normal 400 1em/1 "Font Awesome 7 Slab";
+  --fa-font-slab-press-regular: normal 400 1em/1 "Font Awesome 7 Slab Press";
+  --fa-font-whiteboard-semibold: normal 600 1em/1 "Font Awesome 7 Whiteboard";
+  --fa-font-thumbprint-light: normal 300 1em/1 "Font Awesome 7 Thumbprint";
+  --fa-font-notdog-solid: normal 900 1em/1 "Font Awesome 7 Notdog";
+  --fa-font-notdog-duo-solid: normal 900 1em/1 "Font Awesome 7 Notdog Duo";
+  --fa-font-etch-solid: normal 900 1em/1 "Font Awesome 7 Etch";
+  --fa-font-jelly-regular: normal 400 1em/1 "Font Awesome 7 Jelly";
+  --fa-font-jelly-fill-regular: normal 400 1em/1 "Font Awesome 7 Jelly Fill";
+  --fa-font-jelly-duo-regular: normal 400 1em/1 "Font Awesome 7 Jelly Duo";
+  --fa-font-chisel-regular: normal 400 1em/1 "Font Awesome 7 Chisel";
+}
+
+.svg-inline--fa {
+  box-sizing: content-box;
+  display: var(--fa-display, inline-block);
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
+  width: var(--fa-width, 1.25em);
+}
+.svg-inline--fa.fa-2xs {
+  vertical-align: 0.1em;
+}
+.svg-inline--fa.fa-xs {
+  vertical-align: 0em;
+}
+.svg-inline--fa.fa-sm {
+  vertical-align: -0.0714285714em;
+}
+.svg-inline--fa.fa-lg {
+  vertical-align: -0.2em;
+}
+.svg-inline--fa.fa-xl {
+  vertical-align: -0.25em;
+}
+.svg-inline--fa.fa-2xl {
+  vertical-align: -0.3125em;
+}
+.svg-inline--fa.fa-pull-left,
+.svg-inline--fa .fa-pull-start {
+  float: inline-start;
+  margin-inline-end: var(--fa-pull-margin, 0.3em);
+}
+.svg-inline--fa.fa-pull-right,
+.svg-inline--fa .fa-pull-end {
+  float: inline-end;
+  margin-inline-start: var(--fa-pull-margin, 0.3em);
+}
+.svg-inline--fa.fa-li {
+  width: var(--fa-li-width, 2em);
+  inset-inline-start: calc(-1 * var(--fa-li-width, 2em));
+  inset-block-start: 0.25em; /* syncing vertical alignment with Web Font rendering */
+}
+
+.fa-layers-counter, .fa-layers-text {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+}
+
+.fa-layers {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  text-align: center;
+  vertical-align: -0.125em;
+  width: var(--fa-width, 1.25em);
+}
+.fa-layers .svg-inline--fa {
+  inset: 0;
+  margin: auto;
+  position: absolute;
+  transform-origin: center center;
+}
+
+.fa-layers-text {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  transform-origin: center center;
+}
+
+.fa-layers-counter {
+  background-color: var(--fa-counter-background-color, #ff253a);
+  border-radius: var(--fa-counter-border-radius, 1em);
+  box-sizing: border-box;
+  color: var(--fa-inverse, #fff);
+  line-height: var(--fa-counter-line-height, 1);
+  max-width: var(--fa-counter-max-width, 5em);
+  min-width: var(--fa-counter-min-width, 1.5em);
+  overflow: hidden;
+  padding: var(--fa-counter-padding, 0.25em 0.5em);
+  right: var(--fa-right, 0);
+  text-overflow: ellipsis;
+  top: var(--fa-top, 0);
+  transform: scale(var(--fa-counter-scale, 0.25));
+  transform-origin: top right;
+}
+
+.fa-layers-bottom-right {
+  bottom: var(--fa-bottom, 0);
+  right: var(--fa-right, 0);
+  top: auto;
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: bottom right;
+}
+
+.fa-layers-bottom-left {
+  bottom: var(--fa-bottom, 0);
+  left: var(--fa-left, 0);
+  right: auto;
+  top: auto;
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: bottom left;
+}
+
+.fa-layers-top-right {
+  top: var(--fa-top, 0);
+  right: var(--fa-right, 0);
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: top right;
+}
+
+.fa-layers-top-left {
+  left: var(--fa-left, 0);
+  right: auto;
+  top: var(--fa-top, 0);
+  transform: scale(var(--fa-layers-scale, 0.25));
+  transform-origin: top left;
+}
+
+.fa-1x {
+  font-size: 1em;
+}
+
+.fa-2x {
+  font-size: 2em;
+}
+
+.fa-3x {
+  font-size: 3em;
+}
+
+.fa-4x {
+  font-size: 4em;
+}
+
+.fa-5x {
+  font-size: 5em;
+}
+
+.fa-6x {
+  font-size: 6em;
+}
+
+.fa-7x {
+  font-size: 7em;
+}
+
+.fa-8x {
+  font-size: 8em;
+}
+
+.fa-9x {
+  font-size: 9em;
+}
+
+.fa-10x {
+  font-size: 10em;
+}
+
+.fa-2xs {
+  font-size: calc(10 / 16 * 1em); /* converts a 10px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 10 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 10 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-xs {
+  font-size: calc(12 / 16 * 1em); /* converts a 12px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 12 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 12 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-sm {
+  font-size: calc(14 / 16 * 1em); /* converts a 14px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 14 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 14 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-lg {
+  font-size: calc(20 / 16 * 1em); /* converts a 20px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 20 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 20 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-xl {
+  font-size: calc(24 / 16 * 1em); /* converts a 24px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 24 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 24 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-2xl {
+  font-size: calc(32 / 16 * 1em); /* converts a 32px size into an em-based value that's relative to the scale's 16px base */
+  line-height: calc(1 / 32 * 1em); /* sets the line-height of the icon back to that of it's parent */
+  vertical-align: calc((6 / 32 - 0.375) * 1em); /* vertically centers the icon taking into account the surrounding text's descender */
+}
+
+.fa-width-auto {
+  --fa-width: auto;
+}
+
+.fa-fw,
+.fa-width-fixed {
+  --fa-width: 1.25em;
+}
+
+.fa-ul {
+  list-style-type: none;
+  margin-inline-start: var(--fa-li-margin, 2.5em);
+  padding-inline-start: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+
+.fa-li {
+  inset-inline-start: calc(-1 * var(--fa-li-width, 2em));
+  position: absolute;
+  text-align: center;
+  width: var(--fa-li-width, 2em);
+  line-height: inherit;
+}
+
+/* Heads Up: Bordered Icons will not be supported in the future!
+  - This feature will be deprecated in the next major release of Font Awesome (v8)!
+  - You may continue to use it in this version *v7), but it will not be supported in Font Awesome v8.
+*/
+/* Notes:
+* --@{v.$css-prefix}-border-width = 1/16 by default (to render as ~1px based on a 16px default font-size)
+* --@{v.$css-prefix}-border-padding =
+  ** 3/16 for vertical padding (to give ~2px of vertical whitespace around an icon considering it's vertical alignment)
+  ** 4/16 for horizontal padding (to give ~4px of horizontal whitespace around an icon)
+*/
+.fa-border {
+  border-color: var(--fa-border-color, #eee);
+  border-radius: var(--fa-border-radius, 0.1em);
+  border-style: var(--fa-border-style, solid);
+  border-width: var(--fa-border-width, 0.0625em);
+  box-sizing: var(--fa-border-box-sizing, content-box);
+  padding: var(--fa-border-padding, 0.1875em 0.25em);
+}
+
+.fa-pull-left,
+.fa-pull-start {
+  float: inline-start;
+  margin-inline-end: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-pull-right,
+.fa-pull-end {
+  float: inline-end;
+  margin-inline-start: var(--fa-pull-margin, 0.3em);
+}
+
+.fa-beat {
+  animation-name: fa-beat;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-bounce {
+  animation-name: fa-bounce;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.28, 0.84, 0.42, 1));
+}
+
+.fa-fade {
+  animation-name: fa-fade;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-beat-fade {
+  animation-name: fa-beat-fade;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, cubic-bezier(0.4, 0, 0.6, 1));
+}
+
+.fa-flip {
+  animation-name: fa-flip;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, ease-in-out);
+}
+
+.fa-shake {
+  animation-name: fa-shake;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin {
+  animation-name: fa-spin;
+  animation-delay: var(--fa-animation-delay, 0s);
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 2s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, linear);
+}
+
+.fa-spin-reverse {
+  --fa-animation-direction: reverse;
+}
+
+.fa-pulse,
+.fa-spin-pulse {
+  animation-name: fa-spin;
+  animation-direction: var(--fa-animation-direction, normal);
+  animation-duration: var(--fa-animation-duration, 1s);
+  animation-iteration-count: var(--fa-animation-iteration-count, infinite);
+  animation-timing-function: var(--fa-animation-timing, steps(8));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fa-beat,
+  .fa-bounce,
+  .fa-fade,
+  .fa-beat-fade,
+  .fa-flip,
+  .fa-pulse,
+  .fa-shake,
+  .fa-spin,
+  .fa-spin-pulse {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+@keyframes fa-beat {
+  0%, 90% {
+    transform: scale(1);
+  }
+  45% {
+    transform: scale(var(--fa-beat-scale, 1.25));
+  }
+}
+@keyframes fa-bounce {
+  0% {
+    transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    transform: scale(var(--fa-bounce-start-scale-x, 1.1), var(--fa-bounce-start-scale-y, 0.9)) translateY(0);
+  }
+  30% {
+    transform: scale(var(--fa-bounce-jump-scale-x, 0.9), var(--fa-bounce-jump-scale-y, 1.1)) translateY(var(--fa-bounce-height, -0.5em));
+  }
+  50% {
+    transform: scale(var(--fa-bounce-land-scale-x, 1.05), var(--fa-bounce-land-scale-y, 0.95)) translateY(0);
+  }
+  57% {
+    transform: scale(1, 1) translateY(var(--fa-bounce-rebound, -0.125em));
+  }
+  64% {
+    transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    transform: scale(1, 1) translateY(0);
+  }
+}
+@keyframes fa-fade {
+  50% {
+    opacity: var(--fa-fade-opacity, 0.4);
+  }
+}
+@keyframes fa-beat-fade {
+  0%, 100% {
+    opacity: var(--fa-beat-fade-opacity, 0.4);
+    transform: scale(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(var(--fa-beat-fade-scale, 1.125));
+  }
+}
+@keyframes fa-flip {
+  50% {
+    transform: rotate3d(var(--fa-flip-x, 0), var(--fa-flip-y, 1), var(--fa-flip-z, 0), var(--fa-flip-angle, -180deg));
+  }
+}
+@keyframes fa-shake {
+  0% {
+    transform: rotate(-15deg);
+  }
+  4% {
+    transform: rotate(15deg);
+  }
+  8%, 24% {
+    transform: rotate(-18deg);
+  }
+  12%, 28% {
+    transform: rotate(18deg);
+  }
+  16% {
+    transform: rotate(-22deg);
+  }
+  20% {
+    transform: rotate(22deg);
+  }
+  32% {
+    transform: rotate(-12deg);
+  }
+  36% {
+    transform: rotate(12deg);
+  }
+  40%, 100% {
+    transform: rotate(0deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.fa-rotate-90 {
+  transform: rotate(90deg);
+}
+
+.fa-rotate-180 {
+  transform: rotate(180deg);
+}
+
+.fa-rotate-270 {
+  transform: rotate(270deg);
+}
+
+.fa-flip-horizontal {
+  transform: scale(-1, 1);
+}
+
+.fa-flip-vertical {
+  transform: scale(1, -1);
+}
+
+.fa-flip-both,
+.fa-flip-horizontal.fa-flip-vertical {
+  transform: scale(-1, -1);
+}
+
+.fa-rotate-by {
+  transform: rotate(var(--fa-rotate-angle, 0));
+}
+
+.svg-inline--fa .fa-primary {
+  fill: var(--fa-primary-color, currentColor);
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa .fa-secondary {
+  fill: var(--fa-secondary-color, currentColor);
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-primary {
+  opacity: var(--fa-secondary-opacity, 0.4);
+}
+
+.svg-inline--fa.fa-swap-opacity .fa-secondary {
+  opacity: var(--fa-primary-opacity, 1);
+}
+
+.svg-inline--fa mask .fa-primary,
+.svg-inline--fa mask .fa-secondary {
+  fill: black;
+}
+
+.svg-inline--fa.fa-inverse {
+  fill: var(--fa-inverse, #fff);
+}
+
+.fa-stack {
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  position: relative;
+  vertical-align: middle;
+  width: 2.5em;
+}
+
+.fa-inverse {
+  color: var(--fa-inverse, #fff);
+}
+
+.svg-inline--fa.fa-stack-1x {
+  height: 1em;
+  width: 1.25em;
+}
+.svg-inline--fa.fa-stack-2x {
+  height: 2em;
+  width: 2.5em;
+}
+
+.fa-stack-1x,
+.fa-stack-2x {
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: var(--fa-stack-z-index, auto);
+}</style><link rel="stylesheet" type="text/css" href="assets/css/njvote.css">	
+	
+<!-- InstanceEndEditable -->
+
+<!-- Bootstrap -->
+<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/sonj-components.css">
+<link rel="stylesheet" type="text/css" href="assets/css/site-base.css"> 
+<link rel="stylesheet" type="text/css" href="//nj.gov/nj/design/util/slick/slick.css">
+<link rel="stylesheet" type="text/css" href="//nj.gov/nj/design/util/slick/slick-theme.css">
+<!-- InstanceBeginEditable name="header" -->
+		
+<!-- InstanceEndEditable -->
+
+<!-- 	XXXXXXXXXXXXXXX   Random Script for Header images 	XXXXXXXXXXXXXXX   -->
+<script language="javascript" type="text/javascript">
+	var totalSets = 4;
+	var randNum = 0;
+	randNum = Math.floor(Math.random()*totalSets)+1;
+	mainImg = '<img src="assets/images/hero/state-flag-'+randNum+'.jpg" alt="NJ Division of Elections" title="NJ Division of Elections" class="img-fluid mx-auto d-block" />';
+</script>
+<!-- 	XXXXXXXXXXXXXXX   End Random Script for Header images 	XXXXXXXXXXXXXXX   -->
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<!-- InstanceBeginEditable name="body" -->
+<body>
+<!-- InstanceEndEditable -->
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3V3PJ6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<a class="accessibility-aid" href="#top">Skip to main content</a>
+<!-- Alert DOS -->
+
+<!-- ./Alert -->
+<style>
+header.sonj li.sonj-translate >a{background: #ffffff;color:#000000!important;border-radius: .25rem;}
+header.sonj li.sonj-translate >a{color:#000000!important}
+p.disclaimer {color:#fff!important;}
+p.disclaimer >a{color:#fff!important;}
+</style>
+
+
+<header class="sonj  ">
+<div class="row justify-content-center no-gutters mx-0 px-1">
+		<div id="logo" class="col-sm-8 col-lg-4 col-xl-4">
+			<h1 class="my-2"><a href="https://nj.gov/" title="Go to NJ.gov Home"><img src="/nj/design/images/state_seal_white.png" alt="State of New Jersey Seal" title="Go to  The State of New Jersey Website">Official Site of The State of New Jersey</a></h1>
+		</div>
+		<div class=" col-sm-4 col-lg-6 col-xl-6">
+		  <div class="gov-bar text-right d-none d-lg-block"><a href="https://nj.gov/governor/" target="_blank" title="go to governor website">Governor Mikie Sherrill <!-- &bull; Lt. Governor --></a> </div>
+		  <ul class="my-sm-2 my-lg-0 social statewide text-right">
+			  <li class="sonj-translate px-md-3" style="border-right:0">
+			  								<a href="#" class="" style="padding: 2px 5px; font-weight: 400;">Translate <svg class="svg-inline--fa fa-language fa-lg" data-prefix="fas" data-icon="language" role="img" viewBox="0 0 576 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M160 0c17.7 0 32 14.3 32 32l0 32 128 0c17.7 0 32 14.3 32 32s-14.3 32-32 32l-9.6 0-8.4 23.1c-16.4 45.2-41.1 86.5-72.2 122 14.2 8.8 29 16.6 44.4 23.5l50.4 22.4 62.2-140c5.1-11.6 16.6-19 29.2-19s24.1 7.4 29.2 19l128 288c7.2 16.2-.1 35.1-16.2 42.2s-35.1-.1-42.2-16.2l-20-45-157.5 0-20 45c-7.2 16.2-26.1 23.4-42.2 16.2s-23.4-26.1-16.2-42.2l39.8-89.5-50.4-22.4c-23-10.2-45-22.4-65.8-36.4-21.3 17.2-44.6 32.2-69.5 44.7L78.3 380.6c-15.8 7.9-35 1.5-42.9-14.3s-1.5-35 14.3-42.9l34.5-17.3c16.3-8.2 31.8-17.7 46.4-28.3-13.8-12.7-26.8-26.4-38.9-40.9L81.6 224.7c-11.3-13.6-9.5-33.8 4.1-45.1s33.8-9.5 45.1 4.1l10.2 12.2c11.5 13.9 24.1 26.8 37.4 38.7 27.5-30.4 49.2-66.1 63.5-105.4l.5-1.2-210.3 0C14.3 128 0 113.7 0 96S14.3 64 32 64l96 0 0-32c0-17.7 14.3-32 32-32zM416 270.8L365.7 384 466.3 384 416 270.8z"></path></svg><!-- <i class="fas fa-language fa-lg"></i> --></a>
+			  							<div class="drop px-4 pb-3">
+			  			<div id="translate-widget-container" translate="no"><div role="region" aria-label="Language Selection" translate="no"><label for="language-selector" style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; white-space: nowrap; border: 0px;">Select Language</label><select id="language-selector" aria-label="Select Language" aria-expanded="false" aria-controls="language-options" aria-describedby="language-help" translate="no" style="padding: 4px; font-size: 14px; border-radius: 4px; width: 100%;"><option value="" disabled="" translate="no">Select Language</option><option value="en" translate="no" lang="en">English</option><option value="ar" translate="no" lang="ar">العربية/Arabic</option><option value="bn" translate="no" lang="bn">বাংলা/Bengali</option><option value="zh" translate="no" lang="zh">中文（简体/Chinese (Simplified)</option><option value="zh-TW" translate="no" lang="zh-TW">中文（繁體/Chinese (Traditional)</option><option value="fr" translate="no" lang="fr">Français/French</option><option value="de" translate="no" lang="de">Deutsch/German</option><option value="gu" translate="no" lang="gu">ગુજરાતી/Gujarati</option><option value="ht" translate="no" lang="ht">Kreyòl Ayisyen/Haitian Creole</option><option value="it" translate="no" lang="it">Italiano/Italian</option><option value="ja" translate="no" lang="ja">日本語/Japanese</option><option value="ko" translate="no" lang="ko">한국/Korean</option><option value="pt" translate="no" lang="pt">Português/Portuguese (Brazil)</option><option value="ru" translate="no" lang="ru">Русский язык/Russian</option><option value="es" translate="no" lang="es">Español/Spanish</option><option value="sw" translate="no" lang="sw">Kiswahili/Swahili</option><option value="tr" translate="no" lang="tr">Türkçe/Turkish</option></select><span id="language-help" style="position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; white-space: nowrap; border: 0px;">Choose a language to translate this page</span></div></div>
+			  				<script src="/nj/design/js/translate-widget.js"></script>
+			  		<p class="disclaimer pt-3 pb-0 text-left">
+					<!--The State of NJ site may include optional links, information, services, and content from third-party websites for user convenience, such as language translation services. These translation tools are free online services that provide language translations. Users are informed that neither the State of NJ site nor its operators review or endorse any services, information, or content from third-party links.<br>
+							-->
+							<a href="https://www.nj.gov/nj/about/translator/" target="_blank">Translation Disclaimer <svg class="svg-inline--fa fa-link" data-prefix="fas" data-icon="link" role="img" viewBox="0 0 576 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M419.5 96c-16.6 0-32.7 4.5-46.8 12.7-15.8-16-34.2-29.4-54.5-39.5 28.2-24 64.1-37.2 101.3-37.2 86.4 0 156.5 70 156.5 156.5 0 41.5-16.5 81.3-45.8 110.6l-71.1 71.1c-29.3 29.3-69.1 45.8-110.6 45.8-86.4 0-156.5-70-156.5-156.5 0-1.5 0-3 .1-4.5 .5-17.7 15.2-31.6 32.9-31.1s31.6 15.2 31.1 32.9c0 .9 0 1.8 0 2.6 0 51.1 41.4 92.5 92.5 92.5 24.5 0 48-9.7 65.4-27.1l71.1-71.1c17.3-17.3 27.1-40.9 27.1-65.4 0-51.1-41.4-92.5-92.5-92.5zM275.2 173.3c-1.9-.8-3.8-1.9-5.5-3.1-12.6-6.5-27-10.2-42.1-10.2-24.5 0-48 9.7-65.4 27.1L91.1 258.2c-17.3 17.3-27.1 40.9-27.1 65.4 0 51.1 41.4 92.5 92.5 92.5 16.5 0 32.6-4.4 46.7-12.6 15.8 16 34.2 29.4 54.6 39.5-28.2 23.9-64 37.2-101.3 37.2-86.4 0-156.5-70-156.5-156.5 0-41.5 16.5-81.3 45.8-110.6l71.1-71.1c29.3-29.3 69.1-45.8 110.6-45.8 86.6 0 156.5 70.6 156.5 156.9 0 1.3 0 2.6 0 3.9-.4 17.7-15.1 31.6-32.8 31.2s-31.6-15.1-31.2-32.8c0-.8 0-1.5 0-2.3 0-33.7-18-63.3-44.8-79.6z"></path></svg><!-- <i class="fas fa-link"></i> --></a></p>
+			  				<button type="button" role="button" aria-label="Close" class="pl-0 btn btn-link float-left drop-close" style="color:#fff"><svg class="svg-inline--fa fa-circle-xmark" data-prefix="fas" data-icon="circle-xmark" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM167 167c9.4-9.4 24.6-9.4 33.9 0l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9z"></path></svg><!-- <i class="fas fa-times-circle"></i> --> close</button>
+			  							</div>
+						</li>
+			<li class="d-none d-lg-inline"><a href="https://nj.gov" title="go to nj state website">NJ.gov</a></li>
+			<li class="d-none d-lg-inline"><a href="https://nj.gov/nj/gov/njgov/alphaserv.html" title="go to page to check NJ services">Services</a></li>
+			<li class="d-none d-lg-inline"><a href="https://nj.gov/nj/gov/deptserv/" title="view list of all the NJ Agencies">Agencies</a></li>
+			<li><a href="https://www.nj.gov/faqs/" aria-label="Frequently asked questions" title="Visit Frequently asked questions website"><span aria-hidden="true">FAQs</span><span class="sr-only">Frequently Asked Questions</span></a>
+
+
+			<!-- Add sign up header menu item -->
+						</li><li class="sonj-updates">
+							<a href="https://nj.gov/subscribe/" id="updates-label" role="button" title="subscribe to get updates from NJe">Get Updates <svg class="svg-inline--fa fa-envelope fa-lg" data-prefix="fas" data-icon="envelope" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M48 64c-26.5 0-48 21.5-48 48 0 15.1 7.1 29.3 19.2 38.4l208 156c17.1 12.8 40.5 12.8 57.6 0l208-156c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48L48 64zM0 196L0 384c0 35.3 28.7 64 64 64l384 0c35.3 0 64-28.7 64-64l0-188-198.4 148.8c-34.1 25.6-81.1 25.6-115.2 0L0 196z"></path></svg><!-- <i class="fas fa-envelope fa-lg"></i> --></a>
+							<div class="drop px-4 pb-3 pt-3 text-left">
+
+								<script src="https://beta.nj.gov/global-signup/embed.js"></script>
+								<div class="global-parent-loaded" style="line-height: 0;"><iframe id="global-signup-form-embed-0" src="https://beta.nj.gov/global-signup/form/form.html?id=global-signup-form-embed-0&amp;location=nj.gov%2Fstate%2Felections%2Felection-results.shtml&amp;style=header" width="1px" height="1px" frameborder="0" scrolling="no" style="min-width: 100%; background-color: transparent; overflow: hidden; height: 0px;"></iframe></div>
+								<button type="button" class="pl-0 btn btn-link drop-close" style="color:#fff" role="button" aria-label="Close"><svg class="svg-inline--fa fa-circle-xmark" data-prefix="fas" data-icon="circle-xmark" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM167 167c9.4-9.4 24.6-9.4 33.9 0l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9z"></path></svg><!-- <i class="fas fa-times-circle"></i> --> close</button>
+							</div>
+			</li>
+			<li class="sonj-search">
+				<a href="https://nj.gov/search/" id="search-label" role="button">Search <svg class="svg-inline--fa fa-magnifying-glass" data-prefix="fas" data-icon="magnifying-glass" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376C296.3 401.1 253.9 416 208 416 93.1 416 0 322.9 0 208S93.1 0 208 0 416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"></path></svg><!-- <i class="fas fa-search"></i> --></a>
+				<div class="drop px-4 pb-3">
+
+					<form id="search" action="https://nj.gov/search/" name="search">
+						<div class="input-group pt-4"><label for="qt" class="visuallyhidden sr-only">Search: </label>
+							<input type="text" class="form-control p-1" placeholder="Type Search Here" aria-label="Search Query" aria-describedby="search-label" name="qt" id="qt">
+							<div class="input-group-append">
+								<button type="submit" class="input-group-text" aria-label="Submit Search" role="button"><svg class="svg-inline--fa fa-magnifying-glass fa-lg" data-prefix="fas" data-icon="magnifying-glass" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376C296.3 401.1 253.9 416 208 416 93.1 416 0 322.9 0 208S93.1 0 208 0 416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"></path></svg><!-- <i class="fas fa-search fa-lg"></i> --></button>
+							</div>
+						</div>
+					</form>
+					<button type="button" class="pl-0 btn btn-link float-left drop-close" style="color:#fff" role="button" aria-label="Close"><svg class="svg-inline--fa fa-circle-xmark" data-prefix="fas" data-icon="circle-xmark" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM167 167c9.4-9.4 24.6-9.4 33.9 0l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9z"></path></svg><!-- <i class="fas fa-times-circle"></i> --> close</button>
+				</div>
+			</li>
+		  </ul>
+		</div>
+		</div>
+	  </header>
+	<!-- ------- Begin DOE Header include  ----------  -->
+
+	<div class="container-fluid d-none d-lg-block agency"> 
+	  <div class="row justify-content-center ">
+		<div id="site-name" class="agency col-12 col-xl-10 py-3">
+			<img src="assets/images/njvotes-header-logo.png" alt="NJ Votes Logo" title="NJ Votes Logo" class="njdos-logo">
+			<h5>Shirley U. Emehelu, Acting Secretary of State</h5>
+			<h2 class="align-middle agency">New Jersey Voter Information Portal</h2>
+			<h6>Department of State, Division of Elections</h6>
+		</div>
+	  </div>
+	</div>
+	
+	<div class="container-fluid sonj-nav"> 
+	<div class="row justify-content-center ">
+		<div id="" class="col-12 col-xl-10">
+			<nav class="navbar navbar-expand-lg navbar-dark x-bg-light px-0 justify-content-between">
+  <h2 class="navbar-brand x-mr-auto d-lg-none" href="#">NJ Voter Information Portal</h2>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto x-nav-pills">
+      <li class="nav-item pr-4" data-pnav="doshome"><a class="nav-link" href="/state/index.shtml">DOS <svg class="svg-inline--fa fa-house" aria-label="DOS home" data-prefix="fas" data-icon="house" role="img" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M277.8 8.6c-12.3-11.4-31.3-11.4-43.5 0l-224 208c-9.6 9-12.8 22.9-8 35.1S18.8 272 32 272l16 0 0 176c0 35.3 28.7 64 64 64l288 0c35.3 0 64-28.7 64-64l0-176 16 0c13.2 0 25-8.1 29.8-20.3s1.6-26.2-8-35.1l-224-208zM240 320l32 0c26.5 0 48 21.5 48 48l0 96-128 0 0-96c0-26.5 21.5-48 48-48z"></path></svg><!-- <i class="fas fa-home" aria-label="DOS home"></i> --></a></li>
+      
+      <li class="nav-item pr-4" data-pnav="doehome"><a class="nav-link" href="vote.shtml#doe">DOE <svg class="svg-inline--fa fa-house" aria-label="DOE home" data-prefix="fas" data-icon="house" role="img" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M277.8 8.6c-12.3-11.4-31.3-11.4-43.5 0l-224 208c-9.6 9-12.8 22.9-8 35.1S18.8 272 32 272l16 0 0 176c0 35.3 28.7 64 64 64l288 0c35.3 0 64-28.7 64-64l0-176 16 0c13.2 0 25-8.1 29.8-20.3s1.6-26.2-8-35.1l-224-208zM240 320l32 0c26.5 0 48 21.5 48 48l0 96-128 0 0-96c0-26.5 21.5-48 48-48z"></path></svg><!-- <i class="fas fa-home" aria-label="DOE home"></i> --></a></li>
+		
+	<li class="nav-item dropdown pr-4"><a class="nav-link dropdown-toggle" href="vote.shtml" id="pNav02" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">NJ Voter Information Portal </a>
+        <ul class="dropdown-menu" aria-labelledby="pNav02">
+          	<li><a class="dropdown-item" href="vote.shtml">NJ Voter Information Portal</a></li>
+			<li><a class="dropdown-item" href="vote-3-ways-to-vote.shtml">3 Ways To Vote</a></li>
+			<li><a class="dropdown-item" href="vote-by-mail.shtml">Vote-By-Mail</a></li>
+			<li><a class="dropdown-item" href="https://voter.svrs.nj.gov/mib-request">Request a Ballot!</a></li>
+			<li><a class="dropdown-item" href="vote-early-voting.shtml">Early Voting</a></li>
+			<li><a class="dropdown-item" href="vote-polling-location.shtml">Polling Location</a></li>
+			<li><a class="dropdown-item" href="vote-secure-drop-boxes.shtml">Secure Drop Box Locations</a></li>
+			<!--<li><a class="dropdown-item" href="vote-interactive-maps.shtml" >Interactive Maps</a></li>-->
+			<li><a class="dropdown-item" href="vote-track-my-ballot.shtml">Track My Ballot</a></li>
+			<li><a class="dropdown-item" href="voter-registration.shtml">Register to Vote!</a></li>
+			<li><a class="dropdown-item" href="https://voter.svrs.nj.gov/registration-check">Am I Registered?</a></li>
+			<li><a class="dropdown-item" href="voter-education.shtml">Voter Education Video</a></li>
+			<li><a class="dropdown-item" href="election-results.shtml">Election Results</a></li>
+			<li><a class="dropdown-item" href="safe-secure-elections.shtml">Safe Secure Elections</a></li>
+			<li><a class="dropdown-item" href="vote-faq.shtml">Frequently Asked Questions</a></li>
+			<li><a class="dropdown-item" href="vote-county-election-officials.shtml">County Election Officials</a></li>
+			<li><a class="dropdown-item" href="vote-military-and-overseas.shtml">Military and Overseas Voting</a></li>
+			<li><a class="dropdown-item" href="vote-students.shtml">Student Registration &amp; Voting</a></li>
+			<li><a class="dropdown-item" href="voter-rights.shtml">Voter Rights and Accessibility</a></li>
+			<li><a class="dropdown-item" href="vote-forms.shtml">Additional Forms</a></li>
+			<li><a class="dropdown-item" href="pollworker.shtml">Be A Poll Worker</a></li>
+			<li><a class="dropdown-item" href="vote-info-sign-up.shtml">NJ Votes Information Sign-Up</a></li>
+			<li><a class="dropdown-item" href="doe-publications.shtml">Printable Flyers &amp; Publications</a></li>
+        </ul>
+      </li>
+		
+	<li class="nav-item dropdown pr-4"><a class="nav-link dropdown-toggle" href="county-information.shtml" id="pNav04" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a>
+        <ul class="dropdown-menu" aria-labelledby="pNav04">
+          	<li><a class="dropdown-item" href="county-information.shtml">County Information</a></li>
+			<li><a class="dropdown-item" href="vote-county-election-officials.shtml">County Election Officials</a></li>
+			<!--<li><a class="dropdown-item" href="doe-publications.shtml#toolkit" >Social Media Toolkit</a></li>-->
+			<li><a class="dropdown-item" href="election-information-nvra.shtml">National Voter Registration Act</a></li>
+			<li><a class="dropdown-item" href="resources-voting-equipment.shtml">Voting Equipment Certification</a></li>
+			<li><a class="dropdown-item" href="resources-voting-equipment-inventory.shtml">Voting Equipment Inventory</a></li>
+			<li><a class="dropdown-item" href="county-electronic-poll-book-certification.shtml">Electronic Poll Book Certification</a></li>
+			<li><a class="dropdown-item" href="election-results.shtml">Election Results</a></li>
+			<li><a class="dropdown-item" href="election-information.shtml">Election Archive Information</a></li>
+			<li><a class="dropdown-item" href="election-information-results.shtml">Election Results Archive</a></li>
+			<li><a class="dropdown-item" href="election-information-ballots-cast.shtml">Summary of Registered Voters and Ballots Cast</a></li>
+			<li><a class="dropdown-item" href="election-information-svrs.shtml">Statewide Voter Registration Statistics Archive</a></li>
+			<li><a class="dropdown-item" href="covid-19-resources.shtml">Covid-19 Election Resources</a></li>
+			<li><a class="dropdown-item" href="/state/dos-statutes-elections-19-01-09.shtml">Statutes &amp; Rules</a></li>
+			<li><a class="dropdown-item" href="doe-publications.shtml">Printable Flyers &amp; Publications</a></li>
+        </ul>
+    </li>			
+		
+	<li class="nav-item dropdown pr-4"><a class="nav-link dropdown-toggle" href="candidate-information.shtml" id="pNav03" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Candidate Information</a>
+        <ul class="dropdown-menu" aria-labelledby="pNav03">
+			<li><a class="dropdown-item" href="candidate-information.shtml">Candidate Petitions</a></li>
+			<!--<li><a class="dropdown-item" href="candidate-petition-primary.shtml">Candidate Petitions for the Primary Election</a></li>
+			<li><a class="dropdown-item" href="candidate-petition-general.shtml">Candidate Petitions for the General Election</a></li>-->
+			<li><a class="dropdown-item" href="candidate-petition-filing.shtml" target="_blank">Candidate Petition Filing</a></li>
+			<li><a class="dropdown-item" href="candidate-petition-challenge.shtml" target="_blank">Candidate Petition Challenges</a></li>
+			<li><a class="dropdown-item" href="candidate-recall-election-process.shtml" target="_blank">Recall Election Process</a> </li>
+			<li><a class="dropdown-item" href="//www.elec.state.nj.us/" target="_blank">New Jersey Election Law Enforcement Commission (ELEC)</a> </li>
+			<li><a class="dropdown-item" href="//www.fec.gov/" target="_blank">Federal Election Commission</a></li>
+        </ul>
+      </li>	
+		
+	<li class="nav-item dropdown pr-4"><a class="nav-link dropdown-toggle" href="election-information.shtml" id="pNav05" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Election Information</a>
+        <ul class="dropdown-menu" aria-labelledby="pNav05">
+			<li><a class="dropdown-item" href="election-information-2026.shtml">2026 Election Year Information</a></li>
+			<!--<li><a class="dropdown-item" href="special-election.shtml">2026 Special Election Information</a></li>-->
+			<li><a class="dropdown-item" href="election-results-information.shtml">2026 Periodic Election Reporting</a></li>
+			<li><a class="dropdown-item" href="election-chronological-timelines.shtml">Chronological Election Timelines</a></li>
+			
+        </ul>
+    </li>		
+				<li class="nav-item dropdown pr-4"><a class="nav-link dropdown-toggle" href="jersey-civic-engage.shtml" id="pNav06" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Jersey Civic Engage</a>
+        <ul class="dropdown-menu" aria-labelledby="pNav06">
+			
+			<li><a class="dropdown-item" href="jersey-civic-engage.shtml">Jersey Civic Engage</a></li>
+			<li><a class="dropdown-item" href="trustedinfo2022.shtml">#TrustedInfo2022</a></li>   
+			<li><a class="dropdown-item" href="https://nj.gov/state/nj-ballot-bowl.shtml">NJ Ballot Bowl</a></li>
+			<li><a class="dropdown-item" href="https://nj.gov/state/vote-for-valor.shtml">Vote for Valor</a></li>
+			<li><a class="dropdown-item" href="https://nj.gov/state/census.shtml">NJ Census</a></li>
+			<li><a class="dropdown-item" href="jersey-civic-engage-njace.shtml">NJ Alliance for Civic Engagement</a></li>
+        </ul>
+      </li>	
+		
+	 <li class="nav-item pr-4">
+        <a class="nav-link" href="notice-public-meeting.shtml" id="pNav07" role="button" aria-expanded="false">
+          Notice of Public Meeting
+        </a>
+      </li>	
+		
+     </ul> 
+  </div>
+</nav>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+<!-- myNJ
+my-5
+-->
+	<div class="container-fluid d-lg-block agency"> 
+	  <div class="row justify-content-center ">
+		<div id="site-name" class="vote col-12 col-xl-10 py-3">
+			<span class="align-middle vote">Voting Questions? Call <strong>1-877-NJ-VOTER</strong> (1-877-658-6837)</span>
+		</div>
+	  </div>
+	</div>
+
+
+
+
+<!-- ------- End DOE Header include  ---------- id="doephone" -->	
+<div class="x-container-fluid d-none d-sm-inline sticky-social">
+	<a href="" class="toggle-sticky"><svg class="svg-inline--fa fa-angles-right fa-1x sonj-gray toggle-target" aria-label="hide social links" data-prefix="fas" data-icon="angles-right" role="img" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M439.1 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L371.2 256 233.9 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160zm-352 160l160-160c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L179.2 256 41.9 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z"></path></svg><!-- <i class="fas fa-angle-double-right fa-1x sonj-gray toggle-target" aria-label="hide social links"></i> --><svg class="svg-inline--fa fa-angles-left d-none fa-1x sonj-gray toggle-target" aria-label="show social links" data-prefix="fas" data-icon="angles-left" role="img" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 214.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160zm352-160l-160 160c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L269.3 256 406.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0z"></path></svg><!-- <i class="fas fa-angle-double-left fa-1x sonj-gray d-none toggle-target" aria-label="show social links"></i> --></a>
+	<a href="https://twitter.com/NJ_Votes" class="toggle-target"><svg class="svg-inline--fa fa-square-x-twitter fa-2x sonj-gray" aria-label="Division of Elections twitter link" data-prefix="fab" data-icon="square-x-twitter" role="img" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320c0-35.3-28.7-64-64-64L64 32zm297.1 84l-103.8 118.6 122.1 161.4-95.6 0-74.8-97.9-85.7 97.9-47.5 0 111-126.9-117.1-153.1 98 0 67.7 89.5 78.2-89.5 47.5 0zM323.3 367.6l-169.9-224.7-28.3 0 171.8 224.7 26.4 0z"></path></svg><!-- <i class="fa-brands fa-square-x-twitter fa-2x sonj-gray" aria-label="Division of Elections twitter link"></i> --></a> 
+	<a href="https://www.facebook.com/NJVotes/" class="toggle-target"><svg class="svg-inline--fa fa-facebook-square fa-2x sonj-gray" aria-label="Division of Elections Facebook link" data-prefix="fab" data-icon="facebook-square" role="img" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"></path></svg><!-- <i class="fab fa-facebook-square fa-2x sonj-gray" aria-label="Division of Elections Facebook link"></i> --></a> 
+	<a href="https://www.youtube.com/channel/UCpra_Xk_0KhMXhiJwCc6hzw" class="toggle-target"><svg class="svg-inline--fa fa-youtube-square fa-2x sonj-gray" aria-label="Department of State YouTube link" data-prefix="fab" data-icon="youtube-square" role="img" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M186.8 202.1l95.2 54.1-95.2 54.1V202.1zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-42 176.3s0-59.6-7.6-88.2c-4.2-15.8-16.5-28.2-32.2-32.4C337.9 128 224 128 224 128s-113.9 0-142.2 7.7c-15.7 4.2-28 16.6-32.2 32.4-7.6 28.5-7.6 88.2-7.6 88.2s0 59.6 7.6 88.2c4.2 15.8 16.5 27.7 32.2 31.9C110.1 384 224 384 224 384s113.9 0 142.2-7.7c15.7-4.2 28-16.1 32.2-31.9 7.6-28.5 7.6-88.1 7.6-88.1z"></path></svg><!-- <i class="fab fa-youtube-square fa-2x sonj-gray" aria-label="Department of State YouTube link"></i> --></a> 
+
+</div>	
+<!-- Alert -->
+<!--  
+  
+<div class="container-fluid d-lg-block "> 
+	<div class="row justify-content-center ">
+		<div class="alert alert-danger col-12 col-xl-10 py-3">
+		<button type="button" class="close" data-dismiss="alert">&times;</button>
+			<span class="text-center">-->
+				<!--<h4>Important Notice to Voters: <a href="assets/pdf/publications/no-electioneering-poster.pdf" target="_blank">Electioneering at Polling Locations is Not Permitted in New Jersey</a></h4>
+				<p><strong>You Cannot</strong> Enter a Polling Place, or Stand within 100 feet of the Outside Entrance of a Polling Place, <strong>WEARING</strong> or <strong>DISPLAYING</strong> Anything that may offer Support for or opposition against any Candidate, Party or Public Question on the Ballot. That includes political badges, buttons, insignias, t-shirts, hats or other display that can be read or viewed to identify support or opposition of a candidate, political party or public questions.</p>
+					
+				<h4>Important Notice: 2025 Primary Election Rescheduled</a></h4>
+			<p>The 2025 Primary Election has been rescheduled. Please <a href="assets/pdf/public-notice/2025-notice-rescheduled-primary-election.pdf" target="_blank">view the official notice</a> for further details.</p>
+				
+				<h4>On November 21, 2025, Governor Murphy issued a Writ of Election to fill the vacancy in the House of Representatives in the Eleventh Congressional District due to the resignation of the Honorable Mikie Sherrill. <br/><a href="assets/pdf/election-results/2026/2026-writ-of-election.pdf" target="_blank">Writ of Elections</a></h4>
+				
+				<h4>The full schedule of deadlines can be found here on our <a href="election-chronological-timelines.shtml">Chronological Election Timelines page</a>.</h4>
+				
+				<h4>Important Notice to Voters:</h4>
+					<p>This is a friendly reminder on how to return your Mail-In ballot. How you return it is up to you.<br/>
+						<strong>Select one of the following three ways:</strong></p></span>
+						<ul>
+							<li><strong>Mail:</strong> It must be postmarked on or before 8:00 p.m. Election Day and be received by your county’s Board of Elections on or before 6 days after Election Day. To make sure your ballot is postmarked on time, put your ballot in the mail at least a few days before election day, or go up to the counter at a U.S. Post Office and have a clerk manually stamp the postmark on your ballot envelope.</li>
+							<li><strong>Secure Ballot Drop Box:</strong> Place it in one of your county’s secure ballot drop boxes by 8:00 p.m. on Election Day. <a href="vote-secure-drop-boxes.shtml" target="_blank">Secure Ballot Drop Box locations</a></li>
+							<li><strong>Board of Elections Office:</strong> Deliver it in person to your county’s Board of Elections Office by 8:00 p.m. on Election Day. <a href="vote-county-election-officials.shtml" target="_blank">County Election Officials</a></li>
+				</ul>
+
+
+		
+			
+
+		</div>
+	</div>
+</div> -->
+
+
+
+ 
+<!-- ./Alert -->
+<!-- InstanceBeginEditable name="Banner" -->	
+	<div class="container-fluid">	
+		<div class="row justify-content-center ">
+			<div class="col col-xl-9"><img src="assets/images/hero/vote-registration.jpg" alt="Register Vote - Image of Hand filling out Registration Form and the NJ Votes Logo" title="Register Vote - Image of Hand filling out Registration Form and the NJ Votes Logo" class="img-fluid mx-auto d-block"></div>
+		</div>
+	</div>
+<!-- InstanceEndEditable -->
+
+
+<div class="container-fluid">
+ <div class="row justify-content-center">
+ 	<div class="col col-xl-9">
+  		<nav aria-label="breadcrumb" role="navigation">
+			  <ol class="breadcrumb">
+			      <li class="breadcrumb-item"><a href="https://nj.gov/state/index.shtml">DOS <svg class="svg-inline--fa fa-house" data-prefix="fas" data-icon="house" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M277.8 8.6c-12.3-11.4-31.3-11.4-43.5 0l-224 208c-9.6 9-12.8 22.9-8 35.1S18.8 272 32 272l16 0 0 176c0 35.3 28.7 64 64 64l288 0c35.3 0 64-28.7 64-64l0-176 16 0c13.2 0 25-8.1 29.8-20.3s1.6-26.2-8-35.1l-224-208zM240 320l32 0c26.5 0 48 21.5 48 48l0 96-128 0 0-96c0-26.5 21.5-48 48-48z"></path></svg><!-- <i class="fas fa-home"></i> --></a></li> <li class="breadcrumb-item"><a href="index.shtml">DOE <svg class="svg-inline--fa fa-house" data-prefix="fas" data-icon="house" role="img" viewBox="0 0 512 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M277.8 8.6c-12.3-11.4-31.3-11.4-43.5 0l-224 208c-9.6 9-12.8 22.9-8 35.1S18.8 272 32 272l16 0 0 176c0 35.3 28.7 64 64 64l288 0c35.3 0 64-28.7 64-64l0-176 16 0c13.2 0 25-8.1 29.8-20.3s1.6-26.2-8-35.1l-224-208zM240 320l32 0c26.5 0 48 21.5 48 48l0 96-128 0 0-96c0-26.5 21.5-48 48-48z"></path></svg><!-- <i class="fas fa-home"></i> --></a></li>
+<!-- InstanceBeginEditable name="Breadcrumbs" -->
+						
+					 	<li class="breadcrumb-item">Election Results</li>
+<!-- InstanceEndEditable -->
+			  </ol>
+		  </nav>
+  	</div>
+ </div>
+</div>
+
+<div class="container-fluid">
+ <div class="row justify-content-center my-5">
+ 	<div class="col col-xl-9">
+		<h1><a id="top" name="top"></a><!-- InstanceBeginEditable name="headline" -->Election Results<!-- InstanceEndEditable --></h1>
+		<!-- InstanceBeginEditable name="subheadline" -->   <!-- InstanceEndEditable -->
+	</div>
+</div>
+</div>	
+	
+	
+<div class="container-fluid content">
+ <div class="row justify-content-center my-5">
+ 	<div class="row col-xl-9">
+		<div class="col-sm-9">
+<!-- InstanceBeginEditable name="page" -->
+
+<div class="card my-3">
+	<div class="card-header"><h2><a href="election-results-information.shtml">Unofficial Periodic Election Reporting</a></h2></div>
+	<div class="card-body">	
+	
+			
+		<p>P.L.2023, c.131, amending N.J.S.A. 19:52-3.1, requires periodic reporting of election results beginning on Election Day for each primary and general election through final certification of the election results providing added transparency in reported election results.  Each county clerk, in consultation with the county boards of election, must list in an easily accessible location on the county clerk’s website, an unofficial report detailing the number and types of ballots that have been received and, to the extent practicable, the number and types of ballots that have been counted and that remain to be counted in that election.  The Secretary of State’s office is required to post each county’s unofficial periodic reports on the Division of Election’s website by the deadlines identified within the statute.</p>
+
+	</div>
+</div>
+			<p>&nbsp;</p>
+
+<div class="card my-3">
+	<div class="card-header"><h2><a href="election-night-results.shtml">2026 Election Results</a></h2></div>
+	<div class="card-body">	
+
+
+		<p>The Division of Elections does not post running results on Election Night, either official or unofficial. The best source for election night results are the local county websites.</p>
+		
+	</div>
+</div>
+
+			<p>&nbsp;</p>
+			
+<div class="card my-3">
+	<div class="card-header"><h2><a href="election-information-results.shtml">Archived Election Results</a></h2></div>
+	<div class="card-body">	
+		
+		
+		<p>These are the results of previous elections.</p>
+
+	</div>
+</div>
+
+			
+			
+
+
+
+
+
+<!-- InstanceEndEditable -->
+		<p>&nbsp;</p>
+		</div>
+
+		<div class="col-sm-3">
+	<!-- InstanceBeginEditable name="sidenav" -->
+			<!-- BEGIN leftNav -->
+<div class="list-group list-group-flush sos">
+	<a href="vote.shtml" target="_self" class="list-group-item-action list-group-item">Voter Information Portal</a>	
+	<a href="vote-3-ways-to-vote.shtml" target="_self" class="list-group-item-action list-group-item">3 Ways To Vote</a>
+	<a href="vote-by-mail.shtml" target="_self" class="list-group-item-action list-group-item">Vote-By-Mail</a>
+	<a href="vote-early-voting.shtml" target="_self" class="list-group-item-action list-group-item">Early Voting</a>
+	<a href="vote-polling-location.shtml" target="_self" class="list-group-item-action list-group-item">Polling Location</a>
+	<a href="vote-secure-drop-boxes.shtml" target="_self" class="list-group-item-action list-group-item">Secure Drop Box Locations</a>
+	<a href="vote-track-my-ballot.shtml" target="_self" class="list-group-item-action list-group-item">Track My Ballot</a>
+	<a href="voter-registration.shtml" target="_self" class="list-group-item-action list-group-item">Register to Vote!</a>
+	<a href="https://voter.svrs.nj.gov/registration-check" target="_self" class="list-group-item-action list-group-item">Am I Registered?</a>
+	<a href="voter-education.shtml" target="_self" class="list-group-item-action list-group-item">Voter Education Videos</a>
+	<a href="election-results.shtml" target="_self" class="list-group-item-action list-group-item active">Election Results</a>
+	<a href="safe-secure-elections.shtml" target="_self" class="list-group-item-action list-group-item">Safe Secure Elections</a>
+	<a href="vote-faq.shtml" target="_self" class="list-group-item-action list-group-item">Frequently Asked Questions</a>
+	<a href="vote-county-election-officials.shtml" target="_self" class="list-group-item-action list-group-item">County Election Officials</a>	
+	<a href="vote-military-and-overseas.shtml" target="_self" class="list-group-item-action list-group-item">Military and Overseas Voting</a>
+	<a href="vote-students.shtml" target="_self" class="list-group-item-action list-group-item">Student Registration &amp; Voting</a>
+	<a href="voter-rights.shtml" target="_self" class="list-group-item-action list-group-item">Voter Rights and Accessibility</a>
+	<a href="vote-forms.shtml" target="_self" class="list-group-item-action list-group-item">Additional Forms</a>
+	<a href="pollworker.shtml" target="_self" class="list-group-item-action list-group-item">Be A Poll Worker</a>
+	<a href="vote-info-sign-up.shtml" target="_self" class="list-group-item-action list-group-item">NJ Votes Information Sign-Up</a>
+	<a href="doe-publications.shtml" target="_self" class="list-group-item-action list-group-item">Printable Flyers &amp; Publications</a>
+	
+</div> 
+
+
+<p>&nbsp;</p>
+    
+
+<!-- END leftNav --> 	
+			
+			<!-- BEGIN App Inc -->
+
+<div class="alert alert-info">
+
+	<p><img src="assets/images/app-logo.jpg" class="float-left " style="padding: 0 10px 0 0;"></p>
+	<h3>Download the Mobile App</h3>
+	<p>Download the NJ Elections Mobile App on <a href="https://apps.apple.com/us/app/nj-elections/id1466971627" target="_self"><strong>Apple</strong></a> or <a href="https://play.google.com/store/apps/details?id=com.nicusa.NJI.Dashboard" target="_self"><strong>Google Play</strong></a></p> 
+
+</div>      
+<!-- END App Inc --> 
+
+
+
+
+
+
+	<!-- InstanceEndEditable -->
+		</div>	
+    
+	</div>	
+</div>
+</div>
+<!--<div class="container-fluid">
+	<a id="back-to-top" href="#top" class="btn btn-lg back-to-top" role="button" ><i class="fas fa-chevron-up"></i><br>Back<br>to top</a>
+</div>-->
+
+<!-- Footer      ==================================================    ==================================================    -->
+
+<footer class="footer site">
+		<div class="container-fluid"> 
+			<div class="row x-no-gutters justify-content-center">
+				<div class="col-lg-9 col-xl-8">
+					<h3><a href="/state/">Department of State</a></h3>
+
+					<div class="columned">
+							<ul>
+								<li><h5><a href="/state/sos-about.shtml">Office of the Secretary</a></h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/sos-about.shtml" target="_self">About the Secretary</a></li>
+									<li><a href="/state/sos-invite.shtml" target="_self">Invite the Secretary</a></li>
+									<!--li><a href="/state/sos-secretary-in-the-community.shtml" target="_self" >The Secretary in the Community</a></li-->
+									<li><a href="/state/elections/jersey-civic-engage.shtml" target="_self">Jersey Civic Engage</a></li>	
+									<!--li><a href="/state/nj-john-lewis-award.shtml" target="_self">John Lewis Youth Leadership Award</a></li-->
+									<li><a href="/state/nj-ballot-bowl.shtml" target="_self">NJ Ballot Bowl</a></li>
+									<li><a href="/state/vote-for-valor.shtml" target="_self">Vote for Valor</a></li>
+									<!--li><a href="/state/census.shtml" target="_self">NJ Census 2020</a></li-->
+									<!--li><a href="/state/njcounts.shtml" target="_self" >NJ Complete Count Commission</a></li-->
+									</ul>
+								</li>
+							</ul>
+
+							<ul>
+								<li><h5><a href="/state/" class="">Department of State Home</a></h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/dos-directory.shtml" target="_self">Directory</a></li>
+									<li><a href="/state/dos-legal-notices.shtml" target="_self">DOS Legal Notices</a></li>
+									<li><a href="/state/press.shtml" target="_self">Press Releases</a></li>	
+									<li><a href="/state/dos-grant-information.shtml" target="_self">Grant Information</a></li>	
+									<li><a href="/state/dos-employment-opportunities.shtml" target="_self">Employment Opportunities</a></li>	
+									<li><a href="/state/dos-flag-status.shtml" target="_self">NJ Flag Status</a></li>	
+									<li><a href="/state/dos-commemorative-dates.shtml" target="_self">Commemorative Dates</a></li>
+									<li><a href="/state/dos-pay-to-play.shtml" target="_self">Pay-to-Play Ordinances</a></li>
+									<li><a href="/state/dos-civil-celebrant.shtml" target="_self">Certified Civil Celebrants</a></li>
+									<li><a href="/state/dos-will-registry.shtml" target="_self">Will Registry</a></li>	
+									<li><a href="/state/dos-language-access-plan.shtml" target="_self">Language Access Plan</a></li>	
+									<li><a href="/state/dos-statutes.shtml" target="_self">Statutes &amp; Rules</a></li>	
+									<li><a href="/state/statewide-legal-notices-list.shtml" target="_self">Statewide Legal Notices</a></li>	
+									</ul>
+								</li>
+							</ul>
+
+							<ul>
+								<li><h5>Business &amp; Economic Development</h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/bac/">NJ Business Action Center</a></li>
+									<li><a href="/state/bac/business-support/overview/">Business Support</a></li>
+									<li><a href="/state/bac/business-support/small-business/">Small Business</a></li>
+									<li><a href="/state/bac/business-support/mid-large-business/">Mid-Large Business</a></li>	
+									<li><a href="/state/bac/business-support/exports/">Exports</a></li>
+									<li><a href="/state/bac/cannabis-training/about/">Cannabis Training Academy</a></li>	
+									<li><a href="/state/bac/planning/">Planning Advocates</a></li>
+									<li><a href="https://www.visitnj.org/" target="_self">NJ Division of Travel &amp; Tourism</a></li>
+									<li><a href="/state/nonprofit.shtml">Non-Profit Portal</a></li>
+									</ul>
+								</li>
+							</ul>
+
+							<ul>
+								<li><h5>Civic Engagement</h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/elections/index.shtml" target="_self">NJ Division of Elections</a></li>
+									<li><a href="/state/elections/vote.shtml" target="_self">NJ Voter Information Portal</a></li>
+									<li><a href="/state/elections/jersey-civic-engage.shtml" target="_self">Jersey Civic Engage</a></li>
+									<li><a href="/state/fac/index.shtml" target="_self">NJ Faith Action Center</a></li>
+									<li><a href="/state/volunteer.shtml" target="_self">Volunteer and National Service</a></li>
+									<li><a href="/state/volunteer-americorps-national-service.shtml#americorps" target="_self">AmeriCorps</a></li>
+									<li><a href="/state/volunteer-americorps-national-service.shtml#senior-corps" target="_self">Senior Corps</a></li>
+									<li><a href="/state/chprd.shtml" target="_self">NJ Center for Hispanic Policy, Research and Development</a></li>
+									
+									</ul>
+								</li>
+							</ul>
+
+							<ul>
+								<li><h5>Arts &amp; Culture</h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/museum/index.shtml" target="_self">NJ State Museum</a></li>
+									<li><a href="/state/njsca/index.shtml" target="_self">NJ Council on the Arts</a></li>
+									<li><a href="/state/archives/index.shtml" target="_self">NJ State Archives</a></li>
+									<li><a href="/state/historical/index.shtml" target="_self">NJ Historical Commission</a></li> 
+									<li><a href="/state/culturaltrust/index.shtml" target="_self">NJ Cultural Trust</a></li>
+									<li><a href="/state/memorial/index.shtml" target="_self">Patriots Theater at the War Memorial</a></li>
+									<li><a href="/state/mlk.shtml" target="_self">NJ Martin Luther King, Jr. Commemorative Commission</a></li>
+									<li><a href="/state/njaapic/index.shtml" target="_self">NJ Asian American Pacific Islander Commission</a></li>	
+									<li><a href="/state/njcaia.shtml" target="_self">NJ Commission on American Indian Affairs</a></li>
+									<li><a href="/state/nj-india.shtml" target="_self">NJ-India Commission</a></li>
+									<li><a href="/state/njic.shtml" target="_self">NJ-Israel Commission</a></li>
+									<li><a href="/state/puertoricocommission.shtml" target="_self">NJ Puerto Rico Commission</a></li>
+									<li><a href="/state/nj-ireland/index.shtml" target="_self">NJ Ireland Trade Commission</a></li>		
+									<li><a href="/state/hellenic.shtml" target="_self">NJ Hellenic American Heritage Commission</a></li>
+									<li><a href="/state/dos-culture-heritage.shtml" target="_self">Cultural Heritage Commissions</a></li>
+									</ul>
+								</li>
+							</ul>
+	
+							<ul>
+								<li><h5>Information<!--a href="/state/dos-directory.shtml" target="_self"></a--></h5>
+									<ul class="d-none d-md-flex">
+									<li><a href="/state/assets/pdf/sos/dos-information-and-resources-guide.pdf" target="new">Information and Resources Guide</a></li>
+									
+									</ul>
+								</li>
+							</ul>
+						
+						
+					</div>
+				</div>
+				<div class="col-lg-3 col-xl-2">
+					<h3>Statewide</h3>
+					<ul class="statewide d-inline-block float-left mr-1 mr-sm-5 mr-lg-0">
+						<li class=""><a href="//nj.gov/governor/admin/about/" target="_blank">Governor Mikie Sherrill</a></li>
+						<li class=""><a href="https://www.nj.gov/governor/admin/ltgovernor/" target="_blank">Shirley U. Emehelu, Acting Secretary of State </a></li>
+						<li><a href="//nj.gov/" target="_blank">NJ Home</a></li>
+						<li><a href="//nj.gov/nj/gov/njgov/alphaserv.html" target="_blank">Services A to Z</a></li>
+						<li><a href="//nj.gov/nj/gov/deptserv/" target="_blank">Departments/Agencies</a></li>
+						<li><a href="//nj.gov/faqs/" target="_blank">FAQs</a></li>
+						<li><a href="//nj.gov/nj/feedback.html" target="_blank">Contact Us</a></li>
+						<li><a href="//nj.gov/nj/privacy.html" target="_blank">Privacy Notice</a></li>
+						<li><a href="//nj.gov/nj/legal.html" target="_blank">Legal Statement &amp; Disclaimers</a></li>
+						<li><a href="//nj.gov/nj/accessibility.html" target="_blank">Accessibility Statement</a></li>
+					</ul>
+					<img src="/state/assets/images/state_seal_white_transparent10.png" alt="State Seal Logo " class="digital-nj img-fluid max-width float-left ">
+				</div>
+			</div>
+		</div>
+	</footer>
+	
+	
+	
+
+
+<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  -->
+<!-- Begin doe-footer-bottom.shtml   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+
+		<footer class="footer sonj">
+		<div class="container-fluid"> 
+			<div class="row no-gutters justify-content-center">
+				<div class="col-sm-3 col-xl-2">
+					<a href="//nj.gov/opra/" class="mb-4 mr-4 d-inline-block  float-left"><img src="//nj.gov/nj/design/images/opra.png" alt="Open Public Records Act (OPRA)" class="opra"></a>
+					<a href="https://my.state.nj.us/openam/UI/Login" class="mb-4 d-inline-block float-left"><img src="//nj.gov/nj/design/images/myNJ.png" alt="My New Jersey Portal" class="mynj"></a> 
+				</div>
+				<div class="col-sm-9 col-xl-8  text-right">
+					<!--<a href="https://twitter.com/NJ_Votes" class="toggle-target"><i class="fab fa-twitter-square fa-2x sonj-gray" aria-label="Division of Elections twitter link"></i></a>
+					<a href="https://www.facebook.com/NJVotes/"  class="toggle-target"><i class="fab fa-facebook-square fa-2x sonj-gray" aria-label="Division of Elections Facebook link"></i></a> 
+					<a href="https://www.youtube.com/channel/UCpra_Xk_0KhMXhiJwCc6hzw" class="toggle-target"><i class="fab fa-youtube-square fa-2x sonj-gray" aria-label="Department of State YouTube link"></i></a>
+					
+					
+					<br>-->
+					<script language="JavaScript">
+				<!-- Hide from old browsers
+				today=new Date();
+				y0=today.getFullYear();
+				// end hiding --->
+				</script>
+				Copyright © NJ Department of State, 2001-<script language="JavaScript">
+  			<!--- Hide from old browsers
+   			document.write(y0);
+  			// end hiding --->
+				</script>2026 <br><br>
+				<strong>NJ Division of Elections<br><br>
+				Mailing Address</strong><br>
+				NJ Division of Elections, P.O. Box 304, Trenton, NJ 08625-0304<br>
+				<br>
+				<strong>Office Address</strong><br>
+				225 West State Street, 1st Floor, Trenton, NJ 08608<br>
+				Tel: 609-292-3760, 609-789-0124&nbsp; &nbsp;Fax: 609-777-1280<br> 
+					Email:  <a href="mailto:nj.elections@sos.nj.gov " class="moreLinks">nj.elections@sos.nj.gov</a><br>
+				<br>
+				<strong>Voting Information &amp; Assistance</strong><br>
+				1-877-NJ-VOTER (1-877-658-6837)<br>
+				<br>
+				<strong>TTY/TDD</strong> 609-292-0034<br>
+				This site is maintained by New Jersey Department of State
+					
+				<script src="/nj/design/fontawesome-pro-7.0.0-web/js/all.js"></script>	
+					
+				</div>
+			</div>
+		</div>
+			
+			
+<script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            ttd_dom_ready( function() {
+                if (typeof TTDUniversalPixelApi === 'function') {
+                    var universalPixelApi = new TTDUniversalPixelApi();
+                    universalPixelApi.init("egol4o0", ["l2ipv5a"], "https://insight.adsrvr.org/track/up");
+                }
+            });
+        </script>
+			
+	</footer>
+
+<!-- End doe-footer-bottom.shtml   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+<!--	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   Begin Script section XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  -->
+
+<!-- InstanceBeginEditable name="scripts" -->
+
+
+<!-- InstanceEndEditable -->
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+		<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- Bootstrap core JavaScript -->
+
+<!-- ================================================== -->
+
+<script src="//nj.gov/nj/design/js/jquery-3.3.1.min.js"></script>
+<!--<script src="//code.jquery.com/jquery-3.2.1.slim.min.js" ></script>--><!-- integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script> -->
+
+<script src="//nj.gov/nj/design/js/bootstrap.bundle.min.js"></script>
+<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" ></script>--> <!-- integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>-->
+<!-- <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" ></script>--> <!-- integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>-->
+<!-- Font Awesome -->
+
+<script defer="" src="//nj.gov/nj/design/fontawesome/js/all.js"></script>
+<!--<script defer src="//use.fontawesome.com/releases/v5.0.9/js/all.js" ></script>--> <!-- integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>-->
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+
+<script src="//nj.gov/nj/design/js/ie10-viewport-bug-workaround.js"></script>	
+
+<script src="//nj.gov/nj/design/js/sonj-header.js"></script>
+
+<script src="//nj.gov/nj/design/js/sticky-social.js"></script>
+
+<script src="//nj.gov/nj/design/js/navigation.js"></script>
+
+<script src="//nj.gov/nj/design/util/slick/slick.min.js" type="text/javascript"></script>
+
+<script src="/nj/design/js/slick-init.js"></script>
+
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+<script>
+	$(document).ready(function() {
+		$('figure.highlight pre code').each(function(i, block) {
+			hljs.highlightBlock(block);
+		});
+	});
+</script>
+	
+		<a id="back-to-top" href="#" class="btn  btn-lg back-to-top" role="button" title=""><svg class="svg-inline--fa fa-chevron-up" data-prefix="fas" data-icon="chevron-up" role="img" viewBox="0 0 448 512" aria-hidden="true" data-fa-i2svg=""><path fill="currentColor" d="M201.4 105.4c12.5-12.5 32.8-12.5 45.3 0l192 192c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L224 173.3 54.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l192-192z"></path></svg><!-- <i class="fas fa-chevron-up"></i> --><br>Back<br>to top</a>
+	
+<script>
+ $(window).scroll(function () {
+		if ($(this).scrollTop() > 50) {
+			$('#back-to-top').fadeIn();
+		} else {
+			$('#back-to-top').fadeOut();
+		}
+	});
+	// scroll body to 0px on click
+	$('#back-to-top').click(function () {
+		$('#back-to-top').tooltip('hide');
+		$('body,html').animate({
+			scrollTop: 0
+		}, 800);
+		return false;
+	});
+</script>	
+	
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '7240295202744682');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src=https://www.facebook.com/tr?id=7240295202744682&ev=PageView&noscript=1
+/></noscript>
+<!-- End Meta Pixel Code -->
+	
+
+<!-- Site Improve  Code -->	
+<script async="" src="https://siteimproveanalytics.com/js/siteanalyze_6291948.js"></script>	
+<!-- End Site Improve  Code -->
+
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=1037701268" async=""></script>
+</body><!-- InstanceEnd --></html>
+
+<!-- FRAME BC3507165C99E922E516F390D53DA4FA -->
+<html lang="en" dir="ltr"><head><script src="/sies-stirresouncan-peopleast-knowt-tha-If-you-re" async=""></script>
+    <meta charset="utf-8">
+    <title>NJ.gov Email signup form</title>
+    <link rel="stylesheet" type="text/css" href="https://nj.gov/nj/design/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://nj.gov/nj/design/css/sonj-components.css">
+    <style type="text/css">
+      body {
+        font-family: 'Roboto',sans-serif;
+        font-weight: 300;
+        background: transparent;
+        min-height: 55px;
+      }
+      body.dark,
+      body.overlay {
+        color: #ffffff;
+      }
+      body.dark a,
+      body.dark a:hover,
+      body.overlay a,
+      body.overlay a:hover {
+        color: #ffffff;
+      }
+      .small {
+        font-size: 14px;
+      }
+      body.inline .form-group {
+        display: inline-block;
+        text-align: left;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+        vertical-align: bottom;
+      }
+      body.inline .form-group input[type="email"] {
+        width: 300px;
+      }
+      body.inline .form-group.form-check {
+        width: 270px;
+      }
+      body.inline .hide-inline {
+        display: none !important;
+      }
+      body.inline .form-control {
+        margin-top: 0;
+      }
+      body.inline .form-group label {
+        width: 100%;
+      }
+      .form-control {
+        margin-top: 0.5rem;
+      }
+      label {
+        margin-bottom: 0;
+      }
+    </style>
+  </head>
+  <body class="global-signup-form dark">
+    <form class="sign-up-form text-left small">
+      <fieldset class="active">
+        <input type="hidden" name="a" ,="" value="1">
+        <div class="form-group">
+          <label><span class="hide-inline">Get the latest news and updates from the State of New Jersey.</span>
+            <input type="email" class="form-control" name="e" placeholder="Enter email here" aria-required="true">
+          </label>
+        </div>
+        <div class="form-group form-check">
+          <label class="form-check-label">
+            <input type="checkbox" name="consent" class="form-check-input" aria-required="true">
+            By checking this box, you consent to our <a href="https://www.nj.gov/nj/privacy.html" target="_blank" rel="noopener noreferrer">data privacy policy</a>.
+          </label>
+        </div>
+        <div class="form-group">
+          <button type="submit" class="btn btn-light">Submit</button>
+        </div>
+      </fieldset>
+      <fieldset class="d-none">
+        <p>Help us communicate with you better.</p>
+        <div class="form-group">
+          <label>What county do you live in?
+            <select class="form-control" name="q_83214" aria-required="false">
+                <option value=""></option>
+                <option value="288379">﻿Atlantic</option>
+                <option value="288380">Bergen</option>
+                <option value="288381">Burlington</option>
+                <option value="288382">Camden</option>
+                <option value="288383">Cape May</option>
+                <option value="288384">Cumberland</option>
+                <option value="288385">Essex</option>
+                <option value="288386">Gloucester</option>
+                <option value="288387">Hudson</option>
+                <option value="288388">Hunterdon</option>
+                <option value="288389">Mercer</option>
+                <option value="288390">Middlesex</option>
+                <option value="288391">Monmouth</option>
+                <option value="288392">Morris</option>
+                <option value="288393">Ocean</option>
+                <option value="288394">Passaic</option>
+                <option value="288395">Salem</option>
+                <option value="288396">Somerset</option>
+                <option value="288397">Sussex</option>
+                <option value="288398">Union</option>
+                <option value="288399">Warren</option>
+                <option value="288400">Out of State</option>
+              </select>
+          </label>
+        </div>
+        <div class="form-group">
+          <label>What is your first name?
+            <input type="text" aria-required="false" class="form-control" name="q_83146">
+          </label>
+        </div>
+        <div class="form-group">
+          <label>What is your last name?
+            <input type="text" aria-required="false" class="form-control" name="q_83215">
+          </label>
+        </div>
+        <div class="form-group">
+          <button type="submit" class="btn btn-light">Submit</button>
+        </div>
+      </fieldset>
+
+      <div class="response-message d-none mt-3"></div>
+    </form>
+    <script src="https://nj.gov/nj/design/js/jquery-3.3.1.min.js"></script>
+    <script src="https://nj.gov/nj/design/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/iframeSizer.contentWindow.min.js"></script>
+    <script src="form.js"></script>
+  <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=2&amp;cb=1755706648" async=""></script>
+
+<div style="clear: both; display: block; height: 0px;"></div></body></html>

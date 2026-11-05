@@ -93,8 +93,9 @@ await browser.send('Page.navigate', { url }, sessionId);
 
 if (mode === 'raw') {
   // 抓任意 URL 的纯文本内容（用于直接取官方 JSON / txt 接口的原文）
-  const outFile = arg4;
-  const waitMs = Number(arg5 || 6000);
+  // 参数顺序与 html 模式一致：<url> <waitMs> <outFile>
+  const waitMs = Number(arg4 || 6000);
+  const outFile = arg5;
   const deadline = Date.now() + waitMs;
   while (Date.now() < deadline) {
     await new Promise((r) => setTimeout(r, 1000));

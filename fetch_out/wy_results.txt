@@ -1,0 +1,1629 @@
+<!-- MAIN FRAME -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js no-touch csstransforms csstransitions"><head><title>
+	Wyoming Secretary of State
+</title><link rel="SHORTCUT ICON" href="../favicon.ico"><meta name="description" content="Wyoming Secretary of State">
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K894CSM"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZYXDP6KXKB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-ZYXDP6KXKB');
+    </script>
+    <!-- End Google tag (gtag.js) -->
+    <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-K894CSM');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/css/style.css?05142026" type="text/css" media="all">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="/css/bootstrap.css?04092025" type="text/css" media="screen">
+    <!-- Lightbox -->
+    <link rel="stylesheet" href="/css/lightbox.min.css">    
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Wyoming Secretary of State",
+          "url": "https://sos.wyo.gov",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://sos.wyo.gov/images/WYSOS_Logo_400x400.jpg",
+            "width": 400,
+            "height": 400
+          },
+          "description": "Wyoming Constitutional Office of the Secretary of State",
+          "alternateName": [
+            "WY SOS"
+          ],
+          "email": [
+            "secofstate@wyo.gov"
+          ],
+          "telephone": [
+            "+13077777378"
+          ],
+          "sameAs": [
+            "https://www.facebook.com/wyosos/",
+            "https://x.com/WyomingSOS"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "122 W 25th Street, Suite 100",
+            "addressLocality": "Cheyenne",
+            "addressRegion": "WY",
+            "postalCode": "82002",
+            "addressCountry": "US"
+          },
+          "areaServed": {
+            "@type": "State",
+            "name": "Wyoming"
+          },
+          "department": [
+            {
+              "@type": "GovernmentOffice",
+              "name": "Business Division",
+              "description": "Handles business entity filings, registered agents, annual reports, trademark filings, UCC filings, and business filing fraud complaints.",
+              "telephone": "+13077777311",
+              "url": "https://sos.wyo.gov/Business",
+              "email": "business@wyo.gov",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "122 W 25th Street, Suite 101",
+                "addressLocality": "Cheyenne",
+                "addressRegion": "WY",
+                "postalCode": "82002",
+                "addressCountry": "US"
+              }
+            },
+            {
+              "@type": "GovernmentOffice",
+              "name": "Election Division",
+              "description": "Handles election information, voter registration, candidate filing, campaign finance filing, lobbying, and the Wyoming Election Code (Title 22).",
+              "telephone": "+13077775860",
+              "url": "https://sos.wyo.gov/Elections",
+              "email": "elections@wyo.gov",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "122 W 25th Street, Suite 100",
+                "addressLocality": "Cheyenne",
+                "addressRegion": "WY",
+                "postalCode": "82002",
+                "addressCountry": "US"
+              },
+              "event": [
+                {
+                  "@type": "Event",
+                  "name": "2026 Wyoming Primary Election",
+                  "startDate": "2026-08-18",
+                  "eventStatus": "https://schema.org/EventScheduled",
+                  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+                  "location": {
+                    "@type": "Place",
+                    "name": "Wyoming Polling Locations",
+                    "url": "https://myelectionday.sos.wyo.gov/WYVOTES/Pages/VOSearch.aspx",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressRegion": "WY",
+                      "addressCountry": "US"
+                    }
+                  },
+                  "organizer": {
+                    "@type": "GovernmentOrganization",
+                    "name": "Wyoming Secretary of State",
+                    "url": "https://sos.wyo.gov"
+                  },
+                  "url": "https://sos.wyo.gov/Elections",
+                  "description": "Statewide primary election for federal, state, county, and municipal offices in Wyoming."
+                },
+                {
+                  "@type": "Event",
+                  "name": "2026 Wyoming General Election",
+                  "startDate": "2026-11-03",
+                  "eventStatus": "https://schema.org/EventScheduled",
+                  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+                  "location": {
+                    "@type": "Place",
+                    "name": "Wyoming Polling Locations",
+                    "url": "https://myelectionday.sos.wyo.gov/WYVOTES/Pages/VOSearch.aspx",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressRegion": "WY",
+                      "addressCountry": "US"
+                    }
+                  },
+                  "organizer": {
+                    "@type": "GovernmentOrganization",
+                    "name": "Wyoming Secretary of State",
+                    "url": "https://sos.wyo.gov"
+                  },
+                  "url": "https://sos.wyo.gov/Elections",
+                  "description": "Statewide general election for federal, state, judicial, county, and municipal offices in Wyoming as well as any statewide ballot propositions."
+                }
+              ]
+            },
+            {
+              "@type": "GovernmentOffice",
+              "name": "Compliance Division",
+              "description": "Handles securities registration and investor awareness, notary public registration, and apostille certification.",
+              "telephone": "+13077777370",
+              "url": "https://sos.wyo.gov/Investing",
+              "email": "investing@wyo.gov",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "122 W 25th Street, Suite 100",
+                "addressLocality": "Cheyenne",
+                "addressRegion": "WY",
+                "postalCode": "82002",
+                "addressCountry": "US"
+              },
+              "makesOffer": [
+                {
+                  "@type": "Offer",
+                  "url": "https://sos.wyo.gov/Services/Notaries.aspx",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Notary Public Registration",
+                    "provider": {
+                      "@type": "GovernmentOrganization",
+                      "name": "Wyoming Secretary of State - Compliance Division",
+                      "email": "notaries@wyo.gov"
+                    }
+                  }
+                },
+                {
+                  "@type": "Offer",
+                  "url": "https://sos.wyo.gov/Services/Authentication.aspx",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Apostille Certification",
+                    "provider": {
+                      "@type": "GovernmentOrganization",
+                      "name": "Wyoming Secretary of State - Compliance Division",
+                      "email": "apostilles@wyo.gov"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+</head>
+<body style="">
+  <!-- <div class="sitewide-alert">
+    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" style="padding-right:3px" fill="currentColor" class="bi bi-exclamation-diamond-fill" viewBox="0 0 16 16" aria-hidden="true">
+      <path d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4m.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2"/>
+    </svg>
+    NOTICE 5/14/2026 8:20AM: The Online Candidate Filing website is currently experiencing technical issues. Our team is actively working to resolve the issue.<br/>If you have already submitted your application for nomination online, we will contact you today with the status of your filing.
+  </div> -->
+  <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K894CSM"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+  <div class="wrapper elections">
+
+    <!--=== Top ===-->
+    <div class="searchBar">
+      <div class="container">
+        <div class="form-search  pull-right" style="margin-right:10px;">
+          <form action="https://sos.wyo.gov/Search.aspx" method="get" id="search_form" name="search_form">
+            <div>          
+                <input type="text" name="q" class="searchfield text" id="searchValue" aria-label="Text box to enter keywords to search this site" title="Enter keywords to search this site">
+                <input class="send-btn search_ico" type="submit" id="search" aria-label="Button to click to search this site" title="click to search" name="search">
+            </div>
+          </form>          
+        </div>
+      </div>
+    </div>  
+    <!--=== End Top ===-->
+    <!-- header -->
+    <form method="post" action="./ElectionResults.aspx" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMzOTk4MTY1NQ9kFgJmD2QWAgICD2QWBGYPFgIeCWlubmVyaHRtbAW8MzxsaSBjbGFzcz0iZHJvcGRvd24gIj48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L2RlZmF1bHQuYXNweCI+SG9tZTwvYT4KPC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBocmVmPSIjIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iPkFib3V0IFVzPGIgY2xhc3M9ImNhcmV0Ij48L2I+IDwvYT48dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUgIj4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvQWJvdXRVcy9EZWZhdWx0LmFzcHgiPkFib3V0IFVzIEhvbWU8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0Fib3V0VXMvQWJvdXRTZWNyZXRhcnkuYXNweCI+TWVldCB0aGUgU2VjcmV0YXJ5PC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9BYm91dFVzL0R1dGllc29mdGhlT2ZmaWNlLmFzcHgiPkR1dGllcyBvZiB0aGUgT2ZmaWNlPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9NZWRpYS9NZWRpYVJlbGVhc2VzLmFzcHgiPk1lZGlhIFJlbGVhc2VzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9BYm91dFVzL090aGVyV2Vic2l0ZXMuYXNweCI+T3RoZXIgUmVsYXRlZCBXZWJzaXRlczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvQWJvdXRVcy9TT1M1MC5hc3B4Ij41MCBTdGF0ZXMnIEluZm9ybWF0aW9uPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9mYXFzLmFzcHg/cm9vdD1HUSI+RkFRczwvYT4KPC9saT4KPC91bD4KPGxpIGNsYXNzPSJkcm9wZG93biAiPjxhIGhyZWY9Imh0dHBzOi8vd3lvYml6Lnd5by5nb3YvQnVzaW5lc3MvRGVmYXVsdC5hc3B4Ij5CdXNpbmVzcyBFLUZpbGluZzwvYT4KPC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBocmVmPSIjIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iPkJ1c2luZXNzL1VDQzxiIGNsYXNzPSJjYXJldCI+PC9iPiA8L2E+PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51ICI+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0J1c2luZXNzL0RlZmF1bHQuYXNweCI+QnVzaW5lc3MgJmFtcDsgVUNDIEhvbWU8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3d5b2Jpei53eW8uZ292L0J1c2luZXNzL0FubnVhbFJlcG9ydC5hc3B4Ij5Bbm51YWwgUmVwb3J0IE9ubGluZSBGaWxpbmc8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L2ZhcXMuYXNweD9yb290PUJVUyI+RkFRczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvQnVzaW5lc3MvQ1JBSG9tZS5hc3B4Ij5Db21tZXJjaWFsIFJlZ2lzdGVyZWQgQWdlbnRzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9GaW5DRU4iPkZpbkNFTiAvIENUQSBJbmZvcm1hdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRm9ybXMvRGVmYXVsdC5hc3B4P3Jvb3Q9QnVzaW5lc3MiPkZvcm1zPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly93eW9iaXoud3lvLmdvdi9CdXNpbmVzcy9WaWV3Q2VydGlmaWNhdGUuYXNweCI+R29vZCBTdGFuZGluZyBDZXJ0aWZpY2F0ZXMgT25saW5lPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9CdXNpbmVzcy9NYWludGFpbkJ1c2luZXNzLmFzcHgiPk1haW50YWluaW5nIFlvdXIgQnVzaW5lc3M8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L01lZGlhL01lZGlhUmVsZWFzZXMuYXNweCI+TWVkaWEgUmVsZWFzZXM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0J1c2luZXNzL09ubGluZUJ1c2luZXNzU2VydmljZXMuYXNweCI+T25saW5lIEJ1c2luZXNzIFNlcnZpY2VzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9CdXNpbmVzcy9RdWVzdGlvbnNBbmRBbnN3ZXJzLmFzcHgiPlF1ZXN0aW9ucyBhbmQgQW5zd2VyczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3lvYml6Lnd5by5nb3YvQnVzaW5lc3MvUmVpbnN0YXRlbWVudC5hc3B4Ij5SZWluc3RhdGUgT25saW5lPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9CdXNpbmVzcy9SZXBvcnRGcmF1ZCI+UmVwb3J0IEJ1c2luZXNzIEZpbGluZyBGcmF1ZDwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvQnVzaW5lc3MvU3RhcnRBQnVzaW5lc3MuYXNweCI+U3RhcnQgYSBCdXNpbmVzczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3lvYml6Lnd5by5nb3YvQnVzaW5lc3MvRmlsaW5nU2VhcmNoLmFzcHgiPlNlYXJjaCBmb3IgQnVzaW5lc3MgTmFtZXMvRmlsaW5nczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvQnVzaW5lc3MvU3RhdGlzdGljcy5hc3B4Ij5TdGF0aXN0aWNzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9CdXNpbmVzcy9VQ0NFRlNCdXllckhvbWUuYXNweCI+VUNDIC8gRUZTIC8gQnV5ZXJzPC9hPgo8L2xpPgo8L3VsPgo8bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBocmVmPSIjIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iPkVsZWN0aW9uczxiIGNsYXNzPSJjYXJldCI+PC9iPiA8L2E+PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51ICI+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0VsZWN0aW9ucy9EZWZhdWx0LmFzcHgiPkVsZWN0aW9ucyBIb21lPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvMjAyNkVsZWN0aW9uSW5mb3JtYXRpb24uYXNweCI+MjAyNiBFbGVjdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL0VsZWN0aW9uQWRtaW5pc3RyYXRpb24uYXNweCI+QWRtaW5pc3RyYXRpb248L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3d3dy53eWNhbXBhaWduZmluYW5jZS5nb3YiPkNhbXBhaWduIEZpbmFuY2U8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3d3dy53eWNhbXBhaWduZmluYW5jZS5nb3YvV1lDRldlYkFwcGxpY2F0aW9uL1JlcG9ydHMvUmVzZWFyY2hUb29sc0FuZExpc3RzLmFzcHgiPkNhbmRpZGF0ZSBDb21taXR0ZWVzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvQ2FuZGlkYXRlSW5mb3JtYXRpb24uYXNweCI+Q2FuZGlkYXRlIEluZm9ybWF0aW9uPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvRWxlY3Rpb25IaXN0b3J5LmFzcHgiPkVsZWN0aW9uIEhpc3Rvcnk8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0VsZWN0aW9ucy9FbGVjdGlvbkluZm9ybWF0aW9uLmFzcHgiPkVsZWN0aW9uIEluZm9ybWF0aW9uPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvRWxlY3Rpb25SZXN1bHRzLmFzcHgiPkVsZWN0aW9uIFJlc3VsdHM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0VsZWN0aW9ucy9FdGhpY3NEaXNjbG9zdXJlLmFzcHgiPkV0aGljcyBEaXNjbG9zdXJlPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9mYXFzLmFzcHg/cm9vdD1FTEVDIj5GQVFzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9Gb3Jtcy9EZWZhdWx0LmFzcHg/cm9vdD1FbGVjdGlvbnMiPkZvcm1zPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvSW5pdGlhdGl2ZVJlZmVyZW5kdW1JbmZvLmFzcHgiPkluaXRpYXRpdmUgJmFtcDsgUmVmZXJlbmR1bTwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vbG9iYnlpc3Qud3lvLmdvdiI+TG9iYnlpbmc8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L01lZGlhL01lZGlhUmVsZWFzZXMuYXNweCI+TWVkaWEgUmVsZWFzZXM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3d3dy53eWNhbXBhaWduZmluYW5jZS5nb3YvV1lDRldlYkFwcGxpY2F0aW9uL1JlcG9ydHMvUmVzZWFyY2hUb29sc0FuZExpc3RzLmFzcHgiPlBvbGl0aWNhbCBBY3Rpb24gQ29tbWl0dGVlczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL1ZvdGluZy5hc3B4Ij5Wb3Rpbmc8L2E+CjwvbGk+CjwvdWw+CjxsaSBjbGFzcz0iZHJvcGRvd24gIj48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0Zvcm1zL2RlZmF1bHQuYXNweCI+Rm9ybXM8L2E+CjwvbGk+PGxpIGNsYXNzPSJkcm9wZG93biI+PGEgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgaHJlZj0iIyIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIj5JbnZlc3Rpbmc8YiBjbGFzcz0iY2FyZXQiPjwvYj4gPC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSAiPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9JbnZlc3RpbmcvRGVmYXVsdC5hc3B4Ij5JbnZlc3RpbmcgSG9tZTwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvSW52ZXN0aW5nL0FkbWluSG9tZS5hc3B4Ij5BZG1pbmlzdHJhdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvSW52ZXN0aW5nL0VuZm9yY2VtZW50SG9tZS5hc3B4Ij5FbmZvcmNlbWVudDwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvZmFxcy5hc3B4P3Jvb3Q9SUJEQSI+RkFRczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvSW52ZXN0aW5nL0luZHVzdHJ5SG9tZS5hc3B4Ij5JbmR1c3RyeSBJbmZvcm1hdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvSW52ZXN0aW5nL0ludmVzdG9ySG9tZS5hc3B4Ij5JbnZlc3RvciBFZHVjYXRpb248L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L01lZGlhL01lZGlhUmVsZWFzZXMuYXNweCI+TWVkaWEgUmVsZWFzZXM8L2E+CjwvbGk+CjwvdWw+CjxsaSBjbGFzcz0iZHJvcGRvd24iPjxhIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGhyZWY9IiMiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biI+U2VydmljZXMgJmFtcDsgSW5mb3JtYXRpb248YiBjbGFzcz0iY2FyZXQiPjwvYj4gPC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSAiPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9TZXJ2aWNlcy9EZWZhdWx0LmFzcHgiPlNlcnZpY2VzIEhvbWU8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3J1bGVzLnd5by5nb3YiPkFkbWluaXN0cmF0aXZlIFJ1bGVzIFN5c3RlbTwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvU2VydmljZXMvQXV0aGVudGljYXRpb24uYXNweCI+QXBvc3RpbGxlcy9BdXRoZW50aWNhdGlvbnM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L1NlcnZpY2VzL0JIUi5hc3B4Ij5CdWNraW5nIEhvcnNlICZhbXA7IFJpZGVyPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9TZXJ2aWNlcy9HZW5lcmFsSW5mb3JtYXRpb24uYXNweCI+R2VuZXJhbCBJbmZvcm1hdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvU2VydmljZXMvR3JlYXRTZWFsLmFzcHgiPkdyZWF0IFNlYWw8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L1NlcnZpY2VzL0hpc3RvcmljYWxJbmZvLmFzcHgiPkhpc3RvcmljYWwgSW5mb3JtYXRpb248L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L1NlcnZpY2VzL1N0YXR1dG9yeU5vdGljZXMuYXNweCI+U3RhdHV0b3J5IE5vdGljZXM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L1NlcnZpY2VzL05vdGFyaWVzLmFzcHgiPk5vdGFyeSBQdWJsaWM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L1NlcnZpY2VzL1B1YmxpY2F0aW9uc0hvbWUuYXNweCI+UHVibGljYXRpb25zPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9TZXJ2aWNlcy9TdHVkZW50SG9tZS5hc3B4Ij5TdHVkZW50J3MgQ29ybmVyPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9mYXFzLmFzcHg/cm9vdD1GSVNDIj5GQVFzIC0gRmlzY2FsPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9BYm91dFVzL1NPUzUwLmFzcHgiPjUwIFN0YXRlcycgSW5mb3JtYXRpb248L2E+CjwvbGk+CjwvdWw+CjxsaSBjbGFzcz0iZHJvcGRvd24gIj48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L2NvbnRhY3R1cy5hc3B4Ij5Db250YWN0PC9hPgo8L2xpPmQCAg9kFgJmDxYCHwAFsAw8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvRGVmYXVsdC5hc3B4Ij5FbGVjdGlvbnMgSG9tZTwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zLzIwMjZFbGVjdGlvbkluZm9ybWF0aW9uLmFzcHgiPjIwMjYgRWxlY3Rpb248L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0VsZWN0aW9ucy9FbGVjdGlvbkFkbWluaXN0cmF0aW9uLmFzcHgiPkFkbWluaXN0cmF0aW9uPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cud3ljYW1wYWlnbmZpbmFuY2UuZ292Ij5DYW1wYWlnbiBGaW5hbmNlPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cud3ljYW1wYWlnbmZpbmFuY2UuZ292L1dZQ0ZXZWJBcHBsaWNhdGlvbi9SZXBvcnRzL1Jlc2VhcmNoVG9vbHNBbmRMaXN0cy5hc3B4Ij5DYW5kaWRhdGUgQ29tbWl0dGVlczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL0NhbmRpZGF0ZUluZm9ybWF0aW9uLmFzcHgiPkNhbmRpZGF0ZSBJbmZvcm1hdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL0VsZWN0aW9uSGlzdG9yeS5hc3B4Ij5FbGVjdGlvbiBIaXN0b3J5PC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvRWxlY3Rpb25JbmZvcm1hdGlvbi5hc3B4Ij5FbGVjdGlvbiBJbmZvcm1hdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL0VsZWN0aW9uUmVzdWx0cy5hc3B4Ij5FbGVjdGlvbiBSZXN1bHRzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvRXRoaWNzRGlzY2xvc3VyZS5hc3B4Ij5FdGhpY3MgRGlzY2xvc3VyZTwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvZmFxcy5hc3B4P3Jvb3Q9RUxFQyI+RkFRczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRm9ybXMvRGVmYXVsdC5hc3B4P3Jvb3Q9RWxlY3Rpb25zIj5Gb3JtczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL0luaXRpYXRpdmVSZWZlcmVuZHVtSW5mby5hc3B4Ij5Jbml0aWF0aXZlICZhbXA7IFJlZmVyZW5kdW08L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL2xvYmJ5aXN0Lnd5by5nb3YiPkxvYmJ5aW5nPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9NZWRpYS9NZWRpYVJlbGVhc2VzLmFzcHgiPk1lZGlhIFJlbGVhc2VzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cud3ljYW1wYWlnbmZpbmFuY2UuZ292L1dZQ0ZXZWJBcHBsaWNhdGlvbi9SZXBvcnRzL1Jlc2VhcmNoVG9vbHNBbmRMaXN0cy5hc3B4Ij5Qb2xpdGljYWwgQWN0aW9uIENvbW1pdHRlZXM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0VsZWN0aW9ucy9Wb3RpbmcuYXNweCI+Vm90aW5nPC9hPgo8L2xpPgpkZNe7nm0EDg580xQJSb2I6xFLVqfX+Jety+6yG+1gmag9">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2018A827">
+</div>
+    <section class="banner-bg h400">
+      <header id="header">
+        <section class="container container-fluid">
+          <a href="https://sos.wyo.gov" title="Homepage"><div id="logo3" style="color:#fff;margin-bottom:35px;">Wyoming Secretary of State</div></a>
+        </section>
+        <section class="nav-holder">
+          <section class="container container-fluid">
+            <nav id="nav">
+              <div class="navbar navbar-inverse">
+                <div class="navbar-inner">
+                  <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" aria-label="Open or Close Navigation Menu"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                  <div class="nav-collapse collapse">
+                    <ul id="MainMenu" class="nav"><li class="dropdown "><a href="https://sos.wyo.gov/default.aspx">Home</a>
+</li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">About Us<b class="caret"></b> </a><ul class="dropdown-menu ">
+<li><a href="https://sos.wyo.gov/AboutUs/Default.aspx">About Us Home</a>
+</li>
+<li><a href="https://sos.wyo.gov/AboutUs/AboutSecretary.aspx">Meet the Secretary</a>
+</li>
+<li><a href="https://sos.wyo.gov/AboutUs/DutiesoftheOffice.aspx">Duties of the Office</a>
+</li>
+<li><a href="https://sos.wyo.gov/Media/MediaReleases.aspx">Media Releases</a>
+</li>
+<li><a href="https://sos.wyo.gov/AboutUs/OtherWebsites.aspx">Other Related Websites</a>
+</li>
+<li><a href="https://sos.wyo.gov/AboutUs/SOS50.aspx">50 States' Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=GQ">FAQs</a>
+</li>
+</ul>
+</li><li class="dropdown "><a href="https://wyobiz.wyo.gov/Business/Default.aspx">Business E-Filing</a>
+</li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Business/UCC<b class="caret"></b> </a><ul class="dropdown-menu ">
+<li><a href="https://sos.wyo.gov/Business/Default.aspx">Business &amp; UCC Home</a>
+</li>
+<li><a href="https://wyobiz.wyo.gov/Business/AnnualReport.aspx">Annual Report Online Filing</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=BUS">FAQs</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/CRAHome.aspx">Commercial Registered Agents</a>
+</li>
+<li><a href="https://sos.wyo.gov/FinCEN">FinCEN / CTA Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Forms/Default.aspx?root=Business">Forms</a>
+</li>
+<li><a href="https://wyobiz.wyo.gov/Business/ViewCertificate.aspx">Good Standing Certificates Online</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/MaintainBusiness.aspx">Maintaining Your Business</a>
+</li>
+<li><a href="https://sos.wyo.gov/Media/MediaReleases.aspx">Media Releases</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/OnlineBusinessServices.aspx">Online Business Services</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/QuestionsAndAnswers.aspx">Questions and Answers</a>
+</li>
+<li><a href="https://wyobiz.wyo.gov/Business/Reinstatement.aspx">Reinstate Online</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/ReportFraud">Report Business Filing Fraud</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/StartABusiness.aspx">Start a Business</a>
+</li>
+<li><a href="https://wyobiz.wyo.gov/Business/FilingSearch.aspx">Search for Business Names/Filings</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/Statistics.aspx">Statistics</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/UCCEFSBuyerHome.aspx">UCC / EFS / Buyers</a>
+</li>
+</ul>
+</li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Elections<b class="caret"></b> </a><ul class="dropdown-menu ">
+<li><a href="https://sos.wyo.gov/Elections/Default.aspx">Elections Home</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/2026ElectionInformation.aspx">2026 Election</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionAdministration.aspx">Administration</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov">Campaign Finance</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov/WYCFWebApplication/Reports/ResearchToolsAndLists.aspx">Candidate Committees</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/CandidateInformation.aspx">Candidate Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionHistory.aspx">Election History</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionInformation.aspx">Election Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionResults.aspx">Election Results</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/EthicsDisclosure.aspx">Ethics Disclosure</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=ELEC">FAQs</a>
+</li>
+<li><a href="https://sos.wyo.gov/Forms/Default.aspx?root=Elections">Forms</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/InitiativeReferendumInfo.aspx">Initiative &amp; Referendum</a>
+</li>
+<li><a href="https://lobbyist.wyo.gov">Lobbying</a>
+</li>
+<li><a href="https://sos.wyo.gov/Media/MediaReleases.aspx">Media Releases</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov/WYCFWebApplication/Reports/ResearchToolsAndLists.aspx">Political Action Committees</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/Voting.aspx">Voting</a>
+</li>
+</ul>
+</li><li class="dropdown "><a href="https://sos.wyo.gov/Forms/default.aspx">Forms</a>
+</li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Investing<b class="caret"></b> </a><ul class="dropdown-menu ">
+<li><a href="https://sos.wyo.gov/Investing/Default.aspx">Investing Home</a>
+</li>
+<li><a href="https://sos.wyo.gov/Investing/AdminHome.aspx">Administration</a>
+</li>
+<li><a href="https://sos.wyo.gov/Investing/EnforcementHome.aspx">Enforcement</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=IBDA">FAQs</a>
+</li>
+<li><a href="https://sos.wyo.gov/Investing/IndustryHome.aspx">Industry Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Investing/InvestorHome.aspx">Investor Education</a>
+</li>
+<li><a href="https://sos.wyo.gov/Media/MediaReleases.aspx">Media Releases</a>
+</li>
+</ul>
+</li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Services &amp; Information<b class="caret"></b> </a><ul class="dropdown-menu ">
+<li><a href="https://sos.wyo.gov/Services/Default.aspx">Services Home</a>
+</li>
+<li><a href="https://rules.wyo.gov">Administrative Rules System</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/Authentication.aspx">Apostilles/Authentications</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/BHR.aspx">Bucking Horse &amp; Rider</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/GeneralInformation.aspx">General Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/GreatSeal.aspx">Great Seal</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/HistoricalInfo.aspx">Historical Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/StatutoryNotices.aspx">Statutory Notices</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/Notaries.aspx">Notary Public</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/PublicationsHome.aspx">Publications</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/StudentHome.aspx">Student's Corner</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=FISC">FAQs - Fiscal</a>
+</li>
+<li><a href="https://sos.wyo.gov/AboutUs/SOS50.aspx">50 States' Information</a>
+</li>
+</ul>
+</li><li class="dropdown "><a href="https://sos.wyo.gov/contactus.aspx">Contact</a>
+</li></ul>
+                  </div>
+                </div>
+              </div>
+            </nav>
+          </section>
+        </section>
+      </header>
+      
+    </section>
+  
+  <section class="content-holder b-none inner_content inner_page">
+    <section class="container container-fluid">
+      <section class="row-fluid">
+        <h1 class="heading" style="margin-bottom:20px;">
+          <!-- InstanceBeginEditable name="Page Title" --> Elections <!-- InstanceEndEditable -->
+        </h1>
+        <span class="border-line_2 m-bottom"></span>
+        <section class="page_content">
+          <section class="span3 first sidebar MainContent_leftCol">
+            <article class="widget">
+              <ul id="MainContent_leftCol" class="left-col-list"><li><a href="https://sos.wyo.gov/Elections/Default.aspx">Elections Home</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/2026ElectionInformation.aspx">2026 Election</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionAdministration.aspx">Administration</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov">Campaign Finance</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov/WYCFWebApplication/Reports/ResearchToolsAndLists.aspx">Candidate Committees</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/CandidateInformation.aspx">Candidate Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionHistory.aspx">Election History</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionInformation.aspx">Election Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionResults.aspx">Election Results</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/EthicsDisclosure.aspx">Ethics Disclosure</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=ELEC">FAQs</a>
+</li>
+<li><a href="https://sos.wyo.gov/Forms/Default.aspx?root=Elections">Forms</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/InitiativeReferendumInfo.aspx">Initiative &amp; Referendum</a>
+</li>
+<li><a href="https://lobbyist.wyo.gov">Lobbying</a>
+</li>
+<li><a href="https://sos.wyo.gov/Media/MediaReleases.aspx">Media Releases</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov/WYCFWebApplication/Reports/ResearchToolsAndLists.aspx">Political Action Committees</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/Voting.aspx">Voting</a>
+</li>
+</ul>
+            </article>
+          </section>
+          <section class="span9 panel2">
+            <section class="s-holder">
+            <!-- InstanceBeginEditable name="ContentArea1" -->
+			
+<h3 class="panel-heading">Elections Results</h3>
+<span class="border-line_4"></span>
+
+<h4><b>2026 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2026/2026PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2026/2026GeneralResults.aspx">General Election</a></li>
+  </ul></b>    
+  <hr>
+</div>
+
+<h4><b>2024 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2024/2024PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2024/2024GeneralResults.aspx">General Election</a></li>
+  </ul></b>    
+  <hr>
+</div>
+
+<h4><b>2022 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2022/2022PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2022/2022GeneralResults.aspx">General Election</a></li>
+  </ul></b>    
+  <hr>
+</div>
+
+<h4><b>2020 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2020/2020PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2020/2020GeneralResults.aspx">General Election</a></li>
+  </ul></b>    
+  <hr>
+</div>
+
+<h4><b>2018 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2018/2018PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2018/2018GeneralResults.aspx">General Election</a></li>    
+  </ul></b>    
+  <hr>
+</div>
+ 
+<h4><b>2016 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2016/2016PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2016/2016_SW_SpecElecResults.aspx">Sweetwater County, House District 18, Precinct 5-4 Republican Race Special Election</a></li>
+    <li><a href="/Elections/Docs/2016/2016GeneralResults.aspx">General Election</a></li>
+    <!--<li><a href='/Elections/Docs/2016/2016ElectionInformation.aspx'>Other Election Information</a></li>-->
+  </ul></b>    
+  <hr>
+</div>
+ 
+<h4><b>2014 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2014/2014PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2014/2014GeneralResults.aspx">General Election</a></li>
+    <li><a href="/Elections/Docs/2014/2014-CCJRogersSpecialResults.aspx">Teton County Circuit Court, 9th Judicial District Special Election</a></li>
+    <li><a href="/Elections/Docs/2014/2014ElectionInformation.aspx">Other Election Information</a></li>
+  </ul></b>    
+  <hr>
+</div>
+      
+<h4><b>2012 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2012/2012PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2012/2012GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2012/2012ElectionInformation.aspx">Other Election Information</a></li> 
+  </ul></b>    
+    <hr>
+</div>
+
+<h4><b>2010 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2010/2010PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2010/2010GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2010/2010ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>2008 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2008/2008PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2008/2008GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2008/2008-HD22SpecialElection.aspx">House District 22 Special Election</a></li>
+    <li><a href="/Elections/Docs/2008/2008ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>2006 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2006/2006PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2006/2006GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2006/2006ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>2004 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2004/2004PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2004/2004GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2004/2004ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>2002 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2002/2002PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2002/2002GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2002/2002-HD36SpecialElection.aspx">House District 36 Special Election</a></li>
+    <li><a href="/Elections/Docs/2002/2002ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>2000 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2000/2000PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2000/2000GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2000/2000ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>1998 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/1998/1998PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/1998/1998GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/1998/1998ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>1996 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/1996/1996PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/1996/1996GeneralResults.aspx">General Election</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+
+
+
+		    
+			<!-- InstanceEndEditable --> 
+
+			<!-- InstanceBeginEditable name="ContentArea2" -->
+			  
+			<!-- InstanceEndEditable --> 
+
+			<!-- InstanceBeginEditable name="ContentArea3" -->
+			  
+			<!-- InstanceEndEditable --> 
+
+			<!-- InstanceBeginEditable name="ContentArea4" -->
+			  
+			<!-- InstanceEndEditable --> 
+          </section>
+        </section>
+      </section>
+    </section>
+  </section>
+  <!-- InstanceEnd -->
+
+
+  <!-- footer -->
+  <span>
+  <section class="footer-top">
+    <section class="container container-fluid">
+      <figure class="span4 first">
+        <h2>Office <span>Information</span></h2>
+        <p>
+          Herschler Building East<br>
+          122 W 25th St<br>
+          Suites 100 and 101<br>
+          Cheyenne, WY 82002-0020
+        </p>
+        <p>
+          For additional information,<br>
+          including driving directions,<br>
+          please see the <a href="https://sos.wyo.gov/ContactUs.aspx">Contact Us</a> page.
+        </p>
+      </figure>
+      <figure class="span4">
+        <h2>Office <span>Hours</span>
+      </h2>
+        <p>
+          8:00 a.m. to 5:00 p.m. MST<br>
+          Monday through Friday<br>
+          <font size="-2">(except for official state holidays)</font><br><br>
+        </p>
+        <a href="https://www.facebook.com/wyosos" target="_blank" aria-label="Facebook"><img src="https://sos.wyo.gov/images/social_icon_facebook2.png" alt="facebook" border="0"></a>
+        <!-- <a href="INSERT LINK HERE" target="_blank"><img src="https://sos.wyo.gov/images/social_icon_bhr.png" alt="bhr" border="0"></a> -->
+        <a href="https://twitter.com/wyomingsos" target="_blank" aria-label="Twitter"><img src="https://sos.wyo.gov/images/social_icon_twitter.png" alt="twitter" border="0"></a> 
+        <a href="https://www.instagram.com/wyomingsos/" target="_blank" aria-label="Instagram"><img src="https://sos.wyo.gov/images/social_icon_instagram.png" alt="instagram" border="0"></a>
+         <a href="https://drive.google.com/drive/folders/18OpOlf4FLDKBxloB3MdFOFFf5wQzzVZl?usp=sharing" target="_blank" aria-label="Great Seal of Wyoming"><img src="https://sos.wyo.gov/images/social_icon_grtseal.png" alt="Great Seal of Wyoming" border="0"></a>
+      </figure>
+      <figure class="span4">
+        <h2>
+          About <span>Our Office</span>
+        </h2>
+        <p>We have a long history of serving the public.  Beginning in April 1869 with the appointment of the first Secretary of the Territory of Wyoming, Edward M. Lee, by United States President Ulysses S. Grant, this office has always served the public from the State Capitol Building. However, following the completion of the Capitol Renovation Project in 2019, the Office is now located at Herschler Building East, Suites 100 and 101.</p>
+      </figure>
+    </section>
+  </section>
+  <footer id="footer">
+    <!--=== footernav ===-->
+    <div class="footerNav">
+      <div class="container">
+        <ul class="footermenu ">
+          <li>
+            <a href="https://www.wyo.gov/state-government" target="_blank" aria-label="Open State of Wyoming Government Website in new tab">Government</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://www.wyo.gov/resources/citizen" target="_blank" aria-label="Open State of Wyoming Citizen Information Website in new tab">Citizen</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://travelwyoming.com/" target="_blank" aria-label="Open Travel Wyoming Website for Visitors in new tab">Visitor</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://www.wyo.gov/resources/business" target="_blank" aria-label="Open State of Wyoming Business Website in new tab">Business</a>
+          </li>
+          <li>
+            <a href="https://www.wyo.gov" target="_blank" aria-label="Open State of Wyoming Home Website in new tab">State Home</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://sites.google.com/a/wyo.gov/wy-ag/privacy" target="_blank" aria-label="Open State of Wyoming Privacy Policy in new tab">Privacy Policy</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://sos.wyo.gov/SiteMap.aspx" aria-label="Open Site Map">Site Map</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://www.wyo.gov/about-wyoming" target="_blank" aria-label="Open About Wyoming Website in new tab">About Wyoming</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://sos.wyo.gov/PhotoCredits.aspx" aria-label="Open Photo Credits">Photo Credits</a>
+          </li>
+        </ul>
+      </div>
+    <select aria-label="Select a footer menu option"><option value="https://www.wyo.gov/state-government">Government</option><option value="https://www.wyo.gov/resources/citizen">Citizen</option><option value="https://travelwyoming.com/">Visitor</option><option value="https://www.wyo.gov/resources/business">Business</option><option value="https://www.wyo.gov">State Home</option><option value="https://sites.google.com/a/wyo.gov/wy-ag/privacy">Privacy Policy</option><option value="https://sos.wyo.gov/SiteMap.aspx">Site Map</option><option value="https://www.wyo.gov/about-wyoming">About Wyoming</option><option value="https://sos.wyo.gov/PhotoCredits.aspx">Photo Credits</option></select></div>
+    <!--/footernav-->
+    <p style="margin-top:5px; color:#ccc;">© 2025 Wyoming Secretary of State's Office.  All Rights Reserved.</p>
+  </footer>
+</span>
+
+<script type="text/javascript" src="/js/html5.js"></script> 
+<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script> 
+<script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script> 
+<script type="text/javascript" src="/js/modernizr.custom.17475.js"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<script type="text/javascript" src="/js/focus.js"></script><!-- clear input --> 
+<script type="text/javascript" src="/js/bootstrap.js"></script><!-- bootstrap --> 
+<script type="text/javascript" src="/js/lightbox.js"></script><!-- bootstrap --> 
+<script type="text/javascript" src="/js/hover-dropdown.min.js"></script>
+<script type="text/javascript">
+var coll = document.getElementsByClassName("collapse-uni");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active-uni");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>  
+
+<script type="text/javascript">
+/* <![CDATA[ */
+// Create the dropdown base
+$('<select aria-label="Select a footer menu option" />').appendTo(".footerNav");
+
+// Create default option "Go to..."
+$("<option />", {
+   "selected": "selected",
+   "value"   : "",
+   "text"    : "Go to..."
+}).appendTo("nav select");
+
+// Populate dropdown with menu items
+$(".footerNav a").each(function() {
+ var el = $(this);
+ $("<option />", {
+     "value"   : el.attr("href"),
+     "text"    : el.text()
+ }).appendTo(".footerNav select");
+});
+
+$(".footerNav select").change(function() {
+  window.location = $(this).find("option:selected").val();
+});
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43611513-10', 'wyo.gov');
+//    ga('create', 'UA-50397459-1', 'tecuity.com');
+  ga('send', 'pageview');
+
+
+
+
+	/* ]]> */
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-43611513-10"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-43611513-10');
+</script> -->
+
+
+  </section></form></div>
+
+
+  
+
+
+</body></html>
+
+<!-- FRAME 31414C4B771548A8079CE175AF2AF66B -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js no-touch csstransforms csstransitions"><head><title>
+	Wyoming Secretary of State
+</title><link rel="SHORTCUT ICON" href="../favicon.ico"><meta name="description" content="Wyoming Secretary of State">
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K894CSM"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZYXDP6KXKB"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-ZYXDP6KXKB');
+    </script>
+    <!-- End Google tag (gtag.js) -->
+    <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-K894CSM');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/css/style.css?05142026" type="text/css" media="all">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="/css/bootstrap.css?04092025" type="text/css" media="screen">
+    <!-- Lightbox -->
+    <link rel="stylesheet" href="/css/lightbox.min.css">    
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "GovernmentOrganization",
+          "name": "Wyoming Secretary of State",
+          "url": "https://sos.wyo.gov",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://sos.wyo.gov/images/WYSOS_Logo_400x400.jpg",
+            "width": 400,
+            "height": 400
+          },
+          "description": "Wyoming Constitutional Office of the Secretary of State",
+          "alternateName": [
+            "WY SOS"
+          ],
+          "email": [
+            "secofstate@wyo.gov"
+          ],
+          "telephone": [
+            "+13077777378"
+          ],
+          "sameAs": [
+            "https://www.facebook.com/wyosos/",
+            "https://x.com/WyomingSOS"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "122 W 25th Street, Suite 100",
+            "addressLocality": "Cheyenne",
+            "addressRegion": "WY",
+            "postalCode": "82002",
+            "addressCountry": "US"
+          },
+          "areaServed": {
+            "@type": "State",
+            "name": "Wyoming"
+          },
+          "department": [
+            {
+              "@type": "GovernmentOffice",
+              "name": "Business Division",
+              "description": "Handles business entity filings, registered agents, annual reports, trademark filings, UCC filings, and business filing fraud complaints.",
+              "telephone": "+13077777311",
+              "url": "https://sos.wyo.gov/Business",
+              "email": "business@wyo.gov",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "122 W 25th Street, Suite 101",
+                "addressLocality": "Cheyenne",
+                "addressRegion": "WY",
+                "postalCode": "82002",
+                "addressCountry": "US"
+              }
+            },
+            {
+              "@type": "GovernmentOffice",
+              "name": "Election Division",
+              "description": "Handles election information, voter registration, candidate filing, campaign finance filing, lobbying, and the Wyoming Election Code (Title 22).",
+              "telephone": "+13077775860",
+              "url": "https://sos.wyo.gov/Elections",
+              "email": "elections@wyo.gov",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "122 W 25th Street, Suite 100",
+                "addressLocality": "Cheyenne",
+                "addressRegion": "WY",
+                "postalCode": "82002",
+                "addressCountry": "US"
+              },
+              "event": [
+                {
+                  "@type": "Event",
+                  "name": "2026 Wyoming Primary Election",
+                  "startDate": "2026-08-18",
+                  "eventStatus": "https://schema.org/EventScheduled",
+                  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+                  "location": {
+                    "@type": "Place",
+                    "name": "Wyoming Polling Locations",
+                    "url": "https://myelectionday.sos.wyo.gov/WYVOTES/Pages/VOSearch.aspx",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressRegion": "WY",
+                      "addressCountry": "US"
+                    }
+                  },
+                  "organizer": {
+                    "@type": "GovernmentOrganization",
+                    "name": "Wyoming Secretary of State",
+                    "url": "https://sos.wyo.gov"
+                  },
+                  "url": "https://sos.wyo.gov/Elections",
+                  "description": "Statewide primary election for federal, state, county, and municipal offices in Wyoming."
+                },
+                {
+                  "@type": "Event",
+                  "name": "2026 Wyoming General Election",
+                  "startDate": "2026-11-03",
+                  "eventStatus": "https://schema.org/EventScheduled",
+                  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+                  "location": {
+                    "@type": "Place",
+                    "name": "Wyoming Polling Locations",
+                    "url": "https://myelectionday.sos.wyo.gov/WYVOTES/Pages/VOSearch.aspx",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressRegion": "WY",
+                      "addressCountry": "US"
+                    }
+                  },
+                  "organizer": {
+                    "@type": "GovernmentOrganization",
+                    "name": "Wyoming Secretary of State",
+                    "url": "https://sos.wyo.gov"
+                  },
+                  "url": "https://sos.wyo.gov/Elections",
+                  "description": "Statewide general election for federal, state, judicial, county, and municipal offices in Wyoming as well as any statewide ballot propositions."
+                }
+              ]
+            },
+            {
+              "@type": "GovernmentOffice",
+              "name": "Compliance Division",
+              "description": "Handles securities registration and investor awareness, notary public registration, and apostille certification.",
+              "telephone": "+13077777370",
+              "url": "https://sos.wyo.gov/Investing",
+              "email": "investing@wyo.gov",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "122 W 25th Street, Suite 100",
+                "addressLocality": "Cheyenne",
+                "addressRegion": "WY",
+                "postalCode": "82002",
+                "addressCountry": "US"
+              },
+              "makesOffer": [
+                {
+                  "@type": "Offer",
+                  "url": "https://sos.wyo.gov/Services/Notaries.aspx",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Notary Public Registration",
+                    "provider": {
+                      "@type": "GovernmentOrganization",
+                      "name": "Wyoming Secretary of State - Compliance Division",
+                      "email": "notaries@wyo.gov"
+                    }
+                  }
+                },
+                {
+                  "@type": "Offer",
+                  "url": "https://sos.wyo.gov/Services/Authentication.aspx",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Apostille Certification",
+                    "provider": {
+                      "@type": "GovernmentOrganization",
+                      "name": "Wyoming Secretary of State - Compliance Division",
+                      "email": "apostilles@wyo.gov"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+</head>
+<body style="">
+  <!-- <div class="sitewide-alert">
+    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" style="padding-right:3px" fill="currentColor" class="bi bi-exclamation-diamond-fill" viewBox="0 0 16 16" aria-hidden="true">
+      <path d="M9.05.435c-.58-.58-1.52-.58-2.1 0L.436 6.95c-.58.58-.58 1.519 0 2.098l6.516 6.516c.58.58 1.519.58 2.098 0l6.516-6.516c.58-.58.58-1.519 0-2.098zM8 4c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 4.995A.905.905 0 0 1 8 4m.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2"/>
+    </svg>
+    NOTICE 5/14/2026 8:20AM: The Online Candidate Filing website is currently experiencing technical issues. Our team is actively working to resolve the issue.<br/>If you have already submitted your application for nomination online, we will contact you today with the status of your filing.
+  </div> -->
+  <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K894CSM"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+  <div class="wrapper elections">
+
+    <!--=== Top ===-->
+    <div class="searchBar">
+      <div class="container">
+        <div class="form-search  pull-right" style="margin-right:10px;">
+          <form action="https://sos.wyo.gov/Search.aspx" method="get" id="search_form" name="search_form">
+            <div>          
+                <input type="text" name="q" class="searchfield text" id="searchValue" aria-label="Text box to enter keywords to search this site" title="Enter keywords to search this site">
+                <input class="send-btn search_ico" type="submit" id="search" aria-label="Button to click to search this site" title="click to search" name="search">
+            </div>
+          </form>          
+        </div>
+      </div>
+    </div>  
+    <!--=== End Top ===-->
+    <!-- header -->
+    <form method="post" action="./ElectionResults.aspx" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMzOTk4MTY1NQ9kFgJmD2QWAgICD2QWBGYPFgIeCWlubmVyaHRtbAW8MzxsaSBjbGFzcz0iZHJvcGRvd24gIj48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L2RlZmF1bHQuYXNweCI+SG9tZTwvYT4KPC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBocmVmPSIjIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iPkFib3V0IFVzPGIgY2xhc3M9ImNhcmV0Ij48L2I+IDwvYT48dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUgIj4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvQWJvdXRVcy9EZWZhdWx0LmFzcHgiPkFib3V0IFVzIEhvbWU8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0Fib3V0VXMvQWJvdXRTZWNyZXRhcnkuYXNweCI+TWVldCB0aGUgU2VjcmV0YXJ5PC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9BYm91dFVzL0R1dGllc29mdGhlT2ZmaWNlLmFzcHgiPkR1dGllcyBvZiB0aGUgT2ZmaWNlPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9NZWRpYS9NZWRpYVJlbGVhc2VzLmFzcHgiPk1lZGlhIFJlbGVhc2VzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9BYm91dFVzL090aGVyV2Vic2l0ZXMuYXNweCI+T3RoZXIgUmVsYXRlZCBXZWJzaXRlczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvQWJvdXRVcy9TT1M1MC5hc3B4Ij41MCBTdGF0ZXMnIEluZm9ybWF0aW9uPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9mYXFzLmFzcHg/cm9vdD1HUSI+RkFRczwvYT4KPC9saT4KPC91bD4KPGxpIGNsYXNzPSJkcm9wZG93biAiPjxhIGhyZWY9Imh0dHBzOi8vd3lvYml6Lnd5by5nb3YvQnVzaW5lc3MvRGVmYXVsdC5hc3B4Ij5CdXNpbmVzcyBFLUZpbGluZzwvYT4KPC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBocmVmPSIjIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iPkJ1c2luZXNzL1VDQzxiIGNsYXNzPSJjYXJldCI+PC9iPiA8L2E+PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51ICI+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0J1c2luZXNzL0RlZmF1bHQuYXNweCI+QnVzaW5lc3MgJmFtcDsgVUNDIEhvbWU8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3d5b2Jpei53eW8uZ292L0J1c2luZXNzL0FubnVhbFJlcG9ydC5hc3B4Ij5Bbm51YWwgUmVwb3J0IE9ubGluZSBGaWxpbmc8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L2ZhcXMuYXNweD9yb290PUJVUyI+RkFRczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvQnVzaW5lc3MvQ1JBSG9tZS5hc3B4Ij5Db21tZXJjaWFsIFJlZ2lzdGVyZWQgQWdlbnRzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9GaW5DRU4iPkZpbkNFTiAvIENUQSBJbmZvcm1hdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRm9ybXMvRGVmYXVsdC5hc3B4P3Jvb3Q9QnVzaW5lc3MiPkZvcm1zPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly93eW9iaXoud3lvLmdvdi9CdXNpbmVzcy9WaWV3Q2VydGlmaWNhdGUuYXNweCI+R29vZCBTdGFuZGluZyBDZXJ0aWZpY2F0ZXMgT25saW5lPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9CdXNpbmVzcy9NYWludGFpbkJ1c2luZXNzLmFzcHgiPk1haW50YWluaW5nIFlvdXIgQnVzaW5lc3M8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L01lZGlhL01lZGlhUmVsZWFzZXMuYXNweCI+TWVkaWEgUmVsZWFzZXM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0J1c2luZXNzL09ubGluZUJ1c2luZXNzU2VydmljZXMuYXNweCI+T25saW5lIEJ1c2luZXNzIFNlcnZpY2VzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9CdXNpbmVzcy9RdWVzdGlvbnNBbmRBbnN3ZXJzLmFzcHgiPlF1ZXN0aW9ucyBhbmQgQW5zd2VyczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3lvYml6Lnd5by5nb3YvQnVzaW5lc3MvUmVpbnN0YXRlbWVudC5hc3B4Ij5SZWluc3RhdGUgT25saW5lPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9CdXNpbmVzcy9SZXBvcnRGcmF1ZCI+UmVwb3J0IEJ1c2luZXNzIEZpbGluZyBGcmF1ZDwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvQnVzaW5lc3MvU3RhcnRBQnVzaW5lc3MuYXNweCI+U3RhcnQgYSBCdXNpbmVzczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vd3lvYml6Lnd5by5nb3YvQnVzaW5lc3MvRmlsaW5nU2VhcmNoLmFzcHgiPlNlYXJjaCBmb3IgQnVzaW5lc3MgTmFtZXMvRmlsaW5nczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvQnVzaW5lc3MvU3RhdGlzdGljcy5hc3B4Ij5TdGF0aXN0aWNzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9CdXNpbmVzcy9VQ0NFRlNCdXllckhvbWUuYXNweCI+VUNDIC8gRUZTIC8gQnV5ZXJzPC9hPgo8L2xpPgo8L3VsPgo8bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBocmVmPSIjIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iPkVsZWN0aW9uczxiIGNsYXNzPSJjYXJldCI+PC9iPiA8L2E+PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51ICI+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0VsZWN0aW9ucy9EZWZhdWx0LmFzcHgiPkVsZWN0aW9ucyBIb21lPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvMjAyNkVsZWN0aW9uSW5mb3JtYXRpb24uYXNweCI+MjAyNiBFbGVjdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL0VsZWN0aW9uQWRtaW5pc3RyYXRpb24uYXNweCI+QWRtaW5pc3RyYXRpb248L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3d3dy53eWNhbXBhaWduZmluYW5jZS5nb3YiPkNhbXBhaWduIEZpbmFuY2U8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3d3dy53eWNhbXBhaWduZmluYW5jZS5nb3YvV1lDRldlYkFwcGxpY2F0aW9uL1JlcG9ydHMvUmVzZWFyY2hUb29sc0FuZExpc3RzLmFzcHgiPkNhbmRpZGF0ZSBDb21taXR0ZWVzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvQ2FuZGlkYXRlSW5mb3JtYXRpb24uYXNweCI+Q2FuZGlkYXRlIEluZm9ybWF0aW9uPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvRWxlY3Rpb25IaXN0b3J5LmFzcHgiPkVsZWN0aW9uIEhpc3Rvcnk8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0VsZWN0aW9ucy9FbGVjdGlvbkluZm9ybWF0aW9uLmFzcHgiPkVsZWN0aW9uIEluZm9ybWF0aW9uPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvRWxlY3Rpb25SZXN1bHRzLmFzcHgiPkVsZWN0aW9uIFJlc3VsdHM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0VsZWN0aW9ucy9FdGhpY3NEaXNjbG9zdXJlLmFzcHgiPkV0aGljcyBEaXNjbG9zdXJlPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9mYXFzLmFzcHg/cm9vdD1FTEVDIj5GQVFzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9Gb3Jtcy9EZWZhdWx0LmFzcHg/cm9vdD1FbGVjdGlvbnMiPkZvcm1zPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvSW5pdGlhdGl2ZVJlZmVyZW5kdW1JbmZvLmFzcHgiPkluaXRpYXRpdmUgJmFtcDsgUmVmZXJlbmR1bTwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vbG9iYnlpc3Qud3lvLmdvdiI+TG9iYnlpbmc8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L01lZGlhL01lZGlhUmVsZWFzZXMuYXNweCI+TWVkaWEgUmVsZWFzZXM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3d3dy53eWNhbXBhaWduZmluYW5jZS5nb3YvV1lDRldlYkFwcGxpY2F0aW9uL1JlcG9ydHMvUmVzZWFyY2hUb29sc0FuZExpc3RzLmFzcHgiPlBvbGl0aWNhbCBBY3Rpb24gQ29tbWl0dGVlczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL1ZvdGluZy5hc3B4Ij5Wb3Rpbmc8L2E+CjwvbGk+CjwvdWw+CjxsaSBjbGFzcz0iZHJvcGRvd24gIj48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0Zvcm1zL2RlZmF1bHQuYXNweCI+Rm9ybXM8L2E+CjwvbGk+PGxpIGNsYXNzPSJkcm9wZG93biI+PGEgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgaHJlZj0iIyIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIj5JbnZlc3Rpbmc8YiBjbGFzcz0iY2FyZXQiPjwvYj4gPC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSAiPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9JbnZlc3RpbmcvRGVmYXVsdC5hc3B4Ij5JbnZlc3RpbmcgSG9tZTwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvSW52ZXN0aW5nL0FkbWluSG9tZS5hc3B4Ij5BZG1pbmlzdHJhdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvSW52ZXN0aW5nL0VuZm9yY2VtZW50SG9tZS5hc3B4Ij5FbmZvcmNlbWVudDwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvZmFxcy5hc3B4P3Jvb3Q9SUJEQSI+RkFRczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvSW52ZXN0aW5nL0luZHVzdHJ5SG9tZS5hc3B4Ij5JbmR1c3RyeSBJbmZvcm1hdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvSW52ZXN0aW5nL0ludmVzdG9ySG9tZS5hc3B4Ij5JbnZlc3RvciBFZHVjYXRpb248L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L01lZGlhL01lZGlhUmVsZWFzZXMuYXNweCI+TWVkaWEgUmVsZWFzZXM8L2E+CjwvbGk+CjwvdWw+CjxsaSBjbGFzcz0iZHJvcGRvd24iPjxhIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGhyZWY9IiMiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biI+U2VydmljZXMgJmFtcDsgSW5mb3JtYXRpb248YiBjbGFzcz0iY2FyZXQiPjwvYj4gPC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSAiPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9TZXJ2aWNlcy9EZWZhdWx0LmFzcHgiPlNlcnZpY2VzIEhvbWU8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3J1bGVzLnd5by5nb3YiPkFkbWluaXN0cmF0aXZlIFJ1bGVzIFN5c3RlbTwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvU2VydmljZXMvQXV0aGVudGljYXRpb24uYXNweCI+QXBvc3RpbGxlcy9BdXRoZW50aWNhdGlvbnM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L1NlcnZpY2VzL0JIUi5hc3B4Ij5CdWNraW5nIEhvcnNlICZhbXA7IFJpZGVyPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9TZXJ2aWNlcy9HZW5lcmFsSW5mb3JtYXRpb24uYXNweCI+R2VuZXJhbCBJbmZvcm1hdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvU2VydmljZXMvR3JlYXRTZWFsLmFzcHgiPkdyZWF0IFNlYWw8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L1NlcnZpY2VzL0hpc3RvcmljYWxJbmZvLmFzcHgiPkhpc3RvcmljYWwgSW5mb3JtYXRpb248L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L1NlcnZpY2VzL1N0YXR1dG9yeU5vdGljZXMuYXNweCI+U3RhdHV0b3J5IE5vdGljZXM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L1NlcnZpY2VzL05vdGFyaWVzLmFzcHgiPk5vdGFyeSBQdWJsaWM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L1NlcnZpY2VzL1B1YmxpY2F0aW9uc0hvbWUuYXNweCI+UHVibGljYXRpb25zPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9TZXJ2aWNlcy9TdHVkZW50SG9tZS5hc3B4Ij5TdHVkZW50J3MgQ29ybmVyPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9mYXFzLmFzcHg/cm9vdD1GSVNDIj5GQVFzIC0gRmlzY2FsPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9BYm91dFVzL1NPUzUwLmFzcHgiPjUwIFN0YXRlcycgSW5mb3JtYXRpb248L2E+CjwvbGk+CjwvdWw+CjxsaSBjbGFzcz0iZHJvcGRvd24gIj48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L2NvbnRhY3R1cy5hc3B4Ij5Db250YWN0PC9hPgo8L2xpPmQCAg9kFgJmDxYCHwAFsAw8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvRGVmYXVsdC5hc3B4Ij5FbGVjdGlvbnMgSG9tZTwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zLzIwMjZFbGVjdGlvbkluZm9ybWF0aW9uLmFzcHgiPjIwMjYgRWxlY3Rpb248L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0VsZWN0aW9ucy9FbGVjdGlvbkFkbWluaXN0cmF0aW9uLmFzcHgiPkFkbWluaXN0cmF0aW9uPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cud3ljYW1wYWlnbmZpbmFuY2UuZ292Ij5DYW1wYWlnbiBGaW5hbmNlPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cud3ljYW1wYWlnbmZpbmFuY2UuZ292L1dZQ0ZXZWJBcHBsaWNhdGlvbi9SZXBvcnRzL1Jlc2VhcmNoVG9vbHNBbmRMaXN0cy5hc3B4Ij5DYW5kaWRhdGUgQ29tbWl0dGVlczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL0NhbmRpZGF0ZUluZm9ybWF0aW9uLmFzcHgiPkNhbmRpZGF0ZSBJbmZvcm1hdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL0VsZWN0aW9uSGlzdG9yeS5hc3B4Ij5FbGVjdGlvbiBIaXN0b3J5PC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvRWxlY3Rpb25JbmZvcm1hdGlvbi5hc3B4Ij5FbGVjdGlvbiBJbmZvcm1hdGlvbjwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL0VsZWN0aW9uUmVzdWx0cy5hc3B4Ij5FbGVjdGlvbiBSZXN1bHRzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9FbGVjdGlvbnMvRXRoaWNzRGlzY2xvc3VyZS5hc3B4Ij5FdGhpY3MgRGlzY2xvc3VyZTwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvZmFxcy5hc3B4P3Jvb3Q9RUxFQyI+RkFRczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRm9ybXMvRGVmYXVsdC5hc3B4P3Jvb3Q9RWxlY3Rpb25zIj5Gb3JtczwvYT4KPC9saT4KPGxpPjxhIGhyZWY9Imh0dHBzOi8vc29zLnd5by5nb3YvRWxlY3Rpb25zL0luaXRpYXRpdmVSZWZlcmVuZHVtSW5mby5hc3B4Ij5Jbml0aWF0aXZlICZhbXA7IFJlZmVyZW5kdW08L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL2xvYmJ5aXN0Lnd5by5nb3YiPkxvYmJ5aW5nPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly9zb3Mud3lvLmdvdi9NZWRpYS9NZWRpYVJlbGVhc2VzLmFzcHgiPk1lZGlhIFJlbGVhc2VzPC9hPgo8L2xpPgo8bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cud3ljYW1wYWlnbmZpbmFuY2UuZ292L1dZQ0ZXZWJBcHBsaWNhdGlvbi9SZXBvcnRzL1Jlc2VhcmNoVG9vbHNBbmRMaXN0cy5hc3B4Ij5Qb2xpdGljYWwgQWN0aW9uIENvbW1pdHRlZXM8L2E+CjwvbGk+CjxsaT48YSBocmVmPSJodHRwczovL3Nvcy53eW8uZ292L0VsZWN0aW9ucy9Wb3RpbmcuYXNweCI+Vm90aW5nPC9hPgo8L2xpPgpkZNe7nm0EDg580xQJSb2I6xFLVqfX+Jety+6yG+1gmag9">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2018A827">
+</div>
+    <section class="banner-bg h400">
+      <header id="header">
+        <section class="container container-fluid">
+          <a href="https://sos.wyo.gov" title="Homepage"><div id="logo3" style="color:#fff;margin-bottom:35px;">Wyoming Secretary of State</div></a>
+        </section>
+        <section class="nav-holder">
+          <section class="container container-fluid">
+            <nav id="nav">
+              <div class="navbar navbar-inverse">
+                <div class="navbar-inner">
+                  <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" aria-label="Open or Close Navigation Menu"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                  <div class="nav-collapse collapse">
+                    <ul id="MainMenu" class="nav"><li class="dropdown "><a href="https://sos.wyo.gov/default.aspx">Home</a>
+</li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">About Us<b class="caret"></b> </a><ul class="dropdown-menu ">
+<li><a href="https://sos.wyo.gov/AboutUs/Default.aspx">About Us Home</a>
+</li>
+<li><a href="https://sos.wyo.gov/AboutUs/AboutSecretary.aspx">Meet the Secretary</a>
+</li>
+<li><a href="https://sos.wyo.gov/AboutUs/DutiesoftheOffice.aspx">Duties of the Office</a>
+</li>
+<li><a href="https://sos.wyo.gov/Media/MediaReleases.aspx">Media Releases</a>
+</li>
+<li><a href="https://sos.wyo.gov/AboutUs/OtherWebsites.aspx">Other Related Websites</a>
+</li>
+<li><a href="https://sos.wyo.gov/AboutUs/SOS50.aspx">50 States' Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=GQ">FAQs</a>
+</li>
+</ul>
+</li><li class="dropdown "><a href="https://wyobiz.wyo.gov/Business/Default.aspx">Business E-Filing</a>
+</li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Business/UCC<b class="caret"></b> </a><ul class="dropdown-menu ">
+<li><a href="https://sos.wyo.gov/Business/Default.aspx">Business &amp; UCC Home</a>
+</li>
+<li><a href="https://wyobiz.wyo.gov/Business/AnnualReport.aspx">Annual Report Online Filing</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=BUS">FAQs</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/CRAHome.aspx">Commercial Registered Agents</a>
+</li>
+<li><a href="https://sos.wyo.gov/FinCEN">FinCEN / CTA Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Forms/Default.aspx?root=Business">Forms</a>
+</li>
+<li><a href="https://wyobiz.wyo.gov/Business/ViewCertificate.aspx">Good Standing Certificates Online</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/MaintainBusiness.aspx">Maintaining Your Business</a>
+</li>
+<li><a href="https://sos.wyo.gov/Media/MediaReleases.aspx">Media Releases</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/OnlineBusinessServices.aspx">Online Business Services</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/QuestionsAndAnswers.aspx">Questions and Answers</a>
+</li>
+<li><a href="https://wyobiz.wyo.gov/Business/Reinstatement.aspx">Reinstate Online</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/ReportFraud">Report Business Filing Fraud</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/StartABusiness.aspx">Start a Business</a>
+</li>
+<li><a href="https://wyobiz.wyo.gov/Business/FilingSearch.aspx">Search for Business Names/Filings</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/Statistics.aspx">Statistics</a>
+</li>
+<li><a href="https://sos.wyo.gov/Business/UCCEFSBuyerHome.aspx">UCC / EFS / Buyers</a>
+</li>
+</ul>
+</li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Elections<b class="caret"></b> </a><ul class="dropdown-menu ">
+<li><a href="https://sos.wyo.gov/Elections/Default.aspx">Elections Home</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/2026ElectionInformation.aspx">2026 Election</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionAdministration.aspx">Administration</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov">Campaign Finance</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov/WYCFWebApplication/Reports/ResearchToolsAndLists.aspx">Candidate Committees</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/CandidateInformation.aspx">Candidate Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionHistory.aspx">Election History</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionInformation.aspx">Election Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionResults.aspx">Election Results</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/EthicsDisclosure.aspx">Ethics Disclosure</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=ELEC">FAQs</a>
+</li>
+<li><a href="https://sos.wyo.gov/Forms/Default.aspx?root=Elections">Forms</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/InitiativeReferendumInfo.aspx">Initiative &amp; Referendum</a>
+</li>
+<li><a href="https://lobbyist.wyo.gov">Lobbying</a>
+</li>
+<li><a href="https://sos.wyo.gov/Media/MediaReleases.aspx">Media Releases</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov/WYCFWebApplication/Reports/ResearchToolsAndLists.aspx">Political Action Committees</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/Voting.aspx">Voting</a>
+</li>
+</ul>
+</li><li class="dropdown "><a href="https://sos.wyo.gov/Forms/default.aspx">Forms</a>
+</li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Investing<b class="caret"></b> </a><ul class="dropdown-menu ">
+<li><a href="https://sos.wyo.gov/Investing/Default.aspx">Investing Home</a>
+</li>
+<li><a href="https://sos.wyo.gov/Investing/AdminHome.aspx">Administration</a>
+</li>
+<li><a href="https://sos.wyo.gov/Investing/EnforcementHome.aspx">Enforcement</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=IBDA">FAQs</a>
+</li>
+<li><a href="https://sos.wyo.gov/Investing/IndustryHome.aspx">Industry Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Investing/InvestorHome.aspx">Investor Education</a>
+</li>
+<li><a href="https://sos.wyo.gov/Media/MediaReleases.aspx">Media Releases</a>
+</li>
+</ul>
+</li><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Services &amp; Information<b class="caret"></b> </a><ul class="dropdown-menu ">
+<li><a href="https://sos.wyo.gov/Services/Default.aspx">Services Home</a>
+</li>
+<li><a href="https://rules.wyo.gov">Administrative Rules System</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/Authentication.aspx">Apostilles/Authentications</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/BHR.aspx">Bucking Horse &amp; Rider</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/GeneralInformation.aspx">General Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/GreatSeal.aspx">Great Seal</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/HistoricalInfo.aspx">Historical Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/StatutoryNotices.aspx">Statutory Notices</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/Notaries.aspx">Notary Public</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/PublicationsHome.aspx">Publications</a>
+</li>
+<li><a href="https://sos.wyo.gov/Services/StudentHome.aspx">Student's Corner</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=FISC">FAQs - Fiscal</a>
+</li>
+<li><a href="https://sos.wyo.gov/AboutUs/SOS50.aspx">50 States' Information</a>
+</li>
+</ul>
+</li><li class="dropdown "><a href="https://sos.wyo.gov/contactus.aspx">Contact</a>
+</li></ul>
+                  </div>
+                </div>
+              </div>
+            </nav>
+          </section>
+        </section>
+      </header>
+      
+    </section>
+  
+  <section class="content-holder b-none inner_content inner_page">
+    <section class="container container-fluid">
+      <section class="row-fluid">
+        <h1 class="heading" style="margin-bottom:20px;">
+          <!-- InstanceBeginEditable name="Page Title" --> Elections <!-- InstanceEndEditable -->
+        </h1>
+        <span class="border-line_2 m-bottom"></span>
+        <section class="page_content">
+          <section class="span3 first sidebar MainContent_leftCol">
+            <article class="widget">
+              <ul id="MainContent_leftCol" class="left-col-list"><li><a href="https://sos.wyo.gov/Elections/Default.aspx">Elections Home</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/2026ElectionInformation.aspx">2026 Election</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionAdministration.aspx">Administration</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov">Campaign Finance</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov/WYCFWebApplication/Reports/ResearchToolsAndLists.aspx">Candidate Committees</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/CandidateInformation.aspx">Candidate Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionHistory.aspx">Election History</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionInformation.aspx">Election Information</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/ElectionResults.aspx">Election Results</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/EthicsDisclosure.aspx">Ethics Disclosure</a>
+</li>
+<li><a href="https://sos.wyo.gov/faqs.aspx?root=ELEC">FAQs</a>
+</li>
+<li><a href="https://sos.wyo.gov/Forms/Default.aspx?root=Elections">Forms</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/InitiativeReferendumInfo.aspx">Initiative &amp; Referendum</a>
+</li>
+<li><a href="https://lobbyist.wyo.gov">Lobbying</a>
+</li>
+<li><a href="https://sos.wyo.gov/Media/MediaReleases.aspx">Media Releases</a>
+</li>
+<li><a href="https://www.wycampaignfinance.gov/WYCFWebApplication/Reports/ResearchToolsAndLists.aspx">Political Action Committees</a>
+</li>
+<li><a href="https://sos.wyo.gov/Elections/Voting.aspx">Voting</a>
+</li>
+</ul>
+            </article>
+          </section>
+          <section class="span9 panel2">
+            <section class="s-holder">
+            <!-- InstanceBeginEditable name="ContentArea1" -->
+			
+<h3 class="panel-heading">Elections Results</h3>
+<span class="border-line_4"></span>
+
+<h4><b>2026 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2026/2026PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2026/2026GeneralResults.aspx">General Election</a></li>
+  </ul></b>    
+  <hr>
+</div>
+
+<h4><b>2024 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2024/2024PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2024/2024GeneralResults.aspx">General Election</a></li>
+  </ul></b>    
+  <hr>
+</div>
+
+<h4><b>2022 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2022/2022PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2022/2022GeneralResults.aspx">General Election</a></li>
+  </ul></b>    
+  <hr>
+</div>
+
+<h4><b>2020 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2020/2020PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2020/2020GeneralResults.aspx">General Election</a></li>
+  </ul></b>    
+  <hr>
+</div>
+
+<h4><b>2018 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2018/2018PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2018/2018GeneralResults.aspx">General Election</a></li>    
+  </ul></b>    
+  <hr>
+</div>
+ 
+<h4><b>2016 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2016/2016PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2016/2016_SW_SpecElecResults.aspx">Sweetwater County, House District 18, Precinct 5-4 Republican Race Special Election</a></li>
+    <li><a href="/Elections/Docs/2016/2016GeneralResults.aspx">General Election</a></li>
+    <!--<li><a href='/Elections/Docs/2016/2016ElectionInformation.aspx'>Other Election Information</a></li>-->
+  </ul></b>    
+  <hr>
+</div>
+ 
+<h4><b>2014 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2014/2014PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2014/2014GeneralResults.aspx">General Election</a></li>
+    <li><a href="/Elections/Docs/2014/2014-CCJRogersSpecialResults.aspx">Teton County Circuit Court, 9th Judicial District Special Election</a></li>
+    <li><a href="/Elections/Docs/2014/2014ElectionInformation.aspx">Other Election Information</a></li>
+  </ul></b>    
+  <hr>
+</div>
+      
+<h4><b>2012 Election</b></h4>
+
+<div>
+  <b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2012/2012PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2012/2012GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2012/2012ElectionInformation.aspx">Other Election Information</a></li> 
+  </ul></b>    
+    <hr>
+</div>
+
+<h4><b>2010 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2010/2010PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2010/2010GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2010/2010ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>2008 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2008/2008PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2008/2008GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2008/2008-HD22SpecialElection.aspx">House District 22 Special Election</a></li>
+    <li><a href="/Elections/Docs/2008/2008ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>2006 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2006/2006PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2006/2006GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2006/2006ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>2004 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2004/2004PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2004/2004GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2004/2004ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>2002 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2002/2002PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2002/2002GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2002/2002-HD36SpecialElection.aspx">House District 36 Special Election</a></li>
+    <li><a href="/Elections/Docs/2002/2002ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>2000 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/2000/2000PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/2000/2000GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/2000/2000ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>1998 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/1998/1998PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/1998/1998GeneralResults.aspx">General Election</a></li> 
+    <li><a href="/Elections/Docs/1998/1998ElectionInformation.aspx">Other Election Information</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+<h4><b>1996 Election</b></h4>
+<div>
+	<b><ul class="squarebullet">
+    <li><a href="/Elections/Docs/1996/1996PrimaryResults.aspx">Primary Election</a></li>
+    <li><a href="/Elections/Docs/1996/1996GeneralResults.aspx">General Election</a></li> 
+	</ul></b>    
+    <hr>
+</div>
+
+
+
+
+		    
+			<!-- InstanceEndEditable --> 
+
+			<!-- InstanceBeginEditable name="ContentArea2" -->
+			  
+			<!-- InstanceEndEditable --> 
+
+			<!-- InstanceBeginEditable name="ContentArea3" -->
+			  
+			<!-- InstanceEndEditable --> 
+
+			<!-- InstanceBeginEditable name="ContentArea4" -->
+			  
+			<!-- InstanceEndEditable --> 
+          </section>
+        </section>
+      </section>
+    </section>
+  </section>
+  <!-- InstanceEnd -->
+
+
+  <!-- footer -->
+  <span>
+  <section class="footer-top">
+    <section class="container container-fluid">
+      <figure class="span4 first">
+        <h2>Office <span>Information</span></h2>
+        <p>
+          Herschler Building East<br>
+          122 W 25th St<br>
+          Suites 100 and 101<br>
+          Cheyenne, WY 82002-0020
+        </p>
+        <p>
+          For additional information,<br>
+          including driving directions,<br>
+          please see the <a href="https://sos.wyo.gov/ContactUs.aspx">Contact Us</a> page.
+        </p>
+      </figure>
+      <figure class="span4">
+        <h2>Office <span>Hours</span>
+      </h2>
+        <p>
+          8:00 a.m. to 5:00 p.m. MST<br>
+          Monday through Friday<br>
+          <font size="-2">(except for official state holidays)</font><br><br>
+        </p>
+        <a href="https://www.facebook.com/wyosos" target="_blank" aria-label="Facebook"><img src="https://sos.wyo.gov/images/social_icon_facebook2.png" alt="facebook" border="0"></a>
+        <!-- <a href="INSERT LINK HERE" target="_blank"><img src="https://sos.wyo.gov/images/social_icon_bhr.png" alt="bhr" border="0"></a> -->
+        <a href="https://twitter.com/wyomingsos" target="_blank" aria-label="Twitter"><img src="https://sos.wyo.gov/images/social_icon_twitter.png" alt="twitter" border="0"></a> 
+        <a href="https://www.instagram.com/wyomingsos/" target="_blank" aria-label="Instagram"><img src="https://sos.wyo.gov/images/social_icon_instagram.png" alt="instagram" border="0"></a>
+         <a href="https://drive.google.com/drive/folders/18OpOlf4FLDKBxloB3MdFOFFf5wQzzVZl?usp=sharing" target="_blank" aria-label="Great Seal of Wyoming"><img src="https://sos.wyo.gov/images/social_icon_grtseal.png" alt="Great Seal of Wyoming" border="0"></a>
+      </figure>
+      <figure class="span4">
+        <h2>
+          About <span>Our Office</span>
+        </h2>
+        <p>We have a long history of serving the public.  Beginning in April 1869 with the appointment of the first Secretary of the Territory of Wyoming, Edward M. Lee, by United States President Ulysses S. Grant, this office has always served the public from the State Capitol Building. However, following the completion of the Capitol Renovation Project in 2019, the Office is now located at Herschler Building East, Suites 100 and 101.</p>
+      </figure>
+    </section>
+  </section>
+  <footer id="footer">
+    <!--=== footernav ===-->
+    <div class="footerNav">
+      <div class="container">
+        <ul class="footermenu ">
+          <li>
+            <a href="https://www.wyo.gov/state-government" target="_blank" aria-label="Open State of Wyoming Government Website in new tab">Government</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://www.wyo.gov/resources/citizen" target="_blank" aria-label="Open State of Wyoming Citizen Information Website in new tab">Citizen</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://travelwyoming.com/" target="_blank" aria-label="Open Travel Wyoming Website for Visitors in new tab">Visitor</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://www.wyo.gov/resources/business" target="_blank" aria-label="Open State of Wyoming Business Website in new tab">Business</a>
+          </li>
+          <li>
+            <a href="https://www.wyo.gov" target="_blank" aria-label="Open State of Wyoming Home Website in new tab">State Home</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://sites.google.com/a/wyo.gov/wy-ag/privacy" target="_blank" aria-label="Open State of Wyoming Privacy Policy in new tab">Privacy Policy</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://sos.wyo.gov/SiteMap.aspx" aria-label="Open Site Map">Site Map</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://www.wyo.gov/about-wyoming" target="_blank" aria-label="Open About Wyoming Website in new tab">About Wyoming</a>
+          </li>
+          <li class="devider"></li>
+          <li>
+            <a href="https://sos.wyo.gov/PhotoCredits.aspx" aria-label="Open Photo Credits">Photo Credits</a>
+          </li>
+        </ul>
+      </div>
+    <select aria-label="Select a footer menu option"><option value="https://www.wyo.gov/state-government">Government</option><option value="https://www.wyo.gov/resources/citizen">Citizen</option><option value="https://travelwyoming.com/">Visitor</option><option value="https://www.wyo.gov/resources/business">Business</option><option value="https://www.wyo.gov">State Home</option><option value="https://sites.google.com/a/wyo.gov/wy-ag/privacy">Privacy Policy</option><option value="https://sos.wyo.gov/SiteMap.aspx">Site Map</option><option value="https://www.wyo.gov/about-wyoming">About Wyoming</option><option value="https://sos.wyo.gov/PhotoCredits.aspx">Photo Credits</option></select></div>
+    <!--/footernav-->
+    <p style="margin-top:5px; color:#ccc;">© 2025 Wyoming Secretary of State's Office.  All Rights Reserved.</p>
+  </footer>
+</span>
+
+<script type="text/javascript" src="/js/html5.js"></script> 
+<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script> 
+<script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script> 
+<script type="text/javascript" src="/js/modernizr.custom.17475.js"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<script type="text/javascript" src="/js/focus.js"></script><!-- clear input --> 
+<script type="text/javascript" src="/js/bootstrap.js"></script><!-- bootstrap --> 
+<script type="text/javascript" src="/js/lightbox.js"></script><!-- bootstrap --> 
+<script type="text/javascript" src="/js/hover-dropdown.min.js"></script>
+<script type="text/javascript">
+var coll = document.getElementsByClassName("collapse-uni");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active-uni");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>  
+
+<script type="text/javascript">
+/* <![CDATA[ */
+// Create the dropdown base
+$('<select aria-label="Select a footer menu option" />').appendTo(".footerNav");
+
+// Create default option "Go to..."
+$("<option />", {
+   "selected": "selected",
+   "value"   : "",
+   "text"    : "Go to..."
+}).appendTo("nav select");
+
+// Populate dropdown with menu items
+$(".footerNav a").each(function() {
+ var el = $(this);
+ $("<option />", {
+     "value"   : el.attr("href"),
+     "text"    : el.text()
+ }).appendTo(".footerNav select");
+});
+
+$(".footerNav select").change(function() {
+  window.location = $(this).find("option:selected").val();
+});
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43611513-10', 'wyo.gov');
+//    ga('create', 'UA-50397459-1', 'tecuity.com');
+  ga('send', 'pageview');
+
+
+
+
+	/* ]]> */
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-43611513-10"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-43611513-10');
+</script> -->
+
+
+  </section></form></div>
+
+
+  
+
+
+</body></html>

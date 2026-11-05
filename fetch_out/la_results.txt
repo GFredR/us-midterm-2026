@@ -1,0 +1,3179 @@
+<!-- MAIN FRAME -->
+<html lang="en"><head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="ga-tag-id" content="G-SY4F1KM3M7">
+	<!-- Google tag (gtag.js)  -->
+	<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-SY4F1KM3M7"></script>
+	<script src="/scripts/analytics.js"></script>
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Election Results &amp; Statistics">
+	<meta property="og:description" content="Find election results and statistics">
+	<meta property="og:image" content="https://www.sos.la.gov/media/odijxhrd/elections-and-voting-hero.jpg">
+	<meta property="og:url" content="https://www.sos.la.gov/elections-voting/election-results-statistics">
+	<meta property="og:site_name" content="Louisiana Secretary of State">
+	<meta property="og:type" content="website">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:url" content="https://www.sos.la.gov/elections-voting/election-results-statistics">
+	<meta name="twitter:title" content="Election Results &amp; Statistics">
+	<meta name="twitter:description" content="Find election results and statistics">
+	<meta name="twitter:image" content="https://www.sos.la.gov/media/odijxhrd/elections-and-voting-hero.jpg">
+
+
+	<!--Favicon, Author, Seo-->
+	<meta name="author" content="Louisiana Secretary of State">
+	<meta name="description" content="Find election results and statistics">
+
+		<meta name="robots" content="index, follow">
+
+	<link rel="icon" type="image/x-icon" href="/media/u3lapspz/favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/media/u3lapspz/favicon.ico">
+	<link rel="canonical" href="https://www.sos.la.gov/elections-voting/election-results-statistics">
+
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/css/sosstyle.css">
+	<link rel="stylesheet" href="/css/fonts.css">
+	<link rel="stylesheet" href="/css/bootstrap-icons.css">
+	<link rel="stylesheet" href="/css/swiper-bundle.min.css">
+
+
+		<link rel="stylesheet" href="/css/childpages.css">
+
+	<script src="/scripts/jquery.min.js"></script>
+
+	
+    <title>Election Results &amp; Statistics</title>
+
+
+<script src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7/WatsonAssistantChatEntry.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-4471" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/4471.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-4137" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/4137.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-9070" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/render.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-928" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/variables-g10.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-532" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/styles.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-3807" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/component-styles.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-3403" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/experiment-config.Entry-v7.11.0.js"></script></head>
+
+<body data-environment="">
+	<header>
+		
+
+<a class="skip-to-content-link" href="#main-content">
+    Skip to main content
+</a>
+
+
+<nav class="navbar navbar-expand-lg py-0" id="mainNav" aria-label="Main navigation">
+
+    <div class="container-lg pt-3 pb-2 py-lg-0">
+
+        <a class="navbar-brand" href="/">
+            <img src="/media/pt2jnkge/state-logo.png" class="top-logo" alt="Louisiana Secretary of State Seal">
+        </a>
+
+        <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+
+            <span>Menu</span>
+
+            <img src="/media/yyzi31ft/nav-hamburger.svg" alt="hamburger menu icon">
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+
+            <ul class="navbar-nav ms-lg-auto ">
+
+                
+
+
+
+
+
+
+
+
+
+
+    <li class="nav-item mx-0 mx-lg-1 text-lg-center">
+        <a class="nav-link py-lg-4 px-1 h-100" href="/">
+            <img class="d-lg-block mx-lg-auto p-1" src="/media/aymlp0ib/nav-home.svg" alt="">
+            Home
+        </a>
+	</li>
+
+
+
+	<li class="nav-item mx-0 mx-lg-1 dropdown text-lg-center has-megamenu">
+			<a class="nav-link py-lg-4 px-1 h-100 dropdown-toggle" href="/business-services" id="78ea969bf029469dbe407e298654d0b6" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img class="d-lg-block mx-lg-auto p-1" src="/media/dabegren/nav-business.svg" alt="">
+                Business Services
+			</a>
+
+		<div class="dropdown-menu megamenu" role="menu">
+            <div class="container-lg">
+                <div class="row">
+                    <div class="col-lg-9 py-5 megamenu-left-panel">
+                            <div class="megamenu-link-group">
+                                <a href="/business-services" class="d-block mb-2" role="menuitem" aria-label="Business Services">
+                                    Business Services
+                                </a>
+                                <div class="d-none d-lg-block" id="8388f2ce-184c-416c-ad47-e019d64cbfdf"><p>Services &amp; Resources for your business.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/business-services/file-business-documents" class="d-block mb-2" role="menuitem" aria-label="File Business Documents">
+                                    File Business Documents
+                                </a>
+                                <div class="d-none d-lg-block" id="e2c082d5-c9bd-49cf-a218-73d341575f95"><p>File, search, and manage your Louisiana business documents.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/business-services/start-a-business" class="d-block mb-2" role="menuitem" aria-label="Start a Business">
+                                    Start a Business
+                                </a>
+                                <div class="d-none d-lg-block" id="7f2bd5c1-8f22-4933-b05a-ac2408ad0842"><p>Choose the right legal entity for your new business.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/business-services/file-financing-statements" class="d-block mb-2" role="menuitem" aria-label="Uniform Commercial Code">
+                                    Uniform Commercial Code
+                                </a>
+                                <div class="d-none d-lg-block" id="a7e054c1-3552-4136-8302-5e06470c14f9"><p>UCC filings in Louisiana: where to file and how to submit online.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/business-services/search-business-filings" class="d-block mb-2" role="menuitem" aria-label="Search for a Business">
+                                    Search for a Business
+                                </a>
+                                <div class="d-none d-lg-block" id="5d26a46a-289d-4c1b-b018-3c9df814bad4"><p>Search Louisiana business filings.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/business-services/service-of-process" class="d-block mb-2" role="menuitem" aria-label="Service of Process">
+                                    Service of Process
+                                </a>
+                                <div class="d-none d-lg-block" id="017083a6-e5e7-4366-8808-3eccf8669997"><p>How the Secretary of State handles legal documents for certain out-of-state entities and individuals.</p></div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-3 py-5 megamenu-right-panel">
+                        <span class="d-block mb-3" role="heading">More Resources</span>
+                                <a href="/business-services/schedule-an-appointment" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Schedule an Appointment
+                                </a>
+                                <a target="_blank" href="https://geauxbiz.sos.la.gov/" class="d-block mb-3 mb-lg-4" role="menuitem" title="File Annual Report (opens in a new tab)" aria-label="File Annual Report (opens in a new tab)">
+                                    File Annual Report
+                                </a>
+                                <a target="_blank" href="https://geauxbiz.sos.la.gov/" class="d-block mb-3 mb-lg-4" role="menuitem" title="Create a Business Checklist (opens in a new tab)" aria-label="Create a Business Checklist (opens in a new tab)">
+                                    Create a Business Checklist
+                                </a>
+                                <a href="/business-services/file-business-documents" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    File Original Documents
+                                </a>
+                                <a href="/business-services/contact-us" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Contact Us
+                                </a>
+                                <a href="/business-services/frequently-asked-questions" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Frequently Asked Questions
+                                </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</li>
+
+
+
+	<li class="nav-item mx-0 mx-lg-1 dropdown text-lg-center has-megamenu">
+			<a class="nav-link py-lg-4 px-1 h-100 dropdown-toggle" href="/elections-voting" id="2cb86f4de7d842b6ba440641d0fe484e" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img class="d-lg-block mx-lg-auto p-1" src="/media/gail32pt/nav-flag.svg" alt="">
+                Elections &amp; Voting
+			</a>
+
+		<div class="dropdown-menu megamenu" role="menu">
+            <div class="container-lg">
+                <div class="row">
+                    <div class="col-lg-9 py-5 megamenu-left-panel">
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting" class="d-block mb-2" role="menuitem" aria-label="Elections &amp; Voting">
+                                    Elections &amp; Voting
+                                </a>
+                                <div class="d-none d-lg-block" id="92424c97-0caf-49a2-bb1e-602bbad1c749"><p>Register, find polling locations, and access voter information for Louisiana elections.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting/become-an-election-worker" class="d-block mb-2" role="menuitem" aria-label="Become An Election Worker">
+                                    Become An Election Worker
+                                </a>
+                                <div class="d-none d-lg-block" id="1503725e-e24a-4cf6-93c6-52e126ee8ee2"><p>Learn how to become an election worker.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting/register-to-vote" class="d-block mb-2" role="menuitem" aria-label="Register to Vote">
+                                    Register to Vote
+                                </a>
+                                <div class="d-none d-lg-block" id="4ce105d1-85fb-4ea1-ae8b-0732362a18fa"><p>Register to vote or update your voter registration in Louisiana.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting/polling-locations" class="d-block mb-2" role="menuitem" aria-label="Polling Locations">
+                                    Polling Locations
+                                </a>
+                                <div class="d-none d-lg-block" id="20b46558-d42a-4a1f-b307-072f8c05c790"><p>Find your voting location for upcoming elections in Louisiana.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting/ways-to-vote" class="d-block mb-2" role="menuitem" aria-label="Ways to Vote In Louisiana">
+                                    Ways to Vote In Louisiana
+                                </a>
+                                <div class="d-none d-lg-block" id="2173c4e7-ea16-40f1-9e9c-3b0f717b656b"><p>Voting options: in-person, early, absentee, and more for Louisianans.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting/become-a-candidate" class="d-block mb-2" role="menuitem" aria-label="Become A Candidate">
+                                    Become A Candidate
+                                </a>
+                                <div class="d-none d-lg-block" id="1d085dfd-e6b9-4f5a-86e1-ca79dae0d42f"><p>Run for office: Learn requirements and file to become a candidate.</p></div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-3 py-5 megamenu-right-panel">
+                        <span class="d-block mb-3" role="heading">More Resources</span>
+                                <a href="/elections-voting/election-dates" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Election Dates
+                                </a>
+                                <a href="/elections-voting/election-dates" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Registration Deadlines
+                                </a>
+                                <a href="/elections-voting/election-results-statistics" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Election Results
+                                </a>
+                                <a target="_blank" href="https://voterportal.sos.la.gov/" class="d-block mb-3 mb-lg-4" role="menuitem" title="Voter Portal (opens in a new tab)" aria-label="Voter Portal (opens in a new tab)">
+                                    Voter Portal
+                                </a>
+                                <a href="/elections-voting/purchase-voter-lists" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Purchase Voter List
+                                </a>
+                                <a href="/elections-voting/qualify-for-an-election" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Qualify For An Election
+                                </a>
+                                <a href="/elections-voting/contact-us" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Contact Us
+                                </a>
+                                <a href="/elections-voting/frequently-asked-questions" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Frequently Asked Questions
+                                </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</li>
+
+
+
+	<li class="nav-item mx-0 mx-lg-1 dropdown text-lg-center has-megamenu">
+			<a class="nav-link py-lg-4 px-1 h-100 dropdown-toggle" href="/notary" id="7cd0ffcb72e9487fa07a2d8ecc71f574" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img class="d-lg-block mx-lg-auto p-1" src="/media/hsbltfdr/nav-notary.svg" alt="">
+                Notary &amp; Certifications
+			</a>
+
+		<div class="dropdown-menu megamenu" role="menu">
+            <div class="container-lg">
+                <div class="row">
+                    <div class="col-lg-9 py-5 megamenu-left-panel">
+                            <div class="megamenu-link-group">
+                                <a href="/notary" class="d-block mb-2" role="menuitem" aria-label="Notary">
+                                    Notary
+                                </a>
+                                <div class="d-none d-lg-block" id="00ead1f0-95bf-4672-815b-be57d273a442"><p>More information about notary services in Louisiana, such as how to become a notary.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/certifications" class="d-block mb-2" role="menuitem" aria-label="Certifications">
+                                    Certifications
+                                </a>
+                                <div class="d-none d-lg-block" id="aa46c0f8-edff-4c34-9b25-2c25d6924ad8"><p>More information about certifications, such as apostilles, authentications, pardons, and proclamations.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/notary/application-process" class="d-block mb-2" role="menuitem" aria-label="Become a Notary">
+                                    Become a Notary
+                                </a>
+                                <div class="d-none d-lg-block" id="df872548-ec3b-4fa6-9b89-e80dc045582b"><p>Learn requirements and apply to become a licensed notary public.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/certifications/apostilles-authentications" class="d-block mb-2" role="menuitem" aria-label="Apostilles &amp; Authentications">
+                                    Apostilles &amp; Authentications
+                                </a>
+                                <div class="d-none d-lg-block" id="3e077e9e-1f5d-4bbe-982c-0196e810e5f6"><p>Apostille and authentication services.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/notary/exam-preparation" class="d-block mb-2" role="menuitem" aria-label="Exam Preparation">
+                                    Exam Preparation
+                                </a>
+                                <div class="d-none d-lg-block" id="8e0e04b4-25ca-4bfa-bf24-959e74f0f784"><p>Prepare for the notary exam.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/certifications/business-document-authentication" class="d-block mb-2" role="menuitem" aria-label="Business Document Authentication">
+                                    Business Document Authentication
+                                </a>
+                                <div class="d-none d-lg-block" id="58988081-c07d-40dd-ae8e-3f55ab79e396"><p>Business document authentication services.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/notary/ways-to-file" class="d-block mb-2" role="menuitem" aria-label="Ways to File">
+                                    Ways to File
+                                </a>
+                                <div class="d-none d-lg-block" id="2e4f4583-f6a7-45e5-8130-0c4d08ee08c9"><p>File notary documents online, via mail, or by fax.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/certifications/pardons-executive-orders" class="d-block mb-2" role="menuitem" aria-label="Pardons &amp; Executive Orders">
+                                    Pardons &amp; Executive Orders
+                                </a>
+                                <div class="d-none d-lg-block" id="f775850f-6dce-4e0c-b363-0500c87e7f77"><p>Order certificates of pardons, proclamations, and executive orders.</p></div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-3 py-5 megamenu-right-panel">
+                        <span class="d-block mb-3" role="heading">More Resources</span>
+                                <a href="/notary/get-exam-information" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Get Exam Information
+                                </a>
+                                <a href="/notary/scheduled-applicants" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Scheduled Applicants
+                                </a>
+                                <a href="/notary/search-for-notaries" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Search For Louisiana Notaries
+                                </a>
+                                <a href="/notary/ex-officio-status" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Nonresident Attorney Ex-Officio Status
+                                </a>
+                                <a href="/notary/education-providers-registry" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Education Providers Registry
+                                </a>
+                                <a href="/notary/register-as-an-education-provider" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Register As An Education  Provider
+                                </a>
+                                <a href="/notary/ron-requirements" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    RON Requirements
+                                </a>
+                                <a href="/notary/technology-providers-registry" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Technology Providers Registry
+                                </a>
+                                <a href="/notary/forms-fee-schedule" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Forms &amp; Fee Schedule
+                                </a>
+                                <a href="/notary/frequently-asked-questions" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Frequently Asked Questions
+                                </a>
+                                <a href="/notary/notary-certifications-contact-us" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Contact Us
+                                </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</li>
+
+
+
+	<li class="nav-item mx-0 mx-lg-1 dropdown text-lg-center has-megamenu">
+			<a class="nav-link py-lg-4 px-1 h-100 dropdown-toggle" href="/archives" id="ee67a8c266544586b5d32d0852bff4ef" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img class="d-lg-block mx-lg-auto p-1" src="/media/1ofbo2w4/nav-archive.svg" alt="">
+                Archives &amp; Museums
+			</a>
+
+		<div class="dropdown-menu megamenu" role="menu">
+            <div class="container-lg">
+                <div class="row">
+                    <div class="col-lg-9 py-5 megamenu-left-panel">
+                            <div class="megamenu-link-group">
+                                <a href="/archives" class="d-block mb-2" role="menuitem" aria-label="Archives">
+                                    Archives
+                                </a>
+                                <div class="d-none d-lg-block" id="e8039ef1-8b89-4005-99fc-2df554b62678"><p>Explore Louisiana's historical records.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/museums" class="d-block mb-2" role="menuitem" aria-label="Museums">
+                                    Museums
+                                </a>
+                                <div class="d-none d-lg-block" id="0e9ab98c-cdd3-4029-b957-84347fe2ff05"><p>Explore Louisiana's State Museums.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/archives/historical-birth-records" class="d-block mb-2" role="menuitem" aria-label="Historical Birth Records">
+                                    Historical Birth Records
+                                </a>
+                                <div class="d-none d-lg-block" id="4d9c79cd-f2d1-4799-a1ea-c6950ead1e75"><p>Historical birth records: Access Louisiana's archived birth certificates and registrations.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/museums/delta-music-museum" class="d-block mb-2" role="menuitem" aria-label="Delta Music Museum">
+                                    Delta Music Museum
+                                </a>
+                                <div class="d-none d-lg-block" id="344d2445-f39d-4515-a773-17c22664921e"><p>Louisiana's diversity of musical styles is showcased here.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/archives/historical-death-records" class="d-block mb-2" role="menuitem" aria-label="Historical Death Records">
+                                    Historical Death Records
+                                </a>
+                                <div class="d-none d-lg-block" id="74bc5f31-0c23-478e-95db-7314c4be7a75"><p>Access historical Louisiana death records from our state archives.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/museums/eddie-g-robinson-museum" class="d-block mb-2" role="menuitem" aria-label="Eddie G. Robinson Museum">
+                                    Eddie G. Robinson Museum
+                                </a>
+                                <div class="d-none d-lg-block" id="c0ab9033-0287-49c5-9dfb-ae3f96dc7315"><p>Pays tribute to “Coach Rob”, the winningest coach in NCAA Division I football.&nbsp;</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/archives/records-management" class="d-block mb-2" role="menuitem" aria-label="Records Management for Agencies">
+                                    Records Management for Agencies
+                                </a>
+                                <div class="d-none d-lg-block" id="7a25da08-241b-4d1e-bd50-5b3280c0a343"><p>Government records management guidelines for Louisiana state agencies.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/museums/germantown-colony-museum" class="d-block mb-2" role="menuitem" aria-label="Germantown Colony Museum">
+                                    Germantown Colony Museum
+                                </a>
+                                <div class="d-none d-lg-block" id="274a8a2e-be64-470a-9bb5-4e2358a09038"><p>The story of a small group of settlers led by the Count and Countess von Leon.</p></div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-3 py-5 megamenu-right-panel">
+                        <span class="d-block mb-3" role="heading">More Resources</span>
+                                <a href="/archives/historical-marriage-records" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Historical Marriage Records
+                                </a>
+                                <a href="/archives/online-catalog" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Online Catalog
+                                </a>
+                                <a href="/archives/collections" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Using The Collections
+                                </a>
+                                <a href="/archives/forms-fees-schedule" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Forms &amp; Fees Schedule
+                                </a>
+                                <a href="/archives/louisiana-historical-records-advisory-board" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Louisiana Historical Records Advisory Board
+                                </a>
+                                <a href="/archives/contact-us" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Contact Us
+                                </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</li>
+
+
+
+	<li class="nav-item mx-0 mx-lg-1 dropdown text-lg-center has-megamenu">
+			<a class="nav-link py-lg-4 px-1 h-100 dropdown-toggle" href="/our-office" id="9614c6f653a0440f8d5400c7592799e4" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img class="d-lg-block mx-lg-auto p-1" src="/media/b1mmi3wl/nav-office.svg" alt="">
+                Our Office
+			</a>
+
+		<div class="dropdown-menu megamenu" role="menu">
+            <div class="container-lg">
+                <div class="row">
+                    <div class="col-lg-9 py-5 megamenu-left-panel">
+                            <div class="megamenu-link-group">
+                                <a href="/our-office" class="d-block mb-2" role="menuitem" aria-label="Our Office">
+                                    Our Office
+                                </a>
+                                <div class="d-none d-lg-block" id="8f3cae65-48b1-43c5-adbb-fa8f9942138c"><p>Leadership, departments, and mission of the Louisiana Secretary of State.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/our-office/end-of-life-registry-programs" class="d-block mb-2" role="menuitem" aria-label="End of Life Registries">
+                                    End of Life Registries
+                                </a>
+                                <div class="d-none d-lg-block" id="e9ed6707-8e9e-40de-978f-cf80bae2bab5"><p>Registry for wills and living will declarations.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/our-office/learn-about-nancy-landry" class="d-block mb-2" role="menuitem" aria-label="Learn About Nancy Landry">
+                                    Learn About Nancy Landry
+                                </a>
+                                <div class="d-none d-lg-block" id="f4950f12-f49f-41a9-9296-b0336f6508f7"><p>Learn about Louisiana's Secretary of State Nancy Landry's background and role.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/our-office/obtain-publications" class="d-block mb-2" role="menuitem" aria-label="Obtain Publications">
+                                    Obtain Publications
+                                </a>
+                                <div class="d-none d-lg-block" id="f62476ce-4ad9-415b-a6b9-c7e8adc0be6f"><p>Access official Louisiana documents, reports, and informational materials.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/our-office/address-confidentiality-program" class="d-block mb-2" role="menuitem" aria-label="Address Confidentiality Program">
+                                    Address Confidentiality Program
+                                </a>
+                                <div class="d-none d-lg-block" id="97543c56-59a6-49eb-8885-a25397f08df4"><p>Protects address privacy for victims of abuse, stalking, and violence.</p></div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-3 py-5 megamenu-right-panel">
+                        <span class="d-block mb-3" role="heading">More Resources</span>
+                                <a href="/our-office/department-overview" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Department Overview
+                                </a>
+                                <a href="/our-office/government-entity-registries" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Government Entity Registries
+                                </a>
+                                <a href="/our-office/call-before-you-dig" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Call Before You Dig
+                                </a>
+                                <a href="/our-office/flood-protection-authorities" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Flood Protection Authorities
+                                </a>
+                                <a href="/our-office/contact-us" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Contact Us
+                                </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</li>
+
+
+                <li class="px-1 py-3 py-lg-4">
+                    <a class="search" href="/search" aria-label="search page"><img src="/media/kujh0yrj/nav-search.svg" alt="search icon"></a>
+                </li>
+            </ul>
+
+        </div>
+
+    </div>
+
+</nav>
+
+		
+
+
+
+
+
+
+
+
+<style>
+    .announcement-banner:not(:has(.announcement-item)) {
+        display: none;
+    }
+</style>
+
+<div class="announcement-banner critical">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .announcement-banner:not(:has(.announcement-item)) {
+        display: none;
+    }
+</style>
+
+<div class="announcement-banner normal">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <style>
+        .announcement-message p {
+            margin: 0;
+        }
+    </style>
+    <div class="announcement-item">
+        <div class="announcement-message">
+            <p><a href="/elections-voting/election-dates" title="More information on the election">Elections hotline</a>: 1.800.883.2805</p>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+		
+<section class="hero-banner" data-hero-image="/media/odijxhrd/elections-and-voting-hero.jpg" data-has-image="True" csp-manager-add-nonce-data-attribute="true" style="background-image: url(&quot;/media/odijxhrd/elections-and-voting-hero.jpg&quot;); background-color: rgb(20, 42, 79);">
+    <div class="container">
+        <div class="hero-content">
+
+
+                <div class="headliner">
+                        <span class="headliner-h1">Elections &amp; Voting</span>
+                </div>
+
+                    <h1 class="hero-subheading">Election results and statistics</h1>
+
+        </div>
+    </div>
+</section>
+
+
+		    <nav class="breadcrumb-nav" aria-label="Breadcrumbs navigation">
+        <div class="container py-3">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <ul class="breadcrumb m-0">
+                            <li class="inactive"><a href="/">Home</a> <span class="divider mx-2"><i class="bi bi-chevron-right"></i></span></li>
+                            <li class="inactive"><a href="/elections-voting">Elections &amp; Voting</a> <span class="divider mx-2"><i class="bi bi-chevron-right"></i></span></li>
+                        <li class="active">Election Results &amp; Statistics</li>
+                    </ul>
+                </div>
+                <div>
+                        <a class="p-0 d-print-none print-btn" id="printButton" title="Print this page" tabindex="0" role="button">
+                            <i class="bi bi-printer"></i> Print
+                        </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+	</header>
+
+	<main id="main-content" role="main" tabindex="-1">
+		
+
+
+
+<style>
+    #accordion-section{
+    padding-top: 0px;
+    padding-bottom: 40px;
+    }
+
+    @media print {
+    section.child-page:before {
+    content: "Louisiana Secretary of State \A Nancy Landry"; 
+    white-space: pre-wrap;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+    font-family: Public Sans;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 120%;
+    }
+    }
+</style>
+
+    <section class="child-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 mb-5">
+
+                        <div class="submenu-container">
+                            
+
+
+
+
+<nav class="side-nav-menu" aria-label="Side Navigation">
+    <div class="side-nav-header">
+        <span class="mb-0 mb-lg-5 px-0 px-lg-3">Elections &amp; Voting Menu</span>
+
+        <button class="navbar-toggler d-block d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#side-nav-items" aria-controls="side-nav-items" aria-expanded="false" aria-label="Toggle side navigation">
+            <i class="bi bi-list"></i>
+        </button>
+    </div>
+
+    
+
+    <ul class="list-unstyled mb-0 collapse d-lg-block" id="side-nav-items">
+        
+
+
+
+
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-30964473-a4c6-43d4-8f64-006ac313d763" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-30964473-a4c6-43d4-8f64-006ac313d763" aria-expanded="false" aria-controls="submenu-30964473-a4c6-43d4-8f64-006ac313d763">
+        Voter registration
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-30964473-a4c6-43d4-8f64-006ac313d763" role="region" aria-labelledby="submenu-btn-30964473-a4c6-43d4-8f64-006ac313d763">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/register-to-vote" class="">
+                                Register to vote
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/update-your-registration" class="">
+                                Update your registration
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-0ddc31c7-a833-4917-911a-3062a26dc96e" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-0ddc31c7-a833-4917-911a-3062a26dc96e" aria-expanded="false" aria-controls="submenu-0ddc31c7-a833-4917-911a-3062a26dc96e">
+        Voting in Louisiana
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-0ddc31c7-a833-4917-911a-3062a26dc96e" role="region" aria-labelledby="submenu-btn-0ddc31c7-a833-4917-911a-3062a26dc96e">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/ways-to-vote" class="">
+                                Ways to vote
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/military-overseas-citizens" class="">
+                                Military &amp; overseas citizens
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voting-accessibility-assistance" class="">
+                                Voting accessibility &amp; assistance
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-f55eff63-3ac6-4a50-bd14-952474eae7f1" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-f55eff63-3ac6-4a50-bd14-952474eae7f1" aria-expanded="false" aria-controls="submenu-f55eff63-3ac6-4a50-bd14-952474eae7f1">
+        Elections information
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-f55eff63-3ac6-4a50-bd14-952474eae7f1" role="region" aria-labelledby="submenu-btn-f55eff63-3ac6-4a50-bd14-952474eae7f1">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/election-dates" class="">
+                                Election dates
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/sample-ballots" class="">
+                                Sample ballots
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/polling-locations" class="">
+                                Polling locations
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/elections-forms" class="">
+                                Elections forms
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/conduct-exit-polls" class="">
+                                Conduct exit poll
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/register-a-political-party" class="">
+                                Register a political party
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/get-election-costs" class="">
+                                Get Election Costs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/sign-up-for-election-alerts" class="">
+                                Sign up for election alerts
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-3dc3e674-6436-4ee1-a55e-f71e457773eb" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-3dc3e674-6436-4ee1-a55e-f71e457773eb" aria-expanded="false" aria-controls="submenu-3dc3e674-6436-4ee1-a55e-f71e457773eb">
+        Get involved
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-3dc3e674-6436-4ee1-a55e-f71e457773eb" role="region" aria-labelledby="submenu-btn-3dc3e674-6436-4ee1-a55e-f71e457773eb">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/become-an-election-worker" class="">
+                                Become an election worker
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/organize-a-registration-drive" class="">
+                                Organize a voter registration drive
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/poll-watchers" class="">
+                                Poll watchers
+                            </a>
+                    </li>
+                    <li>
+                            <a href="https://coraweb.sos.la.gov/veteran/veteranrequest.aspx" class="">
+                                Dedicate your vote to a vet
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-a0f1befe-5d72-4556-8179-d01eead1966f" class="active" data-bs-toggle="collapse" data-bs-target="#submenu-a0f1befe-5d72-4556-8179-d01eead1966f" aria-expanded="true" aria-controls="submenu-a0f1befe-5d72-4556-8179-d01eead1966f">
+        Elections report &amp; statistics
+    </button>
+    <div class="side-nav-sub-menu collapse show" id="submenu-a0f1befe-5d72-4556-8179-d01eead1966f" role="region" aria-labelledby="submenu-btn-a0f1befe-5d72-4556-8179-d01eead1966f">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/election-results-statistics" class="active" aria-current="page">
+                                Election results &amp; statistics
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voter-registration-statistics" class="">
+                                Voter registration statistics
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-d60936ab-487f-4e59-8cdd-d7a55690d3b3" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-d60936ab-487f-4e59-8cdd-d7a55690d3b3" aria-expanded="false" aria-controls="submenu-d60936ab-487f-4e59-8cdd-d7a55690d3b3">
+        Candidates
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-d60936ab-487f-4e59-8cdd-d7a55690d3b3" role="region" aria-labelledby="submenu-btn-d60936ab-487f-4e59-8cdd-d7a55690d3b3">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/qualify-for-an-election" class="">
+                                How to qualify as a candidate
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/campaign-requirements" class="">
+                                Campaign requirements
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/search-for-candidates" class="">
+                                Search for candidates
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/ballot-numbers" class="">
+                                Ballot numbers
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/purchase-voter-lists" class="">
+                                Purchase voter list
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/withdraw-from-an-election" class="">
+                                Withdraw from election
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/monitoring-an-election" class="">
+                                Monitoring an election
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/forms-publications-for-candidates" class="">
+                                Forms &amp; publications for candidates
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-35b7e48c-d331-4ea6-9daa-36e52234a9f3" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-35b7e48c-d331-4ea6-9daa-36e52234a9f3" aria-expanded="false" aria-controls="submenu-35b7e48c-d331-4ea6-9daa-36e52234a9f3">
+        Election officials
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-35b7e48c-d331-4ea6-9daa-36e52234a9f3" role="region" aria-labelledby="submenu-btn-35b7e48c-d331-4ea6-9daa-36e52234a9f3">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/election-guides-handbooks" class="">
+                                Election guides &amp; handbooks
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/resources-for-clerks-registrars" class="">
+                                Resources for clerks &amp; registrars
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-ce551195-7291-4869-bcd9-8de1832c3b43" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-ce551195-7291-4869-bcd9-8de1832c3b43" aria-expanded="false" aria-controls="submenu-ce551195-7291-4869-bcd9-8de1832c3b43">
+        Public officials
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-ce551195-7291-4869-bcd9-8de1832c3b43" role="region" aria-labelledby="submenu-btn-ce551195-7291-4869-bcd9-8de1832c3b43">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/find-public-officials" class="">
+                                Find public officials
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/recall-an-elected-official" class="">
+                                Recall an elected official
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/file-an-oath-of-office" class="">
+                                File an oath of office
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/file-notice-of-vacancy" class="">
+                                File notice of vacancy
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/order-certificates-or-id-cards" class="">
+                                Order certificates or ID cards
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-c61c18cf-e900-42f4-a646-e7d91c7d83ed" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-c61c18cf-e900-42f4-a646-e7d91c7d83ed" aria-expanded="false" aria-controls="submenu-c61c18cf-e900-42f4-a646-e7d91c7d83ed">
+        Election education
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-c61c18cf-e900-42f4-a646-e7d91c7d83ed" role="region" aria-labelledby="submenu-btn-c61c18cf-e900-42f4-a646-e7d91c7d83ed">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/types-of-elections" class="">
+                                Types of elections
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/how-candidates-are-elected" class="">
+                                How candidates are elected
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/election-brochures" class="">
+                                Election brochures
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/redistricting-information" class="">
+                                Redistricting information
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/get-involved" class="">
+                                Get involved
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voter-outreach" class="">
+                                Voter outreach &amp; education
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voting-machine-demo" class="">
+                                Request a voting machine demo
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-f33bc9ac-7732-4a15-ba17-b869a70a5ee2" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-f33bc9ac-7732-4a15-ba17-b869a70a5ee2" aria-expanded="false" aria-controls="submenu-f33bc9ac-7732-4a15-ba17-b869a70a5ee2">
+        Election integrity information
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-f33bc9ac-7732-4a15-ba17-b869a70a5ee2" role="region" aria-labelledby="submenu-btn-f33bc9ac-7732-4a15-ba17-b869a70a5ee2">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/election-security" class="">
+                                Election security
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/report-election-fraud" class="">
+                                Report election fraud
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/file-a-complaint" class="">
+                                File a complaint
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-90da8d96-b9b7-44a2-b9e0-91b0e5039bb1" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-90da8d96-b9b7-44a2-b9e0-91b0e5039bb1" aria-expanded="false" aria-controls="submenu-90da8d96-b9b7-44a2-b9e0-91b0e5039bb1">
+        Laws, policies &amp; administration
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-90da8d96-b9b7-44a2-b9e0-91b0e5039bb1" role="region" aria-labelledby="submenu-btn-90da8d96-b9b7-44a2-b9e0-91b0e5039bb1">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/elections-history" class="">
+                                Administration &amp; elections history
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/administrative-rules" class="">
+                                Administrative rules
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/federal-voting-laws" class="">
+                                Federal voting laws
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/preserve-a-proces-verbal" class="">
+                                Preserve proces verbal
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/task-forces-study-groups" class="">
+                                Task forces &amp; study groups
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/certification-of-voting-systems" class="">
+                                Certification of Voting Systems
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-d8113873-af6b-4543-8ada-baa97f456d99" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-d8113873-af6b-4543-8ada-baa97f456d99" aria-expanded="false" aria-controls="submenu-d8113873-af6b-4543-8ada-baa97f456d99">
+        Frequently asked questions
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-d8113873-af6b-4543-8ada-baa97f456d99" role="region" aria-labelledby="submenu-btn-d8113873-af6b-4543-8ada-baa97f456d99">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/frequently-asked-questions" class="">
+                                FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voter-registration-faqs" class="">
+                                Voter registration FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/absentee-voting-faqs" class="">
+                                Absentee voting FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voting-early-faqs" class="">
+                                Early voting FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/before-an-election-faqs" class="">
+                                Before an Election FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/after-an-election-faqs" class="">
+                                After an Election FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voting-on-election-day-faqs" class="">
+                                Election day voting FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/provisional-voting-faqs" class="">
+                                Provisional voting FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voter-lists-faqs" class="">
+                                Voter lists FAQs
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-9667d495-162d-406c-96c2-6c51c060f478" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-9667d495-162d-406c-96c2-6c51c060f478" aria-expanded="false" aria-controls="submenu-9667d495-162d-406c-96c2-6c51c060f478">
+        Contact us
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-9667d495-162d-406c-96c2-6c51c060f478" role="region" aria-labelledby="submenu-btn-9667d495-162d-406c-96c2-6c51c060f478">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/contact-us" class="">
+                                Contact us
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+
+    </ul>
+</nav>
+                        </div>
+            </div>
+
+            <div class="col-lg-9 ps-lg-5">
+                <h2 class="title-1 mb-5 pb-lg-3 pb-sm-0">Find Results and Statistics</h2>
+
+
+
+
+
+
+
+
+<h3 class="title-3 mb-4" id="Election_results">Election results</h3>
+
+    <div class="richtext-body pb-3">
+        <p><a rel="noopener" href="https://voterportal.sos.la.gov/graphical" target="_blank" title="Graphical election results (opens in a new tab)" aria-label="Graphical election results (opens in a new tab)">Graphical election results</a> may be viewed for federal, state and local elections. This site is mobile-friendly and includes statistics, dynamic mapping of selected results, printing capabilities and export to CSV functionality. CSV functionality is not available on election night until 11 p.m. Results from prior elections may not be available on the graphical site on election night.</p>
+    </div>
+
+
+
+<h3 class="title-3 mb-4" id="Early_voting_statistics">Early voting statistics</h3>
+
+    <div class="richtext-body pb-3">
+        <p>Cumulative early voting statistics are published one business day after each day of the early voting period (for example, statistics for Saturday are posted the following Monday).</p>
+<p>The total number of votes is listed under the <strong>VOTES </strong>column on the far left. The second <strong>VOTES </strong>column breaks down the number of in person and mail voters. In person is represented as <strong>INP </strong>and&nbsp;<strong>ABS </strong>includes the number of voters casting mail ballots.</p>
+<p>The&nbsp;<strong>ASST</strong> header lists those persons requesting assistance in voting (represented by column labeled&nbsp;<strong>D -&nbsp;Disabled</strong> and <strong>I - Illiterate</strong>).</p>
+<p><strong>UOCAVA </strong>(Uniformed and&nbsp;Overseas Citizens Absentee Voting&nbsp;Act)&nbsp;represents the number of voters exercising their right to vote&nbsp;who are military and overseas civilians. The <strong>IN </strong>column represents voters residing in the USA and <strong>OUT </strong>represents voters residing outside of the country.</p>
+<p><a href="/elections-voting/early-voting-statistics-statewide" title="Early Voting Statistics - Statewide">Statewide</a><br><a href="/elections-voting/early-voting-statistics-parish" title="Early Voting Statistics - Parish">Parish</a></p>
+<p><a href="/elections-voting/absentee-voter-list" title="Absentee Voter List">List of absentee by mail and early voters</a></p>
+<p>The names of voters includes those who voted in person during early voting and those whose absentee ballots have been received by the registrar of voters. This list of voters does not account for subsequent changes, if any, made by a registrar. Those changes will be found on the cumulative report at the end of early voting.</p>
+    </div>
+
+
+
+<h3 class="title-3 mb-4" id="Absentee_ballot_rejection_statistics">Absentee ballot rejection statistics</h3>
+
+    <div class="richtext-body pb-3">
+        <p>Data of absentee by mail ballots rejected for cause by Parish Board of Election Supervisors on election day, as recorded by each parish registrar of voters and reported by the parish.</p>
+<p><a href="/elections-voting/absentee-rejection-statistics" title="Absentee Rejection Statistics">Statewide</a></p>
+    </div>
+
+
+
+<h3 class="title-3 mb-4" id="Post_election_turnout_statistics">Post election turnout statistics</h3>
+
+    <div class="richtext-body pb-3">
+        <p>Post election turnout statistics are published after all parish registrar of voters complete their work in giving each voter credit for voting in the election and auditing. This may take up to two weeks following the election.</p>
+<p>If you are viewing a report that identifies the parish by number instead of name, use this&nbsp;<a rel="noopener" href="/media/054bv5hr/parish-list.pdf" target="_blank" title="Parish List (opens in a new tab)" aria-label="Parish List (opens in a new tab)">parish list by number</a>&nbsp;to identify it.</p>
+<p><a href="/elections-voting/statewide-post-election-statistics" title="Statewide Post Election Statistics">Statewide</a><br><a href="/elections-voting/post-election-statistics-by-parish" title="Post Election Statistics by Parish">Parish</a></p>
+<p>For election statistics prior to 2007, you may&nbsp;need to&nbsp;review the&nbsp;<a href="/elections-voting/post-election-statistic-files" title="Post Election Statistic Files">text and Excel file layouts</a>.</p>
+    </div>
+          </div>
+        </div>
+    </div>
+</section>
+
+
+	</main>
+
+			<!-- IBM Watson help -- BEGIN -->
+			<style>
+
+
+				/* Animation to slide the chat launcher closed */
+				@keyframes slideClosed {
+					to
+
+				{
+					width: 67px;
+				}
+
+				}
+
+				/* Chat launcher button */
+				button.chatLauncher {
+					display: none;
+					padding: 28px;
+					border-radius: 16px;
+					animation-duration: 0.5s; /* This animation duration is for the hover/focus style */
+					transition-duration: 0.5s;
+					position: fixed;
+					height: 60px;
+					bottom: 32px;
+					right: 32px;
+					z-index: 9999;
+					border: none;
+					padding: 7px;
+					margin: 0;
+					text-decoration: none;
+					background: #00356E;
+					color: white;
+					line-height: 1.4;
+					font-size: 14px;
+					cursor: pointer;
+					text-align: center;
+					-webkit-appearance: none;
+					-moz-appearance: none;
+					width: 350px;
+					opacity: 1;
+					min-width: 0;
+				}
+
+					/* Animate the launcher closed to a smaller version after a delay */
+					button.chatLauncher.open {
+						animation-name: slideClosed;
+						animation-duration: 0.25s;
+						animation-delay: 6s;
+						animation-fill-mode: forwards;
+					}
+
+					/* On hover / focus show a highlight affect */
+					button.chatLauncher:hover,
+					button.chatLauncher:focus {
+						background: #00254F;
+					}
+
+				.watson-button-body {
+					padding: 0 10px 0 10px;
+				}
+
+					.watson-button-body #launcherText {
+						float: left;
+						text-align: left;
+					}
+
+				.watson-chat-icon {
+					float: right;
+					height: 40px;
+					padding-top: 5px;
+				}
+
+				.disclaimer-icon {
+					float: left!important;
+					padding-right: 10px!important;
+				}
+
+				.watson-visible {
+					display: block !important;
+				}
+
+				.watson-hidden {
+					display: none !important;
+				}
+
+				.watson-launcher-parent {
+					display: block;
+					visibility: visible;
+					height: 0px;
+				}
+			</style>
+			<!-- We want to hide this element initially, because Web Chat isn't ready yet. -->
+			<button type="button" class="chatLauncher" title="Virtual assistant can answer questions about voting in Louisiana">
+				<div class="watson-button-body">
+					<div id="launcherText">
+						Voting questions?<br>
+						Chat with our <strong>virtual assistant</strong>
+					</div>
+					<div class="watson-chat-icon">
+						<svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="32" height="32" viewBox="0 0 32 32" aria-hidden="true" class="WACLauncher__svg"><path d="M17.74,30,16,29l4-7h6a2,2,0,0,0,2-2V8a2,2,0,0,0-2-2H6A2,2,0,0,0,4,8V20a2,2,0,0,0,2,2h9v2H6a4,4,0,0,1-4-4V8A4,4,0,0,1,6,4H26a4,4,0,0,1,4,4V20a4,4,0,0,1-4,4H21.16Z"></path><path d="M8 10H24V12H8zM8 16H18V18H8z"></path></svg>
+					</div>
+				</div>
+			</button>
+			<script nonce="">
+				window.watsonAssistantChatOptions = {
+					// ID for the Assistant: State of Louisiana Voter Assistant
+					integrationID: "4ce8e113-2149-4203-b62f-2a7763a7c23a",
+					region: 'us-south',
+					// The region your integration is hosted in.
+					serviceInstanceID: '8d5d68c3-187e-4873-a702-e04af0f79dfa', // The ID of your service instance.
+					__ibm__: {
+						botNameOverride: 'Louisiana Voter Assistant'
+					},
+					disclaimer: {
+						isOn: true,
+						disclaimerHTML: '<p><img class="disclaimer-icon" src="https://voterportal.sos.la.gov/Images/sos_seal_bw_64_x_64.png" />This tool is intended to provide information on voting in the state of Louisiana. Although the Louisiana Department of State makes reasonable efforts to present accurate and reliable information through the tool, the information is subject to change and correction.</p>' +
+							'<p>Please do not submit any confidential, proprietary or sensitive personally identifiable information (e.g. Social Security Number; date of birth; or drivers license number) (collectively, "Sensitive Information"). If you submit any Sensitive Information, you do so at your own risk and we will not be liable to you or responsible for consequences of your submission.</p>'
+					},
+					clientVersion: '7',
+					// use null or emtpy string for latest
+					openChatByDefault: false,
+					showLauncher: false,
+								
+					onLoad: watsonLoaded
+				};
+				setTimeout(function () {
+					const t = document.createElement('script');
+					t.src = "https://web-chat.global.assistant.watson.appdomain.cloud/versions/" +
+						(window.watsonAssistantChatOptions.clientVersion || 'latest') +
+						"/WatsonAssistantChatEntry.js";
+					document.head.appendChild(t);
+				});
+				function watsonLoaded(instance) {
+					// Select the button element from the page.
+					var button = document.querySelector('.chatLauncher');
+					// Add the event listener to open your Web Chat.
+					button.addEventListener('click', function () {
+						instance.openWindow();
+					});
+					// Render the Web Chat. Nothing appears on the page, because the launcher is hidden and the Web Chat window is closed by default.
+					instance.render().then(function () {
+						button.classList.add('watson-visible');
+						button.parentElement.classList.add('watson-launcher-parent');
+						button.classList.add('open');
+					});
+
+					// We want to hide the launcher text right before we slide the control closed.
+				setTimeout(function () {
+					var launcherDiv = document.getElementById('launcherText');
+					if (launcherDiv) {
+						launcherDiv.classList.add('watson-hidden');
+					}
+				}, 5900);
+					// IMPORTANT: This timeout value should be slightly less than the chatLauncher animation-delay CSS Setting above.
+				}
+			</script>
+			<!-- IBM Watson help -- END -->
+
+	
+
+<footer class="" id="footer" aria-label="footer">
+    <div class="container py-5">
+        <div class="headliner mb-5">
+            <h3>Contact Us</h3>
+        </div>
+        <div class="footer-content">
+            
+
+<div class="row mb-3">
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">Physical Address</h4>
+	</div>
+	<div class="link-columns">
+			<p>8585 Archives Ave.<br>Baton Rouge, LA 70809</p>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">Mail</h4>
+	</div>
+	<div class="link-columns">
+			<p>P.O. Box 94125<br>Baton Rouge,<br>LA 70804-9125</p>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">Phone</h4>
+	</div>
+	<div class="link-columns">
+			<p>225.922.2880</p>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+    <style>
+        .social-link {
+            text-decoration: none;
+        }
+
+        .social-link-container {
+            margin-bottom: 3rem;
+            margin-top: 3.125rem;
+            display: flex;
+            gap: 0.625rem;
+        }
+
+        @media (max-width: 767px) {
+            .social-link-container {
+                margin-top: 0px;
+            }
+        }
+    </style>
+<div class="social-link-container">
+        <a class="social-link svg-06ab8f68a2c74291aefbe70e0d8721f9" href="https://www.facebook.com/Louisianasos" title="Facebook (opens in a new tab)" target="_blank" aria-label="Facebook (opens in a new tab)">
+            <img src="/media/lghlwbwh/facebook.svg" alt="Facebook icon">
+        </a>
+        <a class="social-link svg-1070056ae99e489188ca37417a893def" href="https://www.twitter.com/Louisiana_sos" title="X (opens in a new tab)" target="_blank" aria-label="X (opens in a new tab)">
+            <img src="/media/lmchaee4/twitter.svg" alt="X icon">
+        </a>
+        <a class="social-link svg-4771aa42b0c940e0b48ab44c16040410" href="https://www.youtube.com/SofState" title="YouTube (opens in a new tab)" target="_blank" aria-label="YouTube (opens in a new tab)">
+            <img src="/media/oovhcr4j/youtube.svg" alt="YouTube icon">
+        </a>
+        <a class="social-link svg-e5bd0841a8834c28a04ef5026b53c61d" href="https://www.instagram.com/louisianasos" title="Instagram (opens in a new tab)" target="_blank" aria-label="Instagram (opens in a new tab)">
+            <img src="/media/oael1zmd/instagram.svg" alt="Instagram icon">
+        </a>
+</div>
+
+    </div>
+</div>
+<div class="row mb-3">
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">By Division</h4>
+	</div>
+	<div class="link-columns">
+			<ul>
+<li><a href="/business-services" title="Business Services">Business Services</a></li>
+<li><a href="/elections-voting" title="Elections &amp; Voting">Elections &amp; Voting</a></li>
+<li><a href="/notary" title="Notary">Notary</a></li>
+</ul>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+
+	<div class="link-columns">
+		<div class="link-column no-title">
+			<ul>
+<li><a href="/notary" title="Notary &amp; Certifications"></a><a href="/certifications" title="Certifications">Certifications</a></li>
+<li><a href="/archives" title="Archives">Archives</a></li>
+<li><a href="/museums" title="Museums">Museums</a></li>
+</ul>
+		</div>
+	</div>
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+
+	<div class="link-columns">
+		<div class="link-column no-title">
+			<ul>
+<li><a href="/our-office" title="Our Office">Our Office</a></li>
+</ul>
+		</div>
+	</div>
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+    </div>
+</div>
+<div class="row mb-3">
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">Compliance</h4>
+	</div>
+	<div class="link-columns">
+			<ul>
+<li><a href="/our-office/administrative-rules" title="Administrative Rules">Administrative Rules</a></li>
+<li><a rel="noopener" href="/media/hs1dvw0d/20-sexual-harassment-in-the-workplace-73125.pdf" target="_blank" title="SOS Policy Against Sexual Harassment (opens in a new tab)" aria-label="SOS Policy Against Sexual Harassment (opens in a new tab)">SOS Policy Against Sexual Harassment</a></li>
+</ul>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">Site Information</h4>
+	</div>
+	<div class="link-columns">
+			<ul>
+<li><a href="/disclaimer" title="Disclaimer" data-anchor="#">Disclaimer</a></li>
+<li><a href="/accessibility" title="Accessibility" data-anchor="#">Accessibility</a></li>
+</ul>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+
+	<div class="link-columns">
+		<div class="link-column no-title">
+			<ul>
+<li><a href="/security-privacy" title="Security &amp; Privacy" data-anchor="#">Security &amp; Privacy</a></li>
+<li><a href="/report-a-problem" title="Report a Problem" data-anchor="#">Report a Problem</a></li>
+</ul>
+		</div>
+	</div>
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+    </div>
+</div>
+        </div>
+    </div>
+    <div class="copyright py-4 text-center">
+        <div class="container"><p>© 2026 Louisiana Department of State</p> </div>
+    </div>
+</footer>
+
+
+	<script src="/scripts/bootstrap.bundle.min.js"></script>
+	<script src="/scripts/swiper-bundle.min.js"></script>
+	<script src="/scripts/sosscript.js"></script>
+
+	
+
+
+
+</body></html>
+
+<!-- FRAME 4355A73BF6E4F73DF28B9605D3E28122 -->
+<html lang="en"><head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="ga-tag-id" content="G-SY4F1KM3M7">
+	<!-- Google tag (gtag.js)  -->
+	<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-SY4F1KM3M7"></script>
+	<script src="/scripts/analytics.js"></script>
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="Election Results &amp; Statistics">
+	<meta property="og:description" content="Find election results and statistics">
+	<meta property="og:image" content="https://www.sos.la.gov/media/odijxhrd/elections-and-voting-hero.jpg">
+	<meta property="og:url" content="https://www.sos.la.gov/elections-voting/election-results-statistics">
+	<meta property="og:site_name" content="Louisiana Secretary of State">
+	<meta property="og:type" content="website">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:url" content="https://www.sos.la.gov/elections-voting/election-results-statistics">
+	<meta name="twitter:title" content="Election Results &amp; Statistics">
+	<meta name="twitter:description" content="Find election results and statistics">
+	<meta name="twitter:image" content="https://www.sos.la.gov/media/odijxhrd/elections-and-voting-hero.jpg">
+
+
+	<!--Favicon, Author, Seo-->
+	<meta name="author" content="Louisiana Secretary of State">
+	<meta name="description" content="Find election results and statistics">
+
+		<meta name="robots" content="index, follow">
+
+	<link rel="icon" type="image/x-icon" href="/media/u3lapspz/favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/media/u3lapspz/favicon.ico">
+	<link rel="canonical" href="https://www.sos.la.gov/elections-voting/election-results-statistics">
+
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/css/sosstyle.css">
+	<link rel="stylesheet" href="/css/fonts.css">
+	<link rel="stylesheet" href="/css/bootstrap-icons.css">
+	<link rel="stylesheet" href="/css/swiper-bundle.min.css">
+
+
+		<link rel="stylesheet" href="/css/childpages.css">
+
+	<script src="/scripts/jquery.min.js"></script>
+
+	
+    <title>Election Results &amp; Statistics</title>
+
+
+<script src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7/WatsonAssistantChatEntry.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-4471" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/4471.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-4137" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/4137.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-9070" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/render.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-928" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/variables-g10.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-532" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/styles.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-3807" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/component-styles.Entry-v7.11.0.js"></script><script charset="utf-8" data-webpack="web-chat-client:chunk-3403" src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/7.11.0/experiment-config.Entry-v7.11.0.js"></script></head>
+
+<body data-environment="">
+	<header>
+		
+
+<a class="skip-to-content-link" href="#main-content">
+    Skip to main content
+</a>
+
+
+<nav class="navbar navbar-expand-lg py-0" id="mainNav" aria-label="Main navigation">
+
+    <div class="container-lg pt-3 pb-2 py-lg-0">
+
+        <a class="navbar-brand" href="/">
+            <img src="/media/pt2jnkge/state-logo.png" class="top-logo" alt="Louisiana Secretary of State Seal">
+        </a>
+
+        <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+
+            <span>Menu</span>
+
+            <img src="/media/yyzi31ft/nav-hamburger.svg" alt="hamburger menu icon">
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+
+            <ul class="navbar-nav ms-lg-auto ">
+
+                
+
+
+
+
+
+
+
+
+
+
+    <li class="nav-item mx-0 mx-lg-1 text-lg-center">
+        <a class="nav-link py-lg-4 px-1 h-100" href="/">
+            <img class="d-lg-block mx-lg-auto p-1" src="/media/aymlp0ib/nav-home.svg" alt="">
+            Home
+        </a>
+	</li>
+
+
+
+	<li class="nav-item mx-0 mx-lg-1 dropdown text-lg-center has-megamenu">
+			<a class="nav-link py-lg-4 px-1 h-100 dropdown-toggle" href="/business-services" id="78ea969bf029469dbe407e298654d0b6" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img class="d-lg-block mx-lg-auto p-1" src="/media/dabegren/nav-business.svg" alt="">
+                Business Services
+			</a>
+
+		<div class="dropdown-menu megamenu" role="menu">
+            <div class="container-lg">
+                <div class="row">
+                    <div class="col-lg-9 py-5 megamenu-left-panel">
+                            <div class="megamenu-link-group">
+                                <a href="/business-services" class="d-block mb-2" role="menuitem" aria-label="Business Services">
+                                    Business Services
+                                </a>
+                                <div class="d-none d-lg-block" id="8388f2ce-184c-416c-ad47-e019d64cbfdf"><p>Services &amp; Resources for your business.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/business-services/file-business-documents" class="d-block mb-2" role="menuitem" aria-label="File Business Documents">
+                                    File Business Documents
+                                </a>
+                                <div class="d-none d-lg-block" id="e2c082d5-c9bd-49cf-a218-73d341575f95"><p>File, search, and manage your Louisiana business documents.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/business-services/start-a-business" class="d-block mb-2" role="menuitem" aria-label="Start a Business">
+                                    Start a Business
+                                </a>
+                                <div class="d-none d-lg-block" id="7f2bd5c1-8f22-4933-b05a-ac2408ad0842"><p>Choose the right legal entity for your new business.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/business-services/file-financing-statements" class="d-block mb-2" role="menuitem" aria-label="Uniform Commercial Code">
+                                    Uniform Commercial Code
+                                </a>
+                                <div class="d-none d-lg-block" id="a7e054c1-3552-4136-8302-5e06470c14f9"><p>UCC filings in Louisiana: where to file and how to submit online.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/business-services/search-business-filings" class="d-block mb-2" role="menuitem" aria-label="Search for a Business">
+                                    Search for a Business
+                                </a>
+                                <div class="d-none d-lg-block" id="5d26a46a-289d-4c1b-b018-3c9df814bad4"><p>Search Louisiana business filings.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/business-services/service-of-process" class="d-block mb-2" role="menuitem" aria-label="Service of Process">
+                                    Service of Process
+                                </a>
+                                <div class="d-none d-lg-block" id="017083a6-e5e7-4366-8808-3eccf8669997"><p>How the Secretary of State handles legal documents for certain out-of-state entities and individuals.</p></div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-3 py-5 megamenu-right-panel">
+                        <span class="d-block mb-3" role="heading">More Resources</span>
+                                <a href="/business-services/schedule-an-appointment" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Schedule an Appointment
+                                </a>
+                                <a target="_blank" href="https://geauxbiz.sos.la.gov/" class="d-block mb-3 mb-lg-4" role="menuitem" title="File Annual Report (opens in a new tab)" aria-label="File Annual Report (opens in a new tab)">
+                                    File Annual Report
+                                </a>
+                                <a target="_blank" href="https://geauxbiz.sos.la.gov/" class="d-block mb-3 mb-lg-4" role="menuitem" title="Create a Business Checklist (opens in a new tab)" aria-label="Create a Business Checklist (opens in a new tab)">
+                                    Create a Business Checklist
+                                </a>
+                                <a href="/business-services/file-business-documents" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    File Original Documents
+                                </a>
+                                <a href="/business-services/contact-us" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Contact Us
+                                </a>
+                                <a href="/business-services/frequently-asked-questions" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Frequently Asked Questions
+                                </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</li>
+
+
+
+	<li class="nav-item mx-0 mx-lg-1 dropdown text-lg-center has-megamenu">
+			<a class="nav-link py-lg-4 px-1 h-100 dropdown-toggle" href="/elections-voting" id="2cb86f4de7d842b6ba440641d0fe484e" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img class="d-lg-block mx-lg-auto p-1" src="/media/gail32pt/nav-flag.svg" alt="">
+                Elections &amp; Voting
+			</a>
+
+		<div class="dropdown-menu megamenu" role="menu">
+            <div class="container-lg">
+                <div class="row">
+                    <div class="col-lg-9 py-5 megamenu-left-panel">
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting" class="d-block mb-2" role="menuitem" aria-label="Elections &amp; Voting">
+                                    Elections &amp; Voting
+                                </a>
+                                <div class="d-none d-lg-block" id="92424c97-0caf-49a2-bb1e-602bbad1c749"><p>Register, find polling locations, and access voter information for Louisiana elections.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting/become-an-election-worker" class="d-block mb-2" role="menuitem" aria-label="Become An Election Worker">
+                                    Become An Election Worker
+                                </a>
+                                <div class="d-none d-lg-block" id="1503725e-e24a-4cf6-93c6-52e126ee8ee2"><p>Learn how to become an election worker.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting/register-to-vote" class="d-block mb-2" role="menuitem" aria-label="Register to Vote">
+                                    Register to Vote
+                                </a>
+                                <div class="d-none d-lg-block" id="4ce105d1-85fb-4ea1-ae8b-0732362a18fa"><p>Register to vote or update your voter registration in Louisiana.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting/polling-locations" class="d-block mb-2" role="menuitem" aria-label="Polling Locations">
+                                    Polling Locations
+                                </a>
+                                <div class="d-none d-lg-block" id="20b46558-d42a-4a1f-b307-072f8c05c790"><p>Find your voting location for upcoming elections in Louisiana.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting/ways-to-vote" class="d-block mb-2" role="menuitem" aria-label="Ways to Vote In Louisiana">
+                                    Ways to Vote In Louisiana
+                                </a>
+                                <div class="d-none d-lg-block" id="2173c4e7-ea16-40f1-9e9c-3b0f717b656b"><p>Voting options: in-person, early, absentee, and more for Louisianans.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/elections-voting/become-a-candidate" class="d-block mb-2" role="menuitem" aria-label="Become A Candidate">
+                                    Become A Candidate
+                                </a>
+                                <div class="d-none d-lg-block" id="1d085dfd-e6b9-4f5a-86e1-ca79dae0d42f"><p>Run for office: Learn requirements and file to become a candidate.</p></div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-3 py-5 megamenu-right-panel">
+                        <span class="d-block mb-3" role="heading">More Resources</span>
+                                <a href="/elections-voting/election-dates" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Election Dates
+                                </a>
+                                <a href="/elections-voting/election-dates" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Registration Deadlines
+                                </a>
+                                <a href="/elections-voting/election-results-statistics" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Election Results
+                                </a>
+                                <a target="_blank" href="https://voterportal.sos.la.gov/" class="d-block mb-3 mb-lg-4" role="menuitem" title="Voter Portal (opens in a new tab)" aria-label="Voter Portal (opens in a new tab)">
+                                    Voter Portal
+                                </a>
+                                <a href="/elections-voting/purchase-voter-lists" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Purchase Voter List
+                                </a>
+                                <a href="/elections-voting/qualify-for-an-election" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Qualify For An Election
+                                </a>
+                                <a href="/elections-voting/contact-us" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Contact Us
+                                </a>
+                                <a href="/elections-voting/frequently-asked-questions" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Frequently Asked Questions
+                                </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</li>
+
+
+
+	<li class="nav-item mx-0 mx-lg-1 dropdown text-lg-center has-megamenu">
+			<a class="nav-link py-lg-4 px-1 h-100 dropdown-toggle" href="/notary" id="7cd0ffcb72e9487fa07a2d8ecc71f574" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img class="d-lg-block mx-lg-auto p-1" src="/media/hsbltfdr/nav-notary.svg" alt="">
+                Notary &amp; Certifications
+			</a>
+
+		<div class="dropdown-menu megamenu" role="menu">
+            <div class="container-lg">
+                <div class="row">
+                    <div class="col-lg-9 py-5 megamenu-left-panel">
+                            <div class="megamenu-link-group">
+                                <a href="/notary" class="d-block mb-2" role="menuitem" aria-label="Notary">
+                                    Notary
+                                </a>
+                                <div class="d-none d-lg-block" id="00ead1f0-95bf-4672-815b-be57d273a442"><p>More information about notary services in Louisiana, such as how to become a notary.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/certifications" class="d-block mb-2" role="menuitem" aria-label="Certifications">
+                                    Certifications
+                                </a>
+                                <div class="d-none d-lg-block" id="aa46c0f8-edff-4c34-9b25-2c25d6924ad8"><p>More information about certifications, such as apostilles, authentications, pardons, and proclamations.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/notary/application-process" class="d-block mb-2" role="menuitem" aria-label="Become a Notary">
+                                    Become a Notary
+                                </a>
+                                <div class="d-none d-lg-block" id="df872548-ec3b-4fa6-9b89-e80dc045582b"><p>Learn requirements and apply to become a licensed notary public.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/certifications/apostilles-authentications" class="d-block mb-2" role="menuitem" aria-label="Apostilles &amp; Authentications">
+                                    Apostilles &amp; Authentications
+                                </a>
+                                <div class="d-none d-lg-block" id="3e077e9e-1f5d-4bbe-982c-0196e810e5f6"><p>Apostille and authentication services.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/notary/exam-preparation" class="d-block mb-2" role="menuitem" aria-label="Exam Preparation">
+                                    Exam Preparation
+                                </a>
+                                <div class="d-none d-lg-block" id="8e0e04b4-25ca-4bfa-bf24-959e74f0f784"><p>Prepare for the notary exam.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/certifications/business-document-authentication" class="d-block mb-2" role="menuitem" aria-label="Business Document Authentication">
+                                    Business Document Authentication
+                                </a>
+                                <div class="d-none d-lg-block" id="58988081-c07d-40dd-ae8e-3f55ab79e396"><p>Business document authentication services.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/notary/ways-to-file" class="d-block mb-2" role="menuitem" aria-label="Ways to File">
+                                    Ways to File
+                                </a>
+                                <div class="d-none d-lg-block" id="2e4f4583-f6a7-45e5-8130-0c4d08ee08c9"><p>File notary documents online, via mail, or by fax.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/certifications/pardons-executive-orders" class="d-block mb-2" role="menuitem" aria-label="Pardons &amp; Executive Orders">
+                                    Pardons &amp; Executive Orders
+                                </a>
+                                <div class="d-none d-lg-block" id="f775850f-6dce-4e0c-b363-0500c87e7f77"><p>Order certificates of pardons, proclamations, and executive orders.</p></div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-3 py-5 megamenu-right-panel">
+                        <span class="d-block mb-3" role="heading">More Resources</span>
+                                <a href="/notary/get-exam-information" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Get Exam Information
+                                </a>
+                                <a href="/notary/scheduled-applicants" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Scheduled Applicants
+                                </a>
+                                <a href="/notary/search-for-notaries" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Search For Louisiana Notaries
+                                </a>
+                                <a href="/notary/ex-officio-status" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Nonresident Attorney Ex-Officio Status
+                                </a>
+                                <a href="/notary/education-providers-registry" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Education Providers Registry
+                                </a>
+                                <a href="/notary/register-as-an-education-provider" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Register As An Education  Provider
+                                </a>
+                                <a href="/notary/ron-requirements" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    RON Requirements
+                                </a>
+                                <a href="/notary/technology-providers-registry" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Technology Providers Registry
+                                </a>
+                                <a href="/notary/forms-fee-schedule" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Forms &amp; Fee Schedule
+                                </a>
+                                <a href="/notary/frequently-asked-questions" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Frequently Asked Questions
+                                </a>
+                                <a href="/notary/notary-certifications-contact-us" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Contact Us
+                                </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</li>
+
+
+
+	<li class="nav-item mx-0 mx-lg-1 dropdown text-lg-center has-megamenu">
+			<a class="nav-link py-lg-4 px-1 h-100 dropdown-toggle" href="/archives" id="ee67a8c266544586b5d32d0852bff4ef" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img class="d-lg-block mx-lg-auto p-1" src="/media/1ofbo2w4/nav-archive.svg" alt="">
+                Archives &amp; Museums
+			</a>
+
+		<div class="dropdown-menu megamenu" role="menu">
+            <div class="container-lg">
+                <div class="row">
+                    <div class="col-lg-9 py-5 megamenu-left-panel">
+                            <div class="megamenu-link-group">
+                                <a href="/archives" class="d-block mb-2" role="menuitem" aria-label="Archives">
+                                    Archives
+                                </a>
+                                <div class="d-none d-lg-block" id="e8039ef1-8b89-4005-99fc-2df554b62678"><p>Explore Louisiana's historical records.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/museums" class="d-block mb-2" role="menuitem" aria-label="Museums">
+                                    Museums
+                                </a>
+                                <div class="d-none d-lg-block" id="0e9ab98c-cdd3-4029-b957-84347fe2ff05"><p>Explore Louisiana's State Museums.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/archives/historical-birth-records" class="d-block mb-2" role="menuitem" aria-label="Historical Birth Records">
+                                    Historical Birth Records
+                                </a>
+                                <div class="d-none d-lg-block" id="4d9c79cd-f2d1-4799-a1ea-c6950ead1e75"><p>Historical birth records: Access Louisiana's archived birth certificates and registrations.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/museums/delta-music-museum" class="d-block mb-2" role="menuitem" aria-label="Delta Music Museum">
+                                    Delta Music Museum
+                                </a>
+                                <div class="d-none d-lg-block" id="344d2445-f39d-4515-a773-17c22664921e"><p>Louisiana's diversity of musical styles is showcased here.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/archives/historical-death-records" class="d-block mb-2" role="menuitem" aria-label="Historical Death Records">
+                                    Historical Death Records
+                                </a>
+                                <div class="d-none d-lg-block" id="74bc5f31-0c23-478e-95db-7314c4be7a75"><p>Access historical Louisiana death records from our state archives.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/museums/eddie-g-robinson-museum" class="d-block mb-2" role="menuitem" aria-label="Eddie G. Robinson Museum">
+                                    Eddie G. Robinson Museum
+                                </a>
+                                <div class="d-none d-lg-block" id="c0ab9033-0287-49c5-9dfb-ae3f96dc7315"><p>Pays tribute to “Coach Rob”, the winningest coach in NCAA Division I football.&nbsp;</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/archives/records-management" class="d-block mb-2" role="menuitem" aria-label="Records Management for Agencies">
+                                    Records Management for Agencies
+                                </a>
+                                <div class="d-none d-lg-block" id="7a25da08-241b-4d1e-bd50-5b3280c0a343"><p>Government records management guidelines for Louisiana state agencies.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/museums/germantown-colony-museum" class="d-block mb-2" role="menuitem" aria-label="Germantown Colony Museum">
+                                    Germantown Colony Museum
+                                </a>
+                                <div class="d-none d-lg-block" id="274a8a2e-be64-470a-9bb5-4e2358a09038"><p>The story of a small group of settlers led by the Count and Countess von Leon.</p></div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-3 py-5 megamenu-right-panel">
+                        <span class="d-block mb-3" role="heading">More Resources</span>
+                                <a href="/archives/historical-marriage-records" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Historical Marriage Records
+                                </a>
+                                <a href="/archives/online-catalog" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Online Catalog
+                                </a>
+                                <a href="/archives/collections" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Using The Collections
+                                </a>
+                                <a href="/archives/forms-fees-schedule" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Forms &amp; Fees Schedule
+                                </a>
+                                <a href="/archives/louisiana-historical-records-advisory-board" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Louisiana Historical Records Advisory Board
+                                </a>
+                                <a href="/archives/contact-us" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Contact Us
+                                </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</li>
+
+
+
+	<li class="nav-item mx-0 mx-lg-1 dropdown text-lg-center has-megamenu">
+			<a class="nav-link py-lg-4 px-1 h-100 dropdown-toggle" href="/our-office" id="9614c6f653a0440f8d5400c7592799e4" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <img class="d-lg-block mx-lg-auto p-1" src="/media/b1mmi3wl/nav-office.svg" alt="">
+                Our Office
+			</a>
+
+		<div class="dropdown-menu megamenu" role="menu">
+            <div class="container-lg">
+                <div class="row">
+                    <div class="col-lg-9 py-5 megamenu-left-panel">
+                            <div class="megamenu-link-group">
+                                <a href="/our-office" class="d-block mb-2" role="menuitem" aria-label="Our Office">
+                                    Our Office
+                                </a>
+                                <div class="d-none d-lg-block" id="8f3cae65-48b1-43c5-adbb-fa8f9942138c"><p>Leadership, departments, and mission of the Louisiana Secretary of State.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/our-office/end-of-life-registry-programs" class="d-block mb-2" role="menuitem" aria-label="End of Life Registries">
+                                    End of Life Registries
+                                </a>
+                                <div class="d-none d-lg-block" id="e9ed6707-8e9e-40de-978f-cf80bae2bab5"><p>Registry for wills and living will declarations.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/our-office/learn-about-nancy-landry" class="d-block mb-2" role="menuitem" aria-label="Learn About Nancy Landry">
+                                    Learn About Nancy Landry
+                                </a>
+                                <div class="d-none d-lg-block" id="f4950f12-f49f-41a9-9296-b0336f6508f7"><p>Learn about Louisiana's Secretary of State Nancy Landry's background and role.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/our-office/obtain-publications" class="d-block mb-2" role="menuitem" aria-label="Obtain Publications">
+                                    Obtain Publications
+                                </a>
+                                <div class="d-none d-lg-block" id="f62476ce-4ad9-415b-a6b9-c7e8adc0be6f"><p>Access official Louisiana documents, reports, and informational materials.</p></div>
+                            </div>
+                            <div class="megamenu-link-group">
+                                <a href="/our-office/address-confidentiality-program" class="d-block mb-2" role="menuitem" aria-label="Address Confidentiality Program">
+                                    Address Confidentiality Program
+                                </a>
+                                <div class="d-none d-lg-block" id="97543c56-59a6-49eb-8885-a25397f08df4"><p>Protects address privacy for victims of abuse, stalking, and violence.</p></div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-3 py-5 megamenu-right-panel">
+                        <span class="d-block mb-3" role="heading">More Resources</span>
+                                <a href="/our-office/department-overview" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Department Overview
+                                </a>
+                                <a href="/our-office/government-entity-registries" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Government Entity Registries
+                                </a>
+                                <a href="/our-office/call-before-you-dig" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Call Before You Dig
+                                </a>
+                                <a href="/our-office/flood-protection-authorities" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Flood Protection Authorities
+                                </a>
+                                <a href="/our-office/contact-us" class="d-block mb-3 mb-lg-4" role="menuitem">
+                                    Contact Us
+                                </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+	</li>
+
+
+                <li class="px-1 py-3 py-lg-4">
+                    <a class="search" href="/search" aria-label="search page"><img src="/media/kujh0yrj/nav-search.svg" alt="search icon"></a>
+                </li>
+            </ul>
+
+        </div>
+
+    </div>
+
+</nav>
+
+		
+
+
+
+
+
+
+
+
+<style>
+    .announcement-banner:not(:has(.announcement-item)) {
+        display: none;
+    }
+</style>
+
+<div class="announcement-banner critical">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .announcement-banner:not(:has(.announcement-item)) {
+        display: none;
+    }
+</style>
+
+<div class="announcement-banner normal">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <style>
+        .announcement-message p {
+            margin: 0;
+        }
+    </style>
+    <div class="announcement-item">
+        <div class="announcement-message">
+            <p><a href="/elections-voting/election-dates" title="More information on the election">Elections hotline</a>: 1.800.883.2805</p>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+		
+<section class="hero-banner" data-hero-image="/media/odijxhrd/elections-and-voting-hero.jpg" data-has-image="True" csp-manager-add-nonce-data-attribute="true" style="background-image: url(&quot;/media/odijxhrd/elections-and-voting-hero.jpg&quot;); background-color: rgb(20, 42, 79);">
+    <div class="container">
+        <div class="hero-content">
+
+
+                <div class="headliner">
+                        <span class="headliner-h1">Elections &amp; Voting</span>
+                </div>
+
+                    <h1 class="hero-subheading">Election results and statistics</h1>
+
+        </div>
+    </div>
+</section>
+
+
+		    <nav class="breadcrumb-nav" aria-label="Breadcrumbs navigation">
+        <div class="container py-3">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <ul class="breadcrumb m-0">
+                            <li class="inactive"><a href="/">Home</a> <span class="divider mx-2"><i class="bi bi-chevron-right"></i></span></li>
+                            <li class="inactive"><a href="/elections-voting">Elections &amp; Voting</a> <span class="divider mx-2"><i class="bi bi-chevron-right"></i></span></li>
+                        <li class="active">Election Results &amp; Statistics</li>
+                    </ul>
+                </div>
+                <div>
+                        <a class="p-0 d-print-none print-btn" id="printButton" title="Print this page" tabindex="0" role="button">
+                            <i class="bi bi-printer"></i> Print
+                        </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+	</header>
+
+	<main id="main-content" role="main" tabindex="-1">
+		
+
+
+
+<style>
+    #accordion-section{
+    padding-top: 0px;
+    padding-bottom: 40px;
+    }
+
+    @media print {
+    section.child-page:before {
+    content: "Louisiana Secretary of State \A Nancy Landry"; 
+    white-space: pre-wrap;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+    font-family: Public Sans;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 120%;
+    }
+    }
+</style>
+
+    <section class="child-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 mb-5">
+
+                        <div class="submenu-container">
+                            
+
+
+
+
+<nav class="side-nav-menu" aria-label="Side Navigation">
+    <div class="side-nav-header">
+        <span class="mb-0 mb-lg-5 px-0 px-lg-3">Elections &amp; Voting Menu</span>
+
+        <button class="navbar-toggler d-block d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#side-nav-items" aria-controls="side-nav-items" aria-expanded="false" aria-label="Toggle side navigation">
+            <i class="bi bi-list"></i>
+        </button>
+    </div>
+
+    
+
+    <ul class="list-unstyled mb-0 collapse d-lg-block" id="side-nav-items">
+        
+
+
+
+
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-30964473-a4c6-43d4-8f64-006ac313d763" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-30964473-a4c6-43d4-8f64-006ac313d763" aria-expanded="false" aria-controls="submenu-30964473-a4c6-43d4-8f64-006ac313d763">
+        Voter registration
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-30964473-a4c6-43d4-8f64-006ac313d763" role="region" aria-labelledby="submenu-btn-30964473-a4c6-43d4-8f64-006ac313d763">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/register-to-vote" class="">
+                                Register to vote
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/update-your-registration" class="">
+                                Update your registration
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-0ddc31c7-a833-4917-911a-3062a26dc96e" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-0ddc31c7-a833-4917-911a-3062a26dc96e" aria-expanded="false" aria-controls="submenu-0ddc31c7-a833-4917-911a-3062a26dc96e">
+        Voting in Louisiana
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-0ddc31c7-a833-4917-911a-3062a26dc96e" role="region" aria-labelledby="submenu-btn-0ddc31c7-a833-4917-911a-3062a26dc96e">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/ways-to-vote" class="">
+                                Ways to vote
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/military-overseas-citizens" class="">
+                                Military &amp; overseas citizens
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voting-accessibility-assistance" class="">
+                                Voting accessibility &amp; assistance
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-f55eff63-3ac6-4a50-bd14-952474eae7f1" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-f55eff63-3ac6-4a50-bd14-952474eae7f1" aria-expanded="false" aria-controls="submenu-f55eff63-3ac6-4a50-bd14-952474eae7f1">
+        Elections information
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-f55eff63-3ac6-4a50-bd14-952474eae7f1" role="region" aria-labelledby="submenu-btn-f55eff63-3ac6-4a50-bd14-952474eae7f1">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/election-dates" class="">
+                                Election dates
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/sample-ballots" class="">
+                                Sample ballots
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/polling-locations" class="">
+                                Polling locations
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/elections-forms" class="">
+                                Elections forms
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/conduct-exit-polls" class="">
+                                Conduct exit poll
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/register-a-political-party" class="">
+                                Register a political party
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/get-election-costs" class="">
+                                Get Election Costs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/sign-up-for-election-alerts" class="">
+                                Sign up for election alerts
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-3dc3e674-6436-4ee1-a55e-f71e457773eb" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-3dc3e674-6436-4ee1-a55e-f71e457773eb" aria-expanded="false" aria-controls="submenu-3dc3e674-6436-4ee1-a55e-f71e457773eb">
+        Get involved
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-3dc3e674-6436-4ee1-a55e-f71e457773eb" role="region" aria-labelledby="submenu-btn-3dc3e674-6436-4ee1-a55e-f71e457773eb">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/become-an-election-worker" class="">
+                                Become an election worker
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/organize-a-registration-drive" class="">
+                                Organize a voter registration drive
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/poll-watchers" class="">
+                                Poll watchers
+                            </a>
+                    </li>
+                    <li>
+                            <a href="https://coraweb.sos.la.gov/veteran/veteranrequest.aspx" class="">
+                                Dedicate your vote to a vet
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-a0f1befe-5d72-4556-8179-d01eead1966f" class="active" data-bs-toggle="collapse" data-bs-target="#submenu-a0f1befe-5d72-4556-8179-d01eead1966f" aria-expanded="true" aria-controls="submenu-a0f1befe-5d72-4556-8179-d01eead1966f">
+        Elections report &amp; statistics
+    </button>
+    <div class="side-nav-sub-menu collapse show" id="submenu-a0f1befe-5d72-4556-8179-d01eead1966f" role="region" aria-labelledby="submenu-btn-a0f1befe-5d72-4556-8179-d01eead1966f">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/election-results-statistics" class="active" aria-current="page">
+                                Election results &amp; statistics
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voter-registration-statistics" class="">
+                                Voter registration statistics
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-d60936ab-487f-4e59-8cdd-d7a55690d3b3" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-d60936ab-487f-4e59-8cdd-d7a55690d3b3" aria-expanded="false" aria-controls="submenu-d60936ab-487f-4e59-8cdd-d7a55690d3b3">
+        Candidates
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-d60936ab-487f-4e59-8cdd-d7a55690d3b3" role="region" aria-labelledby="submenu-btn-d60936ab-487f-4e59-8cdd-d7a55690d3b3">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/qualify-for-an-election" class="">
+                                How to qualify as a candidate
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/campaign-requirements" class="">
+                                Campaign requirements
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/search-for-candidates" class="">
+                                Search for candidates
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/ballot-numbers" class="">
+                                Ballot numbers
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/purchase-voter-lists" class="">
+                                Purchase voter list
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/withdraw-from-an-election" class="">
+                                Withdraw from election
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/monitoring-an-election" class="">
+                                Monitoring an election
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/forms-publications-for-candidates" class="">
+                                Forms &amp; publications for candidates
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-35b7e48c-d331-4ea6-9daa-36e52234a9f3" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-35b7e48c-d331-4ea6-9daa-36e52234a9f3" aria-expanded="false" aria-controls="submenu-35b7e48c-d331-4ea6-9daa-36e52234a9f3">
+        Election officials
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-35b7e48c-d331-4ea6-9daa-36e52234a9f3" role="region" aria-labelledby="submenu-btn-35b7e48c-d331-4ea6-9daa-36e52234a9f3">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/election-guides-handbooks" class="">
+                                Election guides &amp; handbooks
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/resources-for-clerks-registrars" class="">
+                                Resources for clerks &amp; registrars
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-ce551195-7291-4869-bcd9-8de1832c3b43" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-ce551195-7291-4869-bcd9-8de1832c3b43" aria-expanded="false" aria-controls="submenu-ce551195-7291-4869-bcd9-8de1832c3b43">
+        Public officials
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-ce551195-7291-4869-bcd9-8de1832c3b43" role="region" aria-labelledby="submenu-btn-ce551195-7291-4869-bcd9-8de1832c3b43">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/find-public-officials" class="">
+                                Find public officials
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/recall-an-elected-official" class="">
+                                Recall an elected official
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/file-an-oath-of-office" class="">
+                                File an oath of office
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/file-notice-of-vacancy" class="">
+                                File notice of vacancy
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/order-certificates-or-id-cards" class="">
+                                Order certificates or ID cards
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-c61c18cf-e900-42f4-a646-e7d91c7d83ed" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-c61c18cf-e900-42f4-a646-e7d91c7d83ed" aria-expanded="false" aria-controls="submenu-c61c18cf-e900-42f4-a646-e7d91c7d83ed">
+        Election education
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-c61c18cf-e900-42f4-a646-e7d91c7d83ed" role="region" aria-labelledby="submenu-btn-c61c18cf-e900-42f4-a646-e7d91c7d83ed">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/types-of-elections" class="">
+                                Types of elections
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/how-candidates-are-elected" class="">
+                                How candidates are elected
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/election-brochures" class="">
+                                Election brochures
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/redistricting-information" class="">
+                                Redistricting information
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/get-involved" class="">
+                                Get involved
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voter-outreach" class="">
+                                Voter outreach &amp; education
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voting-machine-demo" class="">
+                                Request a voting machine demo
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-f33bc9ac-7732-4a15-ba17-b869a70a5ee2" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-f33bc9ac-7732-4a15-ba17-b869a70a5ee2" aria-expanded="false" aria-controls="submenu-f33bc9ac-7732-4a15-ba17-b869a70a5ee2">
+        Election integrity information
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-f33bc9ac-7732-4a15-ba17-b869a70a5ee2" role="region" aria-labelledby="submenu-btn-f33bc9ac-7732-4a15-ba17-b869a70a5ee2">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/election-security" class="">
+                                Election security
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/report-election-fraud" class="">
+                                Report election fraud
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/file-a-complaint" class="">
+                                File a complaint
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-90da8d96-b9b7-44a2-b9e0-91b0e5039bb1" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-90da8d96-b9b7-44a2-b9e0-91b0e5039bb1" aria-expanded="false" aria-controls="submenu-90da8d96-b9b7-44a2-b9e0-91b0e5039bb1">
+        Laws, policies &amp; administration
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-90da8d96-b9b7-44a2-b9e0-91b0e5039bb1" role="region" aria-labelledby="submenu-btn-90da8d96-b9b7-44a2-b9e0-91b0e5039bb1">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/elections-history" class="">
+                                Administration &amp; elections history
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/administrative-rules" class="">
+                                Administrative rules
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/federal-voting-laws" class="">
+                                Federal voting laws
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/preserve-a-proces-verbal" class="">
+                                Preserve proces verbal
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/task-forces-study-groups" class="">
+                                Task forces &amp; study groups
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/certification-of-voting-systems" class="">
+                                Certification of Voting Systems
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-d8113873-af6b-4543-8ada-baa97f456d99" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-d8113873-af6b-4543-8ada-baa97f456d99" aria-expanded="false" aria-controls="submenu-d8113873-af6b-4543-8ada-baa97f456d99">
+        Frequently asked questions
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-d8113873-af6b-4543-8ada-baa97f456d99" role="region" aria-labelledby="submenu-btn-d8113873-af6b-4543-8ada-baa97f456d99">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/frequently-asked-questions" class="">
+                                FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voter-registration-faqs" class="">
+                                Voter registration FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/absentee-voting-faqs" class="">
+                                Absentee voting FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voting-early-faqs" class="">
+                                Early voting FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/before-an-election-faqs" class="">
+                                Before an Election FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/after-an-election-faqs" class="">
+                                After an Election FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voting-on-election-day-faqs" class="">
+                                Election day voting FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/provisional-voting-faqs" class="">
+                                Provisional voting FAQs
+                            </a>
+                    </li>
+                    <li>
+                            <a href="/elections-voting/voter-lists-faqs" class="">
+                                Voter lists FAQs
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+<li class="mb-0 mb-lg-3">
+    <button id="submenu-btn-9667d495-162d-406c-96c2-6c51c060f478" class="collapsed" data-bs-toggle="collapse" data-bs-target="#submenu-9667d495-162d-406c-96c2-6c51c060f478" aria-expanded="false" aria-controls="submenu-9667d495-162d-406c-96c2-6c51c060f478">
+        Contact us
+    </button>
+    <div class="side-nav-sub-menu collapse " id="submenu-9667d495-162d-406c-96c2-6c51c060f478" role="region" aria-labelledby="submenu-btn-9667d495-162d-406c-96c2-6c51c060f478">
+        <ul class="list-unstyled">
+                    <li>
+                            <a href="/elections-voting/contact-us" class="">
+                                Contact us
+                            </a>
+                    </li>
+        </ul>
+    </div>
+</li>
+
+    </ul>
+</nav>
+                        </div>
+            </div>
+
+            <div class="col-lg-9 ps-lg-5">
+                <h2 class="title-1 mb-5 pb-lg-3 pb-sm-0">Find Results and Statistics</h2>
+
+
+
+
+
+
+
+
+<h3 class="title-3 mb-4" id="Election_results">Election results</h3>
+
+    <div class="richtext-body pb-3">
+        <p><a rel="noopener" href="https://voterportal.sos.la.gov/graphical" target="_blank" title="Graphical election results (opens in a new tab)" aria-label="Graphical election results (opens in a new tab)">Graphical election results</a> may be viewed for federal, state and local elections. This site is mobile-friendly and includes statistics, dynamic mapping of selected results, printing capabilities and export to CSV functionality. CSV functionality is not available on election night until 11 p.m. Results from prior elections may not be available on the graphical site on election night.</p>
+    </div>
+
+
+
+<h3 class="title-3 mb-4" id="Early_voting_statistics">Early voting statistics</h3>
+
+    <div class="richtext-body pb-3">
+        <p>Cumulative early voting statistics are published one business day after each day of the early voting period (for example, statistics for Saturday are posted the following Monday).</p>
+<p>The total number of votes is listed under the <strong>VOTES </strong>column on the far left. The second <strong>VOTES </strong>column breaks down the number of in person and mail voters. In person is represented as <strong>INP </strong>and&nbsp;<strong>ABS </strong>includes the number of voters casting mail ballots.</p>
+<p>The&nbsp;<strong>ASST</strong> header lists those persons requesting assistance in voting (represented by column labeled&nbsp;<strong>D -&nbsp;Disabled</strong> and <strong>I - Illiterate</strong>).</p>
+<p><strong>UOCAVA </strong>(Uniformed and&nbsp;Overseas Citizens Absentee Voting&nbsp;Act)&nbsp;represents the number of voters exercising their right to vote&nbsp;who are military and overseas civilians. The <strong>IN </strong>column represents voters residing in the USA and <strong>OUT </strong>represents voters residing outside of the country.</p>
+<p><a href="/elections-voting/early-voting-statistics-statewide" title="Early Voting Statistics - Statewide">Statewide</a><br><a href="/elections-voting/early-voting-statistics-parish" title="Early Voting Statistics - Parish">Parish</a></p>
+<p><a href="/elections-voting/absentee-voter-list" title="Absentee Voter List">List of absentee by mail and early voters</a></p>
+<p>The names of voters includes those who voted in person during early voting and those whose absentee ballots have been received by the registrar of voters. This list of voters does not account for subsequent changes, if any, made by a registrar. Those changes will be found on the cumulative report at the end of early voting.</p>
+    </div>
+
+
+
+<h3 class="title-3 mb-4" id="Absentee_ballot_rejection_statistics">Absentee ballot rejection statistics</h3>
+
+    <div class="richtext-body pb-3">
+        <p>Data of absentee by mail ballots rejected for cause by Parish Board of Election Supervisors on election day, as recorded by each parish registrar of voters and reported by the parish.</p>
+<p><a href="/elections-voting/absentee-rejection-statistics" title="Absentee Rejection Statistics">Statewide</a></p>
+    </div>
+
+
+
+<h3 class="title-3 mb-4" id="Post_election_turnout_statistics">Post election turnout statistics</h3>
+
+    <div class="richtext-body pb-3">
+        <p>Post election turnout statistics are published after all parish registrar of voters complete their work in giving each voter credit for voting in the election and auditing. This may take up to two weeks following the election.</p>
+<p>If you are viewing a report that identifies the parish by number instead of name, use this&nbsp;<a rel="noopener" href="/media/054bv5hr/parish-list.pdf" target="_blank" title="Parish List (opens in a new tab)" aria-label="Parish List (opens in a new tab)">parish list by number</a>&nbsp;to identify it.</p>
+<p><a href="/elections-voting/statewide-post-election-statistics" title="Statewide Post Election Statistics">Statewide</a><br><a href="/elections-voting/post-election-statistics-by-parish" title="Post Election Statistics by Parish">Parish</a></p>
+<p>For election statistics prior to 2007, you may&nbsp;need to&nbsp;review the&nbsp;<a href="/elections-voting/post-election-statistic-files" title="Post Election Statistic Files">text and Excel file layouts</a>.</p>
+    </div>
+          </div>
+        </div>
+    </div>
+</section>
+
+
+	</main>
+
+			<!-- IBM Watson help -- BEGIN -->
+			<style>
+
+
+				/* Animation to slide the chat launcher closed */
+				@keyframes slideClosed {
+					to
+
+				{
+					width: 67px;
+				}
+
+				}
+
+				/* Chat launcher button */
+				button.chatLauncher {
+					display: none;
+					padding: 28px;
+					border-radius: 16px;
+					animation-duration: 0.5s; /* This animation duration is for the hover/focus style */
+					transition-duration: 0.5s;
+					position: fixed;
+					height: 60px;
+					bottom: 32px;
+					right: 32px;
+					z-index: 9999;
+					border: none;
+					padding: 7px;
+					margin: 0;
+					text-decoration: none;
+					background: #00356E;
+					color: white;
+					line-height: 1.4;
+					font-size: 14px;
+					cursor: pointer;
+					text-align: center;
+					-webkit-appearance: none;
+					-moz-appearance: none;
+					width: 350px;
+					opacity: 1;
+					min-width: 0;
+				}
+
+					/* Animate the launcher closed to a smaller version after a delay */
+					button.chatLauncher.open {
+						animation-name: slideClosed;
+						animation-duration: 0.25s;
+						animation-delay: 6s;
+						animation-fill-mode: forwards;
+					}
+
+					/* On hover / focus show a highlight affect */
+					button.chatLauncher:hover,
+					button.chatLauncher:focus {
+						background: #00254F;
+					}
+
+				.watson-button-body {
+					padding: 0 10px 0 10px;
+				}
+
+					.watson-button-body #launcherText {
+						float: left;
+						text-align: left;
+					}
+
+				.watson-chat-icon {
+					float: right;
+					height: 40px;
+					padding-top: 5px;
+				}
+
+				.disclaimer-icon {
+					float: left!important;
+					padding-right: 10px!important;
+				}
+
+				.watson-visible {
+					display: block !important;
+				}
+
+				.watson-hidden {
+					display: none !important;
+				}
+
+				.watson-launcher-parent {
+					display: block;
+					visibility: visible;
+					height: 0px;
+				}
+			</style>
+			<!-- We want to hide this element initially, because Web Chat isn't ready yet. -->
+			<button type="button" class="chatLauncher" title="Virtual assistant can answer questions about voting in Louisiana">
+				<div class="watson-button-body">
+					<div id="launcherText">
+						Voting questions?<br>
+						Chat with our <strong>virtual assistant</strong>
+					</div>
+					<div class="watson-chat-icon">
+						<svg focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="32" height="32" viewBox="0 0 32 32" aria-hidden="true" class="WACLauncher__svg"><path d="M17.74,30,16,29l4-7h6a2,2,0,0,0,2-2V8a2,2,0,0,0-2-2H6A2,2,0,0,0,4,8V20a2,2,0,0,0,2,2h9v2H6a4,4,0,0,1-4-4V8A4,4,0,0,1,6,4H26a4,4,0,0,1,4,4V20a4,4,0,0,1-4,4H21.16Z"></path><path d="M8 10H24V12H8zM8 16H18V18H8z"></path></svg>
+					</div>
+				</div>
+			</button>
+			<script nonce="">
+				window.watsonAssistantChatOptions = {
+					// ID for the Assistant: State of Louisiana Voter Assistant
+					integrationID: "4ce8e113-2149-4203-b62f-2a7763a7c23a",
+					region: 'us-south',
+					// The region your integration is hosted in.
+					serviceInstanceID: '8d5d68c3-187e-4873-a702-e04af0f79dfa', // The ID of your service instance.
+					__ibm__: {
+						botNameOverride: 'Louisiana Voter Assistant'
+					},
+					disclaimer: {
+						isOn: true,
+						disclaimerHTML: '<p><img class="disclaimer-icon" src="https://voterportal.sos.la.gov/Images/sos_seal_bw_64_x_64.png" />This tool is intended to provide information on voting in the state of Louisiana. Although the Louisiana Department of State makes reasonable efforts to present accurate and reliable information through the tool, the information is subject to change and correction.</p>' +
+							'<p>Please do not submit any confidential, proprietary or sensitive personally identifiable information (e.g. Social Security Number; date of birth; or drivers license number) (collectively, "Sensitive Information"). If you submit any Sensitive Information, you do so at your own risk and we will not be liable to you or responsible for consequences of your submission.</p>'
+					},
+					clientVersion: '7',
+					// use null or emtpy string for latest
+					openChatByDefault: false,
+					showLauncher: false,
+								
+					onLoad: watsonLoaded
+				};
+				setTimeout(function () {
+					const t = document.createElement('script');
+					t.src = "https://web-chat.global.assistant.watson.appdomain.cloud/versions/" +
+						(window.watsonAssistantChatOptions.clientVersion || 'latest') +
+						"/WatsonAssistantChatEntry.js";
+					document.head.appendChild(t);
+				});
+				function watsonLoaded(instance) {
+					// Select the button element from the page.
+					var button = document.querySelector('.chatLauncher');
+					// Add the event listener to open your Web Chat.
+					button.addEventListener('click', function () {
+						instance.openWindow();
+					});
+					// Render the Web Chat. Nothing appears on the page, because the launcher is hidden and the Web Chat window is closed by default.
+					instance.render().then(function () {
+						button.classList.add('watson-visible');
+						button.parentElement.classList.add('watson-launcher-parent');
+						button.classList.add('open');
+					});
+
+					// We want to hide the launcher text right before we slide the control closed.
+				setTimeout(function () {
+					var launcherDiv = document.getElementById('launcherText');
+					if (launcherDiv) {
+						launcherDiv.classList.add('watson-hidden');
+					}
+				}, 5900);
+					// IMPORTANT: This timeout value should be slightly less than the chatLauncher animation-delay CSS Setting above.
+				}
+			</script>
+			<!-- IBM Watson help -- END -->
+
+	
+
+<footer class="" id="footer" aria-label="footer">
+    <div class="container py-5">
+        <div class="headliner mb-5">
+            <h3>Contact Us</h3>
+        </div>
+        <div class="footer-content">
+            
+
+<div class="row mb-3">
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">Physical Address</h4>
+	</div>
+	<div class="link-columns">
+			<p>8585 Archives Ave.<br>Baton Rouge, LA 70809</p>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">Mail</h4>
+	</div>
+	<div class="link-columns">
+			<p>P.O. Box 94125<br>Baton Rouge,<br>LA 70804-9125</p>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">Phone</h4>
+	</div>
+	<div class="link-columns">
+			<p>225.922.2880</p>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+    <style>
+        .social-link {
+            text-decoration: none;
+        }
+
+        .social-link-container {
+            margin-bottom: 3rem;
+            margin-top: 3.125rem;
+            display: flex;
+            gap: 0.625rem;
+        }
+
+        @media (max-width: 767px) {
+            .social-link-container {
+                margin-top: 0px;
+            }
+        }
+    </style>
+<div class="social-link-container">
+        <a class="social-link svg-06ab8f68a2c74291aefbe70e0d8721f9" href="https://www.facebook.com/Louisianasos" title="Facebook (opens in a new tab)" target="_blank" aria-label="Facebook (opens in a new tab)">
+            <img src="/media/lghlwbwh/facebook.svg" alt="Facebook icon">
+        </a>
+        <a class="social-link svg-1070056ae99e489188ca37417a893def" href="https://www.twitter.com/Louisiana_sos" title="X (opens in a new tab)" target="_blank" aria-label="X (opens in a new tab)">
+            <img src="/media/lmchaee4/twitter.svg" alt="X icon">
+        </a>
+        <a class="social-link svg-4771aa42b0c940e0b48ab44c16040410" href="https://www.youtube.com/SofState" title="YouTube (opens in a new tab)" target="_blank" aria-label="YouTube (opens in a new tab)">
+            <img src="/media/oovhcr4j/youtube.svg" alt="YouTube icon">
+        </a>
+        <a class="social-link svg-e5bd0841a8834c28a04ef5026b53c61d" href="https://www.instagram.com/louisianasos" title="Instagram (opens in a new tab)" target="_blank" aria-label="Instagram (opens in a new tab)">
+            <img src="/media/oael1zmd/instagram.svg" alt="Instagram icon">
+        </a>
+</div>
+
+    </div>
+</div>
+<div class="row mb-3">
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">By Division</h4>
+	</div>
+	<div class="link-columns">
+			<ul>
+<li><a href="/business-services" title="Business Services">Business Services</a></li>
+<li><a href="/elections-voting" title="Elections &amp; Voting">Elections &amp; Voting</a></li>
+<li><a href="/notary" title="Notary">Notary</a></li>
+</ul>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+
+	<div class="link-columns">
+		<div class="link-column no-title">
+			<ul>
+<li><a href="/notary" title="Notary &amp; Certifications"></a><a href="/certifications" title="Certifications">Certifications</a></li>
+<li><a href="/archives" title="Archives">Archives</a></li>
+<li><a href="/museums" title="Museums">Museums</a></li>
+</ul>
+		</div>
+	</div>
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+
+	<div class="link-columns">
+		<div class="link-column no-title">
+			<ul>
+<li><a href="/our-office" title="Our Office">Our Office</a></li>
+</ul>
+		</div>
+	</div>
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+    </div>
+</div>
+<div class="row mb-3">
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">Compliance</h4>
+	</div>
+	<div class="link-columns">
+			<ul>
+<li><a href="/our-office/administrative-rules" title="Administrative Rules">Administrative Rules</a></li>
+<li><a rel="noopener" href="/media/hs1dvw0d/20-sexual-harassment-in-the-workplace-73125.pdf" target="_blank" title="SOS Policy Against Sexual Harassment (opens in a new tab)" aria-label="SOS Policy Against Sexual Harassment (opens in a new tab)">SOS Policy Against Sexual Harassment</a></li>
+</ul>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+	<div class="headliner">
+		<h4 class="text-uppercase mb-4">Site Information</h4>
+	</div>
+	<div class="link-columns">
+			<ul>
+<li><a href="/disclaimer" title="Disclaimer" data-anchor="#">Disclaimer</a></li>
+<li><a href="/accessibility" title="Accessibility" data-anchor="#">Accessibility</a></li>
+</ul>
+	</div>
+
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+
+
+	<div class="link-columns">
+		<div class="link-column no-title">
+			<ul>
+<li><a href="/security-privacy" title="Security &amp; Privacy" data-anchor="#">Security &amp; Privacy</a></li>
+<li><a href="/report-a-problem" title="Report a Problem" data-anchor="#">Report a Problem</a></li>
+</ul>
+		</div>
+	</div>
+
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3 mb-lg-4 mb-sm-0">
+        
+
+    </div>
+</div>
+        </div>
+    </div>
+    <div class="copyright py-4 text-center">
+        <div class="container"><p>© 2026 Louisiana Department of State</p> </div>
+    </div>
+</footer>
+
+
+	<script src="/scripts/bootstrap.bundle.min.js"></script>
+	<script src="/scripts/swiper-bundle.min.js"></script>
+	<script src="/scripts/sosscript.js"></script>
+
+	
+
+
+
+</body></html>

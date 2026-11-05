@@ -1,0 +1,294 @@
+[
+ {
+  "name": "pa_all_elections",
+  "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetAllElections?methodName=GetAllElections",
+  "mode": "raw",
+  "bytes": 0,
+  "ok": false,
+  "error": "raw 已写入 9000（0 字节）\n"
+ },
+ {
+  "name": "pa_latest",
+  "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
+  "mode": "raw",
+  "bytes": 0,
+  "ok": false,
+  "error": "raw 已写入 9000（0 字节）\n"
+ },
+ {
+  "name": "pa_office_names",
+  "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetOfficeNames?methodName=GetOfficeNames",
+  "mode": "raw",
+  "bytes": 0,
+  "ok": false,
+  "error": "raw 已写入 9000（0 字节）\n"
+ },
+ {
+  "name": "pa_dashboard",
+  "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetDashboardMessage?methodName=GetDashboardMessage",
+  "mode": "raw",
+  "bytes": 0,
+  "ok": false,
+  "error": "raw 已写入 9000（0 字节）\n"
+ },
+ {
+  "name": "pa_home",
+  "url": "https://www.electionreturns.pa.gov/",
+  "mode": "html",
+  "bytes": 614412,
+  "ok": true
+ },
+ {
+  "name": "hi_summary",
+  "url": "https://elections.hawaii.gov/wp-content/results/2026%20General/summary.txt",
+  "mode": "raw",
+  "bytes": 0,
+  "ok": false,
+  "error": "raw 已写入 9000（12690 字节）\n"
+ },
+ {
+  "name": "hi_media",
+  "url": "https://elections.hawaii.gov/wp-content/results/2026%20General/media.txt",
+  "mode": "raw",
+  "bytes": 0,
+  "ok": false,
+  "error": "raw 已写入 9000（20962 字节）\n"
+ },
+ {
+  "name": "dc_results",
+  "url": "https://electionresults.dcboe.org/election_results/2026-General-Election",
+  "mode": "html",
+  "bytes": 89486,
+  "ok": true
+ },
+ {
+  "name": "fl_results",
+  "url": "https://results.elections.myflorida.com/",
+  "mode": "html",
+  "bytes": 32024,
+  "ok": true
+ },
+ {
+  "name": "ms_results",
+  "url": "https://www.sos.ms.gov/elections-voting/election-results",
+  "mode": "html",
+  "bytes": 360266,
+  "ok": true
+ },
+ {
+  "name": "sc_results",
+  "url": "https://scvotes.gov/2026-general-election-results/",
+  "mode": "html",
+  "bytes": 118796,
+  "ok": true
+ },
+ {
+  "name": "wi_results",
+  "url": "https://elections.wi.gov/elections/election-results",
+  "mode": "html",
+  "bytes": 488178,
+  "ok": true
+ },
+ {
+  "name": "tn_results",
+  "url": "https://tnmap.tn.gov/electionresults/",
+  "mode": "html",
+  "bytes": 20290,
+  "ok": true
+ },
+ {
+  "name": "ak_results",
+  "url": "https://www.elections.alaska.gov/election-results/",
+  "mode": "html",
+  "bytes": 260080,
+  "ok": true
+ },
+ {
+  "name": "mt_api",
+  "url": "https://biz.sosmt.gov/api/report/FromActiveReport/0/Agents/0",
+  "mode": "raw",
+  "bytes": 0,
+  "ok": false,
+  "error": "raw 已写入 9000（20 字节）\n"
+ },
+ {
+  "name": "nm_results",
+  "url": "https://nmresults.azurewebsites.net/resultsList.aspx?type=cty&map=CTY",
+  "mode": "html",
+  "bytes": 0,
+  "ok": false,
+  "error": "NAV_FAILED: nmresults.azurewebsites.net | 无法访问此网站\n\nnmresults.azurewebsites.net 意外终止了连接。\n\n请试试以下办法：\n\n检查网络连接\n检查代理服务器和防火墙\nERR_CONNECTION_CLOSED\n重新加载\n详情\n"
+ },
+ {
+  "name": "nv_results",
+  "url": "https://www.nvsos.gov/sos/elections/election-results/2026-election-results",
+  "mode": "html",
+  "bytes": 195774,
+  "ok": true
+ },
+ {
+  "name": "la_results",
+  "url": "https://www.sos.la.gov/elections-voting/election-results-statistics",
+  "mode": "html",
+  "bytes": 151258,
+  "ok": true
+ },
+ {
+  "name": "nc_results",
+  "url": "https://2026.ncsbe.gov/election-results",
+  "mode": "html",
+  "bytes": 0,
+  "ok": false,
+  "error": "NAV_FAILED: 2026.ncsbe.gov | 无法访问此网站\n\n2026.ncsbe.gov 意外终止了连接。\n\n请试试以下办法：\n\n检查网络连接\n检查代理服务器和防火墙\nERR_CONNECTION_CLOSED\n重新加载\n详情\n"
+ },
+ {
+  "name": "ok_results",
+  "url": "https://oklahoma.ok.gov/elections/election-results.html",
+  "mode": "html",
+  "bytes": 0,
+  "ok": false,
+  "error": "NAV_FAILED: oklahoma.ok.gov | 无法访问此网站\n\noklahoma.ok.gov 意外终止了连接。\n\n请试试以下办法：\n\n检查网络连接\n检查代理服务器和防火墙\nERR_CONNECTION_CLOSED\n重新加载\n详情\n"
+ },
+ {
+  "name": "or_results",
+  "url": "https://sos.oregon.gov/elections/elections-results/Pages/results.aspx",
+  "mode": "html",
+  "bytes": 2344920,
+  "ok": true
+ },
+ {
+  "name": "ne_results",
+  "url": "https://electionresults.nebraska.gov/",
+  "mode": "html",
+  "bytes": 112668,
+  "ok": true
+ },
+ {
+  "name": "nh_results",
+  "url": "https://www.sos.nh.gov/elections/election-results",
+  "mode": "html",
+  "bytes": 706,
+  "ok": true
+ },
+ {
+  "name": "sd_results",
+  "url": "https://electionresults.sd.gov/",
+  "mode": "html",
+  "bytes": 90846,
+  "ok": true
+ },
+ {
+  "name": "wy_results",
+  "url": "https://sos.wyo.gov/Elections/ElectionResults.aspx",
+  "mode": "html",
+  "bytes": 92778,
+  "ok": true
+ },
+ {
+  "name": "in_results",
+  "url": "https://indianavoters.in.gov/ENRHistorical/ElectionResults",
+  "mode": "html",
+  "bytes": 10130,
+  "ok": true
+ },
+ {
+  "name": "ky_results",
+  "url": "https://vrsws.sos.ky.gov/liveresults/",
+  "mode": "html",
+  "bytes": 0,
+  "ok": false,
+  "error": "file:///Users/guofengrui/WorkBuddy/2026-11-04-10-56-52/us-midterm-2026/scripts/browser.mjs:66\n      setTimeout(() => { if (this.pending.has(id)) { this.pending.delete(id); reject(new Error('timeout ' "
+ },
+ {
+  "name": "nj_results",
+  "url": "https://nj.gov/state/elections/election-results.shtml",
+  "mode": "html",
+  "bytes": 164875,
+  "ok": true
+ },
+ {
+  "name": "mt_results",
+  "url": "https://sosmt.gov/elections/results/",
+  "mode": "html",
+  "bytes": 18128,
+  "ok": true
+ },
+ {
+  "name": "ct_results",
+  "url": "https://portal.ct.gov/sots/election-results/2026-election-results",
+  "mode": "html",
+  "bytes": 107715,
+  "ok": true
+ },
+ {
+  "name": "al_results",
+  "url": "https://www.sos.alabama.gov/alabama-votes/election-results",
+  "mode": "html",
+  "bytes": 78832,
+  "ok": true
+ },
+ {
+  "name": "md_results",
+  "url": "https://elections.maryland.gov/election_results/2026-general-election-results",
+  "mode": "html",
+  "bytes": 58655,
+  "ok": true
+ },
+ {
+  "name": "me_results",
+  "url": "https://www.maine.gov/sos/elec/election-results/index.html",
+  "mode": "html",
+  "bytes": 210268,
+  "ok": true
+ },
+ {
+  "name": "mi_results",
+  "url": "https://www.michigan.gov/sos/elections/election-results-and-data",
+  "mode": "html",
+  "bytes": 735892,
+  "ok": true
+ },
+ {
+  "name": "mn_results",
+  "url": "https://mnvotes.sos.mn.gov/",
+  "mode": "html",
+  "bytes": 162948,
+  "ok": true
+ },
+ {
+  "name": "vt_results",
+  "url": "https://sos.vermontgov/elections/election-results/",
+  "mode": "html",
+  "bytes": 0,
+  "ok": false,
+  "error": "NAV_FAILED: sos.vermontgov | 无法访问此网站\n\nsos.vermontgov 意外终止了连接。\n\n请试试以下办法：\n\n检查网络连接\n检查代理服务器和防火墙\nERR_CONNECTION_CLOSED\n重新加载\n详情\n"
+ },
+ {
+  "name": "wv_results",
+  "url": "https://sos.wv.gov/elections/election-results/",
+  "mode": "html",
+  "bytes": 220706,
+  "ok": true
+ },
+ {
+  "name": "ma_results",
+  "url": "https://www.sec.state.ma.us/divisions/elections/election-results/election-results-2026.htm",
+  "mode": "html",
+  "bytes": 3056,
+  "ok": true
+ },
+ {
+  "name": "nd_results",
+  "url": "https://vip.sos.nd.gov/elections/election-results",
+  "mode": "html",
+  "bytes": 2278,
+  "ok": true
+ },
+ {
+  "name": "ar_results",
+  "url": "https://www.sos.arkansas.gov/elections-for-election-results",
+  "mode": "html",
+  "bytes": 116594,
+  "ok": true
+ }
+]
