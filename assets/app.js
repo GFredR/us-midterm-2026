@@ -513,7 +513,12 @@ async function detectServer() {
   }
 }
 
-/** 触发服务端重新采集，并轮询到完成；静态部署下直接返回 false */
+/**
+ * 触发服务端重新采集。
+ * 服务端是在后台线程里跑全量采集的（51 个州，每州最多 90 秒，最坏要一小时），
+ * 所以这里**不阻塞等待**：触发后立刻返回，页面继续显示当前数据，
+ * 下一轮自动刷新时 /api/status 里的 generated_at 变了就自动换上新快照。
+ */
 async function triggerServerRefresh() {
   if (!state.serverMode) return false;
   setRefreshBtn('采集中');
@@ -536,24 +541,11 @@ async function triggerServerRefresh() {
     setRefreshBtn('');
     return false;
   }
-  // 采集一轮全量通常要几分钟，轮询服务端状态直到这一轮结束
-  const deadline = Date.now() + 25 * 60 * 1000;
-  while (Date.now() < deadline) {
-    await new Promise((r) => setTimeout(r, 5000));
-    let st = null;
-    try {
-      const res = await fetch(SERVER_STATUS_URL, { cache: 'no-store' });
-      if (res.ok) st = await res.json();
-    } catch (e) { /* 忽略单次失败，继续轮询 */ }
-    if (!st) continue;
-    state.serverStatus = st;
-    if (!st.busy && st.runs > 0) {
-      setRefreshBtn('');
-      return true;
-    }
-  }
-  setRefreshBtn('');
-  return false;
+  $('#statusNote').innerHTML =
+    '已触发服务端重新采集各州官方结果，<b>在后台进行</b>（通常几分钟，最坏一小时）；'
+    + '完成后页面会自动换成最新快照。';
+  setTimeout(() => setRefreshBtn(''), 5000);
+  return true;
 }
 
 function setRefreshBtn(mode) {
@@ -571,18 +563,6 @@ async function loadData(manual) {
     await detectServer();
   }
 
-  // 服务端模式：手动刷新时，先让服务端真的去重抓一轮官方结果，再拉最新快照。
-  if (manual && state.serverMode) {
-    const ok = await triggerServerRefresh();
-    if (!ok) {
-      const st = state.serverStatus || {};
-      if (st.last_error) {
-        $('#statusNote').innerHTML =
-          `本轮服务端采集失败，已回退到上一份完好快照：<span style="color:var(--rep)">${esc(String(st.last_error).slice(0, 160))}</span>`;
-      }
-    }
-  }
-
   btn.classList.add('loading');
   try {
     const best = await loadLatest(manual);
@@ -595,6 +575,18 @@ async function loadData(manual) {
     $('#statusNote').textContent = `无法读取 ${DATA_URL}：${err.message}（请先运行 scripts/collect.py 生成数据）`;
   } finally {
     btn.classList.remove('loading');
+  }
+
+  // 手动刷新：服务端模式下触发后台重抓（不阻塞，等它跑完页面自动更新）
+  if (manual && state.serverMode) {
+    const ok = await triggerServerRefresh();
+    if (!ok) {
+      const st = state.serverStatus || {};
+      if (st.last_error) {
+        $('#statusNote').innerHTML =
+          `本轮服务端采集失败，已回退到上一份完好快照：<span style="color:var(--rep)">${esc(String(st.last_error).slice(0, 160))}</span>`;
+      }
+    }
   }
 }
 
