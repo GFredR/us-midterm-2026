@@ -2,7 +2,7 @@
  "meta": {
   "election": "2026 United States General Election",
   "election_date": "2026-11-03",
-  "generated_at": "2026-11-08T18:40:04.478977+00:00",
+  "generated_at": "2026-11-08T22:39:10.604690+00:00",
   "generator": "scripts/collect.py",
   "source_policy": "数据仅来自各州州务卿 / 选举委员会官方结果系统；FEC 在认证后汇编发布。",
   "races_count": 1201,
@@ -32908,26 +32908,26 @@
     {
      "name": "Mark R. Warner",
      "party": "D",
-     "votes": 2202163,
+     "votes": 2202245,
      "pct": 61.3,
      "winner": false
     },
     {
      "name": "Bert Mizusawa",
      "party": "R",
-     "votes": 1380792,
+     "votes": 1380831,
      "pct": 38.44,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 9538,
+     "votes": 9539,
      "pct": 0.27,
      "winner": false
     }
    ],
-   "total_votes": 3592493,
+   "total_votes": 3592615,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -33128,33 +33128,33 @@
     {
      "name": "Tom S. P. Perriello",
      "party": "D",
-     "votes": 174007,
+     "votes": 174030,
      "pct": 48.07,
      "winner": false
     },
     {
      "name": "John J. McGuire III",
      "party": "R",
-     "votes": 181471,
+     "votes": 181493,
      "pct": 50.13,
      "winner": false
     },
     {
      "name": "Cooke C. Harvey",
      "party": "O",
-     "votes": 5819,
+     "votes": 5825,
      "pct": 1.61,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 715,
+     "votes": 716,
      "pct": 0.2,
      "winner": false
     }
    ],
-   "total_votes": 362012,
+   "total_votes": 362064,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -33209,28 +33209,28 @@
     {
      "name": "Eugene S. Vindman",
      "party": "D",
-     "votes": 192456,
-     "pct": 59.77,
+     "votes": 192494,
+     "pct": 59.78,
      "winner": false
     },
     {
      "name": "Doug A. Ollivant",
      "party": "R",
-     "votes": 121285,
+     "votes": 121295,
      "pct": 37.67,
      "winner": false
     },
     {
      "name": "Taner E. Demirci Lopez",
      "party": "O",
-     "votes": 2647,
+     "votes": 2649,
      "pct": 0.82,
      "winner": false
     },
     {
      "name": "Alaha Ahrar",
      "party": "O",
-     "votes": 3057,
+     "votes": 3058,
      "pct": 0.95,
      "winner": false
     },
@@ -33256,7 +33256,7 @@
      "winner": false
     }
    ],
-   "total_votes": 321979,
+   "total_votes": 322030,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -33325,14 +33325,14 @@
     {
      "name": "Joy A. Powers",
      "party": "D",
-     "votes": 99837,
+     "votes": 99851,
      "pct": 33.9,
      "winner": false
     },
     {
      "name": "H. Morgan Griffith",
      "party": "R",
-     "votes": 194107,
+     "votes": 194110,
      "pct": 65.9,
      "winner": false
     },
@@ -33344,7 +33344,7 @@
      "winner": false
     }
    ],
-   "total_votes": 294543,
+   "total_votes": 294560,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -34128,19 +34128,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 2212228,
+     "votes": 2212310,
      "pct": 62.6,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 1321714,
+     "votes": 1321750,
      "pct": 37.4,
      "winner": false
     }
    ],
-   "total_votes": 3533942,
+   "total_votes": 3534060,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -34158,19 +34158,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 2054800,
+     "votes": 2054874,
      "pct": 57.62,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 1511455,
+     "votes": 1511499,
      "pct": 42.38,
      "winner": false
     }
    ],
-   "total_votes": 3566255,
+   "total_votes": 3566373,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -34188,19 +34188,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 2017173,
+     "votes": 2017246,
      "pct": 56.67,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 1542152,
+     "votes": 1542196,
      "pct": 43.33,
      "winner": false
     }
    ],
-   "total_votes": 3559325,
+   "total_votes": 3559442,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -40299,7 +40299,7 @@
    "agency": "亚利桑那州州务卿",
    "url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
    "status": "ok",
-   "updated_at": "2026-11-08T18:31:07.363224+00:00",
+   "updated_at": "2026-11-08T22:30:21.465633+00:00",
    "races": 99,
    "note": "99 场竞选"
   },
@@ -40346,7 +40346,7 @@
    "agency": "科罗拉多州州务卿",
    "url": "https://results.enr.clarityelections.com/CO/127407/",
    "status": "ok",
-   "updated_at": "2026-11-08T18:31:40.809815+00:00",
+   "updated_at": "2026-11-08T22:30:54.133604+00:00",
    "races": 285,
    "note": "285 场竞选"
   },
@@ -40377,7 +40377,7 @@
    "agency": "特拉华州选举委员会",
    "url": "https://elections.delaware.gov/results/enr/GE2026.html",
    "status": "ok",
-   "updated_at": "2026-11-08T18:32:06.552389+00:00",
+   "updated_at": "2026-11-08T22:31:19.564815+00:00",
    "races": 43,
    "note": "43 场竞选"
   },
@@ -40504,7 +40504,7 @@
    "agency": "爱荷华州州务卿",
    "url": "https://electionresults.iowa.gov/IA/127077/",
    "status": "ok",
-   "updated_at": "2026-11-08T18:33:41.147787+00:00",
+   "updated_at": "2026-11-08T22:32:51.698592+00:00",
    "races": 274,
    "note": "274 场竞选"
   },
@@ -40951,7 +40951,7 @@
    "agency": "得克萨斯州州务卿",
    "url": "https://electionresults.sos.state.tx.us/results.html",
    "status": "ok",
-   "updated_at": "2026-11-08T18:39:06.098310+00:00",
+   "updated_at": "2026-11-08T22:38:11.614461+00:00",
    "races": 295,
    "note": "295 场竞选"
   },
@@ -40998,7 +40998,7 @@
    "agency": "弗吉尼亚州选举委员会",
    "url": "https://enr.elections.virginia.gov/results/public/api/elections/virginia/2026-November-General/data",
    "status": "ok",
-   "updated_at": "2026-11-08T18:39:30.828954+00:00",
+   "updated_at": "2026-11-08T22:38:37.236375+00:00",
    "races": 32,
    "note": "32 场竞选"
   },
@@ -41013,7 +41013,7 @@
    "agency": "华盛顿州州务卿",
    "url": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
    "status": "ok",
-   "updated_at": "2026-11-08T18:39:31.362686+00:00",
+   "updated_at": "2026-11-08T22:38:37.803961+00:00",
    "races": 173,
    "note": "173 场竞选"
   },
