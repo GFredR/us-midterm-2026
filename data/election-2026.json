@@ -2,7 +2,7 @@
  "meta": {
   "election": "2026 United States General Election",
   "election_date": "2026-11-03",
-  "generated_at": "2026-11-08T00:08:14.227496+00:00",
+  "generated_at": "2026-11-08T06:11:31.624363+00:00",
   "generator": "scripts/collect.py",
   "source_policy": "数据仅来自各州州务卿 / 选举委员会官方结果系统；FEC 在认证后汇编发布。",
   "races_count": 1201,
@@ -415,21 +415,21 @@
     {
      "name": "Adelita Grijalva",
      "party": "D",
-     "votes": 141326,
-     "pct": 71.88,
+     "votes": 142362,
+     "pct": 71.85,
      "winner": false
     },
     {
      "name": "Daniel Francis Butierez Sr.",
      "party": "R",
-     "votes": 54946,
-     "pct": 27.94,
+     "votes": 55428,
+     "pct": 27.97,
      "winner": false
     },
     {
      "name": "Unassigned Write-in",
      "party": "",
-     "votes": 275,
+     "votes": 278,
      "pct": 0.14,
      "winner": false
     },
@@ -441,7 +441,7 @@
      "winner": false
     }
    ],
-   "total_votes": 196624,
+   "total_votes": 198145,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -503,21 +503,21 @@
     {
      "name": "Paul Gosar",
      "party": "R",
-     "votes": 160858,
-     "pct": 57.3,
+     "votes": 161999,
+     "pct": 57.33,
      "winner": false
     },
     {
      "name": "Danielle \"Dani\" Sterbinsky",
      "party": "D",
-     "votes": 119520,
-     "pct": 42.57,
+     "votes": 120181,
+     "pct": 42.53,
      "winner": false
     },
     {
      "name": "Unofficial Write-in",
      "party": "",
-     "votes": 315,
+     "votes": 316,
      "pct": 0.11,
      "winner": false
     },
@@ -543,7 +543,7 @@
      "winner": false
     }
    ],
-   "total_votes": 280752,
+   "total_votes": 282555,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -561,35 +561,35 @@
     {
      "name": "Katie Hobbs (DEM) / John Giles (PND)",
      "party": "D",
-     "votes": 1415725,
-     "pct": 55.61,
+     "votes": 1417447,
+     "pct": 55.6,
      "winner": false
     },
     {
      "name": "Andy Biggs (REP) / Sine Kerr (REP)",
      "party": "R",
-     "votes": 1081317,
-     "pct": 42.47,
+     "votes": 1082850,
+     "pct": 42.48,
      "winner": false
     },
     {
      "name": "Risa Lombardo (GRN) / Lisa Castillo (GRN)",
      "party": "O",
-     "votes": 24080,
+     "votes": 24131,
      "pct": 0.95,
      "winner": false
     },
     {
      "name": "Teri Ann Hourihan (NOL) / Angela Harrolle Mohan (PND)",
      "party": "O",
-     "votes": 23112,
+     "votes": 23150,
      "pct": 0.91,
      "winner": false
     },
     {
      "name": "Unofficial Write-in",
      "party": "",
-     "votes": 1532,
+     "votes": 1533,
      "pct": 0.06,
      "winner": false
     },
@@ -615,7 +615,7 @@
      "winner": false
     }
    ],
-   "total_votes": 2545966,
+   "total_votes": 2549311,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -633,21 +633,21 @@
     {
      "name": "Adrian Fontes",
      "party": "D",
-     "votes": 1383602,
+     "votes": 1385265,
      "pct": 54.85,
      "winner": false
     },
     {
      "name": "Alexander Kolodin",
      "party": "R",
-     "votes": 1099858,
-     "pct": 43.6,
+     "votes": 1101450,
+     "pct": 43.61,
      "winner": false
     },
     {
      "name": "Duwayne Collier",
      "party": "O",
-     "votes": 37679,
+     "votes": 37736,
      "pct": 1.49,
      "winner": false
     },
@@ -661,12 +661,12 @@
     {
      "name": "Unassigned Write-in",
      "party": "",
-     "votes": 412,
+     "votes": 414,
      "pct": 0.02,
      "winner": false
     }
    ],
-   "total_votes": 2522423,
+   "total_votes": 2525737,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -684,14 +684,14 @@
     {
      "name": "Kris Mayes",
      "party": "D",
-     "votes": 1395309,
-     "pct": 55.46,
+     "votes": 1396980,
+     "pct": 55.45,
      "winner": false
     },
     {
      "name": "Warren Petersen",
      "party": "R",
-     "votes": 1118733,
+     "votes": 1120365,
      "pct": 44.47,
      "winner": false
     },
@@ -705,12 +705,12 @@
     {
      "name": "Unassigned Write-in",
      "party": "",
-     "votes": 599,
+     "votes": 604,
      "pct": 0.02,
      "winner": false
     }
    ],
-   "total_votes": 2515925,
+   "total_votes": 2519233,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -728,15 +728,15 @@
     {
      "name": "Nick Mansour",
      "party": "D",
-     "votes": 1341527,
-     "pct": 53.82,
+     "votes": 1343162,
+     "pct": 53.81,
      "winner": false
     },
     {
      "name": "Elijah Norton",
      "party": "R",
-     "votes": 1148999,
-     "pct": 46.09,
+     "votes": 1150658,
+     "pct": 46.1,
      "winner": false
     },
     {
@@ -749,12 +749,12 @@
     {
      "name": "Unassigned Write-in",
      "party": "",
-     "votes": 704,
+     "votes": 707,
      "pct": 0.03,
      "winner": false
     }
    ],
-   "total_votes": 2492745,
+   "total_votes": 2496042,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -772,21 +772,21 @@
     {
      "name": "Teresa Leyba Ruiz",
      "party": "D",
-     "votes": 1327579,
-     "pct": 53.17,
+     "votes": 1329224,
+     "pct": 53.16,
      "winner": false
     },
     {
      "name": "Kimberly Yee",
      "party": "R",
-     "votes": 1166390,
-     "pct": 46.71,
+     "votes": 1168055,
+     "pct": 46.72,
      "winner": false
     },
     {
      "name": "Unofficial Write-in",
      "party": "",
-     "votes": 2069,
+     "votes": 2071,
      "pct": 0.08,
      "winner": false
     },
@@ -812,7 +812,7 @@
      "winner": false
     }
    ],
-   "total_votes": 2496888,
+   "total_votes": 2500200,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -830,15 +830,15 @@
     {
      "name": "Brian Matlock",
      "party": "D",
-     "votes": 1296890,
-     "pct": 52.69,
+     "votes": 1298509,
+     "pct": 52.68,
      "winner": false
     },
     {
      "name": "Walter \"Les\" Presmyk",
      "party": "R",
-     "votes": 1161942,
-     "pct": 47.2,
+     "votes": 1163586,
+     "pct": 47.21,
      "winner": false
     },
     {
@@ -851,12 +851,12 @@
     {
      "name": "Unassigned Write-in",
      "party": "",
-     "votes": 793,
+     "votes": 800,
      "pct": 0.03,
      "winner": false
     }
    ],
-   "total_votes": 2461487,
+   "total_votes": 2464757,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -874,35 +874,35 @@
     {
      "name": "Clara Pratte",
      "party": "D",
-     "votes": 1258878,
+     "votes": 1260418,
      "pct": 27.2,
      "winner": false
     },
     {
      "name": "Jonathon Hill",
      "party": "D",
-     "votes": 1209003,
-     "pct": 26.13,
+     "votes": 1210385,
+     "pct": 26.12,
      "winner": false
     },
     {
      "name": "Kevin Thompson",
      "party": "R",
-     "votes": 1078482,
-     "pct": 23.3,
+     "votes": 1080005,
+     "pct": 23.31,
      "winner": false
     },
     {
      "name": "Ralph Heap",
      "party": "R",
-     "votes": 1009397,
+     "votes": 1010825,
      "pct": 21.81,
      "winner": false
     },
     {
      "name": "Mike Cease",
      "party": "O",
-     "votes": 69662,
+     "votes": 69767,
      "pct": 1.51,
      "winner": false
     },
@@ -916,12 +916,12 @@
     {
      "name": "Unassigned Write-in",
      "party": "",
-     "votes": 791,
+     "votes": 796,
      "pct": 0.02,
      "winner": false
     }
    ],
-   "total_votes": 4627718,
+   "total_votes": 4633701,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -1914,21 +1914,21 @@
     {
      "name": "Brian Fernandez",
      "party": "D",
-     "votes": 33198,
-     "pct": 62.98,
+     "votes": 34175,
+     "pct": 63.08,
      "winner": false
     },
     {
      "name": "Michelle Altherr",
      "party": "R",
-     "votes": 19454,
-     "pct": 36.9,
+     "votes": 19942,
+     "pct": 36.81,
      "winner": false
     },
     {
      "name": "Unassigned Write-in",
      "party": "",
-     "votes": 37,
+     "votes": 39,
      "pct": 0.07,
      "winner": false
     },
@@ -1940,7 +1940,7 @@
      "winner": false
     }
    ],
-   "total_votes": 52714,
+   "total_votes": 54181,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -2002,15 +2002,15 @@
     {
      "name": "Timothy \"Tim\" Dunn",
      "party": "R",
-     "votes": 45796,
-     "pct": 55.35,
+     "votes": 46986,
+     "pct": 55.54,
      "winner": false
     },
     {
      "name": "Laura Huber",
      "party": "D",
-     "votes": 36884,
-     "pct": 44.58,
+     "votes": 37559,
+     "pct": 44.39,
      "winner": false
     },
     {
@@ -2023,12 +2023,12 @@
     {
      "name": "Unassigned Write-in",
      "party": "",
-     "votes": 14,
+     "votes": 15,
      "pct": 0.02,
      "winner": false
     }
    ],
-   "total_votes": 82739,
+   "total_votes": 84605,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -3437,35 +3437,35 @@
     {
      "name": "Mariana Sandoval",
      "party": "D",
-     "votes": 29865,
-     "pct": 31.74,
+     "votes": 30728,
+     "pct": 31.78,
      "winner": false
     },
     {
      "name": "Emilia Cortez",
      "party": "D",
-     "votes": 29782,
-     "pct": 31.65,
+     "votes": 30672,
+     "pct": 31.72,
      "winner": false
     },
     {
      "name": "Michele Peña",
      "party": "R",
-     "votes": 18035,
-     "pct": 19.17,
+     "votes": 18466,
+     "pct": 19.1,
      "winner": false
     },
     {
      "name": "Gary Garcia Snyder",
      "party": "R",
-     "votes": 16325,
-     "pct": 17.35,
+     "votes": 16733,
+     "pct": 17.31,
      "winner": false
     },
     {
      "name": "Unassigned Write-in",
      "party": "",
-     "votes": 41,
+     "votes": 43,
      "pct": 0.04,
      "winner": false
     },
@@ -3477,7 +3477,7 @@
      "winner": false
     }
    ],
-   "total_votes": 94088,
+   "total_votes": 96682,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -3546,22 +3546,22 @@
     {
      "name": "Michael Carbone",
      "party": "R",
-     "votes": 41411,
-     "pct": 35.14,
+     "votes": 42437,
+     "pct": 35.19,
      "winner": false
     },
     {
      "name": "Nickolas \"Nick\" Kupper",
      "party": "R",
-     "votes": 38773,
-     "pct": 32.9,
+     "votes": 39782,
+     "pct": 32.99,
      "winner": false
     },
     {
      "name": "Tiffany Byrne",
      "party": "D",
-     "votes": 37291,
-     "pct": 31.64,
+     "votes": 37996,
+     "pct": 31.5,
      "winner": false
     },
     {
@@ -3574,12 +3574,12 @@
     {
      "name": "Unassigned Write-in",
      "party": "",
-     "votes": 71,
-     "pct": 0.06,
+     "votes": 80,
+     "pct": 0.07,
      "winner": false
     }
    ],
-   "total_votes": 117855,
+   "total_votes": 120604,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -3873,19 +3873,19 @@
     {
      "name": "Be retained YES",
      "party": "",
-     "votes": 1164932,
-     "pct": 59.26,
+     "votes": 1166940,
+     "pct": 59.28,
      "winner": false
     },
     {
      "name": "Be retained NO",
      "party": "",
-     "votes": 800859,
-     "pct": 40.74,
+     "votes": 801619,
+     "pct": 40.72,
      "winner": false
     }
    ],
-   "total_votes": 1965791,
+   "total_votes": 1968559,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -4323,19 +4323,19 @@
     {
      "name": "YES",
      "party": "",
-     "votes": 1229297,
+     "votes": 1231073,
      "pct": 50.99,
      "winner": false
     },
     {
      "name": "NO",
      "party": "",
-     "votes": 1181660,
+     "votes": 1183097,
      "pct": 49.01,
      "winner": false
     }
    ],
-   "total_votes": 2410957,
+   "total_votes": 2414170,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -4353,19 +4353,19 @@
     {
      "name": "NO",
      "party": "",
-     "votes": 1451543,
+     "votes": 1453449,
      "pct": 59.92,
      "winner": false
     },
     {
      "name": "YES",
      "party": "",
-     "votes": 970757,
+     "votes": 972076,
      "pct": 40.08,
      "winner": false
     }
    ],
-   "total_votes": 2422300,
+   "total_votes": 2425525,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -4383,19 +4383,19 @@
     {
      "name": "NO",
      "party": "",
-     "votes": 1309991,
-     "pct": 53.31,
+     "votes": 1311576,
+     "pct": 53.3,
      "winner": false
     },
     {
      "name": "YES",
      "party": "",
-     "votes": 1147453,
-     "pct": 46.69,
+     "votes": 1149112,
+     "pct": 46.7,
      "winner": false
     }
    ],
-   "total_votes": 2457444,
+   "total_votes": 2460688,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -4413,19 +4413,19 @@
     {
      "name": "YES",
      "party": "",
-     "votes": 1512918,
-     "pct": 62.04,
+     "votes": 1514978,
+     "pct": 62.05,
      "winner": false
     },
     {
      "name": "NO",
      "party": "",
-     "votes": 925606,
-     "pct": 37.96,
+     "votes": 926703,
+     "pct": 37.95,
      "winner": false
     }
    ],
-   "total_votes": 2438524,
+   "total_votes": 2441681,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -4443,19 +4443,19 @@
     {
      "name": "YES",
      "party": "",
-     "votes": 1386373,
-     "pct": 56.67,
+     "votes": 1388426,
+     "pct": 56.68,
      "winner": false
     },
     {
      "name": "NO",
      "party": "",
-     "votes": 1060100,
-     "pct": 43.33,
+     "votes": 1061281,
+     "pct": 43.32,
      "winner": false
     }
    ],
-   "total_votes": 2446473,
+   "total_votes": 2449707,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -4473,19 +4473,19 @@
     {
      "name": "YES",
      "party": "",
-     "votes": 1441170,
-     "pct": 58.73,
+     "votes": 1443349,
+     "pct": 58.74,
      "winner": false
     },
     {
      "name": "NO",
      "party": "",
-     "votes": 1012761,
-     "pct": 41.27,
+     "votes": 1013816,
+     "pct": 41.26,
      "winner": false
     }
    ],
-   "total_votes": 2453931,
+   "total_votes": 2457165,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -4503,19 +4503,19 @@
     {
      "name": "YES",
      "party": "",
-     "votes": 1522364,
-     "pct": 62.39,
+     "votes": 1524279,
+     "pct": 62.38,
      "winner": false
     },
     {
      "name": "NO",
      "party": "",
-     "votes": 917809,
-     "pct": 37.61,
+     "votes": 919088,
+     "pct": 37.62,
      "winner": false
     }
    ],
-   "total_votes": 2440173,
+   "total_votes": 2443367,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -4533,19 +4533,19 @@
     {
      "name": "NO",
      "party": "",
-     "votes": 1245603,
+     "votes": 1247165,
      "pct": 51.88,
      "winner": false
     },
     {
      "name": "YES",
      "party": "",
-     "votes": 1155221,
+     "votes": 1156811,
      "pct": 48.12,
      "winner": false
     }
    ],
-   "total_votes": 2400824,
+   "total_votes": 2403976,
    "reporting": 100.0,
    "called": false,
    "state": "AZ",
@@ -4563,42 +4563,42 @@
     {
      "name": "Mark Baisley",
      "party": "R",
-     "votes": 932096,
-     "pct": 35.06,
+     "votes": 932741,
+     "pct": 35.04,
      "winner": false
     },
     {
      "name": "John Hickenlooper",
      "party": "D",
-     "votes": 1606858,
-     "pct": 60.43,
+     "votes": 1609163,
+     "pct": 60.45,
      "winner": false
     },
     {
      "name": "Bob Chew",
      "party": "O",
-     "votes": 69999,
+     "votes": 70049,
      "pct": 2.63,
      "winner": false
     },
     {
      "name": "Christopher Baum",
      "party": "O",
-     "votes": 4172,
+     "votes": 4184,
      "pct": 0.16,
      "winner": false
     },
     {
      "name": "Blake Huber",
      "party": "O",
-     "votes": 32451,
+     "votes": 32507,
      "pct": 1.22,
      "winner": false
     },
     {
      "name": "Adam Withrow",
      "party": "O",
-     "votes": 13374,
+     "votes": 13409,
      "pct": 0.5,
      "winner": false
     }
@@ -4621,14 +4621,14 @@
     {
      "name": "Melat Kiros",
      "party": "D",
-     "votes": 237993,
+     "votes": 238022,
      "pct": 78.34,
      "winner": false
     },
     {
      "name": "Christy Peterson",
      "party": "R",
-     "votes": 42906,
+     "votes": 42914,
      "pct": 14.12,
      "winner": false
     },
@@ -4649,7 +4649,7 @@
     {
      "name": "Shimon Blau",
      "party": "",
-     "votes": 16604,
+     "votes": 16606,
      "pct": 5.47,
      "winner": false
     }
@@ -4753,21 +4753,21 @@
     {
      "name": "Lauren Boebert",
      "party": "R",
-     "votes": 182646,
-     "pct": 47.93,
+     "votes": 182686,
+     "pct": 47.92,
      "winner": false
     },
     {
      "name": "Eileen Laubacher",
      "party": "D",
-     "votes": 185818,
-     "pct": 48.76,
+     "votes": 185923,
+     "pct": 48.77,
      "winner": false
     },
     {
      "name": "Douglas Mangeris",
      "party": "O",
-     "votes": 12598,
+     "votes": 12605,
      "pct": 3.31,
      "winner": false
     }
@@ -4834,36 +4834,36 @@
     {
      "name": "Jason Crow",
      "party": "D",
-     "votes": 189063,
-     "pct": 65.71,
+     "votes": 191101,
+     "pct": 65.77,
      "winner": false
     },
     {
      "name": "Jason Clark",
      "party": "R",
-     "votes": 89823,
-     "pct": 31.22,
+     "votes": 90424,
+     "pct": 31.12,
      "winner": false
     },
     {
      "name": "Patty McMahon",
      "party": "O",
-     "votes": 4434,
-     "pct": 1.54,
+     "votes": 4510,
+     "pct": 1.55,
      "winner": false
     },
     {
      "name": "Meredith Ryan",
      "party": "O",
-     "votes": 1816,
-     "pct": 0.63,
+     "votes": 1851,
+     "pct": 0.64,
      "winner": false
     },
     {
      "name": "Samir Witta",
      "party": "",
-     "votes": 2597,
-     "pct": 0.9,
+     "votes": 2656,
+     "pct": 0.91,
      "winner": false
     }
    ],
@@ -4980,49 +4980,49 @@
     {
      "name": "Victor Marx / George Washington Markert",
      "party": "R",
-     "votes": 880764,
-     "pct": 33.28,
+     "votes": 881406,
+     "pct": 33.26,
      "winner": false
     },
     {
      "name": "Phil Weiser / Lesley Dahlkemper",
      "party": "D",
-     "votes": 1616483,
-     "pct": 61.07,
+     "votes": 1618777,
+     "pct": 61.09,
      "winner": false
     },
     {
      "name": "Stephen T. Hamilton / James K Treibert",
      "party": "O",
-     "votes": 17076,
-     "pct": 0.65,
+     "votes": 17089,
+     "pct": 0.64,
      "winner": false
     },
     {
      "name": "Eric Mulder / Wayne Harlos",
      "party": "O",
-     "votes": 43919,
+     "votes": 43971,
      "pct": 1.66,
      "winner": false
     },
     {
      "name": "Jeff Peckman / T.J. Cole",
      "party": "O",
-     "votes": 5871,
+     "votes": 5890,
      "pct": 0.22,
      "winner": false
     },
     {
      "name": "Erik Underwood / Frank Atwood",
      "party": "O",
-     "votes": 9281,
+     "votes": 9303,
      "pct": 0.35,
      "winner": false
     },
     {
      "name": "Greg Lopez / Taralyn Romero",
      "party": "",
-     "votes": 73371,
+     "votes": 73438,
      "pct": 2.77,
      "winner": false
     }
@@ -5045,35 +5045,35 @@
     {
      "name": "Amanda Gonzalez",
      "party": "D",
-     "votes": 1577799,
-     "pct": 60.14,
+     "votes": 1580110,
+     "pct": 60.16,
      "winner": false
     },
     {
      "name": "James Wiley",
      "party": "R",
-     "votes": 965247,
-     "pct": 36.79,
+     "votes": 965921,
+     "pct": 36.77,
      "winner": false
     },
     {
      "name": "Sean Vadney",
      "party": "O",
-     "votes": 41774,
+     "votes": 41837,
      "pct": 1.59,
      "winner": false
     },
     {
      "name": "Amanda Campbell",
      "party": "O",
-     "votes": 21290,
+     "votes": 21315,
      "pct": 0.81,
      "winner": false
     },
     {
      "name": "Celeste Landry",
      "party": "O",
-     "votes": 17492,
+     "votes": 17513,
      "pct": 0.67,
      "winner": false
     }
@@ -5096,28 +5096,28 @@
     {
      "name": "Jeff Bridges",
      "party": "D",
-     "votes": 1531398,
-     "pct": 58.77,
+     "votes": 1533604,
+     "pct": 58.79,
      "winner": false
     },
     {
      "name": "Kevin Grantham",
      "party": "R",
-     "votes": 1006016,
-     "pct": 38.61,
+     "votes": 1006682,
+     "pct": 38.59,
      "winner": false
     },
     {
      "name": "Jodie Barr",
      "party": "O",
-     "votes": 58134,
+     "votes": 58239,
      "pct": 2.23,
      "winner": false
     },
     {
      "name": "Marilee Langner Sturgis",
      "party": "O",
-     "votes": 10048,
+     "votes": 10067,
      "pct": 0.39,
      "winner": false
     }
@@ -5140,15 +5140,15 @@
     {
      "name": "Michael J. Allen",
      "party": "R",
-     "votes": 1072278,
-     "pct": 41.06,
+     "votes": 1073031,
+     "pct": 41.04,
      "winner": false
     },
     {
      "name": "Jena Griswold",
      "party": "D",
-     "votes": 1539269,
-     "pct": 58.94,
+     "votes": 1541575,
+     "pct": 58.96,
      "winner": false
     }
    ],
@@ -5170,21 +5170,21 @@
     {
      "name": "Lisa Escárcega",
      "party": "D",
-     "votes": 245374,
+     "votes": 245403,
      "pct": 82.48,
      "winner": false
     },
     {
      "name": "Frederick Espinoza",
      "party": "R",
-     "votes": 46343,
+     "votes": 46351,
      "pct": 15.58,
      "winner": false
     },
     {
      "name": "Clayton Casciato",
      "party": "O",
-     "votes": 5769,
+     "votes": 5771,
      "pct": 1.94,
      "winner": false
     }
@@ -5311,22 +5311,22 @@
     {
      "name": "Veanessa Burbage",
      "party": "R",
-     "votes": 91159,
-     "pct": 32.81,
+     "votes": 91768,
+     "pct": 32.7,
      "winner": false
     },
     {
      "name": "Ilana Spiegel",
      "party": "D",
-     "votes": 174795,
-     "pct": 62.9,
+     "votes": 176768,
+     "pct": 63.0,
      "winner": false
     },
     {
      "name": "Joe Johnson",
      "party": "O",
-     "votes": 11925,
-     "pct": 4.29,
+     "votes": 12059,
+     "pct": 4.3,
      "winner": false
     }
    ],
@@ -5662,14 +5662,14 @@
     {
      "name": "Frederick Alfred Jr",
      "party": "R",
-     "votes": 21218,
+     "votes": 21222,
      "pct": 36.3,
      "winner": false
     },
     {
      "name": "Adrienne Benavidez",
      "party": "D",
-     "votes": 37230,
+     "votes": 37233,
      "pct": 63.7,
      "winner": false
     }
@@ -5789,22 +5789,22 @@
     {
      "name": "Danielle Lammon",
      "party": "R",
-     "votes": 27655,
-     "pct": 37.56,
+     "votes": 27810,
+     "pct": 37.47,
      "winner": false
     },
     {
      "name": "Tom Sullivan",
      "party": "D",
-     "votes": 44551,
-     "pct": 60.51,
+     "votes": 44961,
+     "pct": 60.59,
      "winner": false
     },
     {
      "name": "Michele Poague",
      "party": "O",
-     "votes": 1422,
-     "pct": 1.93,
+     "votes": 1439,
+     "pct": 1.94,
      "winner": false
     }
    ],
@@ -5826,15 +5826,15 @@
     {
      "name": "Iman M. Jodeh",
      "party": "D",
-     "votes": 36178,
-     "pct": 71.35,
+     "votes": 36965,
+     "pct": 71.42,
      "winner": false
     },
     {
      "name": "Robert McKenna",
      "party": "R",
-     "votes": 14524,
-     "pct": 28.65,
+     "votes": 14789,
+     "pct": 28.58,
      "winner": false
     }
    ],
@@ -5886,15 +5886,15 @@
     {
      "name": "Emily Sirota",
      "party": "D",
-     "votes": 49598,
-     "pct": 80.12,
+     "votes": 49630,
+     "pct": 80.11,
      "winner": false
     },
     {
      "name": "Sydnnia Wulff",
      "party": "R",
-     "votes": 12306,
-     "pct": 19.88,
+     "votes": 12319,
+     "pct": 19.89,
      "winner": false
     }
    ],
@@ -6050,15 +6050,15 @@
     {
      "name": "Gena Ozols",
      "party": "D",
-     "votes": 23479,
-     "pct": 71.02,
+     "votes": 23587,
+     "pct": 71.05,
      "winner": false
     },
     {
      "name": "Rebecca Winegar",
      "party": "R",
-     "votes": 9582,
-     "pct": 28.98,
+     "votes": 9613,
+     "pct": 28.95,
      "winner": false
     }
    ],
@@ -6244,15 +6244,15 @@
     {
      "name": "Tom Cowhick",
      "party": "R",
-     "votes": 6761,
-     "pct": 20.22,
+     "votes": 6805,
+     "pct": 20.17,
      "winner": false
     },
     {
      "name": "Monica VanBuskirk",
      "party": "D",
-     "votes": 26680,
-     "pct": 79.78,
+     "votes": 26932,
+     "pct": 79.83,
      "winner": false
     }
    ],
@@ -6925,22 +6925,22 @@
     {
      "name": "Michael Carter",
      "party": "D",
-     "votes": 20336,
-     "pct": 72.7,
+     "votes": 20576,
+     "pct": 72.67,
      "winner": false
     },
     {
      "name": "Paul E. Nelson",
      "party": "R",
-     "votes": 6981,
-     "pct": 24.96,
+     "votes": 7069,
+     "pct": 24.97,
      "winner": false
     },
     {
      "name": "Andrew Gibson",
      "party": "O",
-     "votes": 655,
-     "pct": 2.34,
+     "votes": 668,
+     "pct": 2.36,
      "winner": false
     }
    ],
@@ -6962,15 +6962,15 @@
     {
      "name": "Jill Thompson",
      "party": "R",
-     "votes": 15556,
-     "pct": 38.73,
+     "votes": 15588,
+     "pct": 38.61,
      "winner": false
     },
     {
      "name": "Chad Clifford",
      "party": "D",
-     "votes": 24613,
-     "pct": 61.27,
+     "votes": 24788,
+     "pct": 61.39,
      "winner": false
     }
    ],
@@ -6992,29 +6992,29 @@
     {
      "name": "Gretchen Rydin",
      "party": "D",
-     "votes": 27714,
-     "pct": 63.27,
+     "votes": 27811,
+     "pct": 63.3,
      "winner": false
     },
     {
      "name": "Tim Martin",
      "party": "",
-     "votes": 4686,
-     "pct": 10.7,
+     "votes": 4697,
+     "pct": 10.69,
      "winner": false
     },
     {
      "name": "Norm Olsen",
      "party": "O",
-     "votes": 6044,
-     "pct": 13.8,
+     "votes": 6057,
+     "pct": 13.79,
      "winner": false
     },
     {
      "name": "Allison Madrigal",
      "party": "",
-     "votes": 5360,
-     "pct": 12.24,
+     "votes": 5367,
+     "pct": 12.22,
      "winner": false
     }
    ],
@@ -7066,15 +7066,15 @@
     {
      "name": "Clinton Porter",
      "party": "R",
-     "votes": 10846,
-     "pct": 32.44,
+     "votes": 11004,
+     "pct": 32.39,
      "winner": false
     },
     {
      "name": "Naquetta Ricks",
      "party": "D",
-     "votes": 22592,
-     "pct": 67.56,
+     "votes": 22968,
+     "pct": 67.61,
      "winner": false
     }
    ],
@@ -7507,15 +7507,15 @@
     {
      "name": "Chris Richardson",
      "party": "R",
-     "votes": 33764,
-     "pct": 76.51,
+     "votes": 33786,
+     "pct": 76.49,
      "winner": false
     },
     {
      "name": "Amy L. Lunde",
      "party": "O",
-     "votes": 10367,
-     "pct": 23.49,
+     "votes": 10387,
+     "pct": 23.51,
      "winner": false
     }
    ],
@@ -7627,21 +7627,21 @@
     {
      "name": "Scott Shamblin",
      "party": "R",
-     "votes": 16255,
-     "pct": 38.92,
+     "votes": 16332,
+     "pct": 38.87,
      "winner": false
     },
     {
      "name": "Eliza Hamrick",
      "party": "D",
-     "votes": 24713,
-     "pct": 59.18,
+     "votes": 24890,
+     "pct": 59.23,
      "winner": false
     },
     {
      "name": "Kevin Gulbranson",
      "party": "O",
-     "votes": 792,
+     "votes": 800,
      "pct": 1.9,
      "winner": false
     }
@@ -7821,14 +7821,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1377191,
+     "votes": 1378816,
      "pct": 65.89,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 712822,
+     "votes": 713745,
      "pct": 34.11,
      "winner": false
     }
@@ -7851,14 +7851,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1412225,
+     "votes": 1413897,
      "pct": 68.72,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 642722,
+     "votes": 643531,
      "pct": 31.28,
      "winner": false
     }
@@ -7881,14 +7881,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1373607,
+     "votes": 1375285,
      "pct": 67.15,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 672103,
+     "votes": 672906,
      "pct": 32.85,
      "winner": false
     }
@@ -7911,14 +7911,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1399729,
+     "votes": 1401395,
      "pct": 68.52,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 643001,
+     "votes": 643798,
      "pct": 31.48,
      "winner": false
     }
@@ -7941,15 +7941,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1379713,
-     "pct": 67.76,
+     "votes": 1381308,
+     "pct": 67.75,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 656591,
-     "pct": 32.24,
+     "votes": 657454,
+     "pct": 32.25,
      "winner": false
     }
    ],
@@ -7971,15 +7971,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1370677,
-     "pct": 67.44,
+     "votes": 1372251,
+     "pct": 67.43,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 661900,
-     "pct": 32.56,
+     "votes": 662777,
+     "pct": 32.57,
      "winner": false
     }
    ],
@@ -8001,14 +8001,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1352591,
+     "votes": 1354154,
      "pct": 66.6,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 678292,
+     "votes": 679174,
      "pct": 33.4,
      "winner": false
     }
@@ -9291,15 +9291,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 146430,
-     "pct": 73.02,
+     "votes": 148017,
+     "pct": 72.96,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 54100,
-     "pct": 26.98,
+     "votes": 54862,
+     "pct": 27.04,
      "winner": false
     }
    ],
@@ -9321,15 +9321,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 143210,
-     "pct": 71.45,
+     "votes": 144809,
+     "pct": 71.41,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 57226,
-     "pct": 28.55,
+     "votes": 57978,
+     "pct": 28.59,
      "winner": false
     }
    ],
@@ -9351,15 +9351,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 141002,
-     "pct": 70.68,
+     "votes": 142483,
+     "pct": 70.6,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 58478,
-     "pct": 29.32,
+     "votes": 59322,
+     "pct": 29.4,
      "winner": false
     }
    ],
@@ -9381,15 +9381,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 141461,
-     "pct": 71.0,
+     "votes": 142933,
+     "pct": 70.91,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 57791,
-     "pct": 29.0,
+     "votes": 58634,
+     "pct": 29.09,
      "winner": false
     }
    ],
@@ -9411,15 +9411,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 143503,
-     "pct": 71.83,
+     "votes": 145064,
+     "pct": 71.78,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 56281,
-     "pct": 28.17,
+     "votes": 57042,
+     "pct": 28.22,
      "winner": false
     }
    ],
@@ -9441,15 +9441,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 141167,
-     "pct": 70.83,
+     "votes": 142615,
+     "pct": 70.73,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 58143,
-     "pct": 29.17,
+     "votes": 59009,
+     "pct": 29.27,
      "winner": false
     }
    ],
@@ -9471,15 +9471,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 143965,
-     "pct": 72.14,
+     "votes": 145520,
+     "pct": 72.08,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 55609,
-     "pct": 27.86,
+     "votes": 56377,
+     "pct": 27.92,
      "winner": false
     }
    ],
@@ -9501,15 +9501,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 136885,
-     "pct": 68.7,
+     "votes": 138346,
+     "pct": 68.64,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 62352,
-     "pct": 31.3,
+     "votes": 63205,
+     "pct": 31.36,
      "winner": false
     }
    ],
@@ -9531,15 +9531,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 139089,
-     "pct": 69.89,
+     "votes": 140606,
+     "pct": 69.84,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 59913,
-     "pct": 30.11,
+     "votes": 60720,
+     "pct": 30.16,
      "winner": false
     }
    ],
@@ -10071,15 +10071,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 146402,
-     "pct": 72.78,
+     "votes": 148000,
+     "pct": 72.72,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 54757,
-     "pct": 27.22,
+     "votes": 55510,
+     "pct": 27.28,
      "winner": false
     }
    ],
@@ -10101,15 +10101,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 133106,
-     "pct": 66.33,
+     "votes": 134622,
+     "pct": 66.31,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 67569,
-     "pct": 33.67,
+     "votes": 68400,
+     "pct": 33.69,
      "winner": false
     }
    ],
@@ -10131,15 +10131,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 143552,
-     "pct": 71.36,
+     "votes": 145123,
+     "pct": 71.31,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 57606,
-     "pct": 28.64,
+     "votes": 58382,
+     "pct": 28.69,
      "winner": false
     }
    ],
@@ -11541,15 +11541,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1175465,
-     "pct": 44.71,
+     "votes": 1176636,
+     "pct": 44.7,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1453805,
-     "pct": 55.29,
+     "votes": 1455686,
+     "pct": 55.3,
      "winner": false
     }
    ],
@@ -11571,14 +11571,14 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1204331,
+     "votes": 1205693,
      "pct": 46.27,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1398603,
+     "votes": 1400219,
      "pct": 53.73,
      "winner": false
     }
@@ -11601,15 +11601,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1175836,
-     "pct": 45.11,
+     "votes": 1177252,
+     "pct": 45.12,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1430487,
-     "pct": 54.89,
+     "votes": 1432054,
+     "pct": 54.88,
      "winner": false
     }
    ],
@@ -11631,14 +11631,14 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 964062,
+     "votes": 965107,
      "pct": 36.62,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1668191,
+     "votes": 1670178,
      "pct": 63.38,
      "winner": false
     }
@@ -11661,15 +11661,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1335012,
-     "pct": 51.11,
+     "votes": 1336695,
+     "pct": 51.12,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1276859,
-     "pct": 48.89,
+     "votes": 1278187,
+     "pct": 48.88,
      "winner": false
     }
    ],
@@ -11691,15 +11691,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1199114,
-     "pct": 46.85,
+     "votes": 1200579,
+     "pct": 46.86,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1360111,
-     "pct": 53.15,
+     "votes": 1361552,
+     "pct": 53.14,
      "winner": false
     }
    ],
@@ -11721,15 +11721,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1352349,
-     "pct": 51.61,
+     "votes": 1354374,
+     "pct": 51.62,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1268183,
-     "pct": 48.39,
+     "votes": 1269187,
+     "pct": 48.38,
      "winner": false
     }
    ],
@@ -11751,15 +11751,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1491339,
-     "pct": 56.92,
+     "votes": 1493691,
+     "pct": 56.95,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1128549,
-     "pct": 43.08,
+     "votes": 1129218,
+     "pct": 43.05,
      "winner": false
     }
    ],
@@ -11781,14 +11781,14 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1373414,
+     "votes": 1375039,
      "pct": 52.63,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1236141,
+     "votes": 1237528,
      "pct": 47.37,
      "winner": false
     }
@@ -11811,15 +11811,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1619876,
-     "pct": 62.09,
+     "votes": 1621853,
+     "pct": 62.1,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 988936,
-     "pct": 37.91,
+     "votes": 989973,
+     "pct": 37.9,
      "winner": false
     }
    ],
@@ -11841,15 +11841,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1362877,
-     "pct": 52.2,
+     "votes": 1364261,
+     "pct": 52.19,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1247971,
-     "pct": 47.8,
+     "votes": 1249584,
+     "pct": 47.81,
      "winner": false
     }
    ],
@@ -11871,14 +11871,14 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1357348,
+     "votes": 1358791,
      "pct": 51.92,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1256772,
+     "votes": 1258342,
      "pct": 48.08,
      "winner": false
     }
@@ -11901,14 +11901,14 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1216025,
+     "votes": 1217351,
      "pct": 47.18,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1361391,
+     "votes": 1363000,
      "pct": 52.82,
      "winner": false
     }
@@ -11931,15 +11931,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1345102,
-     "pct": 51.85,
+     "votes": 1347245,
+     "pct": 51.88,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 1248916,
-     "pct": 48.15,
+     "votes": 1249749,
+     "pct": 48.12,
      "winner": false
     }
    ],
@@ -12086,15 +12086,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 51485,
-     "pct": 41.68,
+     "votes": 52285,
+     "pct": 41.72,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 72045,
-     "pct": 58.32,
+     "votes": 73048,
+     "pct": 58.28,
      "winner": false
     }
    ],
@@ -12116,14 +12116,14 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 45731,
+     "votes": 46391,
      "pct": 37.09,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 77563,
+     "votes": 78699,
      "pct": 62.91,
      "winner": false
     }
@@ -12146,15 +12146,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 53617,
-     "pct": 43.98,
+     "votes": 54460,
+     "pct": 44.03,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 68294,
-     "pct": 56.02,
+     "votes": 69231,
+     "pct": 55.97,
      "winner": false
     }
    ],
@@ -12176,15 +12176,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 56785,
-     "pct": 48.41,
+     "votes": 57671,
+     "pct": 48.46,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 60524,
-     "pct": 51.59,
+     "votes": 61348,
+     "pct": 51.54,
      "winner": false
     }
    ],
@@ -12536,15 +12536,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 1860,
-     "pct": 46.4,
+     "votes": 1875,
+     "pct": 46.45,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 2149,
-     "pct": 53.6,
+     "votes": 2162,
+     "pct": 53.55,
      "winner": false
     }
    ],
@@ -13046,15 +13046,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 2220,
-     "pct": 49.58,
+     "votes": 2242,
+     "pct": 49.7,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 2258,
-     "pct": 50.42,
+     "votes": 2269,
+     "pct": 50.3,
      "winner": false
     }
    ],
@@ -13076,15 +13076,15 @@
     {
      "name": "Yes/For",
      "party": "",
-     "votes": 2213,
-     "pct": 49.13,
+     "votes": 2236,
+     "pct": 49.29,
      "winner": false
     },
     {
      "name": "No/Against",
      "party": "",
-     "votes": 2291,
-     "pct": 50.87,
+     "votes": 2300,
+     "pct": 50.71,
      "winner": false
     }
    ],
@@ -34218,19 +34218,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1238100,
+     "votes": 1242073,
      "pct": 41.99,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 1710580,
+     "votes": 1715655,
      "pct": 58.01,
      "winner": false
     }
    ],
-   "total_votes": 2948680,
+   "total_votes": 2957728,
    "reporting": 94.8718,
    "called": false,
    "state": "WA",
@@ -34248,19 +34248,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1363656,
-     "pct": 47.45,
+     "votes": 1368769,
+     "pct": 47.48,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 1510150,
-     "pct": 52.55,
+     "votes": 1513868,
+     "pct": 52.52,
      "winner": false
     }
    ],
-   "total_votes": 2873806,
+   "total_votes": 2882637,
    "reporting": 94.8718,
    "called": false,
    "state": "WA",
@@ -34278,19 +34278,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1643081,
-     "pct": 55.98,
+     "votes": 1648970,
+     "pct": 56.01,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 1292223,
-     "pct": 44.02,
+     "votes": 1295353,
+     "pct": 43.99,
      "winner": false
     }
    ],
-   "total_votes": 2935304,
+   "total_votes": 2944323,
    "reporting": 94.8718,
    "called": false,
    "state": "WA",
@@ -34419,26 +34419,26 @@
     {
      "name": "Amanda McKinney",
      "party": "R",
-     "votes": 119954,
-     "pct": 54.32,
+     "votes": 123780,
+     "pct": 53.86,
      "winner": false
     },
     {
      "name": "John Duresky",
      "party": "D",
-     "votes": 100403,
-     "pct": 45.46,
+     "votes": 105541,
+     "pct": 45.92,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 481,
+     "votes": 517,
      "pct": 0.22,
      "winner": false
     }
    ],
-   "total_votes": 220838,
+   "total_votes": 229838,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35732,26 +35732,26 @@
     {
      "name": "Gloria Mendoza",
      "party": "R",
-     "votes": 10438,
-     "pct": 43.27,
+     "votes": 11604,
+     "pct": 42.15,
      "winner": false
     },
     {
      "name": "Chelsea Dimas",
      "party": "D",
-     "votes": 13598,
-     "pct": 56.37,
+     "votes": 15821,
+     "pct": 57.46,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 88,
-     "pct": 0.36,
+     "votes": 107,
+     "pct": 0.39,
      "winner": false
     }
    ],
-   "total_votes": 24124,
+   "total_votes": 27532,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35769,26 +35769,26 @@
     {
      "name": "Deb Manjarrez",
      "party": "R",
-     "votes": 10355,
-     "pct": 42.7,
+     "votes": 11465,
+     "pct": 41.4,
      "winner": false
     },
     {
      "name": "Ezequiel Morfin",
      "party": "D",
-     "votes": 13792,
-     "pct": 56.87,
+     "votes": 16103,
+     "pct": 58.14,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 106,
-     "pct": 0.44,
+     "votes": 127,
+     "pct": 0.46,
      "winner": false
     }
    ],
-   "total_votes": 24253,
+   "total_votes": 27695,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35806,19 +35806,19 @@
     {
      "name": "Jeremie Dufault",
      "party": "R",
-     "votes": 35710,
-     "pct": 94.44,
+     "votes": 39575,
+     "pct": 94.4,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 2103,
-     "pct": 5.56,
+     "votes": 2346,
+     "pct": 5.6,
      "winner": false
     }
    ],
-   "total_votes": 37813,
+   "total_votes": 41921,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35836,26 +35836,26 @@
     {
      "name": "Chris Corry",
      "party": "R",
-     "votes": 30267,
-     "pct": 61.7,
+     "votes": 33531,
+     "pct": 61.34,
      "winner": false
     },
     {
      "name": "Jack McEntire",
      "party": "D",
-     "votes": 18724,
-     "pct": 38.17,
+     "votes": 21059,
+     "pct": 38.52,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 62,
-     "pct": 0.13,
+     "votes": 75,
+     "pct": 0.14,
      "winner": false
     }
    ],
-   "total_votes": 49053,
+   "total_votes": 54665,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35873,26 +35873,26 @@
     {
      "name": "Reedy Berg",
      "party": "R",
-     "votes": 30032,
-     "pct": 62.24,
+     "votes": 33301,
+     "pct": 61.95,
      "winner": false
     },
     {
      "name": "Liz Hallock",
      "party": "",
-     "votes": 18021,
-     "pct": 37.35,
+     "votes": 20228,
+     "pct": 37.63,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 196,
+     "votes": 222,
      "pct": 0.41,
      "winner": false
     }
    ],
-   "total_votes": 48249,
+   "total_votes": 53751,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39059,26 +39059,26 @@
     {
      "name": "Colleen Melody",
      "party": "",
-     "votes": 1636496,
-     "pct": 60.0,
+     "votes": 1640946,
+     "pct": 59.98,
      "winner": false
     },
     {
      "name": "Scott Edwards",
      "party": "",
-     "votes": 1084324,
-     "pct": 39.75,
+     "votes": 1088076,
+     "pct": 39.77,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 6891,
+     "votes": 6966,
      "pct": 0.25,
      "winner": false
     }
    ],
-   "total_votes": 2727711,
+   "total_votes": 2735988,
    "reporting": 94.8718,
    "called": false,
    "state": "WA",
@@ -39096,26 +39096,26 @@
     {
      "name": "David Stevens",
      "party": "",
-     "votes": 1137541,
-     "pct": 41.89,
+     "votes": 1141471,
+     "pct": 41.91,
      "winner": false
     },
     {
      "name": "Jaime Michelle Hawk",
      "party": "",
-     "votes": 1569113,
-     "pct": 57.79,
+     "votes": 1573296,
+     "pct": 57.77,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 8610,
+     "votes": 8690,
      "pct": 0.32,
      "winner": false
     }
    ],
-   "total_votes": 2715264,
+   "total_votes": 2723457,
    "reporting": 94.8718,
    "called": false,
    "state": "WA",
@@ -39133,26 +39133,26 @@
     {
      "name": "Ian Birk",
      "party": "",
-     "votes": 1319352,
-     "pct": 49.14,
+     "votes": 1322921,
+     "pct": 49.13,
      "winner": false
     },
     {
      "name": "Sean O'Donnell",
      "party": "",
-     "votes": 1355432,
-     "pct": 50.48,
+     "votes": 1359887,
+     "pct": 50.5,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 10071,
+     "votes": 10160,
      "pct": 0.38,
      "winner": false
     }
    ],
-   "total_votes": 2684855,
+   "total_votes": 2692968,
    "reporting": 94.8718,
    "called": false,
    "state": "WA",
@@ -39170,26 +39170,26 @@
     {
      "name": "Theo Angelis",
      "party": "",
-     "votes": 1506040,
-     "pct": 55.75,
+     "votes": 1509936,
+     "pct": 55.72,
      "winner": false
     },
     {
      "name": "Dave Larson",
      "party": "",
-     "votes": 1187489,
-     "pct": 43.95,
+     "votes": 1191679,
+     "pct": 43.98,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 8079,
+     "votes": 8151,
      "pct": 0.3,
      "winner": false
     }
    ],
-   "total_votes": 2701608,
+   "total_votes": 2709766,
    "reporting": 94.8718,
    "called": false,
    "state": "WA",
@@ -39207,26 +39207,26 @@
     {
      "name": "Debra L. Stephens",
      "party": "",
-     "votes": 1715306,
-     "pct": 63.52,
+     "votes": 1720002,
+     "pct": 63.51,
      "winner": false
     },
     {
      "name": "Todd A. Bloom",
      "party": "",
-     "votes": 977021,
-     "pct": 36.18,
+     "votes": 980434,
+     "pct": 36.2,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 7903,
+     "votes": 7982,
      "pct": 0.29,
      "winner": false
     }
    ],
-   "total_votes": 2700230,
+   "total_votes": 2708418,
    "reporting": 94.8718,
    "called": false,
    "state": "WA",
@@ -39454,19 +39454,19 @@
     {
      "name": "Megan K. Murphy",
      "party": "",
-     "votes": 91705,
-     "pct": 97.92,
+     "votes": 97545,
+     "pct": 97.87,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1944,
-     "pct": 2.08,
+     "votes": 2128,
+     "pct": 2.13,
      "winner": false
     }
    ],
-   "total_votes": 93649,
+   "total_votes": 99673,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -40299,7 +40299,7 @@
    "agency": "亚利桑那州州务卿",
    "url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
    "status": "ok",
-   "updated_at": "2026-11-07T23:59:27.543353+00:00",
+   "updated_at": "2026-11-08T06:02:28.795742+00:00",
    "races": 99,
    "note": "99 场竞选"
   },
@@ -40346,7 +40346,7 @@
    "agency": "科罗拉多州州务卿",
    "url": "https://results.enr.clarityelections.com/CO/127407/",
    "status": "ok",
-   "updated_at": "2026-11-08T00:00:00.119240+00:00",
+   "updated_at": "2026-11-08T06:03:01.665371+00:00",
    "races": 285,
    "note": "285 场竞选"
   },
@@ -40377,7 +40377,7 @@
    "agency": "特拉华州选举委员会",
    "url": "https://elections.delaware.gov/results/enr/GE2026.html",
    "status": "ok",
-   "updated_at": "2026-11-08T00:00:25.187296+00:00",
+   "updated_at": "2026-11-08T06:03:27.137430+00:00",
    "races": 43,
    "note": "43 场竞选"
   },
@@ -40504,7 +40504,7 @@
    "agency": "爱荷华州州务卿",
    "url": "https://electionresults.iowa.gov/IA/127077/",
    "status": "ok",
-   "updated_at": "2026-11-08T00:01:57.516067+00:00",
+   "updated_at": "2026-11-08T06:05:00.425386+00:00",
    "races": 274,
    "note": "274 场竞选"
   },
@@ -40951,7 +40951,7 @@
    "agency": "得克萨斯州州务卿",
    "url": "https://electionresults.sos.state.tx.us/results.html",
    "status": "ok",
-   "updated_at": "2026-11-08T00:07:14.253643+00:00",
+   "updated_at": "2026-11-08T06:10:32.663835+00:00",
    "races": 295,
    "note": "295 场竞选"
   },
@@ -40998,7 +40998,7 @@
    "agency": "弗吉尼亚州选举委员会",
    "url": "https://enr.elections.virginia.gov/results/public/api/elections/virginia/2026-November-General/data",
    "status": "ok",
-   "updated_at": "2026-11-08T00:07:39.508210+00:00",
+   "updated_at": "2026-11-08T06:10:58.152068+00:00",
    "races": 32,
    "note": "32 场竞选"
   },
@@ -41013,7 +41013,7 @@
    "agency": "华盛顿州州务卿",
    "url": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
    "status": "ok",
-   "updated_at": "2026-11-08T00:07:40.029411+00:00",
+   "updated_at": "2026-11-08T06:10:58.748466+00:00",
    "races": 173,
    "note": "173 场竞选"
   },
