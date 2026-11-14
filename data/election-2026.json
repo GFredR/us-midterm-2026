@@ -2,7 +2,7 @@
  "meta": {
   "election": "2026 United States General Election",
   "election_date": "2026-11-03",
-  "generated_at": "2026-11-14T02:39:13.663948+00:00",
+  "generated_at": "2026-11-14T09:36:01.217280+00:00",
   "generator": "scripts/collect.py",
   "source_policy": "数据仅来自各州州务卿 / 选举委员会官方结果系统；FEC 在认证后汇编发布。",
   "races_count": 1201,
@@ -40313,7 +40313,7 @@
    "agency": "亚利桑那州州务卿",
    "url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
    "status": "ok",
-   "updated_at": "2026-11-14T02:30:22.882456+00:00",
+   "updated_at": "2026-11-14T09:26:59.076673+00:00",
    "races": 99,
    "note": "99 场竞选"
   },
@@ -40360,7 +40360,7 @@
    "agency": "科罗拉多州州务卿",
    "url": "https://results.enr.clarityelections.com/CO/127407/",
    "status": "ok",
-   "updated_at": "2026-11-14T02:30:55.314180+00:00",
+   "updated_at": "2026-11-14T09:27:31.702619+00:00",
    "races": 285,
    "note": "285 场竞选"
   },
@@ -40391,7 +40391,7 @@
    "agency": "特拉华州选举委员会",
    "url": "https://elections.delaware.gov/results/enr/GE2026.html",
    "status": "ok",
-   "updated_at": "2026-11-14T02:31:20.557731+00:00",
+   "updated_at": "2026-11-14T09:27:56.972942+00:00",
    "races": 43,
    "note": "43 场竞选"
   },
@@ -40518,7 +40518,7 @@
    "agency": "爱荷华州州务卿",
    "url": "https://electionresults.iowa.gov/IA/127077/",
    "status": "ok",
-   "updated_at": "2026-11-14T02:32:52.834534+00:00",
+   "updated_at": "2026-11-14T09:29:30.359204+00:00",
    "races": 274,
    "note": "274 场竞选"
   },
@@ -40965,7 +40965,7 @@
    "agency": "得克萨斯州州务卿",
    "url": "https://electionresults.sos.state.tx.us/results.html",
    "status": "ok",
-   "updated_at": "2026-11-14T02:38:15.827000+00:00",
+   "updated_at": "2026-11-14T09:34:56.781089+00:00",
    "races": 295,
    "note": "295 场竞选"
   },
@@ -41012,7 +41012,7 @@
    "agency": "弗吉尼亚州选举委员会",
    "url": "https://enr.elections.virginia.gov/results/public/api/elections/virginia/2026-November-General/data",
    "status": "ok",
-   "updated_at": "2026-11-14T02:38:40.336768+00:00",
+   "updated_at": "2026-11-14T09:35:22.828162+00:00",
    "races": 32,
    "note": "32 场竞选"
   },
@@ -41027,7 +41027,7 @@
    "agency": "华盛顿州州务卿",
    "url": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
    "status": "ok",
-   "updated_at": "2026-11-14T02:38:40.860888+00:00",
+   "updated_at": "2026-11-14T09:35:23.402566+00:00",
    "races": 173,
    "note": "173 场竞选"
   },
