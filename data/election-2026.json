@@ -2,7 +2,7 @@
  "meta": {
   "election": "2026 United States General Election",
   "election_date": "2026-11-03",
-  "generated_at": "2026-11-16T07:28:42.912827+00:00",
+  "generated_at": "2026-11-16T17:37:51.822715+00:00",
   "generator": "scripts/collect.py",
   "source_policy": "数据仅来自各州州务卿 / 选举委员会官方结果系统；FEC 在认证后汇编发布。",
   "races_count": 1201,
@@ -14844,14 +14844,14 @@
     {
      "name": "Ashley Hinson",
      "party": "R",
-     "votes": 631274,
+     "votes": 631275,
      "pct": 46.3,
      "winner": false
     },
     {
      "name": "Josh Turek",
      "party": "D",
-     "votes": 688608,
+     "votes": 688613,
      "pct": 50.51,
      "winner": false
     },
@@ -14888,14 +14888,14 @@
     {
      "name": "Mariannette Miller-Meeks",
      "party": "R",
-     "votes": 150719,
+     "votes": 150720,
      "pct": 43.39,
      "winner": false
     },
     {
      "name": "Christina Bohannan",
      "party": "D",
-     "votes": 184006,
+     "votes": 184011,
      "pct": 52.97,
      "winner": false
     },
@@ -15057,14 +15057,14 @@
     {
      "name": "Zach Lahn and Derek Wulf",
      "party": "R",
-     "votes": 608023,
+     "votes": 608024,
      "pct": 44.4,
      "winner": false
     },
     {
      "name": "Rob Sand and Dave Muhlbauer",
      "party": "D",
-     "votes": 759565,
+     "votes": 759570,
      "pct": 55.47,
      "winner": false
     },
@@ -15094,14 +15094,14 @@
     {
      "name": "Paul D. Pate",
      "party": "R",
-     "votes": 712520,
+     "votes": 712521,
      "pct": 53.11,
      "winner": false
     },
     {
      "name": "Ryan Peterman",
      "party": "D",
-     "votes": 627864,
+     "votes": 627868,
      "pct": 46.8,
      "winner": false
     },
@@ -15131,14 +15131,14 @@
     {
      "name": "Chris Cournoyer",
      "party": "R",
-     "votes": 660827,
+     "votes": 660828,
      "pct": 49.65,
      "winner": false
     },
     {
      "name": "Taylor Wettach",
      "party": "D",
-     "votes": 668694,
+     "votes": 668698,
      "pct": 50.25,
      "winner": false
     },
@@ -15168,14 +15168,14 @@
     {
      "name": "Roby Smith",
      "party": "R",
-     "votes": 665627,
+     "votes": 665628,
      "pct": 50.25,
      "winner": false
     },
     {
      "name": "John Norwood",
      "party": "D",
-     "votes": 657803,
+     "votes": 657807,
      "pct": 49.66,
      "winner": false
     },
@@ -15205,14 +15205,14 @@
     {
      "name": "Mike Naig",
      "party": "R",
-     "votes": 702625,
+     "votes": 702626,
      "pct": 52.63,
      "winner": false
     },
     {
      "name": "Chris Jones",
      "party": "D",
-     "votes": 631256,
+     "votes": 631260,
      "pct": 47.28,
      "winner": false
     },
@@ -15242,14 +15242,14 @@
     {
      "name": "Brenna Bird",
      "party": "R",
-     "votes": 658088,
+     "votes": 658089,
      "pct": 49.01,
      "winner": false
     },
     {
      "name": "Nate Willems",
      "party": "D",
-     "votes": 683172,
+     "votes": 683177,
      "pct": 50.88,
      "winner": false
     },
@@ -15598,14 +15598,14 @@
     {
      "name": "Barb Kniff McCulla",
      "party": "R",
-     "votes": 18047,
-     "pct": 63.17,
+     "votes": 18048,
+     "pct": 63.16,
      "winner": false
     },
     {
      "name": "Zachary Mecham",
      "party": "D",
-     "votes": 10498,
+     "votes": 10502,
      "pct": 36.75,
      "winner": false
     },
@@ -16874,7 +16874,7 @@
     {
      "name": "Spencer A. Waugh",
      "party": "D",
-     "votes": 6672,
+     "votes": 6673,
      "pct": 46.12,
      "winner": false
     },
@@ -17417,7 +17417,7 @@
     {
      "name": "Jason Sandholdt",
      "party": "R",
-     "votes": 12972,
+     "votes": 12974,
      "pct": 97.96,
      "winner": false
     },
@@ -19680,7 +19680,7 @@
     {
      "name": "No",
      "party": "",
-     "votes": 535612,
+     "votes": 535617,
      "pct": 43.77,
      "winner": false
     }
@@ -19703,14 +19703,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 673328,
+     "votes": 673332,
      "pct": 70.85,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 277019,
+     "votes": 277020,
      "pct": 29.15,
      "winner": false
     }
@@ -19733,14 +19733,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 707287,
+     "votes": 707291,
      "pct": 73.77,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 251442,
+     "votes": 251443,
      "pct": 26.23,
      "winner": false
     }
@@ -19763,14 +19763,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 679101,
+     "votes": 679105,
      "pct": 71.26,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 273907,
+     "votes": 273908,
      "pct": 28.74,
      "winner": false
     }
@@ -21083,14 +21083,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 61600,
+     "votes": 61603,
      "pct": 68.46,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 28374,
+     "votes": 28376,
      "pct": 31.54,
      "winner": false
     }
@@ -21113,14 +21113,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 64153,
+     "votes": 64157,
      "pct": 71.23,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 25908,
+     "votes": 25909,
      "pct": 28.77,
      "winner": false
     }
@@ -21143,14 +21143,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 63513,
+     "votes": 63517,
      "pct": 70.23,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 26928,
+     "votes": 26929,
      "pct": 29.77,
      "winner": false
     }
@@ -21173,14 +21173,14 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 64752,
+     "votes": 64756,
      "pct": 71.92,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 25276,
+     "votes": 25277,
      "pct": 28.08,
      "winner": false
     }
@@ -21203,15 +21203,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 64128,
-     "pct": 71.14,
+     "votes": 64131,
+     "pct": 71.13,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 26021,
-     "pct": 28.86,
+     "votes": 26023,
+     "pct": 28.87,
      "winner": false
     }
    ],
@@ -23333,15 +23333,15 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 2292,
-     "pct": 45.18,
+     "votes": 2294,
+     "pct": 45.2,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
      "votes": 2781,
-     "pct": 54.82,
+     "pct": 54.8,
      "winner": false
     }
    ],
@@ -34119,15 +34119,15 @@
     {
      "name": "Jonathon E. Kilmon",
      "party": "",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 2,
+     "pct": 5.0,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 40,
-     "pct": 100.0,
+     "votes": 38,
+     "pct": 95.0,
      "winner": false
     }
    ],
@@ -40320,7 +40320,7 @@
    "agency": "亚利桑那州州务卿",
    "url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
    "status": "ok",
-   "updated_at": "2026-11-16T07:19:54.763947+00:00",
+   "updated_at": "2026-11-16T17:28:59.268741+00:00",
    "races": 99,
    "note": "99 场竞选"
   },
@@ -40367,7 +40367,7 @@
    "agency": "科罗拉多州州务卿",
    "url": "https://results.enr.clarityelections.com/CO/127407/",
    "status": "ok",
-   "updated_at": "2026-11-16T07:20:27.159927+00:00",
+   "updated_at": "2026-11-16T17:29:31.794197+00:00",
    "races": 285,
    "note": "285 场竞选"
   },
@@ -40398,7 +40398,7 @@
    "agency": "特拉华州选举委员会",
    "url": "https://elections.delaware.gov/results/enr/GE2026.html",
    "status": "ok",
-   "updated_at": "2026-11-16T07:20:52.249276+00:00",
+   "updated_at": "2026-11-16T17:29:57.385589+00:00",
    "races": 43,
    "note": "43 场竞选"
   },
@@ -40525,7 +40525,7 @@
    "agency": "爱荷华州州务卿",
    "url": "https://electionresults.iowa.gov/IA/127077/",
    "status": "ok",
-   "updated_at": "2026-11-16T07:22:24.392023+00:00",
+   "updated_at": "2026-11-16T17:31:31.382213+00:00",
    "races": 274,
    "note": "274 场竞选"
   },
@@ -40972,7 +40972,7 @@
    "agency": "得克萨斯州州务卿",
    "url": "https://electionresults.sos.state.tx.us/results.html",
    "status": "ok",
-   "updated_at": "2026-11-16T07:27:43.508468+00:00",
+   "updated_at": "2026-11-16T17:36:48.695282+00:00",
    "races": 295,
    "note": "295 场竞选"
   },
@@ -41019,7 +41019,7 @@
    "agency": "弗吉尼亚州选举委员会",
    "url": "https://enr.elections.virginia.gov/results/public/api/elections/virginia/2026-November-General/data",
    "status": "ok",
-   "updated_at": "2026-11-16T07:28:09.575301+00:00",
+   "updated_at": "2026-11-16T17:37:13.470166+00:00",
    "races": 32,
    "note": "32 场竞选"
   },
@@ -41034,7 +41034,7 @@
    "agency": "华盛顿州州务卿",
    "url": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
    "status": "ok",
-   "updated_at": "2026-11-16T07:28:10.085472+00:00",
+   "updated_at": "2026-11-16T17:37:14.089150+00:00",
    "races": 173,
    "note": "173 场竞选"
   },
