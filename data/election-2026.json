@@ -2,7 +2,7 @@
  "meta": {
   "election": "2026 United States General Election",
   "election_date": "2026-11-03",
-  "generated_at": "2026-11-16T17:37:51.822715+00:00",
+  "generated_at": "2026-11-17T01:15:04.365036+00:00",
   "generator": "scripts/collect.py",
   "source_policy": "数据仅来自各州州务卿 / 选举委员会官方结果系统；FEC 在认证后汇编发布。",
   "races_count": 1201,
@@ -34119,15 +34119,15 @@
     {
      "name": "Jonathon E. Kilmon",
      "party": "",
-     "votes": 2,
-     "pct": 5.0,
+     "votes": 18,
+     "pct": 45.0,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 38,
-     "pct": 95.0,
+     "votes": 22,
+     "pct": 55.0,
      "winner": false
     }
    ],
@@ -34239,19 +34239,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1333337,
-     "pct": 42.04,
+     "votes": 1335503,
+     "pct": 42.03,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 1838551,
-     "pct": 57.96,
+     "votes": 1842368,
+     "pct": 57.97,
      "winner": false
     }
    ],
-   "total_votes": 3171888,
+   "total_votes": 3177871,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34269,19 +34269,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1470324,
-     "pct": 47.63,
+     "votes": 1472323,
+     "pct": 47.61,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 1616797,
-     "pct": 52.37,
+     "votes": 1620040,
+     "pct": 52.39,
      "winner": false
     }
    ],
-   "total_votes": 3087121,
+   "total_votes": 3092363,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34299,19 +34299,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 1765555,
-     "pct": 55.99,
+     "votes": 1767851,
+     "pct": 55.97,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 1387797,
-     "pct": 44.01,
+     "votes": 1390788,
+     "pct": 44.03,
      "winner": false
     }
    ],
-   "total_votes": 3153352,
+   "total_votes": 3158639,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34329,26 +34329,26 @@
     {
      "name": "Suzan DelBene",
      "party": "D",
-     "votes": 198290,
+     "votes": 198533,
      "pct": 67.45,
      "winner": false
     },
     {
      "name": "Mary Silva",
      "party": "R",
-     "votes": 94796,
+     "votes": 94895,
      "pct": 32.24,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 913,
+     "votes": 922,
      "pct": 0.31,
      "winner": false
     }
    ],
-   "total_votes": 293999,
+   "total_votes": 294350,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34366,26 +34366,26 @@
     {
      "name": "Rick Larsen",
      "party": "D",
-     "votes": 230569,
-     "pct": 66.53,
+     "votes": 230843,
+     "pct": 66.5,
      "winner": false
     },
     {
      "name": "Edwin H. Feller",
      "party": "R",
-     "votes": 114641,
-     "pct": 33.08,
+     "votes": 114924,
+     "pct": 33.11,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1341,
+     "votes": 1352,
      "pct": 0.39,
      "winner": false
     }
    ],
-   "total_votes": 346551,
+   "total_votes": 347119,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34403,26 +34403,26 @@
     {
      "name": "John Braun",
      "party": "R",
-     "votes": 160595,
+     "votes": 160738,
      "pct": 45.41,
      "winner": false
     },
     {
      "name": "Marie Gluesenkamp Perez",
      "party": "D",
-     "votes": 189802,
+     "votes": 189947,
      "pct": 53.66,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 3291,
+     "votes": 3293,
      "pct": 0.93,
      "winner": false
     }
    ],
-   "total_votes": 353688,
+   "total_votes": 353978,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34440,26 +34440,26 @@
     {
      "name": "Amanda McKinney",
      "party": "R",
-     "votes": 130634,
+     "votes": 130652,
      "pct": 53.8,
      "winner": false
     },
     {
      "name": "John Duresky",
      "party": "D",
-     "votes": 111621,
+     "votes": 111644,
      "pct": 45.97,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 559,
+     "votes": 561,
      "pct": 0.23,
      "winner": false
     }
    ],
-   "total_votes": 242814,
+   "total_votes": 242857,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34514,26 +34514,26 @@
     {
      "name": "Emily Randall",
      "party": "D",
-     "votes": 223381,
-     "pct": 62.41,
+     "votes": 224018,
+     "pct": 62.43,
      "winner": false
     },
     {
      "name": "Teresa Fox",
      "party": "R",
-     "votes": 133747,
-     "pct": 37.37,
+     "votes": 134025,
+     "pct": 37.35,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 792,
+     "votes": 796,
      "pct": 0.22,
      "winner": false
     }
    ],
-   "total_votes": 357920,
+   "total_votes": 358839,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34551,26 +34551,26 @@
     {
      "name": "Pramila Jayapal",
      "party": "D",
-     "votes": 323922,
-     "pct": 87.58,
+     "votes": 324954,
+     "pct": 87.59,
      "winner": false
     },
     {
      "name": "Nirav Sheth",
      "party": "R",
-     "votes": 44603,
-     "pct": 12.06,
+     "votes": 44695,
+     "pct": 12.05,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1340,
+     "votes": 1347,
      "pct": 0.36,
      "winner": false
     }
    ],
-   "total_votes": 369865,
+   "total_votes": 370996,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34588,26 +34588,26 @@
     {
      "name": "Kim Schrier",
      "party": "D",
-     "votes": 193720,
-     "pct": 57.04,
+     "votes": 193943,
+     "pct": 57.05,
      "winner": false
     },
     {
      "name": "Spencer Meline",
      "party": "R",
-     "votes": 144977,
-     "pct": 42.69,
+     "votes": 145062,
+     "pct": 42.67,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 924,
+     "votes": 928,
      "pct": 0.27,
      "winner": false
     }
    ],
-   "total_votes": 339621,
+   "total_votes": 339933,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34625,26 +34625,26 @@
     {
      "name": "Adam Smith",
      "party": "D",
-     "votes": 189965,
-     "pct": 75.65,
+     "votes": 190360,
+     "pct": 75.67,
      "winner": false
     },
     {
      "name": "Doug Basler",
      "party": "R",
-     "votes": 59320,
-     "pct": 23.62,
+     "votes": 59387,
+     "pct": 23.61,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1809,
+     "votes": 1814,
      "pct": 0.72,
      "winner": false
     }
    ],
-   "total_votes": 251094,
+   "total_votes": 251561,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34662,26 +34662,26 @@
     {
      "name": "Marilyn Strickland",
      "party": "D",
-     "votes": 174446,
-     "pct": 63.84,
+     "votes": 174976,
+     "pct": 63.86,
      "winner": false
     },
     {
      "name": "Chris D. Chung",
      "party": "R",
-     "votes": 97054,
-     "pct": 35.52,
+     "votes": 97226,
+     "pct": 35.48,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1775,
-     "pct": 0.65,
+     "votes": 1795,
+     "pct": 0.66,
      "winner": false
     }
    ],
-   "total_votes": 273275,
+   "total_votes": 273997,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34699,26 +34699,26 @@
     {
      "name": "Davina Duerr",
      "party": "D",
-     "votes": 51604,
-     "pct": 73.01,
+     "votes": 51690,
+     "pct": 73.02,
      "winner": false
     },
     {
      "name": "Maggie Wang",
      "party": "R",
-     "votes": 18996,
-     "pct": 26.88,
+     "votes": 19016,
+     "pct": 26.86,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 80,
+     "votes": 81,
      "pct": 0.11,
      "winner": false
     }
    ],
-   "total_votes": 70680,
+   "total_votes": 70787,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34736,26 +34736,26 @@
     {
      "name": "Shelley Kloba",
      "party": "D",
-     "votes": 51016,
-     "pct": 72.41,
+     "votes": 51102,
+     "pct": 72.43,
      "winner": false
     },
     {
      "name": "Cliff Moon",
      "party": "R",
-     "votes": 19322,
-     "pct": 27.43,
+     "votes": 19335,
+     "pct": 27.41,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 113,
+     "votes": 115,
      "pct": 0.16,
      "winner": false
     }
    ],
-   "total_votes": 70451,
+   "total_votes": 70552,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34773,26 +34773,26 @@
     {
      "name": "Andrew Barkis",
      "party": "R",
-     "votes": 33478,
-     "pct": 57.08,
+     "votes": 33517,
+     "pct": 57.02,
      "winner": false
     },
     {
      "name": "William Dehnel",
      "party": "",
-     "votes": 25075,
-     "pct": 42.76,
+     "votes": 25167,
+     "pct": 42.82,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 94,
+     "votes": 95,
      "pct": 0.16,
      "winner": false
     }
    ],
-   "total_votes": 58647,
+   "total_votes": 58779,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34810,15 +34810,15 @@
     {
      "name": "Matt Marshall",
      "party": "R",
-     "votes": 33286,
-     "pct": 56.71,
+     "votes": 33326,
+     "pct": 56.65,
      "winner": false
     },
     {
      "name": "Angela Taylor",
      "party": "D",
-     "votes": 25331,
-     "pct": 43.16,
+     "votes": 25425,
+     "pct": 43.22,
      "winner": false
     },
     {
@@ -34829,7 +34829,7 @@
      "winner": false
     }
    ],
-   "total_votes": 58695,
+   "total_votes": 58829,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -34995,26 +34995,26 @@
     {
      "name": "Zach Hall",
      "party": "D",
-     "votes": 41053,
-     "pct": 56.52,
+     "votes": 41131,
+     "pct": 56.54,
      "winner": false
     },
     {
      "name": "Michelle Bennett",
      "party": "R",
-     "votes": 31510,
-     "pct": 43.38,
+     "votes": 31543,
+     "pct": 43.36,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 66,
+     "votes": 68,
      "pct": 0.09,
      "winner": false
     }
    ],
-   "total_votes": 72629,
+   "total_votes": 72742,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35032,26 +35032,26 @@
     {
      "name": "Lisa Callan",
      "party": "D",
-     "votes": 42204,
-     "pct": 58.35,
+     "votes": 42282,
+     "pct": 58.37,
      "winner": false
     },
     {
      "name": "Patrick Peacock",
      "party": "R",
-     "votes": 30055,
-     "pct": 41.55,
+     "votes": 30082,
+     "pct": 41.53,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 71,
+     "votes": 72,
      "pct": 0.1,
      "winner": false
     }
    ],
-   "total_votes": 72330,
+   "total_votes": 72436,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35173,14 +35173,14 @@
     {
      "name": "Shelly Short",
      "party": "R",
-     "votes": 42620,
+     "votes": 42640,
      "pct": 67.06,
      "winner": false
     },
     {
      "name": "Ronald L McCoy",
      "party": "O",
-     "votes": 20567,
+     "votes": 20579,
      "pct": 32.36,
      "winner": false
     },
@@ -35192,7 +35192,7 @@
      "winner": false
     }
    ],
-   "total_votes": 63555,
+   "total_votes": 63587,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35210,19 +35210,19 @@
     {
      "name": "Andrew Engell",
      "party": "R",
-     "votes": 47219,
-     "pct": 96.34,
+     "votes": 47241,
+     "pct": 96.33,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1796,
-     "pct": 3.66,
+     "votes": 1800,
+     "pct": 3.67,
      "winner": false
     }
    ],
-   "total_votes": 49015,
+   "total_votes": 49041,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35240,19 +35240,19 @@
     {
      "name": "Hunter Abell",
      "party": "R",
-     "votes": 46762,
+     "votes": 46785,
      "pct": 96.45,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1719,
+     "votes": 1723,
      "pct": 3.55,
      "winner": false
     }
    ],
-   "total_votes": 48481,
+   "total_votes": 48508,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35434,15 +35434,15 @@
     {
      "name": "Clyde Shavers",
      "party": "D",
-     "votes": 42962,
+     "votes": 43023,
      "pct": 56.5,
      "winner": false
     },
     {
      "name": "Robert (Chili) Hicks",
      "party": "R",
-     "votes": 32971,
-     "pct": 43.36,
+     "votes": 33027,
+     "pct": 43.37,
      "winner": false
     },
     {
@@ -35453,7 +35453,7 @@
      "winner": false
     }
    ],
-   "total_votes": 76034,
+   "total_votes": 76151,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35471,14 +35471,14 @@
     {
      "name": "Dave Paul",
      "party": "D",
-     "votes": 44260,
+     "votes": 44325,
      "pct": 58.34,
      "winner": false
     },
     {
      "name": "Tim Hazelo",
      "party": "R",
-     "votes": 31502,
+     "votes": 31553,
      "pct": 41.53,
      "winner": false
     },
@@ -35490,7 +35490,7 @@
      "winner": false
     }
    ],
-   "total_votes": 75860,
+   "total_votes": 75976,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35508,26 +35508,26 @@
     {
      "name": "David Hackney",
      "party": "D",
-     "votes": 24796,
-     "pct": 56.87,
+     "votes": 24846,
+     "pct": 56.85,
      "winner": false
     },
     {
      "name": "Ashley Fedan",
      "party": "D",
-     "votes": 17328,
-     "pct": 39.74,
+     "votes": 17380,
+     "pct": 39.77,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1476,
-     "pct": 3.39,
+     "votes": 1479,
+     "pct": 3.38,
      "winner": false
     }
    ],
-   "total_votes": 43600,
+   "total_votes": 43705,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35545,19 +35545,19 @@
     {
      "name": "Steve Bergquist",
      "party": "D",
-     "votes": 37013,
-     "pct": 95.81,
+     "votes": 37067,
+     "pct": 95.82,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
      "votes": 1619,
-     "pct": 4.19,
+     "pct": 4.18,
      "winner": false
     }
    ],
-   "total_votes": 38632,
+   "total_votes": 38686,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35575,26 +35575,26 @@
     {
      "name": "Brian Burnett",
      "party": "R",
-     "votes": 35906,
-     "pct": 49.34,
+     "votes": 35930,
+     "pct": 49.32,
      "winner": false
     },
     {
      "name": "Stacy Willoughby",
      "party": "D",
-     "votes": 36815,
-     "pct": 50.58,
+     "votes": 36861,
+     "pct": 50.6,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 58,
+     "votes": 59,
      "pct": 0.08,
      "winner": false
     }
    ],
-   "total_votes": 72779,
+   "total_votes": 72850,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35612,26 +35612,26 @@
     {
      "name": "Mike Steele",
      "party": "R",
-     "votes": 39688,
-     "pct": 54.77,
+     "votes": 39712,
+     "pct": 54.76,
      "winner": false
     },
     {
      "name": "Maggie Adams",
      "party": "D",
-     "votes": 32677,
-     "pct": 45.1,
+     "votes": 32718,
+     "pct": 45.11,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 93,
+     "votes": 94,
      "pct": 0.13,
      "winner": false
     }
    ],
-   "total_votes": 72458,
+   "total_votes": 72524,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35649,7 +35649,7 @@
     {
      "name": "Alex Ybarra",
      "party": "R",
-     "votes": 38253,
+     "votes": 38256,
      "pct": 96.76,
      "winner": false
     },
@@ -35661,7 +35661,7 @@
      "winner": false
     }
    ],
-   "total_votes": 39533,
+   "total_votes": 39536,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35679,15 +35679,15 @@
     {
      "name": "Tom Dent",
      "party": "R",
-     "votes": 34220,
-     "pct": 66.41,
+     "votes": 34222,
+     "pct": 66.4,
      "winner": false
     },
     {
      "name": "Juan \"Jerry\" Garcia",
      "party": "D",
-     "votes": 17242,
-     "pct": 33.46,
+     "votes": 17249,
+     "pct": 33.47,
      "winner": false
     },
     {
@@ -35698,7 +35698,7 @@
      "winner": false
     }
    ],
-   "total_votes": 51531,
+   "total_votes": 51540,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -35716,14 +35716,14 @@
     {
      "name": "Deanna Martinez",
      "party": "R",
-     "votes": 19832,
+     "votes": 19835,
      "pct": 45.12,
      "winner": false
     },
     {
      "name": "Joshua Thompson",
      "party": "R",
-     "votes": 23147,
+     "votes": 23150,
      "pct": 52.66,
      "winner": false
     },
@@ -35735,7 +35735,7 @@
      "winner": false
     }
    ],
-   "total_votes": 43955,
+   "total_votes": 43961,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36153,26 +36153,26 @@
     {
      "name": "Jim Walsh",
      "party": "R",
-     "votes": 37779,
+     "votes": 37896,
      "pct": 55.39,
      "winner": false
     },
     {
      "name": "Kevin Moynihan",
      "party": "D",
-     "votes": 30337,
-     "pct": 44.48,
+     "votes": 30438,
+     "pct": 44.49,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 84,
+     "votes": 85,
      "pct": 0.12,
      "winner": false
     }
    ],
-   "total_votes": 68200,
+   "total_votes": 68419,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36190,26 +36190,26 @@
     {
      "name": "Terry Carlson",
      "party": "D",
-     "votes": 30342,
+     "votes": 30441,
      "pct": 44.84,
      "winner": false
     },
     {
      "name": "Joel McEntire",
      "party": "R",
-     "votes": 37161,
-     "pct": 54.92,
+     "votes": 37276,
+     "pct": 54.91,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 163,
+     "votes": 165,
      "pct": 0.24,
      "winner": false
     }
    ],
-   "total_votes": 67666,
+   "total_votes": 67882,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36227,15 +36227,15 @@
     {
      "name": "Peter Abbarno",
      "party": "R",
-     "votes": 51667,
-     "pct": 65.41,
+     "votes": 51699,
+     "pct": 65.4,
      "winner": false
     },
     {
      "name": "Andy Zahn",
      "party": "D",
-     "votes": 27134,
-     "pct": 34.35,
+     "votes": 27163,
+     "pct": 34.36,
      "winner": false
     },
     {
@@ -36246,7 +36246,7 @@
      "winner": false
     }
    ],
-   "total_votes": 78995,
+   "total_votes": 79056,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36264,15 +36264,15 @@
     {
      "name": "Ed Orcutt",
      "party": "R",
-     "votes": 49467,
-     "pct": 62.68,
+     "votes": 49499,
+     "pct": 62.67,
      "winner": false
     },
     {
      "name": "Evan Jones",
      "party": "D",
-     "votes": 29296,
-     "pct": 37.12,
+     "votes": 29326,
+     "pct": 37.13,
      "winner": false
     },
     {
@@ -36283,7 +36283,7 @@
      "winner": false
     }
    ],
-   "total_votes": 78921,
+   "total_votes": 78983,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36301,26 +36301,26 @@
     {
      "name": "Marko Liias",
      "party": "D",
-     "votes": 42175,
-     "pct": 72.06,
+     "votes": 42240,
+     "pct": 72.07,
      "winner": false
     },
     {
      "name": "Riaz Khan",
      "party": "R",
-     "votes": 16159,
-     "pct": 27.61,
+     "votes": 16173,
+     "pct": 27.6,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 192,
+     "votes": 194,
      "pct": 0.33,
      "winner": false
     }
    ],
-   "total_votes": 58526,
+   "total_votes": 58607,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36338,15 +36338,15 @@
     {
      "name": "Strom Peterson",
      "party": "D",
-     "votes": 31692,
-     "pct": 57.85,
+     "votes": 31749,
+     "pct": 57.83,
      "winner": false
     },
     {
      "name": "Jason Moon",
      "party": "D",
-     "votes": 22281,
-     "pct": 40.67,
+     "votes": 22347,
+     "pct": 40.7,
      "winner": false
     },
     {
@@ -36357,7 +36357,7 @@
      "winner": false
     }
    ],
-   "total_votes": 54779,
+   "total_votes": 54902,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36375,26 +36375,26 @@
     {
      "name": "Lillian Ortiz-Self",
      "party": "D",
-     "votes": 41049,
-     "pct": 71.94,
+     "votes": 41105,
+     "pct": 71.93,
      "winner": false
     },
     {
      "name": "Bruce Guthrie",
      "party": "O",
-     "votes": 15681,
-     "pct": 27.48,
+     "votes": 15707,
+     "pct": 27.49,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 332,
+     "votes": 333,
      "pct": 0.58,
      "winner": false
     }
    ],
-   "total_votes": 57062,
+   "total_votes": 57145,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36412,26 +36412,26 @@
     {
      "name": "Beth Doglio",
      "party": "D",
-     "votes": 50371,
-     "pct": 71.83,
+     "votes": 50792,
+     "pct": 71.85,
      "winner": false
     },
     {
      "name": "Don Hewett",
      "party": "R",
-     "votes": 19562,
-     "pct": 27.9,
+     "votes": 19705,
+     "pct": 27.88,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 188,
+     "votes": 191,
      "pct": 0.27,
      "winner": false
     }
    ],
-   "total_votes": 70121,
+   "total_votes": 70688,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36449,26 +36449,26 @@
     {
      "name": "Lisa Parshley",
      "party": "D",
-     "votes": 41791,
-     "pct": 66.38,
+     "votes": 42128,
+     "pct": 66.36,
      "winner": false
     },
     {
      "name": "Jamie Keenan-deVargas",
      "party": "D",
-     "votes": 19352,
-     "pct": 30.74,
+     "votes": 19533,
+     "pct": 30.77,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1812,
+     "votes": 1826,
      "pct": 2.88,
      "winner": false
     }
    ],
-   "total_votes": 62955,
+   "total_votes": 63487,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36486,26 +36486,26 @@
     {
      "name": "Tarra Simmons",
      "party": "D",
-     "votes": 34530,
+     "votes": 34561,
      "pct": 49.37,
      "winner": false
     },
     {
      "name": "Daria Ilgen",
      "party": "D",
-     "votes": 34071,
+     "votes": 34095,
      "pct": 48.71,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1341,
+     "votes": 1344,
      "pct": 1.92,
      "winner": false
     }
    ],
-   "total_votes": 69942,
+   "total_votes": 70000,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36523,26 +36523,26 @@
     {
      "name": "Greg Nance",
      "party": "D",
-     "votes": 52411,
-     "pct": 69.76,
+     "votes": 52449,
+     "pct": 69.75,
      "winner": false
     },
     {
      "name": "Lance Byrd",
      "party": "R",
-     "votes": 22574,
+     "votes": 22599,
      "pct": 30.05,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 148,
+     "votes": 149,
      "pct": 0.2,
      "winner": false
     }
    ],
-   "total_votes": 75133,
+   "total_votes": 75197,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36560,26 +36560,26 @@
     {
      "name": "Adam Bernbaum",
      "party": "D",
-     "votes": 49113,
-     "pct": 60.39,
+     "votes": 49586,
+     "pct": 60.47,
      "winner": false
     },
     {
      "name": "Eric W. Pratt",
      "party": "R",
-     "votes": 32161,
-     "pct": 39.54,
+     "votes": 32359,
+     "pct": 39.46,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 57,
+     "votes": 61,
      "pct": 0.07,
      "winner": false
     }
    ],
-   "total_votes": 81331,
+   "total_votes": 82006,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36597,26 +36597,26 @@
     {
      "name": "Marcia Kelbon",
      "party": "",
-     "votes": 36102,
-     "pct": 45.29,
+     "votes": 36337,
+     "pct": 45.21,
      "winner": false
     },
     {
      "name": "Kaylee Kuehn",
      "party": "D",
-     "votes": 43419,
-     "pct": 54.47,
+     "votes": 43827,
+     "pct": 54.53,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 191,
-     "pct": 0.24,
+     "votes": 201,
+     "pct": 0.25,
      "winner": false
     }
    ],
-   "total_votes": 79712,
+   "total_votes": 80365,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36708,14 +36708,14 @@
     {
      "name": "Deborah Krishnadasan",
      "party": "D",
-     "votes": 43976,
+     "votes": 43984,
      "pct": 56.18,
      "winner": false
     },
     {
      "name": "Gary Parker",
      "party": "R",
-     "votes": 34203,
+     "votes": 34207,
      "pct": 43.7,
      "winner": false
     },
@@ -36727,7 +36727,7 @@
      "winner": false
     }
    ],
-   "total_votes": 78273,
+   "total_votes": 78285,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36745,14 +36745,14 @@
     {
      "name": "David Olson",
      "party": "R",
-     "votes": 34853,
+     "votes": 34858,
      "pct": 44.65,
      "winner": false
     },
     {
      "name": "Adison Richards",
      "party": "D",
-     "votes": 43102,
+     "votes": 43109,
      "pct": 55.22,
      "winner": false
     },
@@ -36764,7 +36764,7 @@
      "winner": false
     }
    ],
-   "total_votes": 78054,
+   "total_votes": 78066,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -36782,14 +36782,14 @@
     {
      "name": "Katy Cornell",
      "party": "R",
-     "votes": 36175,
+     "votes": 36179,
      "pct": 46.4,
      "winner": false
     },
     {
      "name": "Renee Hernandez Greenfield",
      "party": "D",
-     "votes": 41660,
+     "votes": 41667,
      "pct": 53.43,
      "winner": false
     },
@@ -36801,7 +36801,7 @@
      "winner": false
     }
    ],
-   "total_votes": 77968,
+   "total_votes": 77979,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37071,26 +37071,26 @@
     {
      "name": "Claire Wilson",
      "party": "D",
-     "votes": 28482,
-     "pct": 64.21,
+     "votes": 28538,
+     "pct": 64.23,
      "winner": false
     },
     {
      "name": "Michael Rutland",
      "party": "R",
-     "votes": 15839,
-     "pct": 35.7,
+     "votes": 15855,
+     "pct": 35.68,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 40,
+     "votes": 41,
      "pct": 0.09,
      "winner": false
     }
    ],
-   "total_votes": 44361,
+   "total_votes": 44434,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37108,26 +37108,26 @@
     {
      "name": "Jamila E. Taylor",
      "party": "D",
-     "votes": 29028,
-     "pct": 65.54,
+     "votes": 29083,
+     "pct": 65.56,
      "winner": false
     },
     {
      "name": "Tiffany Bowyer",
      "party": "R",
-     "votes": 15224,
-     "pct": 34.37,
+     "votes": 15240,
+     "pct": 34.35,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 40,
+     "votes": 41,
      "pct": 0.09,
      "winner": false
     }
    ],
-   "total_votes": 44292,
+   "total_votes": 44364,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37145,26 +37145,26 @@
     {
      "name": "Kristine Reeves",
      "party": "D",
-     "votes": 28383,
-     "pct": 65.34,
+     "votes": 28439,
+     "pct": 65.36,
      "winner": false
     },
     {
      "name": "Paul McDaniel",
      "party": "O",
-     "votes": 14941,
-     "pct": 34.4,
+     "votes": 14956,
+     "pct": 34.37,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 115,
-     "pct": 0.26,
+     "votes": 117,
+     "pct": 0.27,
      "winner": false
     }
    ],
-   "total_votes": 43439,
+   "total_votes": 43512,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37182,26 +37182,26 @@
     {
      "name": "Phil Fortunato",
      "party": "R",
-     "votes": 35943,
+     "votes": 35948,
      "pct": 54.56,
      "winner": false
     },
     {
      "name": "Tamara Stramel",
      "party": "D",
-     "votes": 29882,
-     "pct": 45.36,
+     "votes": 29893,
+     "pct": 45.37,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 51,
+     "votes": 52,
      "pct": 0.08,
      "winner": false
     }
    ],
-   "total_votes": 65876,
+   "total_votes": 65893,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37219,14 +37219,14 @@
     {
      "name": "Drew Stokesbary",
      "party": "R",
-     "votes": 37221,
-     "pct": 56.81,
+     "votes": 37224,
+     "pct": 56.8,
      "winner": false
     },
     {
      "name": "Stephen Szczurko-Walton",
      "party": "D",
-     "votes": 28243,
+     "votes": 28253,
      "pct": 43.11,
      "winner": false
     },
@@ -37238,7 +37238,7 @@
      "winner": false
     }
    ],
-   "total_votes": 65520,
+   "total_votes": 65533,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37256,15 +37256,15 @@
     {
      "name": "Joshua Penner",
      "party": "R",
-     "votes": 35427,
-     "pct": 54.14,
+     "votes": 35432,
+     "pct": 54.13,
      "winner": false
     },
     {
      "name": "John Bielka",
      "party": "",
-     "votes": 29939,
-     "pct": 45.75,
+     "votes": 29948,
+     "pct": 45.76,
      "winner": false
     },
     {
@@ -37275,7 +37275,7 @@
      "winner": false
     }
    ],
-   "total_votes": 65438,
+   "total_votes": 65452,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37293,26 +37293,26 @@
     {
      "name": "Cindy Ryu",
      "party": "D",
-     "votes": 32721,
-     "pct": 50.9,
+     "votes": 32795,
+     "pct": 50.89,
      "winner": false
     },
     {
      "name": "Jesse Salomon",
      "party": "D",
-     "votes": 30577,
-     "pct": 47.56,
+     "votes": 30646,
+     "pct": 47.55,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 992,
-     "pct": 1.54,
+     "votes": 1003,
+     "pct": 1.56,
      "winner": false
     }
    ],
-   "total_votes": 64290,
+   "total_votes": 64444,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37330,26 +37330,26 @@
     {
      "name": "Keith Scully",
      "party": "D",
-     "votes": 29726,
-     "pct": 47.53,
+     "votes": 29781,
+     "pct": 47.52,
      "winner": false
     },
     {
      "name": "Danica Noble",
      "party": "D",
-     "votes": 31804,
-     "pct": 50.85,
+     "votes": 31876,
+     "pct": 50.86,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1014,
+     "votes": 1018,
      "pct": 1.62,
      "winner": false
     }
    ],
-   "total_votes": 62544,
+   "total_votes": 62675,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37367,26 +37367,26 @@
     {
      "name": "Lauren Davis",
      "party": "D",
-     "votes": 43466,
-     "pct": 70.04,
+     "votes": 43527,
+     "pct": 70.02,
      "winner": false
     },
     {
      "name": "Imraan Siddiqi",
      "party": "D",
-     "votes": 17648,
-     "pct": 28.44,
+     "votes": 17692,
+     "pct": 28.46,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 943,
+     "votes": 948,
      "pct": 1.52,
      "winner": false
     }
    ],
-   "total_votes": 62057,
+   "total_votes": 62167,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37404,7 +37404,7 @@
     {
      "name": "Tina L. Orwall",
      "party": "D",
-     "votes": 36619,
+     "votes": 36678,
      "pct": 95.26,
      "winner": false
     },
@@ -37416,7 +37416,7 @@
      "winner": false
     }
    ],
-   "total_votes": 38443,
+   "total_votes": 38502,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37434,26 +37434,26 @@
     {
      "name": "Edwin Obras",
      "party": "D",
-     "votes": 34495,
-     "pct": 73.47,
+     "votes": 34559,
+     "pct": 73.5,
      "winner": false
     },
     {
      "name": "Chris Martinez",
      "party": "R",
-     "votes": 12393,
-     "pct": 26.4,
+     "votes": 12399,
+     "pct": 26.37,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 63,
-     "pct": 0.13,
+     "votes": 64,
+     "pct": 0.14,
      "winner": false
     }
    ],
-   "total_votes": 46951,
+   "total_votes": 47022,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37471,15 +37471,15 @@
     {
      "name": "Mia Su-Ling Gregerson",
      "party": "D",
-     "votes": 34436,
-     "pct": 73.93,
+     "votes": 34494,
+     "pct": 73.95,
      "winner": false
     },
     {
      "name": "Yuri Marinchik",
      "party": "R",
-     "votes": 12067,
-     "pct": 25.91,
+     "votes": 12076,
+     "pct": 25.89,
      "winner": false
     },
     {
@@ -37490,7 +37490,7 @@
      "winner": false
     }
    ],
-   "total_votes": 46579,
+   "total_votes": 46646,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37508,19 +37508,19 @@
     {
      "name": "Emily Alvarado",
      "party": "D",
-     "votes": 59755,
+     "votes": 59904,
      "pct": 97.98,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1229,
+     "votes": 1233,
      "pct": 2.02,
      "winner": false
     }
    ],
-   "total_votes": 60984,
+   "total_votes": 61137,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37538,19 +37538,19 @@
     {
      "name": "Brianna K. Thomas",
      "party": "D",
-     "votes": 58719,
+     "votes": 58867,
      "pct": 98.04,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1172,
+     "votes": 1176,
      "pct": 1.96,
      "winner": false
     }
    ],
-   "total_votes": 59891,
+   "total_votes": 60043,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37568,26 +37568,26 @@
     {
      "name": "Joe Fitzgibbon",
      "party": "D",
-     "votes": 46643,
-     "pct": 67.7,
+     "votes": 46769,
+     "pct": 67.69,
      "winner": false
     },
     {
      "name": "Mary Anito",
      "party": "D",
-     "votes": 21539,
-     "pct": 31.26,
+     "votes": 21604,
+     "pct": 31.27,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 715,
+     "votes": 717,
      "pct": 1.04,
      "winner": false
     }
    ],
-   "total_votes": 68897,
+   "total_votes": 69090,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37605,26 +37605,26 @@
     {
      "name": "Drew C MacEwen",
      "party": "R",
-     "votes": 39262,
-     "pct": 50.19,
+     "votes": 39331,
+     "pct": 50.15,
      "winner": false
     },
     {
      "name": "Carolina Mejia",
      "party": "D",
-     "votes": 38863,
-     "pct": 49.68,
+     "votes": 38998,
+     "pct": 49.73,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
      "votes": 98,
-     "pct": 0.13,
+     "pct": 0.12,
      "winner": false
     }
    ],
-   "total_votes": 78223,
+   "total_votes": 78427,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37642,15 +37642,15 @@
     {
      "name": "Dan Griffey",
      "party": "R",
-     "votes": 40902,
-     "pct": 52.43,
+     "votes": 40973,
+     "pct": 52.38,
      "winner": false
     },
     {
      "name": "Jim Pierson",
      "party": "D",
-     "votes": 37005,
-     "pct": 47.43,
+     "votes": 37137,
+     "pct": 47.48,
      "winner": false
     },
     {
@@ -37661,7 +37661,7 @@
      "winner": false
     }
    ],
-   "total_votes": 78016,
+   "total_votes": 78219,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37679,15 +37679,15 @@
     {
      "name": "Travis Couture",
      "party": "R",
-     "votes": 40710,
-     "pct": 52.19,
+     "votes": 40779,
+     "pct": 52.14,
      "winner": false
     },
     {
      "name": "Maria Littlesun",
      "party": "D",
-     "votes": 37193,
-     "pct": 47.68,
+     "votes": 37329,
+     "pct": 47.73,
      "winner": false
     },
     {
@@ -37698,7 +37698,7 @@
      "winner": false
     }
    ],
-   "total_votes": 78006,
+   "total_votes": 78211,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37716,26 +37716,26 @@
     {
      "name": "Noel C. Frame",
      "party": "D",
-     "votes": 73016,
-     "pct": 87.56,
+     "votes": 73296,
+     "pct": 87.57,
      "winner": false
     },
     {
      "name": "Jillian England",
      "party": "R",
-     "votes": 10230,
-     "pct": 12.27,
+     "votes": 10260,
+     "pct": 12.26,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 142,
+     "votes": 144,
      "pct": 0.17,
      "winner": false
     }
    ],
-   "total_votes": 83388,
+   "total_votes": 83700,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37753,19 +37753,19 @@
     {
      "name": "Julia Grant Reed",
      "party": "D",
-     "votes": 68587,
+     "votes": 68850,
      "pct": 98.72,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 888,
+     "votes": 890,
      "pct": 1.28,
      "winner": false
     }
    ],
-   "total_votes": 69475,
+   "total_votes": 69740,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37783,19 +37783,19 @@
     {
      "name": "Liz Berry",
      "party": "D",
-     "votes": 68287,
+     "votes": 68549,
      "pct": 98.74,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 874,
+     "votes": 876,
      "pct": 1.26,
      "winner": false
     }
    ],
-   "total_votes": 69161,
+   "total_votes": 69425,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37813,26 +37813,26 @@
     {
      "name": "Chipalo Street",
      "party": "D",
-     "votes": 44892,
-     "pct": 72.1,
+     "votes": 45003,
+     "pct": 72.07,
      "winner": false
     },
     {
      "name": "Tatiana Brown",
      "party": "D",
-     "votes": 16932,
-     "pct": 27.19,
+     "votes": 16993,
+     "pct": 27.21,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 442,
+     "votes": 445,
      "pct": 0.71,
      "winner": false
     }
    ],
-   "total_votes": 62266,
+   "total_votes": 62441,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37850,26 +37850,26 @@
     {
      "name": "Kelabe Tewolde",
      "party": "D",
-     "votes": 41039,
-     "pct": 64.95,
+     "votes": 41171,
+     "pct": 64.98,
      "winner": false
     },
     {
      "name": "Sharon Tomiko Santos",
      "party": "D",
-     "votes": 21804,
-     "pct": 34.51,
+     "votes": 21843,
+     "pct": 34.48,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 341,
+     "votes": 342,
      "pct": 0.54,
      "winner": false
     }
    ],
-   "total_votes": 63184,
+   "total_votes": 63356,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37887,26 +37887,26 @@
     {
      "name": "Jaelynn Scott",
      "party": "D",
-     "votes": 54603,
+     "votes": 54731,
      "pct": 87.55,
      "winner": false
     },
     {
      "name": "Evon McCorkle",
      "party": "O",
-     "votes": 7368,
+     "votes": 7384,
      "pct": 11.81,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 399,
+     "votes": 401,
      "pct": 0.64,
      "winner": false
     }
    ],
-   "total_votes": 62370,
+   "total_votes": 62516,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37924,26 +37924,26 @@
     {
      "name": "June Robinson",
      "party": "D",
-     "votes": 34731,
+     "votes": 34786,
      "pct": 65.33,
      "winner": false
     },
     {
      "name": "Brad Bender",
      "party": "R",
-     "votes": 18344,
+     "votes": 18372,
      "pct": 34.51,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 84,
+     "votes": 85,
      "pct": 0.16,
      "winner": false
     }
    ],
-   "total_votes": 53159,
+   "total_votes": 53243,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37961,26 +37961,26 @@
     {
      "name": "Julio Cortes",
      "party": "D",
-     "votes": 33818,
-     "pct": 66.32,
+     "votes": 33873,
+     "pct": 66.3,
      "winner": false
     },
     {
      "name": "Thomas (Jeff) Kelly",
      "party": "",
-     "votes": 16732,
-     "pct": 32.81,
+     "votes": 16768,
+     "pct": 32.82,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 445,
+     "votes": 447,
      "pct": 0.87,
      "winner": false
     }
    ],
-   "total_votes": 50995,
+   "total_votes": 51088,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -37998,19 +37998,19 @@
     {
      "name": "Mary Fosse",
      "party": "D",
-     "votes": 38842,
-     "pct": 93.01,
+     "votes": 38901,
+     "pct": 93.0,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 2917,
-     "pct": 6.99,
+     "votes": 2929,
+     "pct": 7.0,
      "winner": false
     }
    ],
-   "total_votes": 41759,
+   "total_votes": 41830,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38028,26 +38028,26 @@
     {
      "name": "Kathryn Lewandowsky",
      "party": "D",
-     "votes": 29970,
-     "pct": 45.34,
+     "votes": 30041,
+     "pct": 45.29,
      "winner": false
     },
     {
      "name": "Sam Low",
      "party": "R",
-     "votes": 36059,
-     "pct": 54.55,
+     "votes": 36223,
+     "pct": 54.61,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 68,
+     "votes": 69,
      "pct": 0.1,
      "winner": false
     }
    ],
-   "total_votes": 66097,
+   "total_votes": 66333,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38065,26 +38065,26 @@
     {
      "name": "Ida Keeley",
      "party": "D",
-     "votes": 31436,
-     "pct": 47.74,
+     "votes": 31508,
+     "pct": 47.68,
      "winner": false
     },
     {
      "name": "Steve Ewing",
      "party": "R",
-     "votes": 34334,
-     "pct": 52.14,
+     "votes": 34490,
+     "pct": 52.2,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 80,
+     "votes": 79,
      "pct": 0.12,
      "winner": false
     }
    ],
-   "total_votes": 65850,
+   "total_votes": 66077,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38102,26 +38102,26 @@
     {
      "name": "Debra Lekanoff",
      "party": "D",
-     "votes": 57109,
-     "pct": 72.43,
+     "votes": 57181,
+     "pct": 72.35,
      "winner": false
     },
     {
      "name": "Cindy Carter",
      "party": "R",
-     "votes": 21667,
-     "pct": 27.48,
+     "votes": 21774,
+     "pct": 27.55,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 74,
-     "pct": 0.09,
+     "votes": 78,
+     "pct": 0.1,
      "winner": false
     }
    ],
-   "total_votes": 78850,
+   "total_votes": 79033,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38139,26 +38139,26 @@
     {
      "name": "Alex Ramel",
      "party": "D",
-     "votes": 56866,
-     "pct": 73.85,
+     "votes": 56941,
+     "pct": 73.78,
      "winner": false
     },
     {
      "name": "Joseph Segault",
      "party": "",
-     "votes": 19928,
-     "pct": 25.88,
+     "votes": 20020,
+     "pct": 25.94,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 212,
+     "votes": 214,
      "pct": 0.28,
      "winner": false
     }
    ],
-   "total_votes": 77006,
+   "total_votes": 77175,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38176,14 +38176,14 @@
     {
      "name": "Janice Zahn",
      "party": "D",
-     "votes": 45082,
+     "votes": 45197,
      "pct": 70.69,
      "winner": false
     },
     {
      "name": "Elle Nguyen",
      "party": "R",
-     "votes": 18600,
+     "votes": 18642,
      "pct": 29.16,
      "winner": false
     },
@@ -38195,7 +38195,7 @@
      "winner": false
     }
    ],
-   "total_votes": 63776,
+   "total_votes": 63933,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38213,15 +38213,15 @@
     {
      "name": "My-Linh T Thai",
      "party": "D",
-     "votes": 37927,
-     "pct": 60.09,
+     "votes": 38026,
+     "pct": 60.1,
      "winner": false
     },
     {
      "name": "Michael Rosen",
      "party": "O",
-     "votes": 25101,
-     "pct": 39.77,
+     "votes": 25157,
+     "pct": 39.76,
      "winner": false
     },
     {
@@ -38232,7 +38232,7 @@
      "winner": false
     }
    ],
-   "total_votes": 63116,
+   "total_votes": 63271,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38361,26 +38361,26 @@
     {
      "name": "Jamie Pedersen",
      "party": "D",
-     "votes": 46372,
-     "pct": 71.79,
+     "votes": 46580,
+     "pct": 71.73,
      "winner": false
     },
     {
      "name": "Hannah Sabio-Howell",
      "party": "D",
-     "votes": 17642,
-     "pct": 27.31,
+     "votes": 17771,
+     "pct": 27.37,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 577,
-     "pct": 0.89,
+     "votes": 584,
+     "pct": 0.9,
      "winner": false
     }
    ],
-   "total_votes": 64591,
+   "total_votes": 64935,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38398,26 +38398,26 @@
     {
      "name": "Nicole Macri",
      "party": "D",
-     "votes": 57407,
-     "pct": 91.13,
+     "votes": 57671,
+     "pct": 91.11,
      "winner": false
     },
     {
      "name": "Alby Clendennin",
      "party": "D",
-     "votes": 5092,
-     "pct": 8.08,
+     "votes": 5122,
+     "pct": 8.09,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 497,
+     "votes": 502,
      "pct": 0.79,
      "winner": false
     }
    ],
-   "total_votes": 62996,
+   "total_votes": 63295,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38435,19 +38435,19 @@
     {
      "name": "Shaun Scott",
      "party": "D",
-     "votes": 51108,
+     "votes": 51347,
      "pct": 97.76,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1171,
+     "votes": 1178,
      "pct": 2.24,
      "winner": false
     }
    ],
-   "total_votes": 52279,
+   "total_votes": 52525,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38465,14 +38465,14 @@
     {
      "name": "John Lovick",
      "party": "D",
-     "votes": 39514,
+     "votes": 39575,
      "pct": 62.19,
      "winner": false
     },
     {
      "name": "Sherri Larkin",
      "party": "R",
-     "votes": 23966,
+     "votes": 24004,
      "pct": 37.72,
      "winner": false
     },
@@ -38484,7 +38484,7 @@
      "winner": false
     }
    ],
-   "total_votes": 63534,
+   "total_votes": 63633,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38502,15 +38502,15 @@
     {
      "name": "Brandy Donaghy",
      "party": "D",
-     "votes": 37835,
-     "pct": 59.91,
+     "votes": 37891,
+     "pct": 59.92,
      "winner": false
     },
     {
      "name": "Chris Elder",
      "party": "R",
-     "votes": 25265,
-     "pct": 40.01,
+     "votes": 25294,
+     "pct": 40.0,
      "winner": false
     },
     {
@@ -38521,7 +38521,7 @@
      "winner": false
     }
    ],
-   "total_votes": 63152,
+   "total_votes": 63237,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38539,15 +38539,15 @@
     {
      "name": "April Berg",
      "party": "D",
-     "votes": 38619,
-     "pct": 61.15,
+     "votes": 38679,
+     "pct": 61.16,
      "winner": false
     },
     {
      "name": "Tonya Stadlman",
      "party": "R",
-     "votes": 24484,
-     "pct": 38.77,
+     "votes": 24514,
+     "pct": 38.76,
      "winner": false
     },
     {
@@ -38558,7 +38558,7 @@
      "winner": false
     }
    ],
-   "total_votes": 63150,
+   "total_votes": 63240,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38576,19 +38576,19 @@
     {
      "name": "Manka Dhingra",
      "party": "D",
-     "votes": 48281,
-     "pct": 93.51,
+     "votes": 48289,
+     "pct": 93.5,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 3352,
-     "pct": 6.49,
+     "votes": 3356,
+     "pct": 6.5,
      "winner": false
     }
    ],
-   "total_votes": 51633,
+   "total_votes": 51645,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38606,26 +38606,26 @@
     {
      "name": "Roger Goodman",
      "party": "D",
-     "votes": 47958,
-     "pct": 71.38,
+     "votes": 47978,
+     "pct": 71.4,
      "winner": false
     },
     {
      "name": "JoAnn Tolentino",
      "party": "R",
-     "votes": 19149,
-     "pct": 28.5,
+     "votes": 19139,
+     "pct": 28.48,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 77,
-     "pct": 0.11,
+     "votes": 78,
+     "pct": 0.12,
      "winner": false
     }
    ],
-   "total_votes": 67184,
+   "total_votes": 67195,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38643,26 +38643,26 @@
     {
      "name": "Vanessa Kritzer",
      "party": "D",
-     "votes": 49132,
-     "pct": 74.76,
+     "votes": 49149,
+     "pct": 74.77,
      "winner": false
     },
     {
      "name": "John P Gibbons",
      "party": "R",
-     "votes": 16413,
-     "pct": 24.97,
+     "votes": 16410,
+     "pct": 24.96,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 176,
+     "votes": 175,
      "pct": 0.27,
      "winner": false
     }
    ],
-   "total_votes": 65721,
+   "total_votes": 65734,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38680,26 +38680,26 @@
     {
      "name": "Javier Valdez",
      "party": "D",
-     "votes": 67549,
-     "pct": 89.84,
+     "votes": 67718,
+     "pct": 89.83,
      "winner": false
     },
     {
      "name": "Sandra Stephens",
      "party": "R",
-     "votes": 7534,
+     "votes": 7554,
      "pct": 10.02,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 109,
-     "pct": 0.14,
+     "votes": 112,
+     "pct": 0.15,
      "winner": false
     }
    ],
-   "total_votes": 75192,
+   "total_votes": 75384,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38717,26 +38717,26 @@
     {
      "name": "Gerry Pollet",
      "party": "D",
-     "votes": 45065,
-     "pct": 62.88,
+     "votes": 45188,
+     "pct": 62.81,
      "winner": false
     },
     {
      "name": "Will Dreher",
      "party": "D",
-     "votes": 26155,
-     "pct": 36.5,
+     "votes": 26309,
+     "pct": 36.57,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 445,
+     "votes": 446,
      "pct": 0.62,
      "winner": false
     }
    ],
-   "total_votes": 71665,
+   "total_votes": 71943,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38754,26 +38754,26 @@
     {
      "name": "Darya Farivar",
      "party": "D",
-     "votes": 65302,
+     "votes": 65468,
      "pct": 89.54,
      "winner": false
     },
     {
      "name": "Rodney 'Star' Thornley",
      "party": "O",
-     "votes": 7367,
+     "votes": 7386,
      "pct": 10.1,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 260,
+     "votes": 261,
      "pct": 0.36,
      "winner": false
     }
    ],
-   "total_votes": 72929,
+   "total_votes": 73115,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38791,15 +38791,15 @@
     {
      "name": "Claudia Kauffman",
      "party": "D",
-     "votes": 31891,
-     "pct": 61.22,
+     "votes": 31939,
+     "pct": 61.24,
      "winner": false
     },
     {
      "name": "Kristina Soltys",
      "party": "R",
-     "votes": 20161,
-     "pct": 38.7,
+     "votes": 20173,
+     "pct": 38.68,
      "winner": false
     },
     {
@@ -38810,7 +38810,7 @@
      "winner": false
     }
    ],
-   "total_votes": 52095,
+   "total_votes": 52155,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38828,15 +38828,15 @@
     {
      "name": "Debra Jean Entenman",
      "party": "D",
-     "votes": 31835,
-     "pct": 63.64,
+     "votes": 31883,
+     "pct": 63.66,
      "winner": false
     },
     {
      "name": "Cobi Clark",
      "party": "O",
-     "votes": 17907,
-     "pct": 35.8,
+     "votes": 17918,
+     "pct": 35.78,
      "winner": false
     },
     {
@@ -38847,7 +38847,7 @@
      "winner": false
     }
    ],
-   "total_votes": 50021,
+   "total_votes": 50080,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38865,15 +38865,15 @@
     {
      "name": "Chris Stearns",
      "party": "D",
-     "votes": 32321,
-     "pct": 62.73,
+     "votes": 32370,
+     "pct": 62.75,
      "winner": false
     },
     {
      "name": "Ted Cooke",
      "party": "R",
-     "votes": 19165,
-     "pct": 37.19,
+     "votes": 19177,
+     "pct": 37.17,
      "winner": false
     },
     {
@@ -38884,7 +38884,7 @@
      "winner": false
     }
    ],
-   "total_votes": 51528,
+   "total_votes": 51589,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38909,12 +38909,12 @@
     {
      "name": "Write-in",
      "party": "",
-     "votes": 1212,
+     "votes": 1211,
      "pct": 3.23,
      "winner": false
     }
    ],
-   "total_votes": 37515,
+   "total_votes": 37514,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38932,15 +38932,15 @@
     {
      "name": "Osman Salahuddin",
      "party": "D",
-     "votes": 33430,
+     "votes": 33432,
      "pct": 69.07,
      "winner": false
     },
     {
      "name": "Jeffery Poppe",
      "party": "R",
-     "votes": 14903,
-     "pct": 30.79,
+     "votes": 14909,
+     "pct": 30.8,
      "winner": false
     },
     {
@@ -38951,7 +38951,7 @@
      "winner": false
     }
    ],
-   "total_votes": 48397,
+   "total_votes": 48405,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -38969,26 +38969,26 @@
     {
      "name": "Jessica Forsythe",
      "party": "D",
-     "votes": 23095,
-     "pct": 52.58,
+     "votes": 23091,
+     "pct": 52.56,
      "winner": false
     },
     {
      "name": "Amy Walen",
      "party": "D",
-     "votes": 20195,
-     "pct": 45.98,
+     "votes": 20211,
+     "pct": 46.0,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 632,
+     "votes": 634,
      "pct": 1.44,
      "winner": false
     }
    ],
-   "total_votes": 43922,
+   "total_votes": 43936,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39080,26 +39080,26 @@
     {
      "name": "Colleen Melody",
      "party": "",
-     "votes": 1750149,
-     "pct": 59.91,
+     "votes": 1753259,
+     "pct": 59.93,
      "winner": false
     },
     {
      "name": "Scott Edwards",
      "party": "",
-     "votes": 1163564,
-     "pct": 39.83,
+     "votes": 1164930,
+     "pct": 39.82,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 7388,
+     "votes": 7419,
      "pct": 0.25,
      "winner": false
     }
    ],
-   "total_votes": 2921101,
+   "total_votes": 2925608,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39117,26 +39117,26 @@
     {
      "name": "David Stevens",
      "party": "",
-     "votes": 1220853,
-     "pct": 41.98,
+     "votes": 1222320,
+     "pct": 41.96,
      "winner": false
     },
     {
      "name": "Jaime Michelle Hawk",
      "party": "",
-     "votes": 1678388,
-     "pct": 57.71,
+     "votes": 1681456,
+     "pct": 57.72,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 9212,
+     "votes": 9255,
      "pct": 0.32,
      "winner": false
     }
    ],
-   "total_votes": 2908453,
+   "total_votes": 2913031,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39154,26 +39154,26 @@
     {
      "name": "Ian Birk",
      "party": "",
-     "votes": 1413099,
-     "pct": 49.12,
+     "votes": 1415760,
+     "pct": 49.14,
      "winner": false
     },
     {
      "name": "Sean O'Donnell",
      "party": "",
-     "votes": 1452919,
-     "pct": 50.51,
+     "votes": 1454887,
+     "pct": 50.49,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 10667,
+     "votes": 10691,
      "pct": 0.37,
      "winner": false
     }
    ],
-   "total_votes": 2876685,
+   "total_votes": 2881338,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39191,26 +39191,26 @@
     {
      "name": "Theo Angelis",
      "party": "",
-     "votes": 1610211,
-     "pct": 55.66,
+     "votes": 1613142,
+     "pct": 55.68,
      "winner": false
     },
     {
      "name": "Dave Larson",
      "party": "",
-     "votes": 1274025,
-     "pct": 44.04,
+     "votes": 1275519,
+     "pct": 44.02,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 8596,
+     "votes": 8630,
      "pct": 0.3,
      "winner": false
     }
    ],
-   "total_votes": 2892832,
+   "total_votes": 2897291,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39228,26 +39228,26 @@
     {
      "name": "Debra L. Stephens",
      "party": "",
-     "votes": 1832383,
-     "pct": 63.39,
+     "votes": 1835478,
+     "pct": 63.4,
      "winner": false
     },
     {
      "name": "Todd A. Bloom",
      "party": "",
-     "votes": 1050109,
-     "pct": 36.33,
+     "votes": 1051383,
+     "pct": 36.32,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 8117,
+     "votes": 8157,
      "pct": 0.28,
      "winner": false
     }
    ],
-   "total_votes": 2890609,
+   "total_votes": 2895018,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39265,19 +39265,19 @@
     {
      "name": "David S. Mann",
      "party": "",
-     "votes": 582754,
+     "votes": 583967,
      "pct": 98.13,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 11114,
+     "votes": 11127,
      "pct": 1.87,
      "winner": false
     }
    ],
-   "total_votes": 593868,
+   "total_votes": 595094,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39295,19 +39295,19 @@
     {
      "name": "Bill A. Bowman",
      "party": "",
-     "votes": 576848,
+     "votes": 578043,
      "pct": 98.15,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 10902,
+     "votes": 10911,
      "pct": 1.85,
      "winner": false
     }
    ],
-   "total_votes": 587750,
+   "total_votes": 588954,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39325,19 +39325,19 @@
     {
      "name": "Linda Coburn",
      "party": "",
-     "votes": 219056,
-     "pct": 96.87,
+     "votes": 219376,
+     "pct": 96.86,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 7074,
-     "pct": 3.13,
+     "votes": 7117,
+     "pct": 3.14,
      "winner": false
     }
    ],
-   "total_votes": 226130,
+   "total_votes": 226493,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39385,19 +39385,19 @@
     {
      "name": "Erik D. Price",
      "party": "",
-     "votes": 247721,
-     "pct": 97.74,
+     "votes": 248780,
+     "pct": 97.72,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 5737,
-     "pct": 2.26,
+     "votes": 5793,
+     "pct": 2.28,
      "winner": false
     }
    ],
-   "total_votes": 253458,
+   "total_votes": 254573,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39475,19 +39475,19 @@
     {
      "name": "Megan K. Murphy",
      "party": "",
-     "votes": 100260,
+     "votes": 100286,
      "pct": 97.86,
      "winner": false
     },
     {
      "name": "Write-in",
      "party": "",
-     "votes": 2196,
+     "votes": 2197,
      "pct": 2.14,
      "winner": false
     }
    ],
-   "total_votes": 102456,
+   "total_votes": 102483,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39535,19 +39535,19 @@
     {
      "name": "Leah Taguba",
      "party": "",
-     "votes": 110071,
-     "pct": 96.73,
+     "votes": 110220,
+     "pct": 96.74,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 3717,
-     "pct": 3.27,
+     "votes": 3716,
+     "pct": 3.26,
      "winner": false
     }
    ],
-   "total_votes": 113788,
+   "total_votes": 113936,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39565,19 +39565,19 @@
     {
      "name": "Matthew York",
      "party": "",
-     "votes": 110260,
-     "pct": 97.18,
+     "votes": 110406,
+     "pct": 97.19,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 3201,
-     "pct": 2.82,
+     "votes": 3197,
+     "pct": 2.81,
      "winner": false
     }
    ],
-   "total_votes": 113461,
+   "total_votes": 113603,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39595,19 +39595,19 @@
     {
      "name": "Tricia Grove Johnson",
      "party": "",
-     "votes": 110423,
-     "pct": 96.98,
+     "votes": 110567,
+     "pct": 96.99,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 3437,
-     "pct": 3.02,
+     "votes": 3431,
+     "pct": 3.01,
      "winner": false
     }
    ],
-   "total_votes": 113860,
+   "total_votes": 113998,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39625,19 +39625,19 @@
     {
      "name": "Corinna Harn",
      "party": "",
-     "votes": 109206,
-     "pct": 97.02,
+     "votes": 109348,
+     "pct": 97.03,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 3350,
-     "pct": 2.98,
+     "votes": 3344,
+     "pct": 2.97,
      "winner": false
     }
    ],
-   "total_votes": 112556,
+   "total_votes": 112692,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39655,26 +39655,26 @@
     {
      "name": "Joshua C. Harris",
      "party": "",
-     "votes": 48303,
-     "pct": 33.11,
+     "votes": 48349,
+     "pct": 33.09,
      "winner": false
     },
     {
      "name": "Heather M. Barker",
      "party": "",
-     "votes": 96277,
-     "pct": 65.99,
+     "votes": 96435,
+     "pct": 66.0,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 1324,
+     "votes": 1325,
      "pct": 0.91,
      "winner": false
     }
    ],
-   "total_votes": 145904,
+   "total_votes": 146109,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39692,7 +39692,7 @@
     {
      "name": "Rhonda Laumann",
      "party": "",
-     "votes": 105779,
+     "votes": 105931,
      "pct": 96.97,
      "winner": false
     },
@@ -39704,7 +39704,7 @@
      "winner": false
     }
    ],
-   "total_votes": 109085,
+   "total_votes": 109237,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39759,26 +39759,26 @@
     {
      "name": "Sid Logan",
      "party": "",
-     "votes": 177491,
-     "pct": 59.82,
+     "votes": 177738,
+     "pct": 59.8,
      "winner": false
     },
     {
      "name": "Janet St Clair",
      "party": "",
-     "votes": 117772,
-     "pct": 39.69,
+     "votes": 118016,
+     "pct": 39.7,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 1468,
-     "pct": 0.49,
+     "votes": 1482,
+     "pct": 0.5,
      "winner": false
     }
    ],
-   "total_votes": 296731,
+   "total_votes": 297236,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39833,19 +39833,19 @@
     {
      "name": "Approved",
      "party": "",
-     "votes": 3217,
+     "votes": 3218,
      "pct": 50.3,
      "winner": false
     },
     {
      "name": "Rejected",
      "party": "",
-     "votes": 3178,
+     "votes": 3179,
      "pct": 49.7,
      "winner": false
     }
    ],
-   "total_votes": 6395,
+   "total_votes": 6397,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39863,19 +39863,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 16474,
-     "pct": 82.72,
+     "votes": 16497,
+     "pct": 82.71,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 3441,
-     "pct": 17.28,
+     "votes": 3448,
+     "pct": 17.29,
      "winner": false
     }
    ],
-   "total_votes": 19915,
+   "total_votes": 19945,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39894,18 +39894,18 @@
      "name": "Yes",
      "party": "",
      "votes": 1746,
-     "pct": 58.39,
+     "pct": 58.36,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 1244,
-     "pct": 41.61,
+     "votes": 1246,
+     "pct": 41.64,
      "winner": false
     }
    ],
-   "total_votes": 2990,
+   "total_votes": 2992,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39923,19 +39923,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 129993,
-     "pct": 56.79,
+     "votes": 130578,
+     "pct": 56.83,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 98914,
-     "pct": 43.21,
+     "votes": 99206,
+     "pct": 43.17,
      "winner": false
     }
    ],
-   "total_votes": 228907,
+   "total_votes": 229784,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -39953,19 +39953,19 @@
     {
      "name": "Approved",
      "party": "",
-     "votes": 15378,
-     "pct": 53.49,
+     "votes": 15405,
+     "pct": 53.51,
      "winner": false
     },
     {
      "name": "Rejected",
      "party": "",
-     "votes": 13370,
-     "pct": 46.51,
+     "votes": 13383,
+     "pct": 46.49,
      "winner": false
     }
    ],
-   "total_votes": 28748,
+   "total_votes": 28788,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -40133,19 +40133,19 @@
     {
      "name": "Approved",
      "party": "",
-     "votes": 1267,
-     "pct": 57.62,
+     "votes": 1277,
+     "pct": 57.81,
      "winner": false
     },
     {
      "name": "Rejected",
      "party": "",
      "votes": 932,
-     "pct": 42.38,
+     "pct": 42.19,
      "winner": false
     }
    ],
-   "total_votes": 2199,
+   "total_votes": 2209,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -40193,19 +40193,19 @@
     {
      "name": "Yes",
      "party": "",
-     "votes": 7872,
-     "pct": 56.35,
+     "votes": 7894,
+     "pct": 56.39,
      "winner": false
     },
     {
      "name": "No",
      "party": "",
-     "votes": 6099,
-     "pct": 43.65,
+     "votes": 6104,
+     "pct": 43.61,
      "winner": false
     }
    ],
-   "total_votes": 13971,
+   "total_votes": 13998,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -40223,19 +40223,19 @@
     {
      "name": "Approved",
      "party": "",
-     "votes": 1044,
-     "pct": 56.4,
+     "votes": 1048,
+     "pct": 56.5,
      "winner": false
     },
     {
      "name": "Rejected",
      "party": "",
      "votes": 807,
-     "pct": 43.6,
+     "pct": 43.5,
      "winner": false
     }
    ],
-   "total_votes": 1851,
+   "total_votes": 1855,
    "reporting": 100.0,
    "called": false,
    "state": "WA",
@@ -40320,7 +40320,7 @@
    "agency": "亚利桑那州州务卿",
    "url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
    "status": "ok",
-   "updated_at": "2026-11-16T17:28:59.268741+00:00",
+   "updated_at": "2026-11-17T01:06:08.635263+00:00",
    "races": 99,
    "note": "99 场竞选"
   },
@@ -40367,7 +40367,7 @@
    "agency": "科罗拉多州州务卿",
    "url": "https://results.enr.clarityelections.com/CO/127407/",
    "status": "ok",
-   "updated_at": "2026-11-16T17:29:31.794197+00:00",
+   "updated_at": "2026-11-17T01:06:40.830693+00:00",
    "races": 285,
    "note": "285 场竞选"
   },
@@ -40398,7 +40398,7 @@
    "agency": "特拉华州选举委员会",
    "url": "https://elections.delaware.gov/results/enr/GE2026.html",
    "status": "ok",
-   "updated_at": "2026-11-16T17:29:57.385589+00:00",
+   "updated_at": "2026-11-17T01:07:05.870372+00:00",
    "races": 43,
    "note": "43 场竞选"
   },
@@ -40525,7 +40525,7 @@
    "agency": "爱荷华州州务卿",
    "url": "https://electionresults.iowa.gov/IA/127077/",
    "status": "ok",
-   "updated_at": "2026-11-16T17:31:31.382213+00:00",
+   "updated_at": "2026-11-17T01:08:38.130019+00:00",
    "races": 274,
    "note": "274 场竞选"
   },
@@ -40972,7 +40972,7 @@
    "agency": "得克萨斯州州务卿",
    "url": "https://electionresults.sos.state.tx.us/results.html",
    "status": "ok",
-   "updated_at": "2026-11-16T17:36:48.695282+00:00",
+   "updated_at": "2026-11-17T01:14:06.218767+00:00",
    "races": 295,
    "note": "295 场竞选"
   },
@@ -41019,7 +41019,7 @@
    "agency": "弗吉尼亚州选举委员会",
    "url": "https://enr.elections.virginia.gov/results/public/api/elections/virginia/2026-November-General/data",
    "status": "ok",
-   "updated_at": "2026-11-16T17:37:13.470166+00:00",
+   "updated_at": "2026-11-17T01:14:30.710238+00:00",
    "races": 32,
    "note": "32 场竞选"
   },
@@ -41034,7 +41034,7 @@
    "agency": "华盛顿州州务卿",
    "url": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
    "status": "ok",
-   "updated_at": "2026-11-16T17:37:14.089150+00:00",
+   "updated_at": "2026-11-17T01:14:31.266455+00:00",
    "races": 173,
    "note": "173 场竞选"
   },
