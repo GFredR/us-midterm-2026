@@ -2,7 +2,7 @@
  "meta": {
   "election": "2026 United States General Election",
   "election_date": "2026-11-03",
-  "generated_at": "2026-11-17T01:15:04.365036+00:00",
+  "generated_at": "2026-11-17T09:23:37.238340+00:00",
   "generator": "scripts/collect.py",
   "source_policy": "数据仅来自各州州务卿 / 选举委员会官方结果系统；FEC 在认证后汇编发布。",
   "races_count": 1201,
@@ -33531,26 +33531,26 @@
     {
      "name": "David A. McCaleb",
      "party": "",
-     "votes": 151,
-     "pct": 79.47,
+     "votes": 23,
+     "pct": 74.19,
      "winner": false
     },
     {
      "name": "Lawrence Burr Willcox II",
      "party": "",
-     "votes": 33,
-     "pct": 17.37,
+     "votes": 5,
+     "pct": 16.13,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 6,
-     "pct": 3.16,
+     "votes": 3,
+     "pct": 9.68,
      "winner": false
     }
    ],
-   "total_votes": 190,
+   "total_votes": 31,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -33762,47 +33762,47 @@
     {
      "name": "Edwin R. Long",
      "party": "",
-     "votes": 126,
-     "pct": 20.26,
+     "votes": 20,
+     "pct": 16.81,
      "winner": false
     },
     {
      "name": "Cecil Mears Ashby",
      "party": "",
-     "votes": 134,
-     "pct": 21.54,
+     "votes": 25,
+     "pct": 21.01,
      "winner": false
     },
     {
      "name": "Douglas R. Wehner",
      "party": "",
-     "votes": 123,
-     "pct": 19.77,
+     "votes": 24,
+     "pct": 20.17,
      "winner": false
     },
     {
      "name": "Larry S. Baxter",
      "party": "",
-     "votes": 109,
-     "pct": 17.52,
+     "votes": 20,
+     "pct": 16.81,
      "winner": false
     },
     {
      "name": "Troy A. Brown",
      "party": "",
-     "votes": 107,
-     "pct": 17.2,
+     "votes": 17,
+     "pct": 14.29,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 23,
-     "pct": 3.7,
+     "votes": 13,
+     "pct": 10.92,
      "winner": false
     }
    ],
-   "total_votes": 622,
+   "total_votes": 119,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -34119,19 +34119,19 @@
     {
      "name": "Jonathon E. Kilmon",
      "party": "",
-     "votes": 18,
-     "pct": 45.0,
+     "votes": 2,
+     "pct": 20.0,
      "winner": false
     },
     {
      "name": "Write-In",
      "party": "",
-     "votes": 22,
-     "pct": 55.0,
+     "votes": 8,
+     "pct": 80.0,
      "winner": false
     }
    ],
-   "total_votes": 40,
+   "total_votes": 10,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -40320,7 +40320,7 @@
    "agency": "亚利桑那州州务卿",
    "url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
    "status": "ok",
-   "updated_at": "2026-11-17T01:06:08.635263+00:00",
+   "updated_at": "2026-11-17T09:14:43.000136+00:00",
    "races": 99,
    "note": "99 场竞选"
   },
@@ -40367,7 +40367,7 @@
    "agency": "科罗拉多州州务卿",
    "url": "https://results.enr.clarityelections.com/CO/127407/",
    "status": "ok",
-   "updated_at": "2026-11-17T01:06:40.830693+00:00",
+   "updated_at": "2026-11-17T09:15:15.545666+00:00",
    "races": 285,
    "note": "285 场竞选"
   },
@@ -40398,7 +40398,7 @@
    "agency": "特拉华州选举委员会",
    "url": "https://elections.delaware.gov/results/enr/GE2026.html",
    "status": "ok",
-   "updated_at": "2026-11-17T01:07:05.870372+00:00",
+   "updated_at": "2026-11-17T09:15:41.382204+00:00",
    "races": 43,
    "note": "43 场竞选"
   },
@@ -40525,7 +40525,7 @@
    "agency": "爱荷华州州务卿",
    "url": "https://electionresults.iowa.gov/IA/127077/",
    "status": "ok",
-   "updated_at": "2026-11-17T01:08:38.130019+00:00",
+   "updated_at": "2026-11-17T09:17:15.277650+00:00",
    "races": 274,
    "note": "274 场竞选"
   },
@@ -40972,7 +40972,7 @@
    "agency": "得克萨斯州州务卿",
    "url": "https://electionresults.sos.state.tx.us/results.html",
    "status": "ok",
-   "updated_at": "2026-11-17T01:14:06.218767+00:00",
+   "updated_at": "2026-11-17T09:22:38.806212+00:00",
    "races": 295,
    "note": "295 场竞选"
   },
@@ -41019,7 +41019,7 @@
    "agency": "弗吉尼亚州选举委员会",
    "url": "https://enr.elections.virginia.gov/results/public/api/elections/virginia/2026-November-General/data",
    "status": "ok",
-   "updated_at": "2026-11-17T01:14:30.710238+00:00",
+   "updated_at": "2026-11-17T09:23:03.698617+00:00",
    "races": 32,
    "note": "32 场竞选"
   },
@@ -41034,7 +41034,7 @@
    "agency": "华盛顿州州务卿",
    "url": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
    "status": "ok",
-   "updated_at": "2026-11-17T01:14:31.266455+00:00",
+   "updated_at": "2026-11-17T09:23:04.221557+00:00",
    "races": 173,
    "note": "173 场竞选"
   },
