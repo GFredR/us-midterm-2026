@@ -2,7 +2,7 @@
  "meta": {
   "election": "2026 United States General Election",
   "election_date": "2026-11-03",
-  "generated_at": "2026-11-18T09:20:11.873039+00:00",
+  "generated_at": "2026-11-18T18:17:43.739572+00:00",
   "generator": "scripts/collect.py",
   "source_policy": "数据仅来自各州州务卿 / 选举委员会官方结果系统；FEC 在认证后汇编发布。",
   "races_count": 1201,
@@ -32929,7 +32929,7 @@
     {
      "name": "Bert Mizusawa",
      "party": "R",
-     "votes": 1393713,
+     "votes": 1393710,
      "pct": 38.13,
      "winner": false
     },
@@ -32941,7 +32941,7 @@
      "winner": false
     }
    ],
-   "total_votes": 3655141,
+   "total_votes": 3655138,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -33346,7 +33346,7 @@
     {
      "name": "H. Morgan Griffith",
      "party": "R",
-     "votes": 195307,
+     "votes": 195304,
      "pct": 65.32,
      "winner": false
     },
@@ -33358,7 +33358,7 @@
      "winner": false
     }
    ],
-   "total_votes": 299004,
+   "total_votes": 299001,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -34156,12 +34156,12 @@
     {
      "name": "No",
      "party": "",
-     "votes": 1334934,
+     "votes": 1334931,
      "pct": 37.13,
      "winner": false
     }
    ],
-   "total_votes": 3595042,
+   "total_votes": 3595039,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -34186,12 +34186,12 @@
     {
      "name": "No",
      "party": "",
-     "votes": 1527942,
+     "votes": 1527939,
      "pct": 42.11,
      "winner": false
     }
    ],
-   "total_votes": 3628042,
+   "total_votes": 3628039,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -34216,12 +34216,12 @@
     {
      "name": "No",
      "party": "",
-     "votes": 1558954,
+     "votes": 1558951,
      "pct": 43.06,
      "winner": false
     }
    ],
-   "total_votes": 3620695,
+   "total_votes": 3620692,
    "reporting": 100.0,
    "called": false,
    "state": "VA",
@@ -40320,7 +40320,7 @@
    "agency": "亚利桑那州州务卿",
    "url": "https://app.enhancedvoting.com/results/public/api/elections/Arizona/110326GeneralElection/data",
    "status": "ok",
-   "updated_at": "2026-11-18T09:11:14.829130+00:00",
+   "updated_at": "2026-11-18T18:08:55.881638+00:00",
    "races": 99,
    "note": "99 场竞选"
   },
@@ -40367,7 +40367,7 @@
    "agency": "科罗拉多州州务卿",
    "url": "https://results.enr.clarityelections.com/CO/127407/",
    "status": "ok",
-   "updated_at": "2026-11-18T09:11:47.473876+00:00",
+   "updated_at": "2026-11-18T18:09:28.194518+00:00",
    "races": 285,
    "note": "285 场竞选"
   },
@@ -40398,7 +40398,7 @@
    "agency": "特拉华州选举委员会",
    "url": "https://elections.delaware.gov/results/enr/GE2026.html",
    "status": "ok",
-   "updated_at": "2026-11-18T09:12:12.741683+00:00",
+   "updated_at": "2026-11-18T18:09:53.731936+00:00",
    "races": 43,
    "note": "43 场竞选"
   },
@@ -40525,7 +40525,7 @@
    "agency": "爱荷华州州务卿",
    "url": "https://electionresults.iowa.gov/IA/127077/",
    "status": "ok",
-   "updated_at": "2026-11-18T09:13:46.135267+00:00",
+   "updated_at": "2026-11-18T18:11:26.517909+00:00",
    "races": 274,
    "note": "274 场竞选"
   },
@@ -40972,7 +40972,7 @@
    "agency": "得克萨斯州州务卿",
    "url": "https://electionresults.sos.state.tx.us/results.html",
    "status": "ok",
-   "updated_at": "2026-11-18T09:19:11.626194+00:00",
+   "updated_at": "2026-11-18T18:16:44.553007+00:00",
    "races": 295,
    "note": "295 场竞选"
   },
@@ -41019,7 +41019,7 @@
    "agency": "弗吉尼亚州选举委员会",
    "url": "https://enr.elections.virginia.gov/results/public/api/elections/virginia/2026-November-General/data",
    "status": "ok",
-   "updated_at": "2026-11-18T09:19:38.701597+00:00",
+   "updated_at": "2026-11-18T18:17:09.977768+00:00",
    "races": 32,
    "note": "32 场竞选"
   },
@@ -41034,7 +41034,7 @@
    "agency": "华盛顿州州务卿",
    "url": "https://results.votewa.gov/results/public/api/elections/washington/20261103/data",
    "status": "ok",
-   "updated_at": "2026-11-18T09:19:39.262182+00:00",
+   "updated_at": "2026-11-18T18:17:10.736447+00:00",
    "races": 173,
    "note": "173 场竞选"
   },
